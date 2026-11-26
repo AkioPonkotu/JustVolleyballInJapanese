@@ -4,10 +4,10 @@
   "game_build_id": "26937150",
   "original_pck_sha256": "f72ea5884cfab90be24ba35e83693325e1e0f75d4d767de53a627f5f6f68d583",
   "original_exe_sha256": "224a5ea56536081b84369a0e90590a688a8510fefcc24ab84af1a31b3e052435",
-  "catalog_entries": 2436,
-  "unique_messages": 2233,
+  "catalog_entries": 2443,
+  "unique_messages": 2240,
   "message_context_counts": {
-    "default": 1686,
+    "default": 1693,
     "titles": 547
   },
   "guide_display_fields": 203,
@@ -347,9 +347,9 @@
     {
       "path": "jvja/messages.json",
       "mode": "add",
-      "result_sha256": "4cb9eb22400b611f359c8cce7a1aeba06bfd4ea59a664a9bd5729b31cfcdfe77",
+      "result_sha256": "31c1408e0fe477b5d3158ca58ccee8b33c84a27b7bc01e6003d9ed63c4a8c620",
       "payload": "payload/a45272f1b4a0ddae.bin",
-      "payload_sha256": "4cb9eb22400b611f359c8cce7a1aeba06bfd4ea59a664a9bd5729b31cfcdfe77"
+      "payload_sha256": "31c1408e0fe477b5d3158ca58ccee8b33c84a27b7bc01e6003d9ed63c4a8c620"
     }
   ]
 }

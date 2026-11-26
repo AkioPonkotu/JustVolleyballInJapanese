@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-27",
+  "checks": {
+    "catalog_validation": "passed",
+    "unit_tests": 22,
+    "snapshot_source_and_payload_hashes": "passed",
+    "all_binary_delta_roundtrips": "passed",
+    "font_coverage": "passed for both bundled Japanese font weights",
+    "stage_translations": {
+      "Nationals Arena": "全国大会会場",
+      "School Gym": "学校の体育館",
+      "Grass Court": "芝生コート",
+      "Beach": "ビーチ",
+      "Tutorial": "チュートリアル",
+      "Clouds": "雲の上",
+      "Outer Space": "宇宙空間"
+    },
+    "stage_translation_status": "all draft"
+  },
+  "game_installation_modified": false,
+  "install_restore_validation": "not run; game is running",
+  "visual_validation": "not run"
+}
