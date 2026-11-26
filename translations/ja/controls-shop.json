@@ -1,0 +1,355 @@
+{
+  "schema_version": 1,
+  "locale": "ja",
+  "domain": "controls-shop",
+  "entries": {
+    "controls-shop.4b6bad1ea4905ab0": {
+      "source": "move up",
+      "ja": "前へ移動",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.08bc837a975bebb2": {
+      "source": "move down",
+      "ja": "後ろへ移動",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.c796ae411733d160": {
+      "source": "move left",
+      "ja": "左へ移動",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.304c10a9874d32b2": {
+      "source": "move right",
+      "ja": "右へ移動",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.0750c814663fe0f7": {
+      "source": "hit / receive",
+      "ja": "打つ・レシーブ",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.10c19802a3b29cec": {
+      "source": "aim assist / recenter",
+      "ja": "エイムアシスト・照準を戻す",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.7a0ee5acd28ac5f1": {
+      "source": "cycle camera",
+      "ja": "カメラを切り替え",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.af14e9b9928dc7a1": {
+      "source": "camera: dynamic",
+      "ja": "カメラ：ダイナミック",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.398cb14493d386af": {
+      "source": "camera: broadcast",
+      "ja": "カメラ：中継",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.6e1968ed63980aba": {
+      "source": "camera: static",
+      "ja": "カメラ：固定",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.6697cc107e0dd455": {
+      "source": "camera: action",
+      "ja": "カメラ：アクション",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.6d94dbe53c194f02": {
+      "source": "action cam: shoulder",
+      "ja": "アクションカメラ：肩越し",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.d9b6a00b340168cc": {
+      "source": "free mouse",
+      "ja": "マウス操作を解放",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.0e2a58cbed860123": {
+      "source": "unbound",
+      "ja": "未割り当て",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.47c331fa6b3336db": {
+      "source": "i got it!",
+      "ja": "任せて！",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.be7e08152c8d1556": {
+      "source": "sorry!",
+      "ja": "ごめん！",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.aa9b302b76f3a34f": {
+      "source": "don't mind!",
+      "ja": "ドンマイ！",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.3cd8c0df0552d21d": {
+      "source": "thanks!",
+      "ja": "ありがとう！",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.3f826d4441189308": {
+      "source": "quick!",
+      "ja": "クイック！",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.6b07cf344f443620": {
+      "source": "high!",
+      "ja": "高く！",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.684b24829fd20962": {
+      "source": "high five!",
+      "ja": "ハイタッチ！",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.6b60a288f721aae2": {
+      "source": "mouse %d",
+      "ja": "マウス%d",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.aec016e2aa3f2ebb": {
+      "source": "button %d",
+      "ja": "ボタン%d",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.a87a5b08fbaf9b7e": {
+      "source": "axis %d",
+      "ja": "軸%d",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.b4fe1506cae142f6": {
+      "source": "A / cross",
+      "ja": "A / ×",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.fe4105a7ae9ab1d8": {
+      "source": "B / circle",
+      "ja": "B / ○",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.0c9ec092df0afed6": {
+      "source": "X / square",
+      "ja": "X / □",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.480f268b5856a22b": {
+      "source": "Y / triangle",
+      "ja": "Y / △",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.b1a36d25d9633ed2": {
+      "source": "select",
+      "ja": "Select",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.9c124a143c8023e1": {
+      "source": "dpad up",
+      "ja": "十字キー上",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.e06a11f37f787d8a": {
+      "source": "dpad down",
+      "ja": "十字キー下",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.22dff4c4c8a203e8": {
+      "source": "dpad left",
+      "ja": "十字キー左",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.dd3f42a2123c4ba6": {
+      "source": "dpad right",
+      "ja": "十字キー右",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.b6dcc0b938e3a4ef": {
+      "source": "L-stick x",
+      "ja": "左スティック横",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.e8dd839f950ab6e3": {
+      "source": "L-stick y",
+      "ja": "左スティック縦",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.72f805fc19b2eb03": {
+      "source": "R-stick x",
+      "ja": "右スティック横",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.13f626c6a52001e6": {
+      "source": "R-stick y",
+      "ja": "右スティック縦",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.7be4f4eb4d438813": {
+      "source": "showing: gym",
+      "ja": "表示中：体操着",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.6b6806b6c8c96d65": {
+      "source": "sort: default",
+      "ja": "並び順：標準",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.e53ada2f9f24aa5e": {
+      "source": "price: low",
+      "ja": "価格が低い順",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.8e4f5597a0e803d6": {
+      "source": "price: high",
+      "ja": "価格が高い順",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.1ffbe9ae33cf2a53": {
+      "source": "not owned",
+      "ja": "未所持",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.a1fa6faca74a0616": {
+      "source": "showing: uniform",
+      "ja": "表示中：ユニフォーム",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.db579d82d2cc3fc4": {
+      "source": "new gear and cosmetics",
+      "ja": "新しい用具とカスタマイズ用品",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.06e75e24c0d5aaa4": {
+      "source": "pick an item",
+      "ja": "アイテムを選択",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.57b28e8a1797a6c3": {
+      "source": "nothing here matches \"%s\"",
+      "ja": "「%s」に一致するアイテムはありません",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.38889f04ad3d62eb": {
+      "source": "nothing here matches the filter",
+      "ja": "条件に一致するアイテムはありません",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.a110f4447221c83b": {
+      "source": "nothing here yet",
+      "ja": "まだアイテムがありません",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.61ec2f69e9e5d3d0": {
+      "source": "%s effect",
+      "ja": "%s エフェクト",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.b85843cac714d75f": {
+      "source": "earn it",
+      "ja": "条件を達成して入手",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.cdc23fd4ae2cb888": {
+      "source": "buy  ",
+      "ja": "購入  ",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.d00d5b627bb9c3ed": {
+      "source": "an achievement",
+      "ja": "実績",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.098bdea198762bb0": {
+      "source": "back to locker",
+      "ja": "ロッカーに戻る",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.d70f6838cce70ead": {
+      "source": "rookie",
+      "ja": "ルーキー",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.8dd9ed10798ded82": {
+      "source": "amateur",
+      "ja": "アマチュア",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.f42133384b7ff3fc": {
+      "source": "semi-pro",
+      "ja": "セミプロ",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.3a7aba3fbbd99fe9": {
+      "source": "all-star",
+      "ja": "オールスター",
+      "status": "draft",
+      "note": ""
+    },
+    "controls-shop.400464e9e99bb03f": {
+      "source": "national",
+      "ja": "ナショナル",
+      "status": "draft",
+      "note": ""
+    }
+  }
+}
