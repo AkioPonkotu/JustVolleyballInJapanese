@@ -128,10 +128,12 @@ def draw_poster(c):
         def poly(coords, **kwargs):
             c.create_polygon(points(coords), **kwargs)
 
-        poly([-78, -100, 83, -100, 83, 110, -78, 110], fill=INK,
+        shape = [-65, -106, 60, -106, 78, -106, 78, -88,
+                 78, 86, 78, 104, 60, 104, -65, 104,
+                 -83, 104, -83, 86, -83, -88, -83, -106]
+        poly([value+5 for value in shape], fill=INK, smooth=True, splinesteps=20)
+        poly(shape, fill=color, outline=INK, width=2,
              smooth=True, splinesteps=20)
-        poly([-83, -106, 78, -106, 78, 104, -83, 104], fill=color,
-             outline=INK, width=2, smooth=True, splinesteps=20)
         for line in ([-80, 38, 76, 38], [-80, 68, 76, 68], [0, -103, 0, 68]):
             c.create_line(points(line), fill=WHITE, width=2)
         poly([-80, 69, 75, 69, 72, 97, -77, 97], fill=WHITE)
