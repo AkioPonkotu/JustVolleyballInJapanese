@@ -69,5 +69,5 @@ jobs:
           RELEASE_TAG: build-${{ github.run_number }}-${{ github.run_attempt }}
           RELEASE_COMMIT: ${{ github.sha }}
         run: |
-          gh release create $env:RELEASE_TAG ./dist/ci/JustVolleyballJA.exe --target $env:RELEASE_COMMIT --title "just volleyball 日本語化パッチ ($env:RELEASE_TAG)" --notes-file docs/patch-user-guide.md --latest
+          gh release create $env:RELEASE_TAG ./dist/ci/JustVolleyballJA.exe --target $env:RELEASE_COMMIT --title "just volleyball 日本語化パッチ ($env:RELEASE_TAG)" --latest
           if ($LASTEXITCODE -ne 0) { throw 'GitHub Release publication failed' }
