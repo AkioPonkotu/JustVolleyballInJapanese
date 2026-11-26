@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-26",
+  "tools": [
+    {
+      "name": "gore",
+      "version": "0.5.0",
+      "url": "https://github.com/figurophobia/gore/releases/download/v0.5.0/windows-x86_64.zip",
+      "sha256": "174d29f2c726e619dc26b1b34fc4980e99e471ec68c0c15d9d03fb0bdffb1d16",
+      "digest_verified": true
+    },
+    {
+      "name": "GDRE Tools",
+      "version": "2.7.4",
+      "url": "https://github.com/GDRETools/gdsdecomp/releases/download/v2.7.4/GDRE_tools-v2.7.4-windows.zip",
+      "sha256": "af24c563eee501effb194d83595de64696c32547b2246034dbfb891a24bfa0ad",
+      "digest_verified": true
+    },
+    {"name": "fontTools", "version": "4.69.1"}
+  ],
+  "extraction": {
+    "written": 13778,
+    "decrypted": 13778,
+    "skipped": 0,
+    "checksum_errors_reported": 0
+  },
+  "recovery": {
+    "decompiled_scripts": 293,
+    "scripts_not_decompiled": 0,
+    "imported_resources": 6812,
+    "successfully_converted": 6811,
+    "failed_conversions": 1,
+    "lossy_conversions": 281,
+    "non_importable_conversions": 171,
+    "failed_resource": "res://game/stage/nationals/banner.blend",
+    "failure": "Missing dependency res://game/stage/nationals/textures/CourtsideSeat_D.png",
+    "detected_engine_version": "4.5.0",
+    "detected_bytecode": "4.5.0-stable (ebc36a7)",
+    "version_caveat": "Executable and PCK header report 4.7.1; recovered project features report 4.7. No re-export or runtime validation performed."
+  }
+}
