@@ -79,15 +79,26 @@ def main():
                 unchanged_count += 1
         for item in manifest['files']:
             assert sha256(patched.read(item['path'])) == item['result_sha256'], item['path']
-        # Reinstall, tampered PCK, and an updated EXE must all fail without losing backup.
-        run('--install', succeeds=False)
+        # Reinstall automatically restores the original before applying the patch.
+        run('--install')
+        data = (scratch / 'volleyball.pck').read_bytes()
+        assert sha256((scratch / 'volleyball.pck.ja-backup').read_bytes()) == sha256(original)
+        state = json.loads((scratch / 'volleyball-ja-receipt.json').read_text(encoding='utf-8'))
+        assert state['patched_sha256'] == sha256(data)
+        # Tampered PCK and an updated EXE must fail without losing the backup.
         altered = bytearray(data)
         altered[-1] ^= 1
         (scratch / 'volleyball.pck').write_bytes(altered)
+        run('--install', succeeds=False)
         run('--restore', succeeds=False)
+        assert (scratch / 'volleyball.pck').read_bytes() == altered
+        assert (scratch / 'volleyball.pck.ja-backup').read_bytes() == original
         (scratch / 'volleyball.pck').write_bytes(data)
         (scratch / 'volleyball.exe').write_bytes(exe + b'updated')
+        run('--install', succeeds=False)
         run('--restore', succeeds=False)
+        assert (scratch / 'volleyball.pck').read_bytes() == data
+        assert (scratch / 'volleyball.pck.ja-backup').read_bytes() == original
         (scratch / 'volleyball.exe').write_bytes(exe)
         run('--restore')
         assert (scratch / 'volleyball.pck').read_bytes() == original
@@ -103,7 +114,9 @@ def main():
         'standalone_exe_without_external_patch_files': 'passed',
         'japanese_package_path_and_different_working_directory': 'passed',
         'unsupported_build_install_rejection': 'passed',
-        'reinstall_rejection': 'passed', 'tampered_pck_restore_rejection': 'passed',
+        'automatic_restore_and_reinstall': 'passed',
+        'tampered_pck_reinstall_rejection': 'passed', 'updated_exe_reinstall_rejection': 'passed',
+        'tampered_pck_restore_rejection': 'passed',
         'updated_exe_restore_rejection': 'passed', 'unchanged_original_resource_entries': unchanged_count,
         'changed_resource_hashes': 'all verified', 'installed_game_modified': False,
         'release_exe_sha256': sha256(args.exe.read_bytes())

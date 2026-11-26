@@ -48,6 +48,22 @@ def prepare(game, package):
     return manifest, pack, replacements
 
 
+def restore_original(game):
+    live = game / 'volleyball.pck'
+    backup = game / 'volleyball.pck.ja-backup'
+    receipt = game / 'volleyball-ja-receipt.json'
+    if not backup.is_file() or not receipt.is_file():
+        raise ValueError('Patch backup or receipt is missing; cannot safely restore the original game')
+    state = json.loads(receipt.read_text(encoding='utf-8'))
+    if (sha256(live.read_bytes()) != state['patched_sha256']
+            or sha256(backup.read_bytes()) != state['original_sha256']
+            or sha256((game / 'volleyball.exe').read_bytes()) != state['exe_sha256']):
+        raise ValueError('Game was updated or changed; refusing to restore an old build')
+    os.replace(backup, live)
+    receipt.unlink()
+    print('Original PCK restored.')
+
+
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--game-dir', type=Path, required=True)
@@ -63,19 +79,12 @@ def main(argv=None):
     receipt = game / 'volleyball-ja-receipt.json'
     if args.restore:
         game_not_running()
-        state = json.loads(receipt.read_text(encoding='utf-8'))
-        if (sha256(live.read_bytes()) != state['patched_sha256']
-                or sha256(backup.read_bytes()) != state['original_sha256']
-                or sha256((game / 'volleyball.exe').read_bytes()) != state['exe_sha256']):
-            raise ValueError('Game was updated or changed; refusing to restore an old build')
-        os.replace(backup, live)
-        receipt.unlink()
-        print('Original PCK restored.')
+        restore_original(game)
         return
     if args.install:
         game_not_running()
         if backup.exists() or receipt.exists():
-            raise ValueError('Backup/receipt already exists. Restore before applying a new patch.')
+            restore_original(game)
     manifest, pack, replacements = prepare(game, args.package)
     output = args.output.resolve() if args.output else game / 'volleyball.pck.ja-tmp'
     if output in {live, backup} or output.exists():
