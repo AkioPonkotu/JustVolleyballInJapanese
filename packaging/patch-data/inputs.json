@@ -1,0 +1,20 @@
+{
+  "assets/fonts/JVVolleyballJP-ExtraBold.ttf": "4fd931df626e737e9c6a2494bda39128404e24d79dac04f92c0300d785969f24",
+  "assets/fonts/JVVolleyballJP-SemiBold.ttf": "d9ba4635002d8c57118888e5892bec61e5d583df51edf606cb6e691727df00a2",
+  "assets/fonts/NotoSansJP.ttf": "f4b373b226668ee33a6e54b02823dcd2d1209f17159f777421ae8c2275160369",
+  "mod/bootstrap.gd": "ec47816ad27d3220c2d16cabfc4a959566ce695edd4a466acb008c4152139c3e",
+  "mod/menu_layout.gd": "24f29f7ee92b163da22eb66b5eae711b0edbed49a1c9998916ae585e798128a1",
+  "tools/build_patch.py": "d9aa40d09ffce41f440f36f9eda890f99b283e3b0a5e80df095d21a7b975a9f5",
+  "tools/catalog.py": "675b3260df74995db18e48571da16982d73298373186dfe8828a97f5e4ec89a2",
+  "translations/ja/achievements.json": "56597c0d6b730264475aaea81a0ea0861b7a288ccf05580674902733b0f7fd3b",
+  "translations/ja/character.json": "866295d7b8a18b87d7fc4745fb9392d5dacfb3fee80fc21902b40a19f62b42f5",
+  "translations/ja/controls-shop.json": "b8784c1b5edcaa85dbd5a6551f95b4f4aeeb51f4b6572da5ee038686fbc950d4",
+  "translations/ja/drills.json": "94478948d6244d9b1903185cf1eacf38d657bed535a8e7ba4e29adbc7c97e2e1",
+  "translations/ja/howto.json": "f74d9cc46de01ecdce93f2a2e837a7c86a1885f4f7b10449180e53c6b5870d35",
+  "translations/ja/panels.json": "f244b9c8f3266db05526d3abaafecca4ef703826464dd6e9645978f22b770c8c",
+  "translations/ja/replay.json": "832b1a64182034f304e9dce65dcac5fa0bc3f2150a833310e76540b0e216053e",
+  "translations/ja/settings.json": "dc15e50a35eb23eda358c8db369e8a53415652e927dc9644619f87378dde7366",
+  "translations/ja/titles.json": "1795518d9b434ea5282b94c5adc6b1f0a125acdeb6f5abd18688b3ec19e8aae9",
+  "translations/ja/tutorial.json": "55754c6a7592f3c783030382481b10f7cfdf6b0f4b6caeacfd182a3c56099f8a",
+  "translations/ja/ui.json": "bc189dc1c7528a592289aa43c6dac3688e8c99bbabdbc6d1ba8c80802e8e6b37"
+}

@@ -1,0 +1,7 @@
+# Local tools, recovered game files and generated mod packages
+/.local/
+/work/
+/dist/
+*.log
+__pycache__/
+*.pyc

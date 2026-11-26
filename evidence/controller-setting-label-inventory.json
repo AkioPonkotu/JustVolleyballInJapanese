@@ -1,0 +1,294 @@
+{
+  "date": "2026-11-27",
+  "scope": "All labels in CfgPanel._build_settings_list, including four loop-generated meter labels and conditionally visible rows. Static callsite and current/installed dictionary inspection.",
+  "count": 30,
+  "labels": [
+    {
+      "source": "stick sens",
+      "ja": "スティック感度",
+      "installed_ja": "スティック感度",
+      "line": 1327,
+      "catalog_ids": [
+        "panels.07eeeb9c438c0f05"
+      ]
+    },
+    {
+      "source": "mouse sens",
+      "ja": "マウス感度",
+      "installed_ja": "マウス感度",
+      "line": 1331,
+      "catalog_ids": [
+        "panels.37d16618157ee9c0"
+      ]
+    },
+    {
+      "source": "invert x axis",
+      "ja": "横方向を反転",
+      "installed_ja": "横方向を反転",
+      "line": 1334,
+      "catalog_ids": [
+        "settings.06520460b4e1efaa"
+      ]
+    },
+    {
+      "source": "invert y axis",
+      "ja": "縦方向を反転",
+      "installed_ja": "縦方向を反転",
+      "line": 1335,
+      "catalog_ids": [
+        "settings.212e12342b51b603"
+      ]
+    },
+    {
+      "source": "aim assist",
+      "ja": "エイムアシスト",
+      "installed_ja": "エイムアシスト",
+      "line": 1336,
+      "catalog_ids": [
+        "howto.768b6545b884e511",
+        "panels.17e1ce6cfc5591fb"
+      ]
+    },
+    {
+      "source": "set assist",
+      "ja": "トスアシスト",
+      "installed_ja": "トスアシスト",
+      "line": 1337,
+      "catalog_ids": [
+        "howto.c678d694a0a59fb3",
+        "settings.721b3c7f9d39703c"
+      ]
+    },
+    {
+      "source": "auto fire sets",
+      "ja": "押し続けてトス",
+      "installed_ja": "押し続けてトス",
+      "line": 1338,
+      "catalog_ids": [
+        "settings.e6a754e9945f35dd"
+      ]
+    },
+    {
+      "source": "dump hold",
+      "ja": "ツーアタックの長押し時間",
+      "installed_ja": "ツーアタックの長押し時間",
+      "line": 1339,
+      "catalog_ids": [
+        "settings.0fd29c41a9f14950"
+      ]
+    },
+    {
+      "source": "sprint",
+      "ja": "ダッシュ",
+      "installed_ja": "ダッシュ",
+      "line": 1341,
+      "catalog_ids": [
+        "ui.fb9afa84739c3239"
+      ]
+    },
+    {
+      "source": "double-tap sprint",
+      "ja": "2回押しでダッシュ",
+      "installed_ja": "2回押しでダッシュ",
+      "line": 1343,
+      "catalog_ids": [
+        "settings.fb235e98919338d1"
+      ]
+    },
+    {
+      "source": "rumble",
+      "ja": "振動",
+      "installed_ja": "振動",
+      "line": 1345,
+      "catalog_ids": [
+        "ui.a0a6df0d44c07c5b"
+      ]
+    },
+    {
+      "source": "camera shake",
+      "ja": "カメラの揺れ",
+      "installed_ja": "カメラの揺れ",
+      "line": 1347,
+      "catalog_ids": [
+        "settings.becb86a4bf50a3fc"
+      ]
+    },
+    {
+      "source": "dynamic fov",
+      "ja": "動的な視野角",
+      "installed_ja": "動的な視野角",
+      "line": 1354,
+      "catalog_ids": [
+        "settings.e029e40e4ad00d4c"
+      ]
+    },
+    {
+      "source": "auto zoom",
+      "ja": "自動ズーム",
+      "installed_ja": "自動ズーム",
+      "line": 1355,
+      "catalog_ids": [
+        "panels.84619894021a13ed"
+      ]
+    },
+    {
+      "source": "dynamic focus",
+      "ja": "動的な注視点",
+      "installed_ja": "動的な注視点",
+      "line": 1356,
+      "catalog_ids": [
+        "panels.119e65d889c9749b"
+      ]
+    },
+    {
+      "source": "action camera",
+      "ja": "アクションカメラ",
+      "installed_ja": "アクションカメラ",
+      "line": 1359,
+      "catalog_ids": [
+        "settings.9230b63461c2cba6"
+      ]
+    },
+    {
+      "source": "reach marker",
+      "ja": "届く範囲の目印",
+      "installed_ja": "届く範囲の目印",
+      "line": 1362,
+      "catalog_ids": [
+        "howto.10a12dd7df45dd2a",
+        "settings.1681f1787de65aa9"
+      ]
+    },
+    {
+      "source": "charge meters",
+      "ja": "ためゲージ",
+      "installed_ja": "ためゲージ",
+      "line": 1365,
+      "catalog_ids": [
+        "settings.01a951d358b05910"
+      ]
+    },
+    {
+      "source": "spike meter",
+      "ja": "スパイクのためゲージ",
+      "installed_ja": "スパイクのためゲージ",
+      "line": 1368,
+      "catalog_ids": [
+        "settings.76f34bf7755d0170"
+      ]
+    },
+    {
+      "source": "set meter",
+      "ja": "トスのためゲージ",
+      "installed_ja": "トスのためゲージ",
+      "line": 1368,
+      "catalog_ids": [
+        "settings.645b51377137df60"
+      ]
+    },
+    {
+      "source": "serve meter",
+      "ja": "サーブのためゲージ",
+      "installed_ja": "サーブのためゲージ",
+      "line": 1369,
+      "catalog_ids": [
+        "settings.a9374ed28bfec395"
+      ]
+    },
+    {
+      "source": "jump meter",
+      "ja": "ジャンプのためゲージ",
+      "installed_ja": "ジャンプのためゲージ",
+      "line": 1369,
+      "catalog_ids": [
+        "settings.a658dfd6a21825eb"
+      ]
+    },
+    {
+      "source": "control hints",
+      "ja": "操作ヒント",
+      "installed_ja": "操作ヒント",
+      "line": 1376,
+      "catalog_ids": [
+        "settings.e520c45b2b7b9c20"
+      ]
+    },
+    {
+      "source": "your own name",
+      "ja": "自分の名前",
+      "installed_ja": "自分の名前",
+      "line": 1377,
+      "catalog_ids": [
+        "panels.f7d666e368a022f3"
+      ]
+    },
+    {
+      "source": "names in rallies",
+      "ja": "ラリー中の名前",
+      "installed_ja": "ラリー中の名前",
+      "line": 1378,
+      "catalog_ids": [
+        "panels.2cc6efe1073eb9b9"
+      ]
+    },
+    {
+      "source": "titles in rallies",
+      "ja": "ラリー中の称号",
+      "installed_ja": "ラリー中の称号",
+      "line": 1380,
+      "catalog_ids": [
+        "panels.aaa8cb88ae5b26b0"
+      ]
+    },
+    {
+      "source": "crosshair",
+      "ja": "照準",
+      "installed_ja": "照準",
+      "line": 1384,
+      "catalog_ids": [
+        "settings.5cd8054740cc2fd9"
+      ]
+    },
+    {
+      "source": "crosshair colour",
+      "ja": "照準の色",
+      "installed_ja": "照準の色",
+      "line": 1387,
+      "catalog_ids": [
+        "panels.a9a8a2142e42975b"
+      ]
+    },
+    {
+      "source": "crosshair size",
+      "ja": "照準の大きさ",
+      "installed_ja": "照準の大きさ",
+      "line": 1395,
+      "catalog_ids": [
+        "panels.52b4177e347701ef"
+      ]
+    },
+    {
+      "source": "floor ring",
+      "ja": "床の照準リング",
+      "installed_ja": "床の照準リング",
+      "line": 1398,
+      "catalog_ids": [
+        "settings.f6ee7d0cfe8e03bd"
+      ]
+    }
+  ],
+  "fix": "Translate label before composition in both _value_row initial display and text_fn; preserve formatted numeric values.",
+  "conditions": {
+    "mouse sens": "index == 0 or slot.device == DeviceInput.KBM",
+    "double-tap sprint": "index == 0 or slot.device == DeviceInput.KBM",
+    "rumble": "index == 0 or slot.device != DeviceInput.KBM",
+    "titles in rallies": "TITLES.enabled()",
+    "crosshair": "not Crosshair.SHAPES.is_empty()"
+  },
+  "numeric_values_to_preserve": [
+    "stick sens: %.2fx",
+    "mouse sens: %.2fx",
+    "dump hold: %.2f s",
+    "crosshair size: %.0fx"
+  ]
+}

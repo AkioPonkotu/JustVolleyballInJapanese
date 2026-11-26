@@ -1,0 +1,511 @@
+{
+  "schema_version": 1,
+  "locale": "ja",
+  "domain": "tutorial",
+  "entries": {
+    "tutorial.8c46475696903ae6": {
+      "source": "let's learn the basics of just volleyball!",
+      "ja": "just volleyballの基本を覚えよう！",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.c4c9927ecb5324ac": {
+      "source": "this game is cursor based, so every touch goes where you're aiming, whether you're bumping, setting, spiking, or blocking",
+      "ja": "このゲームはカーソルで狙ってプレイします。レシーブ、トス、スパイク、ブロックのどれでも、ボールの行き先は照準に影響されます。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.40e3652d093a7ce0": {
+      "source": "your basic controls are {contact} to bump, {set} to set, {dive} to dive, and {block} to block",
+      "ja": "基本操作は、{contact} でレシーブ、{set} でトス、{dive} でダイブ、{block} でブロックです。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.983438bbc91f3081": {
+      "source": "jumping is {jump}, you need to jump in order to spike and block",
+      "ja": "{jump} でジャンプします。スパイクやブロックをするには、まずジャンプしましょう。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.fd0658c75fa1a3f5": {
+      "source": "the main goal of volleyball is to send the ball over the net and land it on the opponent's floor, while stopping them from doing the same to you",
+      "ja": "ネットを越して相手コートにボールを落とし、自分のコートには落とさせない。それがバレーボールの目標です。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.a637996908ea3334": {
+      "source": "movement",
+      "ja": "移動操作",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.ac376939ba302202": {
+      "source": "strafing",
+      "ja": "ストレイフ",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.da7efaf6535bfaf6": {
+      "source": "jumping",
+      "ja": "ジャンプ",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.ee465c0d0bcda0a7": {
+      "source": "bumping",
+      "ja": "レシーブ",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.49674618a290b8b3": {
+      "source": "diving",
+      "ja": "ダイブ",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.ec72b9566a9c3501": {
+      "source": "setting",
+      "ja": "トス",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.489232f610db338d": {
+      "source": "spiking",
+      "ja": "スパイク",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.5a9cf40c7b2a1649": {
+      "source": "blocking",
+      "ja": "ブロック",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.4dc69fae4535aa42": {
+      "source": "serving",
+      "ja": "サーブ",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.afd5c5ae5738e275": {
+      "source": "rally",
+      "ja": "ラリー",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.f177654eeac28143": {
+      "source": "move  {move}   sprint  {sprint}",
+      "ja": "移動  {move}   ダッシュ  {sprint}",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.6f878e4ff49cfca2": {
+      "source": "sprinting uses stamina",
+      "ja": "ダッシュはスタミナを消費します",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.afe96c06c8d776e0": {
+      "source": "you can sprint with {sprint}! on keyboard, you can also double-tap a direction to start sprinting",
+      "ja": "{sprint} でダッシュできます！キーボードなら、移動キーを2回押してもダッシュできます。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.9073aef248503baa": {
+      "source": "sprinting drains your stamina bar, so it's important to keep an eye on it!",
+      "ja": "ダッシュ中はスタミナが減ります。ゲージを確認しながら使いましょう！",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.072cc9125fe0a078": {
+      "source": "make your way to each marker!",
+      "ja": "それぞれの目印まで移動してみよう！",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.5af325ecb09c306c": {
+      "source": "camera  {camera_toggle}   zoom  {camera_zoom}",
+      "ja": "カメラ  {camera_toggle}   ズーム  {camera_zoom}",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.764304385e4f9f5e": {
+      "source": "change camera",
+      "ja": "カメラ切り替え",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.74792c1f2cb8ac87": {
+      "source": "you can press {camera_toggle} to change your camera mode, and {camera_zoom} to switch zoom distance! alternatively, if you're on mouse you can simply scroll in and out",
+      "ja": "{camera_toggle} でカメラを切り替え、{camera_zoom} でズームを変更できます！マウスならホイールでもズームできます。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.d21aa1387e04faa5": {
+      "source": "strafe  {strafe}   hold",
+      "ja": "ストレイフ  {strafe}   長押し",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.6e17a404d5d35992": {
+      "source": "hold strafe",
+      "ja": "ストレイフを長押し",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.ee80017edac2d1a4": {
+      "source": "try keeping your cursor on the ground, inside the ring around your teammate, while strafing around!",
+      "ja": "ストレイフしながら、味方の周りのリング内の床にカーソルを合わせ続けてみよう！",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.fe19024663d8c985": {
+      "source": "by holding down {strafe}, your character will always face towards your cursor! strafing is also good for canceling momentum",
+      "ja": "{strafe} を押し続けると、キャラクターが常にカーソルの方を向きます！ストレイフは慣性を消すときにも役立ちます。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.9689c49068f0c830": {
+      "source": "jump  {jump}   hold to charge",
+      "ja": "ジャンプ  {jump}   長押しでためる",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.425b45bdcaa30196": {
+      "source": "starting on each marker, jump through the hoop!",
+      "ja": "それぞれの目印からジャンプして、輪をくぐろう！",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.caefbc8f6d352682": {
+      "source": "by pressing {jump}, you can jump! you can charge it to jump even higher",
+      "ja": "{jump} でジャンプできます！長押しでためると、さらに高く跳べます。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.ff1dc52e8caf2759": {
+      "source": "practice some jumps by going through these hoops!",
+      "ja": "輪をくぐって、ジャンプを練習しよう！",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.629fc12cfee68fba": {
+      "source": "bump  {contact}",
+      "ja": "レシーブ  {contact}",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.a9e044a19539377a": {
+      "source": "aim at your teammate",
+      "ja": "味方を狙う",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.e9715dd1990e73ac": {
+      "source": "try getting some bumps to your teammate!",
+      "ja": "味方にレシーブを返してみよう！",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.1c1f041fc835e18b": {
+      "source": "bumping is usually the first touch, and all bumps go towards where your cursor is!",
+      "ja": "レシーブは通常、最初のタッチです。ボールはカーソルで狙った方向へ飛びます！",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.58271ccfe4475acf": {
+      "source": "there are three ways to bump the ball:",
+      "ja": "レシーブの操作方法は3つあります。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.97efcd26aab141fc": {
+      "source": "once you're in range, press {contact} and your character will queue the bump for you",
+      "ja": "届く範囲に入ってから {contact} を押すと、レシーブを予約できます。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.e4d371dcb3312017": {
+      "source": "or, you can hold {contact} as you stand in the proper position, which is recommended when playing on higher ping online",
+      "ja": "適切な位置で {contact} を押し続けても受けられます。オンラインで通信の遅延が大きいときにおすすめです。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.4bf3b801a0df36c2": {
+      "source": "lastly, you can simply time it and press {contact} once the ball is in range",
+      "ja": "また、ボールが届く範囲に来た瞬間に、タイミングを合わせて {contact} を押す方法もあります。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.6dc1cd5b70293f4b": {
+      "source": "dive  {dive}   on the ground",
+      "ja": "ダイブ  {dive}   地上で操作",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.b837af5ff1f6347e": {
+      "source": "dive for the ball and get it to your teammate!",
+      "ja": "ボールにダイブして、味方へ返そう！",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.afa67f95195d19ef": {
+      "source": "there'll be times you won't be able to reach the ball by running, so you'll have to press {dive} to dive instead!",
+      "ja": "走るだけではボールに届かないときは、{dive} でダイブしましょう！",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.8d9a9889e2f41fd8": {
+      "source": "you'll dive towards where the ball lands, but your cursor still aims where you bump it",
+      "ja": "ダイブはボールの落下地点へ自動で向かいます。カーソルでは、レシーブの送り先を狙ってください。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.77428f8307467da4": {
+      "source": "diving uses stamina too! if your bar is low, your dives get weaker and shorter",
+      "ja": "ダイブもスタミナを消費します！スタミナが少ないと、勢いや飛距離が落ちます。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.9cee3237edb1af44": {
+      "source": "set  {set}",
+      "ja": "トス  {set}",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.ef6b9e20f605f1df": {
+      "source": "aim at your spiker",
+      "ja": "アタッカーを狙う",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.62eb4929a3140083": {
+      "source": "set the ball up to your teammate!",
+      "ja": "味方にトスを上げよう！",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.65cee1332b013204": {
+      "source": "pressing {set} will set the ball, letting you set up spikes for your attacks with better precision",
+      "ja": "{set} でトスを上げ、味方がスパイクしやすいように、より正確にボールを送れます。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.91b1a9f065136060": {
+      "source": "the set goes exactly where you aim, so put your cursor right where you want the ball to land",
+      "ja": "トスは狙った場所へ正確に届きます。ボールを落としたい場所にカーソルを合わせましょう。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.16fa459b8ad1beff": {
+      "source": "spike  {contact} in the air   hold to charge",
+      "ja": "スパイク  空中で {contact}   長押しでためる",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.38348c66517279a8": {
+      "source": "practice hitting spikes across the net!",
+      "ja": "ネットを越すスパイクを練習しよう！",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.5bc976fc5b794829": {
+      "source": "while airborne, you can hold down {contact} to charge a spike! how long you charge it, and the height of your contact point, will vary the type of spike you get",
+      "ja": "空中で {contact} を長押しすると、スパイクをためられます！ためた時間や打点の高さによって、スパイクが変化します。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.01889cf0fd8aa440": {
+      "source": "your teammate will set for you, so aim your cursor where you want the ball to land",
+      "ja": "味方がトスを上げてくれます。ボールを落としたい場所にカーソルを合わせましょう。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.0f6e34854e3ba66b": {
+      "source": "bump  {contact}     then jump {jump} and spike {contact}",
+      "ja": "レシーブ  {contact}     次にジャンプ {jump} とスパイク {contact}",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.b0a14ee75518c9e0": {
+      "source": "let's practice it all together!",
+      "ja": "ここまでの操作をつなげてみよう！",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.22e4db6412a7c2d3": {
+      "source": "now you can understand the essence of just volleyball, rallies! a bump, into a set, into a spike!",
+      "ja": "just volleyballの醍醐味、ラリーに挑戦しましょう！レシーブからトス、そしてスパイクです！",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.a9c39dd1f6b57200": {
+      "source": "by building up these three touches, a combo will build, resulting in more powerful spikes!",
+      "ja": "3回のタッチをつなぐとコンボがたまり、スパイクがさらに強くなります！",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.e42bc5b4e94c7dc6": {
+      "source": "block  {block} in the air",
+      "ja": "ブロック  空中で {block}",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.812d05d2b43338df": {
+      "source": "block in the air",
+      "ja": "空中でブロック",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.f7ade6553e9bff8a": {
+      "source": "aim the angle",
+      "ja": "角度を狙う",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.d176d924d9717dad": {
+      "source": "watch the hitter and block their spike!",
+      "ja": "アタッカーを見て、スパイクをブロックしよう！",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.d4c46dc128546da2": {
+      "source": "now for some more defense, by pressing {block} you can block, which is your way of stopping attackers",
+      "ja": "次は守備です。{block} でブロックし、相手の攻撃を止めましょう。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.55459cb72dfef03a": {
+      "source": "watch the attacker, you don't want to time your block too early, or too late",
+      "ja": "相手のアタッカーをよく見て、早すぎず遅すぎないタイミングでブロックしましょう。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.d67283e4a25ccb93": {
+      "source": "in most cases, you want to jump right after they do, and then throw your hands up!",
+      "ja": "多くの場合、相手が跳んだ直後にジャンプし、その後で手を上げるとよいでしょう！",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.2c9764284c31cd4d": {
+      "source": "you can't aim your block precisely, your cursor aims the angle of your block instead. a block is strongest right as your hands go up, and your accuracy fades away the longer you hold them up",
+      "ja": "ブロックでは落下地点ではなく、返す角度をカーソルで狙います。手を上げた瞬間が最も強く、上げ続けるほど狙いの精度が下がります。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.c7828328e4e25c9b": {
+      "source": "a well timed block sends the ball straight down, towards the direction of your cursor. the ring around the cursor will fade out, indicating poor timing, and a late block sends the ball in the direction of the spike",
+      "ja": "タイミングのよいブロックは、カーソルの方向へボールを真下に落とします。タイミングが悪いとカーソルのリングが薄くなり、遅れたブロックではスパイクと同じ方向へボールが飛びます。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.e1f354b8a87c76a5": {
+      "source": "serve  {contact}   hold to charge the toss",
+      "ja": "サーブ  {contact}   長押しでトスをためる",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.44c89e31f1eda989": {
+      "source": "toss, hit",
+      "ja": "トス・打つ",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.d513111dd5006b80": {
+      "source": "every rally starts with a serve, and the glowing box is your serving area! you want to toss and hit it inside the green area",
+      "ja": "ラリーはサーブから始まります。光る枠がサーブエリアです！緑の範囲内でトスを上げ、ボールを打ちましょう。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.a9b3d08ba08abbf1": {
+      "source": "hold {contact} to charge your serve toss, and adjust your cursor to aim the trajectory",
+      "ja": "{contact} を長押ししてサーブトスをため、カーソルで投げる方向を調整しましょう。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.8518828d31791f05": {
+      "source": "afterwards you can do a basic bump, a jump attack, there's plenty of options! just make sure you're aiming across to the other side of the court",
+      "ja": "その後はレシーブの要領で返したり、ジャンプして攻撃したりできます！必ず相手コートを狙ってください。",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.52b211a875e00a86": {
+      "source": "those are the basics! there's a lot more to learn, like curves, jump floats, and quick sets. you can read all about them in how to play!",
+      "ja": "基本はこれで終わりです！カーブ、ジャンプフローター、クイックトスなど、ほかにも多くの技があります。「遊び方」で詳しく読んでみてください！",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.53d22ddc5a33d76a": {
+      "source": "now let's put it all together in a real match!",
+      "ja": "それでは、実際の試合で試してみよう！",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.9583374a67faef42": {
+      "source": "on the ground",
+      "ja": "地上で",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.605a498cdb26b56d": {
+      "source": "spike (charge)",
+      "ja": "スパイク（ためる）",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.2f413248584a6e0f": {
+      "source": "in the air",
+      "ja": "空中で",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.cced28c6dc3f99c2": {
+      "source": "start",
+      "ja": "開始",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.96ed2744bff66981": {
+      "source": "then spike",
+      "ja": "次にスパイク",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.35319a420294ee17": {
+      "source": "toss",
+      "ja": "サーブトス",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.817b03a1139e15c4": {
+      "source": "hold to charge",
+      "ja": "長押しでためる",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.92c7a2f0d203d92f": {
+      "source": "or scroll",
+      "ja": "またはホイール",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.f38b453865a4ca60": {
+      "source": "change mode",
+      "ja": "視点を変更",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.a8ae4077236567c6": {
+      "source": "step inside the glowing box to serve",
+      "ja": "光る枠の中に入ってサーブしよう",
+      "status": "draft",
+      "note": ""
+    },
+    "tutorial.adb9c04546286a7d": {
+      "source": "toss the ball up, then send it over!",
+      "ja": "ボールをトスして、ネットの向こうへ送ろう！",
+      "status": "draft",
+      "note": ""
+    }
+  }
+}

@@ -1,0 +1,1621 @@
+{
+  "schema_version": 1,
+  "locale": "ja",
+  "domain": "character",
+  "entries": {
+    "character.e432a8632ce23f07": {
+      "source": "adventure backpack",
+      "ja": "冒険リュック",
+      "status": "draft",
+      "note": ""
+    },
+    "character.415612f182ccdeaf": {
+      "source": "adventure hat",
+      "ja": "冒険帽",
+      "status": "draft",
+      "note": ""
+    },
+    "character.9e406a15edefb640": {
+      "source": "anger mark",
+      "ja": "怒りマーク",
+      "status": "draft",
+      "note": ""
+    },
+    "character.49a6066d2f67a811": {
+      "source": "apple beanie",
+      "ja": "りんごのニット帽",
+      "status": "draft",
+      "note": ""
+    },
+    "character.f3e6ff085ee6091b": {
+      "source": "astronaut helmet",
+      "ja": "宇宙飛行士のヘルメット",
+      "status": "draft",
+      "note": ""
+    },
+    "character.dde1a8d1074006fc": {
+      "source": "visor up",
+      "ja": "バイザーを上げる",
+      "status": "draft",
+      "note": ""
+    },
+    "character.53d52b647c784353": {
+      "source": "back scythe",
+      "ja": "背中の大鎌",
+      "status": "draft",
+      "note": ""
+    },
+    "character.66cae7c68a418b85": {
+      "source": "baseball cap",
+      "ja": "野球帽",
+      "status": "draft",
+      "note": ""
+    },
+    "character.2e2b4690792e9333": {
+      "source": "bat wings",
+      "ja": "コウモリの翼",
+      "status": "draft",
+      "note": ""
+    },
+    "character.ae38fd72f4c45f27": {
+      "source": "block hat",
+      "ja": "ブロック帽",
+      "status": "draft",
+      "note": ""
+    },
+    "character.548a15bb9dfe1d06": {
+      "source": "bucket hat",
+      "ja": "バケットハット",
+      "status": "draft",
+      "note": ""
+    },
+    "character.83e5ed6c0342b33d": {
+      "source": "bunny bag",
+      "ja": "うさぎバッグ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.0ec05b2f30dbc7d1": {
+      "source": "bunny ears",
+      "ja": "うさ耳",
+      "status": "draft",
+      "note": ""
+    },
+    "character.83b9ed7e882d5118": {
+      "source": "bunny headband",
+      "ja": "うさ耳カチューシャ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.c83628f0a1e07c52": {
+      "source": "butterfly wings",
+      "ja": "蝶の羽",
+      "status": "draft",
+      "note": ""
+    },
+    "character.b188a08b00a57848": {
+      "source": "candy hat",
+      "ja": "キャンディ帽",
+      "status": "draft",
+      "note": ""
+    },
+    "character.6f0b27449c8c5a63": {
+      "source": "cat cap",
+      "ja": "猫のキャップ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.ba7880ddefebc3c4": {
+      "source": "cat ears",
+      "ja": "猫耳",
+      "status": "draft",
+      "note": ""
+    },
+    "character.c22ece064a19094d": {
+      "source": "chef hat",
+      "ja": "コック帽",
+      "status": "draft",
+      "note": ""
+    },
+    "character.d980320e411bd17b": {
+      "source": "clover hat",
+      "ja": "クローバー帽",
+      "status": "draft",
+      "note": ""
+    },
+    "character.eaaa60dce5b2fd9b": {
+      "source": "winter hat",
+      "ja": "冬の帽子",
+      "status": "draft",
+      "note": ""
+    },
+    "character.d94986eff6c17118": {
+      "source": "cowboy hat",
+      "ja": "カウボーイハット",
+      "status": "draft",
+      "note": ""
+    },
+    "character.27111fa0b723ed2a": {
+      "source": "curly tail",
+      "ja": "巻きしっぽ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.668619c93d0f13b5": {
+      "source": "devil horns",
+      "ja": "悪魔の角",
+      "status": "draft",
+      "note": ""
+    },
+    "character.c07fd72f9d4dc85e": {
+      "source": "duck beak",
+      "ja": "アヒルのくちばし",
+      "status": "draft",
+      "note": ""
+    },
+    "character.423a030108a68c01": {
+      "source": "face mask",
+      "ja": "マスク",
+      "status": "draft",
+      "note": ""
+    },
+    "character.581a755707713ac8": {
+      "source": "fish bowl",
+      "ja": "金魚鉢",
+      "status": "draft",
+      "note": ""
+    },
+    "character.bb2d4359c67f9b8d": {
+      "source": "frog cap",
+      "ja": "カエルのキャップ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.926cf8eb6346f99b": {
+      "source": "frog hat",
+      "ja": "カエル帽",
+      "status": "draft",
+      "note": ""
+    },
+    "character.6f37337856bdc5f9": {
+      "source": "frying pot hat",
+      "ja": "鍋の帽子",
+      "status": "draft",
+      "note": ""
+    },
+    "character.c27ea50d17bb9580": {
+      "source": "head screw",
+      "ja": "頭のネジ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.203097864bdfbbc3": {
+      "source": "jello hat",
+      "ja": "ゼリー帽",
+      "status": "draft",
+      "note": ""
+    },
+    "character.f061e2633c0aa252": {
+      "source": "jester hat",
+      "ja": "道化師の帽子",
+      "status": "draft",
+      "note": ""
+    },
+    "character.7057bf62203848f2": {
+      "source": "mlg glasses",
+      "ja": "MLGサングラス",
+      "status": "draft",
+      "note": ""
+    },
+    "character.b133259808c50b8b": {
+      "source": "mouse ears",
+      "ja": "ネズミ耳",
+      "status": "draft",
+      "note": ""
+    },
+    "character.536b44a9a5fc9719": {
+      "source": "nose bandage",
+      "ja": "鼻の絆創膏",
+      "status": "draft",
+      "note": ""
+    },
+    "character.1427f87bd87fb6fa": {
+      "source": "orange beanie",
+      "ja": "オレンジのニット帽",
+      "status": "draft",
+      "note": ""
+    },
+    "character.686b529c70a29dd5": {
+      "source": "party hat",
+      "ja": "パーティーハット",
+      "status": "draft",
+      "note": ""
+    },
+    "character.177376605425f475": {
+      "source": "punk glasses",
+      "ja": "パンクサングラス",
+      "status": "draft",
+      "note": ""
+    },
+    "character.51f7b77fbcbc1f55": {
+      "source": "rainbow top hat",
+      "ja": "虹色のシルクハット",
+      "status": "draft",
+      "note": ""
+    },
+    "character.e9c97abb5035ebd4": {
+      "source": "round glasses",
+      "ja": "丸眼鏡",
+      "status": "draft",
+      "note": ""
+    },
+    "character.f1dccfab97cd9b73": {
+      "source": "royal crown",
+      "ja": "王冠",
+      "status": "draft",
+      "note": ""
+    },
+    "character.8647f1be71b58c41": {
+      "source": "sleek visor",
+      "ja": "スリムなバイザー",
+      "status": "draft",
+      "note": ""
+    },
+    "character.735876239d465909": {
+      "source": "snail hat",
+      "ja": "カタツムリ帽",
+      "status": "draft",
+      "note": ""
+    },
+    "character.71b1edcd87ed4bc6": {
+      "source": "spinny hat",
+      "ja": "プロペラ帽",
+      "status": "draft",
+      "note": ""
+    },
+    "character.3ff4a0bb7eedfa9b": {
+      "source": "square glasses",
+      "ja": "四角い眼鏡",
+      "status": "draft",
+      "note": ""
+    },
+    "character.55382a6886a548ab": {
+      "source": "straight tail",
+      "ja": "まっすぐなしっぽ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.c4fd527eda72741f": {
+      "source": "straw hat",
+      "ja": "麦わら帽子",
+      "status": "draft",
+      "note": ""
+    },
+    "character.36c67b2beee70c51": {
+      "source": "swirl glasses",
+      "ja": "ぐるぐる眼鏡",
+      "status": "draft",
+      "note": ""
+    },
+    "character.152146db557b6ba7": {
+      "source": "top hat",
+      "ja": "シルクハット",
+      "status": "draft",
+      "note": ""
+    },
+    "character.7e685455cc6aa46d": {
+      "source": "traffic cone",
+      "ja": "カラーコーン",
+      "status": "draft",
+      "note": ""
+    },
+    "character.db648eba762341c7": {
+      "source": "watermelon hat",
+      "ja": "スイカ帽",
+      "status": "draft",
+      "note": ""
+    },
+    "character.081b06d4b790c450": {
+      "source": "witch hat",
+      "ja": "魔女の帽子",
+      "status": "draft",
+      "note": ""
+    },
+    "character.4b5f13108696aa77": {
+      "source": "super short",
+      "ja": "ベリーショート",
+      "status": "draft",
+      "note": ""
+    },
+    "character.dfb90d2ab05e9356": {
+      "source": "sports bra",
+      "ja": "スポーツブラ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.8f848d6ed63e1f39": {
+      "source": "tank top",
+      "ja": "タンクトップ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.1445370a5a7d5490": {
+      "source": "showing: captain uniform",
+      "ja": "表示中：キャプテンのユニフォーム",
+      "status": "draft",
+      "note": ""
+    },
+    "character.dc91e7b2214ab0b9": {
+      "source": "facial hair",
+      "ja": "ひげ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.254e93f7126dd24f": {
+      "source": "gym outfit",
+      "ja": "体操着",
+      "status": "draft",
+      "note": ""
+    },
+    "character.e596899f114b5162": {
+      "source": "exit",
+      "ja": "戻る",
+      "status": "draft",
+      "note": ""
+    },
+    "character.a847ba147b70f96b": {
+      "source": "save and exit",
+      "ja": "保存して戻る",
+      "status": "draft",
+      "note": ""
+    },
+    "character.beb56a15b0d76ee9": {
+      "source": "spin: on",
+      "ja": "回転：オン",
+      "status": "draft",
+      "note": ""
+    },
+    "character.ee9e5fb1ca31f01c": {
+      "source": "spin: off",
+      "ja": "回転：オフ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.aeb5bfad7b2bb587": {
+      "source": "export image",
+      "ja": "画像を書き出す",
+      "status": "draft",
+      "note": ""
+    },
+    "character.9bb0615a39a0f7e6": {
+      "source": "clear canvas",
+      "ja": "キャンバスを消去",
+      "status": "draft",
+      "note": ""
+    },
+    "character.374396e4d9d16fe4": {
+      "source": "exporting...",
+      "ja": "書き出し中…",
+      "status": "draft",
+      "note": ""
+    },
+    "character.b9ebf01092088343": {
+      "source": "saves to %s",
+      "ja": "保存先：%s",
+      "status": "draft",
+      "note": ""
+    },
+    "character.1f26818a8964aa3d": {
+      "source": "could not save the image",
+      "ja": "画像を保存できませんでした",
+      "status": "draft",
+      "note": ""
+    },
+    "character.b2f34267cf882fc1": {
+      "source": "saved to %s",
+      "ja": "%s に保存しました",
+      "status": "draft",
+      "note": ""
+    },
+    "character.ca057b682bd239eb": {
+      "source": "custom skin color",
+      "ja": "肌の色を指定",
+      "status": "draft",
+      "note": ""
+    },
+    "character.2549c096fc692b12": {
+      "source": "adjust",
+      "ja": "調整",
+      "status": "draft",
+      "note": ""
+    },
+    "character.9bf50b89b354f4c5": {
+      "source": "randomize %s",
+      "ja": "%s をランダムにする",
+      "status": "draft",
+      "note": ""
+    },
+    "character.3596abcfaae3a3bd": {
+      "source": "scale x",
+      "ja": "横の拡大率",
+      "status": "draft",
+      "note": ""
+    },
+    "character.1d92cf762427e645": {
+      "source": "scale y",
+      "ja": "縦の拡大率",
+      "status": "draft",
+      "note": ""
+    },
+    "character.1ba594dc103bdfb5": {
+      "source": "scale z",
+      "ja": "奥行きの拡大率",
+      "status": "draft",
+      "note": ""
+    },
+    "character.c5bdfc71e6f3a84b": {
+      "source": "lash color",
+      "ja": "まつげの色",
+      "status": "draft",
+      "note": ""
+    },
+    "character.c7237dae99f56a39": {
+      "source": "eye color",
+      "ja": "目の色",
+      "status": "draft",
+      "note": ""
+    },
+    "character.081a410f361d0857": {
+      "source": "brow color",
+      "ja": "眉の色",
+      "status": "draft",
+      "note": ""
+    },
+    "character.248cae9a533ad553": {
+      "source": "no facial hair styles yet",
+      "ja": "ひげの種類はまだありません",
+      "status": "draft",
+      "note": ""
+    },
+    "character.143a2fb67402331a": {
+      "source": "match hair",
+      "ja": "髪の色に合わせる",
+      "status": "draft",
+      "note": ""
+    },
+    "character.dcb8fdb112fa063c": {
+      "source": "%s items   %d / %d",
+      "ja": "%s のアイテム   %d / %d",
+      "status": "draft",
+      "note": ""
+    },
+    "character.5b7eefe8d3b06ef0": {
+      "source": "%s item",
+      "ja": "%s のアイテム",
+      "status": "draft",
+      "note": ""
+    },
+    "character.387d6c70ec760802": {
+      "source": "no %s items yet",
+      "ja": "%s のアイテムはまだありません",
+      "status": "draft",
+      "note": ""
+    },
+    "character.1de5e2de7f637c54": {
+      "source": "hide hair",
+      "ja": "髪を隠す",
+      "status": "draft",
+      "note": ""
+    },
+    "character.8200f0dc25a1e031": {
+      "source": "supporter",
+      "ja": "サポーター",
+      "status": "draft",
+      "note": ""
+    },
+    "character.f38662297cb0675c": {
+      "source": "head shape",
+      "ja": "頭の形",
+      "status": "draft",
+      "note": ""
+    },
+    "character.e0fe19440de4d1b9": {
+      "source": "preferred hand",
+      "ja": "利き手",
+      "status": "draft",
+      "note": ""
+    },
+    "character.a65382998f71c192": {
+      "source": "left handed",
+      "ja": "左利き",
+      "status": "draft",
+      "note": ""
+    },
+    "character.49df8cdf7f886020": {
+      "source": "right handed",
+      "ja": "右利き",
+      "status": "draft",
+      "note": ""
+    },
+    "character.7b39de9e2712e4ff": {
+      "source": "match shirt",
+      "ja": "シャツに合わせる",
+      "status": "draft",
+      "note": ""
+    },
+    "character.374f5398658316f3": {
+      "source": "wear socks",
+      "ja": "靴下を履く",
+      "status": "draft",
+      "note": ""
+    },
+    "character.3c338822a1ca5f83": {
+      "source": "right color",
+      "ja": "右の色",
+      "status": "draft",
+      "note": ""
+    },
+    "character.57b0b2bdfcac945a": {
+      "source": "left color",
+      "ja": "左の色",
+      "status": "draft",
+      "note": ""
+    },
+    "character.73b99bb84e91f301": {
+      "source": "which knees",
+      "ja": "装着する膝",
+      "status": "draft",
+      "note": ""
+    },
+    "character.290f966ffba8b92d": {
+      "source": "right pad",
+      "ja": "右のサポーター",
+      "status": "draft",
+      "note": ""
+    },
+    "character.f4d8ff6e0bfb06e9": {
+      "source": "left pad",
+      "ja": "左のサポーター",
+      "status": "draft",
+      "note": ""
+    },
+    "character.a13430b0908718cb": {
+      "source": "same color on both",
+      "ja": "左右を同じ色にする",
+      "status": "draft",
+      "note": ""
+    },
+    "character.db0c80fe80da8666": {
+      "source": "wear kneepads",
+      "ja": "膝サポーターを着ける",
+      "status": "draft",
+      "note": ""
+    },
+    "character.e2688e932ff5d392": {
+      "source": "your jersey is too bright for this number color, using fallback",
+      "ja": "ユニフォームが明るすぎるため、番号を見やすい色で表示します",
+      "status": "draft",
+      "note": ""
+    },
+    "character.b6abc1bf57ba4be0": {
+      "source": "your jersey is too dark for this number color, using fallback",
+      "ja": "ユニフォームが暗すぎるため、番号を見やすい色で表示します",
+      "status": "draft",
+      "note": ""
+    },
+    "character.aa6317b3793b2934": {
+      "source": "hear it",
+      "ja": "試聴",
+      "status": "draft",
+      "note": ""
+    },
+    "character.c698dfcbe2594abb": {
+      "source": "save slots",
+      "ja": "保存スロット",
+      "status": "draft",
+      "note": ""
+    },
+    "character.2cff6349e5bad6b4": {
+      "source": "load & save custom characters",
+      "ja": "キャラクターの読み込み・保存",
+      "status": "draft",
+      "note": ""
+    },
+    "character.d942f64886578d87": {
+      "source": "import",
+      "ja": "読み込む",
+      "status": "draft",
+      "note": ""
+    },
+    "character.94bd0e7785e0ffd7": {
+      "source": "slot %d",
+      "ja": "スロット%d",
+      "status": "draft",
+      "note": ""
+    },
+    "character.180f525194b03de0": {
+      "source": "save here",
+      "ja": "ここに保存",
+      "status": "draft",
+      "note": ""
+    },
+    "character.c47fbc5d87a12981": {
+      "source": "wear",
+      "ja": "着用",
+      "status": "draft",
+      "note": ""
+    },
+    "character.c3bc45ac352fe43f": {
+      "source": "share",
+      "ja": "共有",
+      "status": "draft",
+      "note": ""
+    },
+    "character.2a6577489e792711": {
+      "source": "this profile is missing items in this preset",
+      "ja": "このプロフィールには、プリセットの一部アイテムがありません",
+      "status": "draft",
+      "note": ""
+    },
+    "character.5e74218306216935": {
+      "source": "look imported",
+      "ja": "外見を読み込みました",
+      "status": "draft",
+      "note": ""
+    },
+    "character.f15645b9b5a4e576": {
+      "source": "undo changes",
+      "ja": "変更を元に戻す",
+      "status": "draft",
+      "note": ""
+    },
+    "character.94556233a66bb466": {
+      "source": "ready!",
+      "ja": "準備完了！",
+      "status": "draft",
+      "note": ""
+    },
+    "character.b24d6d33736ecd56": {
+      "source": "ready",
+      "ja": "準備完了",
+      "status": "draft",
+      "note": ""
+    },
+    "character.fd36d331b1db05da": {
+      "source": "exit without saving?",
+      "ja": "保存せずに戻りますか？",
+      "status": "draft",
+      "note": ""
+    },
+    "character.25944cd077b98b91": {
+      "source": "your changes to this look will be lost",
+      "ja": "この外見への変更は失われます",
+      "status": "draft",
+      "note": ""
+    },
+    "character.2a1073a6e67f0e5f": {
+      "source": "tag",
+      "ja": "タグ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.198082585f963ecb": {
+      "source": "%s left: not waiting for them",
+      "ja": "%s が退出したため、待機を解除しました",
+      "status": "draft",
+      "note": ""
+    },
+    "character.74f3dd792cb99a7e": {
+      "source": "%s's controller is disconnected",
+      "ja": "%s のコントローラーが切断されています",
+      "status": "draft",
+      "note": ""
+    },
+    "character.194a360898828c50": {
+      "source": "import a look",
+      "ja": "外見を読み込む",
+      "status": "draft",
+      "note": ""
+    },
+    "character.d36382e6eb8652d2": {
+      "source": "paste a code or open a player card picture",
+      "ja": "コードを貼り付けるか、プレイヤーカード画像を開いてください",
+      "status": "draft",
+      "note": ""
+    },
+    "character.aa34ec12d7dbddbf": {
+      "source": "paste a code",
+      "ja": "コードを貼り付け",
+      "status": "draft",
+      "note": ""
+    },
+    "character.eeab7a346724c8a9": {
+      "source": "open picture",
+      "ja": "画像を開く",
+      "status": "draft",
+      "note": ""
+    },
+    "character.704f17fc1748d877": {
+      "source": "paste picture",
+      "ja": "画像を貼り付け",
+      "status": "draft",
+      "note": ""
+    },
+    "character.d22712d7c5d6651d": {
+      "source": "that code did not work",
+      "ja": "そのコードは使用できませんでした",
+      "status": "draft",
+      "note": ""
+    },
+    "character.32e756b8d124410d": {
+      "source": "no look found in that picture",
+      "ja": "画像から外見データを見つけられませんでした",
+      "status": "draft",
+      "note": ""
+    },
+    "character.b339cbe9e2276164": {
+      "source": "open a player card",
+      "ja": "プレイヤーカードを開く",
+      "status": "draft",
+      "note": ""
+    },
+    "character.b7dea399c2a25c35": {
+      "source": "you're missing the following accessories",
+      "ja": "以下のアクセサリーを持っていません",
+      "status": "draft",
+      "note": ""
+    },
+    "character.376cd5c8cbeb0913": {
+      "source": "you have",
+      "ja": "所持数",
+      "status": "draft",
+      "note": ""
+    },
+    "character.6a581ee901185606": {
+      "source": "okay",
+      "ja": "OK",
+      "status": "draft",
+      "note": ""
+    },
+    "character.81c2d79ab6e5422e": {
+      "source": "buy all",
+      "ja": "すべて購入",
+      "status": "draft",
+      "note": ""
+    },
+    "character.f5e6d024c05c9cc2": {
+      "source": "owned",
+      "ja": "所持済み",
+      "status": "draft",
+      "note": ""
+    },
+    "character.e8197b20f8e71e42": {
+      "source": "buy",
+      "ja": "購入",
+      "status": "draft",
+      "note": ""
+    },
+    "character.343ca8fee050dd67": {
+      "source": "you need %s more",
+      "ja": "あと %s 必要です",
+      "status": "draft",
+      "note": ""
+    },
+    "character.ccdcbe846f3da4eb": {
+      "source": "size",
+      "ja": "大きさ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.2b63bd1a162bbc8d": {
+      "source": "tilt",
+      "ja": "傾き",
+      "status": "draft",
+      "note": ""
+    },
+    "character.299bcf54c044b1b5": {
+      "source": "rotate",
+      "ja": "回転",
+      "status": "draft",
+      "note": ""
+    },
+    "character.4eb47bdb59997a74": {
+      "source": "move: lmb      resize: scroll",
+      "ja": "左ドラッグ：移動      ホイール：サイズ変更",
+      "status": "draft",
+      "note": ""
+    },
+    "character.fd453018d6c3ae80": {
+      "source": "copy code",
+      "ja": "コードをコピー",
+      "status": "draft",
+      "note": ""
+    },
+    "character.a822d23092f3d598": {
+      "source": "save picture",
+      "ja": "画像を保存",
+      "status": "draft",
+      "note": ""
+    },
+    "character.ee3edbf7ab5f6c7a": {
+      "source": "code copied",
+      "ja": "コードをコピーしました",
+      "status": "draft",
+      "note": ""
+    },
+    "character.2140b723c46b791e": {
+      "source": "could not copy the code",
+      "ja": "コードをコピーできませんでした",
+      "status": "draft",
+      "note": ""
+    },
+    "character.8ddf2e0227d90bfa": {
+      "source": "could not save the picture",
+      "ja": "画像を保存できませんでした",
+      "status": "draft",
+      "note": ""
+    },
+    "character.f9cb7997e4084a2a": {
+      "source": "character models",
+      "ja": "キャラクターモデル",
+      "status": "draft",
+      "note": ""
+    },
+    "character.60916602aca53497": {
+      "source": "phone screen (9:16) 1080 x 1920",
+      "ja": "スマートフォン（9:16）1080 × 1920",
+      "status": "draft",
+      "note": ""
+    },
+    "character.5e43f9ff13d04d20": {
+      "source": "just volleyball studio",
+      "ja": "just volleyball スタジオ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.32b1b41facf6260a": {
+      "source": "move: lmb      resize: scroll      snap: ctrl      undo: ctrl+z      preview: p",
+      "ja": "左ドラッグ：移動   ホイール：サイズ変更   Ctrl：吸着   Ctrl+Z：元に戻す   P：プレビュー",
+      "status": "draft",
+      "note": ""
+    },
+    "character.59540c9c28b65065": {
+      "source": "add something from the add tab",
+      "ja": "追加タブから素材を追加してください",
+      "status": "draft",
+      "note": ""
+    },
+    "character.fb7cfe6a80089d38": {
+      "source": "top left",
+      "ja": "左上",
+      "status": "draft",
+      "note": ""
+    },
+    "character.91ff0d6ebe41f4c8": {
+      "source": "top right",
+      "ja": "右上",
+      "status": "draft",
+      "note": ""
+    },
+    "character.fb44cf1147f32a06": {
+      "source": "bottom left",
+      "ja": "左下",
+      "status": "draft",
+      "note": ""
+    },
+    "character.7e045e0b35be1fd0": {
+      "source": "bottom right",
+      "ja": "右下",
+      "status": "draft",
+      "note": ""
+    },
+    "character.8fa188b4b0bfee05": {
+      "source": "snap while dragging: hold ctrl",
+      "ja": "ドラッグ中にCtrl長押しで吸着",
+      "status": "draft",
+      "note": ""
+    },
+    "character.ed6bc80c644a58cd": {
+      "source": "click or esc to go back",
+      "ja": "クリックまたはEscで戻る",
+      "status": "draft",
+      "note": ""
+    },
+    "character.6d9fea94960d3651": {
+      "source": "show guides",
+      "ja": "ガイドを表示",
+      "status": "draft",
+      "note": ""
+    },
+    "character.9d01b6cf11c1e003": {
+      "source": "pictures save to %s",
+      "ja": "画像の保存先：%s",
+      "status": "draft",
+      "note": ""
+    },
+    "character.f8d4442fad09bf3e": {
+      "source": "save project",
+      "ja": "プロジェクトを保存",
+      "status": "draft",
+      "note": ""
+    },
+    "character.0feb690f3e178522": {
+      "source": "open project",
+      "ja": "プロジェクトを開く",
+      "status": "draft",
+      "note": ""
+    },
+    "character.10905fcbe9e8ded4": {
+      "source": "saved as %s",
+      "ja": "%s として保存しました",
+      "status": "draft",
+      "note": ""
+    },
+    "character.f8147db6b0ccb772": {
+      "source": "save canvas as a .%s file you can open anytime",
+      "ja": "キャンバスを .%s ファイルで保存し、後から開けます",
+      "status": "draft",
+      "note": ""
+    },
+    "character.ea18ddc6ff015755": {
+      "source": "export pieces",
+      "ja": "素材ごとに書き出す",
+      "status": "draft",
+      "note": ""
+    },
+    "character.2420c495238e33d7": {
+      "source": "export your image into its individual pieces",
+      "ja": "画像を個別の素材に分けて書き出します",
+      "status": "draft",
+      "note": ""
+    },
+    "character.2e9fa5561d75b788": {
+      "source": "pattern %d",
+      "ja": "模様%d",
+      "status": "draft",
+      "note": ""
+    },
+    "character.6ad9c445c3c510c0": {
+      "source": "pattern color",
+      "ja": "模様の色",
+      "status": "draft",
+      "note": ""
+    },
+    "character.21ce24543149c986": {
+      "source": "match background",
+      "ja": "背景に合わせる",
+      "status": "draft",
+      "note": ""
+    },
+    "character.e6b88623f7209b6c": {
+      "source": "strength",
+      "ja": "強さ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.43c4ca8201c6e38f": {
+      "source": "a random player",
+      "ja": "ランダムな選手",
+      "status": "draft",
+      "note": ""
+    },
+    "character.0eea9924bc5c1b4f": {
+      "source": "%s slot %d",
+      "ja": "%s スロット%d",
+      "status": "draft",
+      "note": ""
+    },
+    "character.d91e906242674c6a": {
+      "source": "you, as you look right now",
+      "ja": "現在のあなたの外見",
+      "status": "draft",
+      "note": ""
+    },
+    "character.630519d66971c016": {
+      "source": "that's as many characters as one picture can hold",
+      "ja": "1枚の画像に追加できるキャラクター数の上限です",
+      "status": "draft",
+      "note": ""
+    },
+    "character.8fd20ee692eb6eb3": {
+      "source": "hide other profiles",
+      "ja": "ほかのプロフィールを隠す",
+      "status": "draft",
+      "note": ""
+    },
+    "character.3ace0009712ca58d": {
+      "source": "show other profiles",
+      "ja": "ほかのプロフィールを表示",
+      "status": "draft",
+      "note": ""
+    },
+    "character.b9a0a57311589d0a": {
+      "source": "add text",
+      "ja": "テキストを追加",
+      "status": "draft",
+      "note": ""
+    },
+    "character.8a862b5ffceb160f": {
+      "source": "fewer stickers",
+      "ja": "ステッカーを減らす",
+      "status": "draft",
+      "note": ""
+    },
+    "character.8f77a52661a16795": {
+      "source": "more stickers",
+      "ja": "ステッカーを増やす",
+      "status": "draft",
+      "note": ""
+    },
+    "character.e4ec66400617c5d6": {
+      "source": "your pictures",
+      "ja": "自分の画像",
+      "status": "draft",
+      "note": ""
+    },
+    "character.0c9427ae2d341d82": {
+      "source": "add a picture from your computer",
+      "ja": "PCから画像を追加",
+      "status": "draft",
+      "note": ""
+    },
+    "character.caad9327a7890256": {
+      "source": "fewer patterns",
+      "ja": "模様を減らす",
+      "status": "draft",
+      "note": ""
+    },
+    "character.0c3d077e317c67e7": {
+      "source": "more patterns",
+      "ja": "模様を増やす",
+      "status": "draft",
+      "note": ""
+    },
+    "character.f7956baba90209f5": {
+      "source": "clear the canvas?",
+      "ja": "キャンバスを消去しますか？",
+      "status": "draft",
+      "note": ""
+    },
+    "character.6290d99a21a87b21": {
+      "source": "everything on it will be removed",
+      "ja": "キャンバス上のすべてが削除されます",
+      "status": "draft",
+      "note": ""
+    },
+    "character.5f938e7972c473b3": {
+      "source": "move layers: drag\nmulti select: shift click",
+      "ja": "ドラッグ：レイヤー移動\nShift＋クリック：複数選択",
+      "status": "draft",
+      "note": ""
+    },
+    "character.a36fc761262ffa20": {
+      "source": "select all",
+      "ja": "すべて選択",
+      "status": "draft",
+      "note": ""
+    },
+    "character.a7bf4272b583debe": {
+      "source": "bring forward",
+      "ja": "前面へ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.f0dfb29e7c25ddbf": {
+      "source": "send back",
+      "ja": "背面へ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.6a1e7e12ac5e4003": {
+      "source": "click something on the canvas",
+      "ja": "キャンバス上の素材をクリックしてください",
+      "status": "draft",
+      "note": ""
+    },
+    "character.d69d3e49705edcbe": {
+      "source": "line up",
+      "ja": "整列",
+      "status": "draft",
+      "note": ""
+    },
+    "character.6d2c06f4a01cfeea": {
+      "source": "%d picked",
+      "ja": "%d個選択中",
+      "status": "draft",
+      "note": ""
+    },
+    "character.a22a97c16a363693": {
+      "source": "drag any of them to move them all, scroll or pull the corner to resize them together",
+      "ja": "選択した素材をドラッグすると一緒に移動します。ホイールや角のドラッグでまとめてサイズを変更できます",
+      "status": "draft",
+      "note": ""
+    },
+    "character.d7e5677d4a5baa56": {
+      "source": "drop shadow",
+      "ja": "影を付ける",
+      "status": "draft",
+      "note": ""
+    },
+    "character.63e6ce93e1bcb512": {
+      "source": "distance",
+      "ja": "距離",
+      "status": "draft",
+      "note": ""
+    },
+    "character.93c4abe27cf16961": {
+      "source": "direction",
+      "ja": "方向",
+      "status": "draft",
+      "note": ""
+    },
+    "character.86d3c6deca06c897": {
+      "source": "softness",
+      "ja": "ぼかし",
+      "status": "draft",
+      "note": ""
+    },
+    "character.77f1809d1f503153": {
+      "source": "this look",
+      "ja": "この外見",
+      "status": "draft",
+      "note": ""
+    },
+    "character.bf3287b818cfd2ec": {
+      "source": "who wears it",
+      "ja": "着用する人",
+      "status": "draft",
+      "note": ""
+    },
+    "character.b66639beb6a8ec8c": {
+      "source": "a player who isn't here shows this look instead.",
+      "ja": "その場にいないプレイヤーは、代わりにこの外見で表示されます",
+      "status": "draft",
+      "note": ""
+    },
+    "character.cbf6dccd97c997db": {
+      "source": "outfit and pose",
+      "ja": "ユニフォームとポーズ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.9dff50df08c63581": {
+      "source": "frame",
+      "ja": "フレーム",
+      "status": "draft",
+      "note": ""
+    },
+    "character.9b473845f684444f": {
+      "source": "turn",
+      "ja": "向き",
+      "status": "draft",
+      "note": ""
+    },
+    "character.ef71b1c3f43daf87": {
+      "source": "other hand",
+      "ja": "反対の手",
+      "status": "draft",
+      "note": ""
+    },
+    "character.440634ca75f73837": {
+      "source": "type here",
+      "ja": "ここに入力",
+      "status": "draft",
+      "note": ""
+    },
+    "character.15cf9665d381e7f2": {
+      "source": "nice!",
+      "ja": "ナイス！",
+      "status": "draft",
+      "note": ""
+    },
+    "character.0411828cc3bb8a4f": {
+      "source": "sticker outline",
+      "ja": "ステッカーの縁取り",
+      "status": "draft",
+      "note": ""
+    },
+    "character.260c0aac8b82cc8f": {
+      "source": "thickness",
+      "ja": "太さ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.cd587261fe79a1b4": {
+      "source": "team outline",
+      "ja": "チームの縁取り",
+      "status": "draft",
+      "note": ""
+    },
+    "character.a5a2729ffa0eeacc": {
+      "source": "spin",
+      "ja": "回転",
+      "status": "draft",
+      "note": ""
+    },
+    "character.acfe1fecda8bf79f": {
+      "source": "roll",
+      "ja": "傾ける",
+      "status": "draft",
+      "note": ""
+    },
+    "character.5484a9769ff1d083": {
+      "source": "tile size",
+      "ja": "タイルの大きさ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.dec0f004eaa07c2a": {
+      "source": "width",
+      "ja": "幅",
+      "status": "draft",
+      "note": ""
+    },
+    "character.39e0f5efdc39ec10": {
+      "source": "height",
+      "ja": "高さ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.5f818546ce29174e": {
+      "source": "key prompts follow the player's binds and controller: {key:jump} shows the button they would press",
+      "ja": "操作表示はプレイヤーの割り当てとデバイスに合わせて変わります。{key:jump} は、その人が押すボタンを表示します",
+      "status": "draft",
+      "note": ""
+    },
+    "character.c83eebcfafbd00dd": {
+      "source": "section header",
+      "ja": "セクション見出し",
+      "status": "draft",
+      "note": ""
+    },
+    "character.df173c2e98be48db": {
+      "source": "section id",
+      "ja": "セクションID",
+      "status": "draft",
+      "note": ""
+    },
+    "character.f37b37c9061a6908": {
+      "source": "search words",
+      "ja": "検索用の単語",
+      "status": "draft",
+      "note": ""
+    },
+    "character.6c1da358d6118bc8": {
+      "source": "no link",
+      "ja": "リンクなし",
+      "status": "draft",
+      "note": ""
+    },
+    "character.6d98f5da237eb8c0": {
+      "source": "chapter %s  %s",
+      "ja": "第%s章  %s",
+      "status": "draft",
+      "note": ""
+    },
+    "character.aaf2320646108059": {
+      "source": "title",
+      "ja": "見出し",
+      "status": "draft",
+      "note": ""
+    },
+    "character.bc000fbc2178075d": {
+      "source": "link to",
+      "ja": "リンク先",
+      "status": "draft",
+      "note": ""
+    },
+    "character.d9849f3d1b1caa2b": {
+      "source": "card behind",
+      "ja": "背景カード",
+      "status": "draft",
+      "note": ""
+    },
+    "character.9b2479a856f23c4e": {
+      "source": "corners",
+      "ja": "角",
+      "status": "draft",
+      "note": ""
+    },
+    "character.36e110819a318ddd": {
+      "source": "bend",
+      "ja": "曲がり",
+      "status": "draft",
+      "note": ""
+    },
+    "character.171737184c6e1e0f": {
+      "source": "both ends",
+      "ja": "両端",
+      "status": "draft",
+      "note": ""
+    },
+    "character.e61511b5905eb383": {
+      "source": "controls (reads the live binds)",
+      "ja": "操作表（現在の割り当てを参照）",
+      "status": "draft",
+      "note": ""
+    },
+    "character.67b426dba8414aad": {
+      "source": "one row a line, cells split with |. the first row is the header",
+      "ja": "1行ずつ入力し、セルを | で区切ります。先頭行は見出しです",
+      "status": "draft",
+      "note": ""
+    },
+    "character.4f1a55de40bce901": {
+      "source": "border",
+      "ja": "枠線",
+      "status": "draft",
+      "note": ""
+    },
+    "character.864ba42c1a38f471": {
+      "source": "save folder",
+      "ja": "保存フォルダー",
+      "status": "draft",
+      "note": ""
+    },
+    "character.15fde64748dc5041": {
+      "source": "change folder",
+      "ja": "フォルダーを変更",
+      "status": "draft",
+      "note": ""
+    },
+    "character.499ec674e9fd30d3": {
+      "source": "save this picture",
+      "ja": "この画像を保存",
+      "status": "draft",
+      "note": ""
+    },
+    "character.02a14b149f2c651a": {
+      "source": "open a picture",
+      "ja": "画像を開く",
+      "status": "draft",
+      "note": ""
+    },
+    "character.c886c3d50546704c": {
+      "source": "could not save the project",
+      "ja": "プロジェクトを保存できませんでした",
+      "status": "draft",
+      "note": ""
+    },
+    "character.30a3268a55e4925f": {
+      "source": "that isn't a studio project",
+      "ja": "スタジオのプロジェクトではありません",
+      "status": "draft",
+      "note": ""
+    },
+    "character.89adb16e701b98c9": {
+      "source": "could not export the pieces",
+      "ja": "素材を書き出せませんでした",
+      "status": "draft",
+      "note": ""
+    },
+    "character.7762807331c2eaf9": {
+      "source": "pieces saved to %s",
+      "ja": "素材を %s に保存しました",
+      "status": "draft",
+      "note": ""
+    },
+    "character.7ea6a6e9a5cdd472": {
+      "source": "add a picture",
+      "ja": "画像を追加",
+      "status": "draft",
+      "note": ""
+    },
+    "character.6ca71f6bfd2c2098": {
+      "source": "could not add that picture",
+      "ja": "画像を追加できませんでした",
+      "status": "draft",
+      "note": ""
+    },
+    "character.0f5c31435b80ada7": {
+      "source": "pick a folder for your pictures",
+      "ja": "画像の保存先フォルダーを選択",
+      "status": "draft",
+      "note": ""
+    },
+    "character.fd4ffd183b0d962d": {
+      "source": "controls table",
+      "ja": "操作表",
+      "status": "draft",
+      "note": ""
+    },
+    "character.982d9e3eb996f559": {
+      "source": "text",
+      "ja": "テキスト",
+      "status": "draft",
+      "note": ""
+    },
+    "character.d97a1f3eb64fc9ba": {
+      "source": "i got it",
+      "ja": "任せて",
+      "status": "draft",
+      "note": ""
+    },
+    "character.a28da20faefbc0fc": {
+      "source": "supporter cape",
+      "ja": "サポーターのマント",
+      "status": "draft",
+      "note": ""
+    },
+    "character.1cfd282b427a4ec5": {
+      "source": "supporter hat",
+      "ja": "サポーターの帽子",
+      "status": "draft",
+      "note": ""
+    },
+    "character.087fbc667e6b2274": {
+      "source": "supporter scarf",
+      "ja": "サポーターのマフラー",
+      "status": "draft",
+      "note": ""
+    },
+    "character.046e2e250ae325bb": {
+      "source": "supporter wings",
+      "ja": "サポーターの翼",
+      "status": "draft",
+      "note": ""
+    },
+    "character.9f2e6d33a3717ee8": {
+      "source": "head",
+      "ja": "頭",
+      "status": "draft",
+      "note": ""
+    },
+    "character.230d8358dc8e8890": {
+      "source": "body",
+      "ja": "体",
+      "status": "draft",
+      "note": ""
+    },
+    "character.0282d9b79f42c74c": {
+      "source": "face",
+      "ja": "顔",
+      "status": "draft",
+      "note": ""
+    },
+    "character.4dc2159bba05da39": {
+      "source": "hair",
+      "ja": "髪",
+      "status": "draft",
+      "note": ""
+    },
+    "character.d8fe183f5b8e7324": {
+      "source": "eyes",
+      "ja": "目",
+      "status": "draft",
+      "note": ""
+    },
+    "character.e651c28bdf2be914": {
+      "source": "eyebrows",
+      "ja": "眉",
+      "status": "draft",
+      "note": ""
+    },
+    "character.4cf35cf87435b1ba": {
+      "source": "mouth",
+      "ja": "口",
+      "status": "draft",
+      "note": ""
+    },
+    "character.2a0070d014bc41cb": {
+      "source": "skin",
+      "ja": "肌",
+      "status": "draft",
+      "note": ""
+    },
+    "character.a52514252adf8606": {
+      "source": "shirt",
+      "ja": "シャツ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.474a744f02d8b7ff": {
+      "source": "shorts",
+      "ja": "ショートパンツ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.01ea5ddd3be5477a": {
+      "source": "shoes",
+      "ja": "シューズ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.54f6d9fbe8ee576f": {
+      "source": "socks",
+      "ja": "靴下",
+      "status": "draft",
+      "note": ""
+    },
+    "character.5248d4d8465a4a66": {
+      "source": "kneepads",
+      "ja": "膝サポーター",
+      "status": "draft",
+      "note": ""
+    },
+    "character.35e3ab6c5834d318": {
+      "source": "accessories",
+      "ja": "アクセサリー",
+      "status": "draft",
+      "note": ""
+    },
+    "character.c57d7e92019708b6": {
+      "source": "voice",
+      "ja": "声",
+      "status": "draft",
+      "note": ""
+    },
+    "character.12886f9d00055adf": {
+      "source": "number",
+      "ja": "背番号",
+      "status": "draft",
+      "note": ""
+    },
+    "character.60f7e0d37e178bba": {
+      "source": "pose",
+      "ja": "ポーズ",
+      "status": "draft",
+      "note": ""
+    },
+    "character.89b91df19d9d75d4": {
+      "source": "background",
+      "ja": "背景",
+      "status": "draft",
+      "note": ""
+    },
+    "character.e3b816898ca5ba5f": {
+      "source": "layers",
+      "ja": "レイヤー",
+      "status": "draft",
+      "note": ""
+    },
+    "character.9ff45e6119eb6504": {
+      "source": "stickers",
+      "ja": "ステッカー",
+      "status": "draft",
+      "note": ""
+    },
+    "character.1554c4e086b184e1": {
+      "source": "patterns",
+      "ja": "模様",
+      "status": "draft",
+      "note": ""
+    },
+    "character.a97b0931730e83fb": {
+      "source": "round",
+      "ja": "丸文字",
+      "status": "draft",
+      "note": ""
+    },
+    "character.1e6859987eec2e12": {
+      "source": "varsity",
+      "ja": "スポーツ書体",
+      "status": "draft",
+      "note": ""
+    },
+    "character.3f8d7379e2f0f7d0": {
+      "source": "pixel",
+      "ja": "ピクセル",
+      "status": "draft",
+      "note": ""
+    },
+    "character.92719fe0cf8cd515": {
+      "source": "book",
+      "ja": "本文用",
+      "status": "draft",
+      "note": ""
+    },
+    "character.20559205831f6f54": {
+      "source": "nationals arena",
+      "ja": "全国大会会場",
+      "status": "draft",
+      "note": ""
+    },
+    "character.c9df162c3f6a8dc7": {
+      "source": "school gym",
+      "ja": "学校の体育館",
+      "status": "draft",
+      "note": ""
+    }
+  }
+}

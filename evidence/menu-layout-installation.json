@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-26",
+  "checks": {
+    "installed_matches_measured_pack": true,
+    "installed_matches_receipt": true,
+    "original_backup_verified": true,
+    "executable_unchanged": true
+  },
+  "receipt": {
+    "original_sha256": "f72ea5884cfab90be24ba35e83693325e1e0f75d4d767de53a627f5f6f68d583",
+    "exe_sha256": "224a5ea56536081b84369a0e90590a688a8510fefcc24ab84af1a31b3e052435",
+    "patched_sha256": "d96bda1f58d239ffae337abb5a89417ea09b4e9f67f3f43af1ad5ddf6df1ddbf"
+  },
+  "release_zip_sha256": "49a0a2547355245cbb72a74afc4fa69df495dfd6440858cb71bdec9cb2a4065a",
+  "layout_evidence": "evidence/menu-layout-fixed.json",
+  "installed_game_modified": true
+}

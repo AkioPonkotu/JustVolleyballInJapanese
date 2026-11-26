@@ -1,0 +1,1555 @@
+{
+  "schema_version": 1,
+  "locale": "ja",
+  "domain": "achievements",
+  "entries": {
+    "achievements.448fd7a31da95216": {
+      "source": "From the Concrete",
+      "ja": "コンクリートから",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.d956851ad3b52c97": {
+      "source": "open just volleyball for the first time",
+      "ja": "初めてjust volleyballを起動する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.37646d15578cee27": {
+      "source": "Getting Better",
+      "ja": "一歩ずつ上達",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.91d0514edac44f7b": {
+      "source": "win your first match",
+      "ja": "初めて試合に勝つ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.d4161e44319fe6c2": {
+      "source": "Eat and Grow Stronger",
+      "ja": "食べて強くなれ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.c822d4d52f141deb": {
+      "source": "lose your first match",
+      "ja": "初めて試合に負ける",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.2f9cbd50714016b3": {
+      "source": "Neck and Neck",
+      "ja": "一進一退",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.2524d9ff53f8f3b6": {
+      "source": "win a deuce set",
+      "ja": "デュースになったセットに勝つ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.9bbe7bfc41872d45": {
+      "source": "Ultimate Weapon",
+      "ja": "究極の武器",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.895beeb2268f7e9f": {
+      "source": "score a quick attack",
+      "ja": "速攻で得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.fb6f7c93e6bf3dfa": {
+      "source": "Planned",
+      "ja": "計算どおり",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.a606f58f4fb3dd09": {
+      "source": "score a point using your foot",
+      "ja": "足で得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.0c477048b549241a": {
+      "source": "Fly High",
+      "ja": "高く飛べ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.aa2bf871145f91e7": {
+      "source": "score a point after performing a bam jump",
+      "ja": "BAMジャンプから得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.19eae2a5a00f07fc": {
+      "source": "Rolling Thunder",
+      "ja": "ローリングサンダー",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.dda2bc73422a5a7f": {
+      "source": "save a ball while using the side roll",
+      "ja": "横へのローリングでボールを拾う",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.0d364a26ad8e1218": {
+      "source": "Open!",
+      "ja": "オープン！",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.33a8930d10263b2d": {
+      "source": "set a high ball, resulting in a point",
+      "ja": "ハイトスで得点をアシストする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.7fd3d2886b4800dd": {
+      "source": "It's Just Volleyball",
+      "ja": "ただのバレーボールさ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.1dbbe3757e1ac615": {
+      "source": "complete the tutorial",
+      "ja": "チュートリアルを完了する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.77e5fe3221541594": {
+      "source": "Actual Giant",
+      "ja": "本当の巨人",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.ee7dcc536f56b156": {
+      "source": "save a character with the highest possible height",
+      "ja": "最大身長のキャラクターを保存する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.efbd771feb3df767": {
+      "source": "Little Giant",
+      "ja": "小さな巨人",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.1efd4a4e2fd2a9b9": {
+      "source": "save a character with the lowest possible height",
+      "ja": "最小身長のキャラクターを保存する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.c9ce92f011b1fe24": {
+      "source": "Wardrobe",
+      "ja": "衣装持ち",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.be07cb3fee4415ea": {
+      "source": "save 10 presets",
+      "ja": "プリセットを10個保存する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.6e67d8195527e5d6": {
+      "source": "Leg Day",
+      "ja": "脚を鍛える日",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.1a5f9a62d0d7d371": {
+      "source": "jump 1000 times",
+      "ja": "1000回ジャンプする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.fbd9da1a144ef30d": {
+      "source": "The Ace",
+      "ja": "エース",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.b33691a28d1f7126": {
+      "source": "gain 100 points from spikes",
+      "ja": "スパイクで100得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.1df36e7d30c514fe": {
+      "source": "Pick Yourself Up",
+      "ja": "立ち上がれ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.60b99abab50081ee": {
+      "source": "win a match after losing your previous match",
+      "ja": "負けた次の試合に勝つ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.31bbe05d43158cd2": {
+      "source": "Fly",
+      "ja": "飛べ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.c58573bed8d45166": {
+      "source": "bam jump for the first time",
+      "ja": "初めてBAMジャンプする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.5b766af7aa81387d": {
+      "source": "A Sport Where You're Always Looking Up",
+      "ja": "いつも上を向くスポーツ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.a228d1af3f8e3816": {
+      "source": "view the credits",
+      "ja": "クレジットを見る",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.1b88d14a591efd01": {
+      "source": "Decoy",
+      "ja": "おとり",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.6c2bc2ced5c422ba": {
+      "source": "choose 10 as your jersey number",
+      "ja": "背番号に10を選ぶ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.3dd2ac29f928f639": {
+      "source": "Guardian Deity",
+      "ja": "守護神",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.10131aeaa87b0932": {
+      "source": "receive 100 balls with a dive",
+      "ja": "ダイブレシーブを100回成功させる",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.9e6308c84f0a25e2": {
+      "source": "King of The Court",
+      "ja": "コート上の王様",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.67a4b43d2a717d05": {
+      "source": "set 100 balls that resulted in a point",
+      "ja": "トスで100得点をアシストする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.37cf5259e3c628bf": {
+      "source": "Hunger",
+      "ja": "飢え",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.9e867f3e8a1b8e6b": {
+      "source": "spike off the first touch",
+      "ja": "1回目のタッチでスパイクする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.b6087a040fa0ee82": {
+      "source": "Leap of Faith",
+      "ja": "決死の跳躍",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.eeb39e2d82c40be8": {
+      "source": "score a spike while your team is down on match point",
+      "ja": "相手のマッチポイントでスパイクを決める",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.a03c7136c06aba03": {
+      "source": "Go Next",
+      "ja": "次の試合へ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.e42a165eb52a4068": {
+      "source": "play 200 matches",
+      "ja": "200試合プレイする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.fad694ed569e193f": {
+      "source": "Yapper",
+      "ja": "おしゃべり",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.738954d657d3b598": {
+      "source": "use quick chat 1000 times",
+      "ja": "クイックチャットを1000回使う",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.895c9608355941d4": {
+      "source": "Ball Boy",
+      "ja": "ボールボーイ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.b858bfaaa424e216": {
+      "source": "receive 1000 balls",
+      "ja": "1000回レシーブする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.47f0753e5b50e3c7": {
+      "source": "Embarrassed",
+      "ja": "やっちゃった",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.388d51292bc7b671": {
+      "source": "miss a receive, resulting in the ball deflecting off of you",
+      "ja": "レシーブに失敗し、自分に当たったボールを弾く",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.5e025461f87fc4cf": {
+      "source": "Big Body",
+      "ja": "巨体の一撃",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.e6ef6262d864fea1": {
+      "source": "score a point after breaking someone's block with a spike",
+      "ja": "スパイクでブロックを打ち破って得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.1a367c73067988bc": {
+      "source": "Strike Past All Obstacles",
+      "ja": "すべての壁を打ち破れ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.d9be425859877c81": {
+      "source": "score a point after breaking someone's block with a spike 20 times",
+      "ja": "スパイクでブロックを打ち破り、20回得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.b5d65f0ae389b602": {
+      "source": "Precision",
+      "ja": "精密射撃",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.402cb7de54804c40": {
+      "source": "score a point that landed on the line",
+      "ja": "ライン上に落として得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.26ae61f68ac820ea": {
+      "source": "Don't Give Up",
+      "ja": "諦めるな",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.fcae54ca32762879": {
+      "source": "earn a break point",
+      "ja": "ブレイクポイントを獲得する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.8026af8f0ab6eb52": {
+      "source": "Not Alone",
+      "ja": "独りじゃない",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.a201d2851b4a1b57": {
+      "source": "score a point after a combo of three",
+      "ja": "3タッチのコンボから得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.b4dfc7a1d0a029d0": {
+      "source": "Out of Steam",
+      "ja": "力尽きた",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.fef8946783ec44f6": {
+      "source": "get burnt out in the middle of a match",
+      "ja": "試合中にスタミナ切れになる",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.6af963d3457b7aff": {
+      "source": "Surpassing Limits",
+      "ja": "限界を超えて",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.51654f2289ad3016": {
+      "source": "get two dive receives back to back",
+      "ja": "ダイブレシーブを2回続けて成功させる",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.2a8754b6ff1a9a93": {
+      "source": "Nice Serve!",
+      "ja": "ナイスサーブ！",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.39bc2c9668e8b14f": {
+      "source": "score your first ace on a serve",
+      "ja": "初めてサービスエースを決める",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.3cbe3defcd728352": {
+      "source": "Unpredictable",
+      "ja": "変幻自在",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.d69e3484f139f519": {
+      "source": "block an attack by shifting your hands",
+      "ja": "手の位置をずらして攻撃をブロックする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.d8212511fef2a26b": {
+      "source": "Unstoppable",
+      "ja": "止まらない",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.ed1595db5195394e": {
+      "source": "win 5 matches in a row",
+      "ja": "5連勝する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.c693f51954fa22b2": {
+      "source": "Not My Day",
+      "ja": "今日はついてない",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.5c839a47561d5d27": {
+      "source": "lose 5 matches in a row",
+      "ja": "5連敗する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.fd74bc9cdd283f74": {
+      "source": "Tourist",
+      "ja": "コート巡り",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.aa13d53f90107a55": {
+      "source": "play a match on every map",
+      "ja": "すべてのマップで試合をする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.16728e3e3c3f39af": {
+      "source": "The Usual Spot",
+      "ja": "いつもの場所",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.bd5dae85fb5b77bf": {
+      "source": "play 100 matches on the same map",
+      "ja": "同じマップで100試合プレイする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.2fd531f72274ad6c": {
+      "source": "After Hours",
+      "ja": "居残り練習",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.11088c1cfad2624a": {
+      "source": "spend 15 minutes in freeplay",
+      "ja": "フリー練習で15分過ごす",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.254fd73b9eb07948": {
+      "source": "Next Level",
+      "ja": "次の高みへ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.9e8a5196a240b8d1": {
+      "source": "reach 500 spikes, 500 receives and 500 blocks",
+      "ja": "スパイク・レシーブ・ブロックを各500回達成する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.eab6e157b05bf4f0": {
+      "source": "Glad I Made It Here",
+      "ja": "ここまで来られてよかった",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.d6e44e69e090ec96": {
+      "source": "play a match on the nationals stage",
+      "ja": "全国大会ステージで試合をする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.2805150bc1883569": {
+      "source": "Hollywood",
+      "ja": "ハリウッド",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.55f3c181a38c0db7": {
+      "source": "earn 1000 chips for the first time",
+      "ja": "初めて1000チップを獲得する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.901415e9e9cd4081": {
+      "source": "Wrecking Ball",
+      "ja": "体当たり",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.2abbe7e636016407": {
+      "source": "dive into another player, or get dove into",
+      "ja": "ほかのプレイヤーにダイブでぶつかるか、ぶつかられる",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.077a66e605ca7857": {
+      "source": "One at a Time",
+      "ja": "順番にどうぞ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.b54cc774b18a6fc5": {
+      "source": "bump into a teammate mid air",
+      "ja": "空中で味方にぶつかる",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.a8bc2e54e74c8e57": {
+      "source": "No Wall Too High",
+      "ja": "越えられない壁はない",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.1570d64023adde49": {
+      "source": "bam jump 100 times",
+      "ja": "BAMジャンプを100回行う",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.c46a7fa2d8f58cd1": {
+      "source": "Pinch Server",
+      "ja": "ピンチサーバー",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.2c89fcff2a91d7dc": {
+      "source": "win the point off your jump float serve",
+      "ja": "自分のジャンプフローターから得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.7c35ebce2e0dbdb4": {
+      "source": "Bearings",
+      "ja": "慣れてきた",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.3a47f0d452630342": {
+      "source": "play for an hour",
+      "ja": "1時間プレイする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.26bfe563b8f9459f": {
+      "source": "Dedicated",
+      "ja": "熱心な選手",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.2706cbda64b0ba16": {
+      "source": "play for 5 hours",
+      "ja": "5時間プレイする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.6418840df6f4c7d9": {
+      "source": "Footstool",
+      "ja": "踏み台",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.aa855dd1833d99ea": {
+      "source": "jump off of someone's head",
+      "ja": "誰かの頭を踏み台にして跳ぶ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.14710e2217ccde8b": {
+      "source": "Concussed",
+      "ja": "頭にご注意",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.e6ec46c3535a38e9": {
+      "source": "dive into the net",
+      "ja": "ネットにダイブする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.1557800783048d93": {
+      "source": "Tempo Switch",
+      "ja": "テンポを変えろ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.283dfc231a1042b4": {
+      "source": "assist a point by jump setting",
+      "ja": "ジャンプトスで得点をアシストする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.915ff7435daeac2f": {
+      "source": "Fundamentals",
+      "ja": "基本が大事",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.a331842149176da0": {
+      "source": "win your first 1v1",
+      "ja": "1対1で初勝利する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.a1596416e842c281": {
+      "source": "Buddy System",
+      "ja": "2人でつなげ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.804ebe803a193fb1": {
+      "source": "win your first 2v2",
+      "ja": "2対2で初勝利する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.26212d936f3943fe": {
+      "source": "Triple Threat",
+      "ja": "三位一体",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.9e7db432b2f243cb": {
+      "source": "win your first 3v3",
+      "ja": "3対3で初勝利する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.76692d3fd7012183": {
+      "source": "Divide and Conquer",
+      "ja": "分担して勝て",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.0cac5beab59cf475": {
+      "source": "win your first 4v4",
+      "ja": "4対4で初勝利する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.37feddce30557fa4": {
+      "source": "Clockwork",
+      "ja": "精密な連携",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.28f2be8e3be8baf5": {
+      "source": "win your first 5v5",
+      "ja": "5対5で初勝利する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.a72093cadab82041": {
+      "source": "Organized Chaos",
+      "ja": "秩序ある混沌",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.3ea7f36c262a796b": {
+      "source": "win your first 6v6",
+      "ja": "6対6で初勝利する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.45ee70e2a5928542": {
+      "source": "Full Power",
+      "ja": "全力全開",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.7b0af52d456068c8": {
+      "source": "score a point with a fully charged spike",
+      "ja": "最大までためたスパイクで得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.f9eeb0d150067685": {
+      "source": "Fragile",
+      "ja": "もろい壁",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.b3ba18ef0083ef92": {
+      "source": "get your block broken for the first time",
+      "ja": "初めて自分のブロックを打ち破られる",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.310b02ef1be9f84e": {
+      "source": "Sweep",
+      "ja": "ストレート勝ち",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.6d0eb31c40ba7c54": {
+      "source": "win both sets in a row in a best of three",
+      "ja": "2セット先取の試合で、2セット連取して勝つ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.256aebde125d23e7": {
+      "source": "Flop",
+      "ja": "ストレート負け",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.ae43df9945dda324": {
+      "source": "lose both sets in a row in a best of three",
+      "ja": "2セット先取の試合で、2セット連続で落とす",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.7cb9328f5075f573": {
+      "source": "A Match with No Rematch",
+      "ja": "再戦のない試合",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.f4f47053df21cb1f": {
+      "source": "finish a quick match on nationals and don't play again",
+      "ja": "全国大会ステージのクイックマッチを終え、再戦せずに退出する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.d0db8b5e364b6989": {
+      "source": "Options",
+      "ja": "攻撃の選択肢",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.a42f3b76c5d2d003": {
+      "source": "score a cross spike",
+      "ja": "クロススパイクで得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.79395313322fbaca": {
+      "source": "Gotcha",
+      "ja": "引っかかった",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.5b5ab2ccaa259bdc": {
+      "source": "score a point using the net",
+      "ja": "ネットを利用して得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.aa04340a58db537b": {
+      "source": "Long Rally",
+      "ja": "長いラリー",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.cb02e2fe396f0586": {
+      "source": "play a rally that lasted for more than one minute",
+      "ja": "1分を超えるラリーをする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.8ff821532c6c95bb": {
+      "source": "Flow State",
+      "ja": "ゾーンに入った",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.f904cd45753ca0de": {
+      "source": "play a rally that lasted for more than 2 minutes",
+      "ja": "2分を超えるラリーをする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.07f8532c8a580b9b": {
+      "source": "Ultimate Defense",
+      "ja": "究極の守備",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.9f0332ef36f343ca": {
+      "source": "block 100 attacks",
+      "ja": "攻撃を100回ブロックする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.a591a6d40bf42040": {
+      "source": "Hello World",
+      "ja": "世界へ飛び出せ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.b3acc9f476926c49": {
+      "source": "play your first online match",
+      "ja": "初めてオンライン対戦をする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.95eedfe99ebd4b83": {
+      "source": "Rare Sighting",
+      "ja": "珍しい出会い",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.9fc1290878f87450": {
+      "source": "play a match with the developer",
+      "ja": "開発者と対戦する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.691b353e4fd90034": {
+      "source": "Put Yourself Out There",
+      "ja": "実力を試そう",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.6b3e0b2109c792fb": {
+      "source": "complete all your placement matches",
+      "ja": "すべての認定戦を完了する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.ea0bedb7c8b0f3cb": {
+      "source": "Rookie",
+      "ja": "ルーキー",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.e7184565af6155a6": {
+      "source": "reach rookie rank for the first time",
+      "ja": "初めてルーキーランクに到達する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.8cc398e1bf70aecb": {
+      "source": "Amateur",
+      "ja": "アマチュア",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.703b850cc023251a": {
+      "source": "reach amateur rank for the first time",
+      "ja": "初めてアマチュアランクに到達する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.5120a34d0c603483": {
+      "source": "Semi-Pro",
+      "ja": "セミプロ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.ff3ca918fcd05ddc": {
+      "source": "reach semi-pro rank for the first time",
+      "ja": "初めてセミプロランクに到達する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.957b0b874524d09a": {
+      "source": "Pro",
+      "ja": "プロ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.95be25d52b7487e8": {
+      "source": "reach pro rank for the first time",
+      "ja": "初めてプロランクに到達する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.78363d481cf1cc03": {
+      "source": "All-Star",
+      "ja": "オールスター",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.f471ddd19b939f8c": {
+      "source": "reach all-star rank for the first time",
+      "ja": "初めてオールスターランクに到達する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.865b30e2fae6d778": {
+      "source": "National",
+      "ja": "ナショナル",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.87535c03d796a747": {
+      "source": "reach national rank for the first time",
+      "ja": "初めてナショナルランクに到達する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.6f33ba945891c836": {
+      "source": "John Volleyball",
+      "ja": "ジョン・バレーボール",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.dd6bae6e8f3b265b": {
+      "source": "unlock every main achievement",
+      "ja": "メイン実績をすべて解除する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.6d2a6ea7f0f58813": {
+      "source": "play a match on the beach",
+      "ja": "ビーチで試合をする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.93ab940e4c8e7a6b": {
+      "source": "play a match on the grass court",
+      "ja": "芝生のコートで試合をする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.e510f5872a48ba4d": {
+      "source": "play a match in the clouds",
+      "ja": "雲の上で試合をする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.cfe4a90b5ef77fb6": {
+      "source": "play a match in crow gym",
+      "ja": "カラスの体育館で試合をする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.94b9a04271b58961": {
+      "source": "play a match in the nationals arena",
+      "ja": "全国大会会場で試合をする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.92d5f428e28069c0": {
+      "source": "play a match in the school gym",
+      "ja": "学校の体育館で試合をする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.29b36224d1ff4154": {
+      "source": "play a match in outer space",
+      "ja": "宇宙で試合をする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.e6c3e5559cb04fc7": {
+      "source": "play a match on the tutorial court",
+      "ja": "チュートリアルコートで試合をする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.25e877f81cbb2094": {
+      "source": "complete every %s drill",
+      "ja": "%s の練習をすべてクリアする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.5c89fc6d2caf0a4b": {
+      "source": "play 3 matches",
+      "ja": "3試合プレイする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.a63f013f4b4760bc": {
+      "source": "win 2 matches",
+      "ja": "2試合に勝つ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.2c1af1366e4998ed": {
+      "source": "win 3 sets",
+      "ja": "3セット取る",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.54a1a168176f7986": {
+      "source": "play 3 online matches",
+      "ja": "オンラインで3試合プレイする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.e199f62cb48f4741": {
+      "source": "play 20 minutes of matches",
+      "ja": "試合を20分プレイする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.8292a372c3390c09": {
+      "source": "score 3 spikes",
+      "ja": "スパイクで3得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.74be14df3c2d6f3b": {
+      "source": "score a fully charged spike",
+      "ja": "最大までためたスパイクで得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.4f1a3839877bfbb0": {
+      "source": "score a spike through a block",
+      "ja": "ブロックを打ち破るスパイクで得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.f7a74cca6db32d88": {
+      "source": "score with a dump",
+      "ja": "ツーアタックで得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.4781750251c4c700": {
+      "source": "score a point off a bam jump",
+      "ja": "BAMジャンプから得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.cd50fd308a4312cd": {
+      "source": "score a point on the line",
+      "ja": "ライン上に落として得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.4aa42d3ba3dd7002": {
+      "source": "score an ace",
+      "ja": "サービスエースを決める",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.cfe307c1237835a1": {
+      "source": "score 2 points off your serve",
+      "ja": "自分のサーブから2得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.12697f90ed966afa": {
+      "source": "win a rally you started with a jump float serve",
+      "ja": "自分のジャンプフローターで始まったラリーに勝つ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.8085775bb16c6583": {
+      "source": "block 3 attacks",
+      "ja": "攻撃を3回ブロックする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.b45004029d4e5b10": {
+      "source": "score a point with a block",
+      "ja": "ブロックで得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.14f2d7da9939684c": {
+      "source": "receive 10 balls",
+      "ja": "10回レシーブする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.747214af367653ae": {
+      "source": "receive 3 balls with a dive",
+      "ja": "ダイブレシーブを3回成功させる",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.6dda8e9f63099107": {
+      "source": "receive with a dive twice in a row",
+      "ja": "ダイブレシーブを2回続けて成功させる",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.91535f3cebe53a33": {
+      "source": "save a ball with the side roll",
+      "ja": "横へのローリングでボールを拾う",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.418b9db252604567": {
+      "source": "earn 3 assists",
+      "ja": "3回アシストする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.d814e4b5d82e2c3a": {
+      "source": "earn an assist with a high set",
+      "ja": "ハイトスでアシストする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.b5f186a69c62a253": {
+      "source": "earn an assist with a jump set",
+      "ja": "ジャンプトスでアシストする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.8a87015a2979f2d2": {
+      "source": "win 2 points off a combo of three",
+      "ja": "3タッチのコンボから2得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.d5a6917afdc9ae0b": {
+      "source": "end the other team's scoring run of 3",
+      "ja": "相手の3連続得点を止める",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.2826e7c69d0eef20": {
+      "source": "win a point while the other team is on match point",
+      "ja": "相手のマッチポイントで得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.cb72d6dca8761fa6": {
+      "source": "score 5 points in one match",
+      "ja": "1試合で5得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.9230b3f5d687515f": {
+      "source": "get 5 spikes in one match",
+      "ja": "1試合でスパイクを5回決める",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.18dd8d7028abf6ab": {
+      "source": "get 8 receives in one match",
+      "ja": "1試合でレシーブを8回成功させる",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.5b1e812ae928672f": {
+      "source": "achieve mvp in any match",
+      "ja": "いずれかの試合でMVPになる",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.3fb444e07d732d3d": {
+      "source": "play a match of 4v4 or bigger",
+      "ja": "4対4以上の試合をプレイする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.524d092d4a76fbd6": {
+      "source": "play a match in the evening",
+      "ja": "夕方に試合をする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.3d391450fd3b301d": {
+      "source": "play a match at night",
+      "ja": "夜に試合をする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.f5c56f3100c4b1b7": {
+      "source": "jump 100 times",
+      "ja": "100回ジャンプする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.da01315d8897f4a9": {
+      "source": "bam jump 10 times",
+      "ja": "BAMジャンプを10回行う",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.8ec1c650c8972524": {
+      "source": "use quick chat 10 times",
+      "ja": "クイックチャットを10回使う",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.62d28be9fe155c8c": {
+      "source": "spend 10 minutes in freeplay",
+      "ja": "フリー練習で10分過ごす",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.d1be930a9e4435f5": {
+      "source": "change your character in the locker",
+      "ja": "ロッカーでキャラクターを変更する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.87c559c601030d67": {
+      "source": "save a preset in the locker",
+      "ja": "ロッカーでプリセットを保存する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.20c4d386afd77942": {
+      "source": "make a picture in the locker studio",
+      "ja": "ロッカースタジオで画像を作る",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.bf90ff63317c1329": {
+      "source": "copy a look code from a player card",
+      "ja": "プレイヤーカードから外見コードをコピーする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.7947cc4d10575b72": {
+      "source": "change your outfit in the menu",
+      "ja": "メニューでユニフォームを変更する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.cf22e3c693e1a114": {
+      "source": "change your ball in the menu",
+      "ja": "メニューでボールを変更する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.f0b647e64d5d5f51": {
+      "source": "play 15 matches",
+      "ja": "15試合プレイする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.64852035b8e7cc0a": {
+      "source": "win 8 matches",
+      "ja": "8試合に勝つ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.2c495b476430eaee": {
+      "source": "win 15 sets",
+      "ja": "15セット取る",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.70f1e6a2ba739006": {
+      "source": "play 15 online matches",
+      "ja": "オンラインで15試合プレイする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.496f2461bf84d569": {
+      "source": "play 2 hours of matches",
+      "ja": "試合を2時間プレイする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.15994c1609fb8087": {
+      "source": "win 3 matches in a row",
+      "ja": "3連勝する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.3ee8def1edf2889a": {
+      "source": "win a match right after losing one",
+      "ja": "負けた直後の試合に勝つ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.846f168cad3cc266": {
+      "source": "win a best of 3 without dropping a set",
+      "ja": "2セット先取の試合で、1セットも落とさず勝つ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.555de39712146052": {
+      "source": "win 2 deuce sets",
+      "ja": "デュースになったセットで2回勝つ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.3a384c59e29c02c2": {
+      "source": "win 3 1v1 matches",
+      "ja": "1対1で3勝する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.57322dafb2077493": {
+      "source": "win 3 2v2 matches",
+      "ja": "2対2で3勝する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.20e6376bb776faca": {
+      "source": "win 3 3v3 matches",
+      "ja": "3対3で3勝する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.e3968b2fd61baf0a": {
+      "source": "win 3 4v4 matches",
+      "ja": "4対4で3勝する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.88ea0dfd7e511fd4": {
+      "source": "win 3 5v5 matches",
+      "ja": "5対5で3勝する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.55910b3966bee575": {
+      "source": "win 3 6v6 matches",
+      "ja": "6対6で3勝する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.0cd84ae5c1dd58c1": {
+      "source": "play 5 matches at night",
+      "ja": "夜に5試合プレイする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.85beaec568ba2daf": {
+      "source": "score 100 spikes",
+      "ja": "スパイクで100得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.abb37b81b45d84e0": {
+      "source": "score 25 fully charged spikes",
+      "ja": "最大までためたスパイクで25得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.fc1ad067c8c055b8": {
+      "source": "score 50 cross spikes",
+      "ja": "クロススパイクで50得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.b895101264450da3": {
+      "source": "score 20 spikes through a block",
+      "ja": "ブロックを打ち破るスパイクで20得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.605bfead70450a4a": {
+      "source": "score 25 quick attacks",
+      "ja": "速攻で25得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.12205eca5c6ea630": {
+      "source": "score 20 dumps",
+      "ja": "ツーアタックで20得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.9b787970321bf9cc": {
+      "source": "score 25 points off a bam jump",
+      "ja": "BAMジャンプから25得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.1f9737a8ecc45d27": {
+      "source": "spike off the first touch 25 times",
+      "ja": "1回目のタッチで25回スパイクする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.64ef242068295de0": {
+      "source": "score 20 points on the line",
+      "ja": "ライン上に落として20得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.549bab12f0da649e": {
+      "source": "score 20 aces",
+      "ja": "サービスエースを20回決める",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.c7a7bd49c00416b4": {
+      "source": "score 50 points off your serve",
+      "ja": "自分のサーブから50得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.cab9204f68b9752e": {
+      "source": "win 20 rallies you started with a jump float serve",
+      "ja": "自分のジャンプフローターで始まったラリーに20回勝つ",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.8e6869e991172d26": {
+      "source": "block 50 attacks",
+      "ja": "攻撃を50回ブロックする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.44c353828ab6fba2": {
+      "source": "block 20 attacks by shifting your hands",
+      "ja": "手の位置をずらして20回ブロックする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.df1bb6c33e268203": {
+      "source": "score 20 points with a block",
+      "ja": "ブロックで20得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.d8d4f5e51c2890d3": {
+      "source": "receive 200 balls",
+      "ja": "200回レシーブする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.f6dd3c4577e18278": {
+      "source": "receive 60 balls with a dive",
+      "ja": "ダイブレシーブを60回成功させる",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.e94038a73dacd246": {
+      "source": "save 20 balls with the side roll",
+      "ja": "横へのローリングで20回ボールを拾う",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.cad72bb4d912e46e": {
+      "source": "earn 60 assists",
+      "ja": "60回アシストする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.27ceb619fc71b643": {
+      "source": "earn 30 assists with high sets",
+      "ja": "ハイトスで30回アシストする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.0312ac1e6c30c967": {
+      "source": "earn 30 assists with jump sets",
+      "ja": "ジャンプトスで30回アシストする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.7067a6caf32cf770": {
+      "source": "win 40 points off a combo of three",
+      "ja": "3タッチのコンボから40得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.5303e6cafdc3d3ed": {
+      "source": "end the other team's scoring run 20 times",
+      "ja": "相手の連続得点を20回止める",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.bbc9b7a88ebfa6b3": {
+      "source": "win 10 points while the other team is on match point",
+      "ja": "相手のマッチポイントで10回得点する",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.a23a3f4638f193b7": {
+      "source": "play a rally that lasts more than a minute",
+      "ja": "1分を超えるラリーをする",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.db4e513e079f47e6": {
+      "source": "achieve mvp in 5 matches",
+      "ja": "5試合でMVPになる",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.8bf94f85b2bcefba": {
+      "source": "get 10 spikes in one match",
+      "ja": "1試合でスパイクを10回決める",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.5927b0a457487c7b": {
+      "source": "get 15 receives in one match",
+      "ja": "1試合でレシーブを15回成功させる",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.a916fff35906aaef": {
+      "source": "bam jump 50 times",
+      "ja": "BAMジャンプを50回行う",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.fc9eb651f5330139": {
+      "source": "use quick chat 100 times",
+      "ja": "クイックチャットを100回使う",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.e390aafaea095193": {
+      "source": "spend an hour in freeplay",
+      "ja": "フリー練習で1時間過ごす",
+      "status": "draft",
+      "note": ""
+    },
+    "achievements.b5ead413e604b1ff": {
+      "source": "have 5 presets saved in the locker",
+      "ja": "ロッカーにプリセットを5個保存する",
+      "status": "draft",
+      "note": ""
+    }
+  }
+}

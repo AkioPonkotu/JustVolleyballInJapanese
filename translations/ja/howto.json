@@ -1,0 +1,1428 @@
+{
+  "schema_version": 1,
+  "locale": "ja",
+  "domain": "howto",
+  "entries": {
+    "howto.dab4728defb55dcb": {
+      "context": "/categories/0/name",
+      "source": "controls",
+      "ja": "操作設定",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.147870935befad27": {
+      "context": "/categories/0/groups/0/sections/0/title",
+      "source": "controls",
+      "ja": "操作設定",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.2e3137dc8679b1f2": {
+      "context": "/categories/0/groups/0/sections/0/body/0",
+      "source": "the following inputs update according to your active profiles binds!",
+      "ja": "以下の操作表示は、使用中のプロフィールのキー割り当てに合わせて変わります！",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.b9746794cacc66dd": {
+      "context": "/categories/1/name",
+      "source": "the basics",
+      "ja": "基本",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.5ac41c60734a3a62": {
+      "context": "/categories/1/groups/0/title",
+      "source": "the basics of volleyball",
+      "ja": "バレーボールの基本",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.7c8d3d64ebd2e88f": {
+      "context": "/categories/1/groups/0/sections/0/title",
+      "source": "what is volleyball?",
+      "ja": "バレーボールとは？",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.947e8f338ec388ca": {
+      "context": "/categories/1/groups/0/sections/0/body/0",
+      "source": "volleyball is a team sport, where traditionally, two teams of six players are split by a net, and try to get the ball to hit the ground on the opponent's side of the court.",
+      "ja": "バレーボールは、一般に6人ずつの2チームがネットを挟んで対戦し、相手コートにボールを落とすことを目指すチームスポーツです。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.15e04a9519f22f40": {
+      "context": "/categories/1/groups/0/sections/1/title",
+      "source": "three touches",
+      "ja": "3回のタッチ",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.ebac94ed64fbd327": {
+      "context": "/categories/1/groups/0/sections/1/body/0",
+      "source": "each team is allowed a maximum of three touches before they must return the ball over the net. something important to note, a block does not count as a touch.",
+      "ja": "各チームは、ボールをネットの向こうに返すまでに最大3回触れられます。ただし、ブロックはタッチ回数に数えません。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.dc9fc8b5ddc68c3b": {
+      "context": "/categories/1/groups/0/sections/1/body/1",
+      "source": "the reason volleyball is so team based, is because one player cannot hit the ball twice in a row. there are many more rules, but these are the only ones that will apply to you in this game.",
+      "ja": "同じ選手はボールに2回続けて触れられません。そのため、チームの連携が重要です。実際の競技にはほかにもルールがありますが、このゲームでまず覚えるのはこれだけです。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.fba56721d56bd14e": {
+      "context": "/categories/1/groups/0/sections/1/body/2",
+      "source": "the only exception is a one on one, where you're allowed to touch the ball yourself three times, since there's nobody else on your side.",
+      "ja": "例外は1対1です。自分のコートにほかの選手がいないため、1人で3回まで触れられます。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.e0b9c7c119c1d112": {
+      "context": "/categories/1/groups/1/title",
+      "source": "what is just volleyball?",
+      "ja": "just volleyballとは？",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.0a31a71c43b98930": {
+      "context": "/categories/1/groups/1/sections/0/title",
+      "source": "arcade volleyball",
+      "ja": "アーケードスタイルのバレー",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.a4386929d8a0f679": {
+      "context": "/categories/1/groups/1/sections/0/body/0",
+      "source": "just volleyball is an arcade styled volleyball video game, it takes the core foundations of volleyball and turns it into a fast paced gaming experience.",
+      "ja": "just volleyballは、バレーボールの基本をもとに、テンポの速いプレイを楽しめるアーケードスタイルのゲームです。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.9e29fd12d47a7c8a": {
+      "context": "/categories/1/groups/1/sections/0/body/1",
+      "source": "instead of just six on six, you can play a one on one, two on two, three on three, four on four, five on five, all with the same levels of intensity as a six on six.",
+      "ja": "6対6だけでなく、1対1、2対2、3対3、4対4、5対5でも、6対6に負けない熱い試合を楽しめます。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.7225d5980785451e": {
+      "context": "/categories/1/groups/1/sections/1/title",
+      "source": "getting good",
+      "ja": "上達するには",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.8404522e4c4dd31b": {
+      "context": "/categories/1/groups/1/sections/1/body/0",
+      "source": "in order to become good at this game, there's a couple of core mechanics you want to understand, and some more advanced mechanics you might want to take advantage of.",
+      "ja": "上達するには、まず基本となる操作や仕組みを理解しましょう。慣れたら、さらに高度なテクニックにも挑戦してみてください。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.e8ab6ae7f9309abb": {
+      "context": "/categories/1/groups/2/title",
+      "source": "just volleyball default rules",
+      "ja": "just volleyballの標準ルール",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.e996d7f35c7fb664": {
+      "context": "/categories/1/groups/2/sections/0/title",
+      "source": "scoring",
+      "ja": "得点",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.c9dd5894edc85236": {
+      "context": "/categories/1/groups/2/sections/0/body/0",
+      "source": "by default, a sets are best of 3, and are played to 7 points, and you switch sides of the court after every set. in the case where both teams tie just before the end of a set, a deuce occurs. in a deuce, the match will not end until either team gets two points consecutively!",
+      "ja": "標準では2セット先取で、各セットは7点先取です。セットが終わるたびにコートを交代します。セット終了直前に同点になるとデュースとなり、どちらかが2点差をつけるまで続きます！",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.e21a8a963fdfb328": {
+      "context": "/categories/1/groups/2/sections/0/body/1",
+      "source": "in custom lobbies, the host can change all of this, and even turn on modifiers to mix things up!",
+      "ja": "カスタムロビーでは、ホストがこれらの設定を変更したり、特殊ルールを有効にしたりできます！",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.c59ed754f8d538b7": {
+      "context": "/categories/1/groups/2/sections/1/title",
+      "source": "serving rules",
+      "ja": "サーブのルール",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.94a2d1b028563171": {
+      "context": "/categories/1/groups/2/sections/1/body/0",
+      "source": "you have 15 seconds to serve, and you have to do it from the serve zone behind the back line! when doing a jump serve, you are allowed to toss it past the back line, and jump before you step a foot inside the court. when your team wins the serve back, everyone rotates one spot.",
+      "ja": "サーブは15秒以内に、エンドラインの後ろにあるサーブゾーンから打ちます。ジャンプサーブでは、トスしたボールがラインを越えても構いませんが、コート内に足を踏み入れる前に踏み切ってください。サーブ権を取り戻すと、全員が1つずつローテーションします。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.8aad53104a1b07e6": {
+      "context": "/categories/1/groups/2/sections/1/body/1",
+      "source": "keep in mind, you can't spike, tip, or block a serve, you have to receive it..",
+      "ja": "サーブに対してスパイク、フェイント、ブロックはできません。レシーブで受けましょう。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.ee359e4456ec9efc": {
+      "context": "/categories/1/groups/2/sections/2/title",
+      "source": "faults",
+      "ja": "反則",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.e68cbc4ce62d754d": {
+      "context": "/categories/1/groups/2/sections/2/table/0/0",
+      "source": "fault",
+      "ja": "反則",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.a3022cc77afa9168": {
+      "context": "/categories/1/groups/2/sections/2/table/0/1",
+      "source": "what happened",
+      "ja": "原因",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.1431683d3bfa51a7": {
+      "context": "/categories/1/groups/2/sections/2/table/1/0",
+      "source": "serve foul",
+      "ja": "サーブの反則",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.617a0e03c69b0ad1": {
+      "context": "/categories/1/groups/2/sections/2/table/1/1",
+      "source": "the serve timer expired, or you didn't make it across the net",
+      "ja": "サーブの制限時間を超えたか、ネットを越えませんでした",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.76f8d5f05450d1ff": {
+      "context": "/categories/1/groups/2/sections/2/table/2/0",
+      "source": "foot fault",
+      "ja": "フットフォルト",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.2789ad1043b09300": {
+      "context": "/categories/1/groups/2/sections/2/table/2/1",
+      "source": "you served from the wrong spot, or jumped from inside the court",
+      "ja": "サーブを打つ位置が違うか、コート内からジャンプしました",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.a2986e03134fd78e": {
+      "context": "/categories/1/groups/2/sections/2/table/3/0",
+      "source": "line fault",
+      "ja": "センターラインの反則",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.fba897a4899f89fa": {
+      "context": "/categories/1/groups/2/sections/2/table/3/1",
+      "source": "you went too far onto the other team's side",
+      "ja": "相手コートへ入り込みすぎました",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.1b91bc28da811bb2": {
+      "context": "/categories/1/groups/2/sections/2/table/4/0",
+      "source": "outside the antenna",
+      "ja": "アンテナ外通過",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.589b701b530093d3": {
+      "context": "/categories/1/groups/2/sections/2/table/4/1",
+      "source": "the ball went outside the antenna",
+      "ja": "ボールがアンテナの外側を通過しました",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.0ca64c415211054f": {
+      "context": "/categories/1/groups/2/sections/2/table/5/0",
+      "source": "illegal attack on serve",
+      "ja": "サーブへの不正な攻撃",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.a28b34d440622b7c": {
+      "context": "/categories/1/groups/2/sections/2/table/5/1",
+      "source": "you spiked, tipped, or blocked a serve",
+      "ja": "サーブをスパイク、フェイント、ブロックで返しました",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.e71ebe0ede4d1bb3": {
+      "context": "/categories/1/groups/2/sections/2/table/6/0",
+      "source": "four touches",
+      "ja": "フォアヒット",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.6770b0ff57c45780": {
+      "context": "/categories/1/groups/2/sections/2/table/6/1",
+      "source": "your team touched the ball more than three times",
+      "ja": "チームがボールに4回以上触れました",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.60126b8c2f03fb91": {
+      "context": "/categories/2/name",
+      "source": "the screen",
+      "ja": "画面の見方",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.6e6727539749b718": {
+      "context": "/categories/2/groups/0/title",
+      "source": "the cursor system",
+      "ja": "カーソルの仕組み",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.1e6be781369e95cd": {
+      "context": "/categories/2/groups/0/sections/0/title",
+      "source": "your cursor",
+      "ja": "カーソル",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.9028fe6824a3495f": {
+      "context": "/categories/2/groups/0/sections/0/body/0",
+      "source": "in this game, every touch is influenced by where your cursor is. if you don't take time to understand this core concept, you will be constantly asking yourself \"what?\" or, \"how did that happen..\"",
+      "ja": "このゲームでは、すべてのタッチがカーソルの位置に影響されます。この基本を理解していないと、「えっ？」「どうしてそうなったの？」と思う場面が続いてしまいます。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.86997ff5247e4018": {
+      "context": "/categories/2/groups/0/sections/1/title",
+      "source": "what it means",
+      "ja": "どう影響するの？",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.c73a7741beca28b7": {
+      "context": "/categories/2/groups/0/sections/1/body/0",
+      "source": "so, what does this really mean? it means receiving, attacking, blocking, is all influenced by your cursor. receiving and attacking about 100%, blocking however, is a bit more variable.",
+      "ja": "レシーブ、攻撃、ブロックのすべてにカーソルが関わります。レシーブと攻撃はほぼ完全にカーソルの位置で決まり、ブロックにはほかの要素も関わります。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.3f7b987a398540fc": {
+      "context": "/categories/2/groups/0/sections/1/body/1",
+      "source": "to understand how the cursor impacts every aspect of gameplay, please read every section.",
+      "ja": "カーソルが各プレイにどう影響するかは、それぞれの項目を読んでみてください。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.ba7bfb3b665800ad": {
+      "context": "/categories/2/groups/1/title",
+      "source": "reading the screen",
+      "ja": "表示を読み取る",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.e9a800371eadae6d": {
+      "context": "/categories/2/groups/1/sections/0/title",
+      "source": "the ball",
+      "ja": "ボール",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.02e1bd7dd87cddbf": {
+      "context": "/categories/2/groups/1/sections/0/body/0",
+      "source": "the ring under the ball goes from green to red as it gets closer to the floor, and the marker on the floor shows you exactly where it's going to land.",
+      "ja": "ボールの下のリングは、床に近づくにつれて緑から赤に変わります。床に表示される目印は、ボールの正確な落下地点を示しています。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.3fbbefe7a0c05314": {
+      "context": "/categories/2/groups/1/sections/0/body/1",
+      "source": "if you see an x under the ball, it means you've already had your touch, and you can't touch it again.",
+      "ja": "ボールの下に×が表示されている場合は、すでにあなたが触れたため、続けて触れられないことを意味します。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.0d20816ab46a6115": {
+      "context": "/categories/2/groups/1/sections/1/title",
+      "source": "the reach marker",
+      "ja": "届く範囲の目印",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.1e3c0033fc9495db": {
+      "context": "/categories/2/groups/1/sections/1/body/0",
+      "source": "the arrows on the ball communicate various things, so iti's important to pay attention to them",
+      "ja": "ボールの矢印はさまざまな状態を表しています。色や動きに注目しましょう。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.b45a22055bcb34b6": {
+      "context": "/categories/2/groups/1/sections/1/table/0/0",
+      "source": "color",
+      "ja": "色",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.9d47004f9b2bd913": {
+      "context": "/categories/2/groups/1/sections/1/table/0/1",
+      "source": "what it means",
+      "ja": "どう影響するの？",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.44d866208d8c5208": {
+      "context": "/categories/2/groups/1/sections/1/table/1/0",
+      "source": "blue",
+      "ja": "青",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.389e085d6b770ffa": {
+      "context": "/categories/2/groups/1/sections/1/table/1/1",
+      "source": "ball is actionable",
+      "ja": "ボールに対して操作できる状態",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.26b26cd0112e914c": {
+      "context": "/categories/2/groups/1/sections/1/table/2/0",
+      "source": "yellow",
+      "ja": "黄",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.d4a40fe799b8d607": {
+      "context": "/categories/2/groups/1/sections/1/table/2/1",
+      "source": "your action is queued",
+      "ja": "操作を予約済み",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.098fcec4301ef988": {
+      "context": "/categories/2/groups/1/sections/1/table/3/0",
+      "source": "green",
+      "ja": "緑",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.99fc48ebeddbf1c1": {
+      "context": "/categories/2/groups/1/sections/1/table/3/1",
+      "source": "action succeeded",
+      "ja": "操作に成功",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.63cb02e99201fd85": {
+      "context": "/categories/2/groups/1/sections/1/table/4/0",
+      "source": "grey",
+      "ja": "灰",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.947d656515d8a312": {
+      "context": "/categories/2/groups/1/sections/1/table/4/1",
+      "source": "you pressed too early",
+      "ja": "入力が早すぎた",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.07f47e003dddd464": {
+      "context": "/categories/2/groups/1/sections/1/table/5/0",
+      "source": "shaking red",
+      "ja": "赤く震える",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.c0c7af95e6b59093": {
+      "context": "/categories/2/groups/1/sections/1/table/5/1",
+      "source": "action interrupted",
+      "ja": "操作が中断された",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.b4101306063f2165": {
+      "context": "/categories/2/groups/1/sections/1/table/6/0",
+      "source": "red",
+      "ja": "赤",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.bed16b902c596e3b": {
+      "context": "/categories/2/groups/1/sections/1/table/6/1",
+      "source": "action failed",
+      "ja": "操作に失敗",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.f94c722437f32190": {
+      "context": "/categories/2/groups/1/sections/2/title",
+      "source": "spiked balls",
+      "ja": "スパイクされたボール",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.734beb26f97ec593": {
+      "context": "/categories/2/groups/1/sections/2/body/0",
+      "source": "right after a ball gets spiked, it will glow blue for a moment. while it's blue, nobody can hit it in the air, but you can still receive it, or block it.",
+      "ja": "スパイク直後のボールは、一瞬青く光ります。青い間は空中で打ち返せませんが、レシーブやブロックはできます。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.93651b56d53ebfcc": {
+      "context": "/categories/3/name",
+      "source": "moving",
+      "ja": "移動",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.7e05b10c9abb2d50": {
+      "context": "/categories/3/groups/0/title",
+      "source": "movement",
+      "ja": "移動操作",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.b89c089933511d82": {
+      "context": "/categories/3/groups/0/sections/0/title",
+      "source": "moving around",
+      "ja": "コートを動き回る",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.90b443bc9b8840e4": {
+      "context": "/categories/3/groups/0/sections/0/body/0",
+      "source": "movement in just volleyball is simple, but it has a bit of quirks you should be aware of.",
+      "ja": "just volleyballの移動はシンプルですが、覚えておきたい特徴がいくつかあります。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.7dd8ef312bfe2bb9": {
+      "context": "/categories/3/groups/0/sections/0/body/1",
+      "source": "your standard movement is {kb:move_forward}{kb:move_left}{kb:move_back}{kb:move_right}, or {pad:move} on controller, and this is good enough to get you from point a to point b, if you're not in any rush.",
+      "ja": "基本の移動は、キーボードなら {kb:move_forward}{kb:move_left}{kb:move_back}{kb:move_right}、コントローラーなら {pad:move} です。急いでいなければ、これだけで目的の場所へ移動できます。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.1876e5f6dc329d8d": {
+      "context": "/categories/3/groups/0/sections/1/title",
+      "source": "strafing",
+      "ja": "ストレイフ",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.81ae10d1ee349685": {
+      "context": "/categories/3/groups/0/sections/1/body/0",
+      "source": "sometimes you might need to stop on a dime, and instantly cancel momentum. by pressing {kb:strafe} or {pad:strafe} you can enter strafe, which will kill any horizontal momentum you have and allow you to easily pivot.",
+      "ja": "急停止したり、すぐに慣性を消したりしたいときは、{kb:strafe} または {pad:strafe} でストレイフしましょう。横方向の慣性がなくなり、その場で向きを変えやすくなります。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.79f0156ec7ff3713": {
+      "context": "/categories/3/groups/0/sections/1/body/1",
+      "source": "by strafing, your player also always faces where your cursor is pointing. this is most ideal for keeping yourself facing towards the action. we will get into the specifics of that individually in each section.",
+      "ja": "ストレイフ中は、キャラクターが常にカーソルの方を向きます。プレイが行われている方向を向き続けたいときに便利です。詳しい使い方は各項目で説明します。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.3780ca9c051837e5": {
+      "context": "/categories/3/groups/0/sections/2/title",
+      "source": "sprinting",
+      "ja": "ダッシュ",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.344091d9044b8c12": {
+      "context": "/categories/3/groups/0/sections/2/body/0",
+      "source": "by double tapping a movement key or pressing {kb:sprint} on the keyboard, or pressing {pad:sprint} on the controller, you can sprint, but you have to use it sparingly, as it will drain your stamina quickly.",
+      "ja": "キーボードでは移動キーを2回押すか {kb:sprint}、コントローラーでは {pad:sprint} でダッシュできます。ただし、スタミナをすぐに消費するため、使いどころを考えましょう。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.b67e87ce6744c6b1": {
+      "context": "/categories/3/groups/0/sections/3/title",
+      "source": "bumping into people",
+      "ja": "選手との衝突",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.f0496a07679b53bd": {
+      "context": "/categories/3/groups/0/sections/3/body/0",
+      "source": "players can knock each other over, if you land on someone's head, they'll fall to the floor for a moment. keep this in mind when you're going up right next to your teammates.",
+      "ja": "選手同士はぶつかって転ぶことがあります。誰かの頭に着地すると、その選手はしばらく床に倒れます。味方のすぐ隣でジャンプするときは注意しましょう。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.86b498dd72ca9c68": {
+      "context": "/categories/3/groups/1/title",
+      "source": "jumping",
+      "ja": "ジャンプ",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.2073395b0787c912": {
+      "context": "/categories/3/groups/1/sections/0/title",
+      "source": "the jump",
+      "ja": "ジャンプの基本",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.a9bef7090394b0f5": {
+      "context": "/categories/3/groups/1/sections/0/body/0",
+      "source": "you can't fight in the air if you can't jump. to jump you can tap {kb:jump} or {pad:jump} for low jumps, but for high jumps, you have to charge the jump input {kb:jump} or {pad:jump} and release when you have sufficient power.",
+      "ja": "空中でプレイするにはジャンプが必要です。{kb:jump} または {pad:jump} を短く押すと低く跳びます。高く跳ぶには {kb:jump} または {pad:jump} を長押しし、十分に力がたまったところで離します。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.583f58e8b1be0ef2": {
+      "context": "/categories/3/groups/1/sections/0/body/1",
+      "source": "do keep in mind, you can't hold a jump charge forever, it will start to decay after a time.",
+      "ja": "ジャンプのためを永遠に維持することはできません。しばらくすると、たまった力が減り始めます。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.5395b3aa7a4c03f1": {
+      "context": "/categories/3/groups/1/sections/1/title",
+      "source": "bam jump",
+      "ja": "BAMジャンプ",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.753f4ad90be3457f": {
+      "context": "/categories/3/groups/1/sections/1/body/0",
+      "source": "if you really want to take flight, you can perform a bam jump by releasing when your jump meter flashes white after charging.",
+      "ja": "もっと高く跳ぶには、ためたジャンプゲージが白く光った瞬間にボタンを離して、BAMジャンプを決めましょう。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.2b65413535272b8b": {
+      "context": "/categories/3/groups/1/sections/2/title",
+      "source": "tilting",
+      "ja": "体を傾ける",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.bc2d79934e9af96b": {
+      "context": "/categories/3/groups/1/sections/2/body/0",
+      "source": "while in the air, you can tilt your character in certain directions with {kb:move_forward}{kb:move_left}{kb:move_back}{kb:move_right} or {pad:move}, pay attention to this, because it will influence other aspects of the game.",
+      "ja": "空中では、{kb:move_forward}{kb:move_left}{kb:move_back}{kb:move_right} または {pad:move} で体を傾けられます。傾ける方向はほかのプレイにも影響するので、意識してみましょう。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.a6351e36dac019a1": {
+      "context": "/categories/3/groups/1/sections/2/body/1",
+      "source": "when you spike, tilting forward with {kb:move_forward} or {pad:move_forward} will hit the ball faster and flatter, tilting back with {kb:move_back} or {pad:move_back} will hit it softer and higher, and tilting to the side with {kb:move_left} {kb:move_right} or {pad:move_left} {pad:move_right} will curve it. when you jump serve, tilting back turns it into a floater.",
+      "ja": "スパイク時に {kb:move_forward} または {pad:move_forward} で前へ傾けると、速く低い弾道になります。{kb:move_back} または {pad:move_back} で後ろへ傾けると、遅く高い弾道になります。{kb:move_left} {kb:move_right} または {pad:move_left} {pad:move_right} で左右へ傾けるとカーブします。ジャンプサーブで後ろへ傾けるとフローターになります。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.2a35330d7683f81a": {
+      "context": "/categories/3/groups/1/sections/2/body/2",
+      "source": "tilting forward with {kb:move_forward} or {pad:move_forward} also matters when you jump set close to the net, it turns your set into a setter dump! you can read more about that in the setting section.",
+      "ja": "ネット際のジャンプトスでも、{kb:move_forward} または {pad:move_forward} で前へ傾けるとツーアタックになります！詳しくはトスの項目を読んでください。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.8f53e73af0a47d1f": {
+      "context": "/categories/3/groups/2/title",
+      "source": "stamina",
+      "ja": "スタミナ",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.50a75c8366dbe230": {
+      "context": "/categories/3/groups/2/sections/0/title",
+      "source": "the stamina bar",
+      "ja": "スタミナゲージ",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.1833557633682746": {
+      "context": "/categories/3/groups/2/sections/0/body/0",
+      "source": "in this game, you have a stamina bar, and only two actions affect it, those being your dive, and your sprint.",
+      "ja": "このゲームでスタミナを消費する操作は、ダイブとダッシュの2つだけです。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.fdd45036e2f526f7": {
+      "context": "/categories/3/groups/2/sections/1/title",
+      "source": "burn out",
+      "ja": "スタミナ切れ",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.a8cbd427e2c0a0b6": {
+      "context": "/categories/3/groups/2/sections/1/body/0",
+      "source": "if you run out of stamina, your character enters a \"burn out\" state. the fastest way to recover is to remain stationary, however stamina will replenish over time regardless.",
+      "ja": "スタミナを使い切ると「スタミナ切れ」状態になります。動かずにいると最も早く回復しますが、動いていても時間とともに回復します。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.a3baa336df8181e7": {
+      "context": "/categories/3/groups/2/sections/1/body/1",
+      "source": "if you are in burn out, and you end up on the floor, you will remain there until your stamina is about a third of the way back.",
+      "ja": "スタミナ切れの状態で床に倒れると、スタミナが3分の1ほど回復するまで起き上がれません。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.aabb73be196ce188": {
+      "context": "/categories/4/name",
+      "source": "receiving",
+      "ja": "レシーブ",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.7e9954254aa5e9d5": {
+      "context": "/categories/4/groups/0/title",
+      "source": "receiving",
+      "ja": "レシーブ",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.c6c3073d16708c4b": {
+      "context": "/categories/4/groups/0/sections/0/title",
+      "source": "positioning",
+      "ja": "位置取り",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.7c0c899d4039cf0f": {
+      "context": "/categories/4/groups/0/sections/0/body/0",
+      "source": "this is the core of volleyball, a good or bad bump will make or break a play.",
+      "ja": "レシーブはバレーボールの土台です。その出来が、プレイの成否を左右します。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.c8cfc2c1ac628cdf": {
+      "context": "/categories/4/groups/0/sections/0/body/1",
+      "source": "receiving is all about positioning over everything, you must read the court, understand where attackers prefer to hit, and put yourself in the best place possible 24/7.",
+      "ja": "レシーブでは、何より位置取りが重要です。コート全体を見て、相手がどこを狙いやすいかを考え、常に最善の位置へ動きましょう。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.e825bde351372f03": {
+      "context": "/categories/4/groups/0/sections/1/title",
+      "source": "the receive",
+      "ja": "レシーブの基本",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.b16be121fba54ad9": {
+      "context": "/categories/4/groups/0/sections/1/body/0",
+      "source": "when receiving, how still you are affects the quality of the receive.",
+      "ja": "レシーブ時にどれだけ静止しているかで、レシーブの質が変わります。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.9df5b0c4a869b333": {
+      "context": "/categories/4/groups/0/sections/1/body/1",
+      "source": "you don't need to perfectly time your input, you can actually just stand in the proper position and hold {kb:contact} or {pad:contact}, and of course, aim your cursor where you want the touch to go.",
+      "ja": "入力のタイミングを完璧に合わせる必要はありません。適切な位置で {kb:contact} または {pad:contact} を押し続ければ受けられます。もちろん、カーソルはボールを送りたい場所に合わせてください。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.e29db8413cc2f634": {
+      "context": "/categories/4/groups/0/sections/2/title",
+      "source": "diving",
+      "ja": "ダイブ",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.403eb9c0947064ae": {
+      "context": "/categories/4/groups/0/sections/2/body/0",
+      "source": "by pressing {kb:dive} or {pad:dive}, you can dive towards the ball, in cases where your positioning is off, and you won't be able to make it in time.",
+      "ja": "位置取りがずれて間に合わないときは、{kb:dive} または {pad:dive} でボールへダイブできます。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.9c727968dffa4c86": {
+      "context": "/categories/4/groups/0/sections/2/body/1",
+      "source": "it's important to note, your dive automatically goes to where the ball will end up, meaning you don't need to aim where you dive, not with your mouse, nor with your movement inputs. all you need to do is press the input, and make sure your cursor is placed where you want the ball to end up.",
+      "ja": "ダイブは自動でボールの落下地点へ向かいます。マウスや移動操作で飛び込む方向を指定する必要はありません。ダイブを入力し、カーソルをボールの送り先に合わせるだけです。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.37f7da316389ca3a": {
+      "context": "/categories/5/name",
+      "source": "setting",
+      "ja": "トス",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.bf2de80acbb56692": {
+      "context": "/categories/5/groups/0/title",
+      "source": "setting",
+      "ja": "トス",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.906418af457d32db": {
+      "context": "/categories/5/groups/0/sections/0/title",
+      "source": "the set",
+      "ja": "トスの基本",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.90474a78a8b1428c": {
+      "context": "/categories/5/groups/0/sections/0/body/0",
+      "source": "by pressing {kb:set} or {pad:set}, you can set the ball! you have a bit more control over the ball's tempo and speed, compared to receiving. the setting system is quite contextual, so please pay attention.",
+      "ja": "{kb:set} または {pad:set} でトスができます！レシーブよりもテンポや速さを調整しやすい操作です。状況によってトスの種類が変わるため、仕組みを覚えましょう。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.fd8d9713f1944469": {
+      "context": "/categories/5/groups/0/sections/0/body/1",
+      "source": "by simply tapping {kb:set} or {pad:set}, you will do a high, slow toss that lands right where your cursor is. you can aim on yourself, or anywhere on the court.",
+      "ja": "{kb:set} または {pad:set} を短く押すと、カーソルの位置へ届く、高くゆっくりしたトスになります。自分の真上も、コート内のほかの場所も狙えます。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.93a31a20cc13a4e5": {
+      "context": "/categories/5/groups/0/sections/1/title",
+      "source": "high sets and quick sets",
+      "ja": "ハイトスとクイックトス",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.b998b60b79854d2f": {
+      "context": "/categories/5/groups/0/sections/1/body/0",
+      "source": "to do a high set, you have to aim the cursor right on your character, and charge {kb:set} or {pad:set}.",
+      "ja": "ハイトスを上げるには、自分のキャラクターにカーソルを合わせ、{kb:set} または {pad:set} を長押しします。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.0281c9510f57a2a4": {
+      "context": "/categories/5/groups/0/sections/1/body/1",
+      "source": "to do a quick set, you can charge {kb:set} or {pad:set} and aim anywhere that's not near your character.",
+      "ja": "クイックトスを上げるには、自分の近く以外の場所を狙い、{kb:set} または {pad:set} を長押しします。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.95ffd72b636a2244": {
+      "context": "/categories/5/groups/0/sections/2/title",
+      "source": "jump sets",
+      "ja": "ジャンプトス",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.dfa18fc09bcae4c0": {
+      "context": "/categories/5/groups/0/sections/2/body/0",
+      "source": "a good setter keeps the opposing team confused, you can press {kb:set} or {pad:set} mid air to jump set, allowing you to switch up the tempo, and sync up with your attackers.",
+      "ja": "優れたセッターは、相手に攻撃を読ませません。空中で {kb:set} または {pad:set} を押すとジャンプトスになり、攻撃のテンポを変えたり、アタッカーとタイミングを合わせたりできます。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.d89ee52f17aec005": {
+      "context": "/categories/5/groups/0/sections/2/body/1",
+      "source": "understanding how to maneuver this system will prevent you from being confused.",
+      "ja": "状況によるトスの変化を理解しておくと、意図したプレイができるようになります。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.a3aa82dd3f1ceaa6": {
+      "context": "/categories/5/groups/0/sections/3/title",
+      "source": "setter dump",
+      "ja": "ツーアタック",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.e3f40c71d480d41b": {
+      "context": "/categories/5/groups/0/sections/3/body/0",
+      "source": "a good setter can also score on the second touch with a setter dump. to do one, aim your cursor across the net, jump set with {kb:set} or {pad:set}, and tilt forward with {kb:move_forward} or {pad:move_forward} as you set. instead of setting, you'll tip the ball over the net to where you're aiming. keep in mind, you have to be in front of the attack line for it to work.",
+      "ja": "セッター自身が2回目のタッチで得点を狙うのがツーアタックです。カーソルをネットの向こうに合わせ、{kb:set} または {pad:set} でジャンプトスをしながら、{kb:move_forward} または {pad:move_forward} で前へ傾けましょう。トスの代わりに、狙った場所へネットを越すボールを送ります。アタックラインより前で行う必要があります。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.397a86dc9a13ed23": {
+      "context": "/categories/5/groups/0/sections/3/body/1",
+      "source": "if your cursor is still on one of your hitters, the dump just drops over the net right in front of you, so you can keep the other team guessing until the last second!",
+      "ja": "カーソルが味方のアタッカーに合っていても、ボールは自分の目の前でネットを越えて落ちます。最後の瞬間まで相手に読ませずに仕掛けられます！",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.38dc0ae4338abcd4": {
+      "context": "/categories/6/name",
+      "source": "attacking",
+      "ja": "攻撃",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.01cc817e4b980f85": {
+      "context": "/categories/6/groups/0/title",
+      "source": "attacking",
+      "ja": "攻撃",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.a4cc3ddfcf156ee8": {
+      "context": "/categories/6/groups/0/sections/0/title",
+      "source": "the spike",
+      "ja": "スパイクの基本",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.98d315f77edcbeb4": {
+      "context": "/categories/6/groups/0/sections/0/body/0",
+      "source": "attacking is typically the third touch, to spike, you must be in the air first. you can charge {kb:contact} or {pad:contact} to charge your spike, and release it once you have sufficient power. when you release, you need to make sure you are aiming on the other side of the net with your cursor, or you'll spike it straight into your own court.",
+      "ja": "攻撃は通常、3回目のタッチで行います。スパイクにはまずジャンプが必要です。{kb:contact} または {pad:contact} を長押しして力をため、十分にたまったところで離します。その際、カーソルを必ずネットの向こう側に合わせてください。自陣を狙うと、そのまま自分のコートに打ち込んでしまいます。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.e350dc3187e4d742": {
+      "context": "/categories/6/groups/0/sections/0/body/1",
+      "source": "a simple tap of {kb:contact} or {pad:contact} will only do a soft lob. so no, sitting near the net and spamming your input does not work.",
+      "ja": "{kb:contact} または {pad:contact} を短く押すだけでは、弱い山なりの球になります。ネット際でボタンを連打するだけでは、強い攻撃はできません。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.778a4697b6a4347e": {
+      "context": "/categories/6/groups/0/sections/1/title",
+      "source": "power",
+      "ja": "パワー",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.277e42dbe4aa5227": {
+      "context": "/categories/6/groups/0/sections/1/body/0",
+      "source": "charging your spike alone won't give you full power. to really let it rip, you want to hit the ball right at the top of your jump, that's perfect timing, and it gives you full power no matter how long you charged.",
+      "ja": "スパイクをためるだけでは最大の威力になりません。ジャンプの頂点でボールを打つと完璧なタイミングになり、ためた長さにかかわらず最大のパワーを発揮できます。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.74b493715bc5ffbc": {
+      "context": "/categories/6/groups/0/sections/1/body/1",
+      "source": "running towards where you're aiming before you jump will also make your spike hit harder, and spiking on your team's third touch gives you a little bonus too.",
+      "ja": "ジャンプ前に狙う方向へ走ることでも、スパイクが強くなります。さらに、チームの3回目のタッチで打つと、少し威力が上がります。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.49236ec172fb589e": {
+      "context": "/categories/6/groups/0/sections/2/title",
+      "source": "tilting your spike",
+      "ja": "体の傾きとスパイク",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.11b3327f0f32e028": {
+      "context": "/categories/6/groups/0/sections/2/body/0",
+      "source": "by tilting your character mid air, left or right with {kb:move_left} {kb:move_right} or {pad:move_left} {pad:move_right}, you can add curve to your spike.",
+      "ja": "空中で {kb:move_left} {kb:move_right} または {pad:move_left} {pad:move_right} を使って左右に体を傾けると、スパイクにカーブをかけられます。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.3c88cfb3b53ac9b2": {
+      "context": "/categories/6/groups/0/sections/2/body/1",
+      "source": "tilting forward with {kb:move_forward} or {pad:move_forward} as you spike will hit the ball faster and flatter, and tilting back with {kb:move_back} or {pad:move_back} will hit it softer and higher.",
+      "ja": "{kb:move_forward} または {pad:move_forward} で前へ傾けて打つと速く低い弾道に、{kb:move_back} または {pad:move_back} で後ろへ傾けて打つと遅く高い弾道になります。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.df78bf5cfc813bb0": {
+      "context": "/categories/6/groups/0/sections/3/title",
+      "source": "against the block",
+      "ja": "ブロックとの駆け引き",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.5dff1698a4ff0bf2": {
+      "context": "/categories/6/groups/0/sections/3/body/0",
+      "source": "attacking can be more than just trying to make the ball hit the floor, you can attempt to break a block, if you notice someone's blocking at a bad angle, or you can try to force a wipe, if you are slightly elevated above the block.",
+      "ja": "攻撃は、床へ直接ボールを落とすだけではありません。相手のブロックの角度が悪ければ打ち破り、ブロックより少し高い位置から打てるなら、手に当てて外へ弾き出すことも狙えます。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.cdd776a78f77c2ca": {
+      "context": "/categories/6/groups/0/sections/3/body/1",
+      "source": "you can also force a rebound by simply tapping {kb:contact} or {pad:contact} against a block, but this only works if they're late. if their block is on time, the ball will just die off their hands, and a perfect block will always win. regardless, once you understand these simple things, your attacking options expand.",
+      "ja": "相手のブロックが遅れている場合は、{kb:contact} または {pad:contact} を短く押し、ブロックに当ててボールを戻すこともできます。ただし、タイミングのよいブロックではボールが手元で落ち、完璧なブロックには勝てません。こうした違いを覚えると、攻撃の選択肢が広がります。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.8bdc6661f6dd6048": {
+      "context": "/categories/6/groups/0/sections/4/title",
+      "source": "some advice",
+      "ja": "攻撃のヒント",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.e8ff391f35ac1de3": {
+      "context": "/categories/6/groups/0/sections/4/body/0",
+      "source": "it's better to read the court and find the best position to spike, rather than just letting it rip. maybe hitting it straight down the line is good, or maybe a cross shot. take advantage of the moment.",
+      "ja": "むやみに強打するよりも、コートを見て有効な場所を狙いましょう。ライン際へのストレートがよい場合も、クロスがよい場合もあります。状況を見極めて打ちましょう。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.77a77c1041decef7": {
+      "context": "/categories/7/name",
+      "source": "blocking",
+      "ja": "ブロック",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.6fadcda136dccc95": {
+      "context": "/categories/7/groups/0/title",
+      "source": "blocking",
+      "ja": "ブロック",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.0f8c7bdd77ae845e": {
+      "context": "/categories/7/groups/0/sections/0/title",
+      "source": "the block",
+      "ja": "ブロックの基本",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.94a94f8d1eb004d8": {
+      "context": "/categories/7/groups/0/sections/0/body/0",
+      "source": "like attacking, you must first be in the air, and then when the moment is right you can press {kb:block} or {pad:block} to hold your block up.",
+      "ja": "攻撃と同じく、まずジャンプします。適切なタイミングで {kb:block} または {pad:block} を押すと、手を上げてブロックできます。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.f0eaa8321d83864d": {
+      "context": "/categories/7/groups/0/sections/0/body/1",
+      "source": "once you've thrown your hands up, you can readjust them once, left or right mid air, by pressing {kb:move_left} {kb:move_right} or {pad:move_left} {pad:move_right}.",
+      "ja": "手を上げた後は、空中で一度だけ {kb:move_left} {kb:move_right} または {pad:move_left} {pad:move_right} を使い、手の位置を左右へ調整できます。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.a9d6d7b6810678fe": {
+      "context": "/categories/7/groups/0/sections/1/title",
+      "source": "timing",
+      "ja": "タイミング",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.0ee7a5a5de0d8439": {
+      "context": "/categories/7/groups/0/sections/1/body/0",
+      "source": "you don't want to throw up your hands too early, nor too late, because that determines the influence you get on the ball.",
+      "ja": "手を上げるのが早すぎても遅すぎてもよくありません。タイミングによって、ボールをどれだけ制御できるかが変わります。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.d79aa9cc361860ea": {
+      "context": "/categories/7/groups/0/sections/1/body/1",
+      "source": "a well timed block sends the ball straight down, towards the direction of your cursor. the ring around the cursor will fade out, indicating poor timing. block too late, and the ball goes in the direction of the spike.",
+      "ja": "タイミングよくブロックすると、ボールはカーソルの方向へ真下に落ちます。タイミングが悪くなるにつれて、カーソルの周りのリングが薄くなります。遅すぎると、ボールはスパイクと同じ方向へ飛んでいきます。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.7a4cf6543313524b": {
+      "context": "/categories/7/groups/0/sections/1/body/2",
+      "source": "where the ball contacts your hands matters too, the center is the kill block area, the edges and tips of your hands will result in wipes/tools.",
+      "ja": "ボールが手のどこに当たるかも重要です。中央で捉えるとシャットアウトしやすく、手の端や指先に当たると外へ弾かれ、ブロックアウトを取られやすくなります。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.70d526290b4cb12d": {
+      "context": "/categories/7/groups/0/sections/2/title",
+      "source": "facing",
+      "ja": "向き",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.743055d98f44d357": {
+      "context": "/categories/7/groups/0/sections/2/body/0",
+      "source": "make sure you're facing the hitter before you jump. if your block is late, or you're turned away, a strong spike can break right through it and knock you over.",
+      "ja": "ジャンプする前に、アタッカーの方を向きましょう。ブロックが遅れたり、別の方を向いていたりすると、強いスパイクに打ち破られて転倒することがあります。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.637bd6cb26f7bb9f": {
+      "context": "/categories/7/groups/0/sections/3/title",
+      "source": "mind games",
+      "ja": "読み合い",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.5d9199550d4365a3": {
+      "context": "/categories/7/groups/0/sections/3/body/0",
+      "source": "some advice, just like attacking, a \"good\" block doesn't just mean you're stuffing out the spiker. a good block shuts down attacker options, blocks line shots, forces cross shots. battles at the net are mind games.",
+      "ja": "攻撃と同じく、よいブロックとは、相手のスパイクを真下に落とすことだけではありません。ストレートを塞いでクロスへ誘導するなど、相手の選択肢を減らすことも重要です。ネット際の勝負は読み合いです。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.3bc16b54ab00e107": {
+      "context": "/categories/8/name",
+      "source": "serving",
+      "ja": "サーブ",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.29941177e6b8c2a2": {
+      "context": "/categories/8/groups/0/title",
+      "source": "serving",
+      "ja": "サーブ",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.d5f7f0c1dd9ed93c": {
+      "context": "/categories/8/groups/0/sections/0/title",
+      "source": "the toss",
+      "ja": "サーブトス",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.06292d6188773d7e": {
+      "context": "/categories/8/groups/0/sections/0/body/0",
+      "source": "serving is one of the most important parts of just volleyball, and volleyball as a whole, and also one of the most tricky parts. when you serve, it's just you against the entire opposing team.",
+      "ja": "サーブは、just volleyballでも実際のバレーボールでも、非常に重要で難しいプレイの1つです。サーブを打つときは、たった1人で相手チーム全員に挑みます。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.0bad3005da0e228d": {
+      "context": "/categories/8/groups/0/sections/0/body/1",
+      "source": "to serve, you must first toss the ball upwards, you can control how high your toss will go by charging the toss input, {kb:contact} or {pad:contact}. by aiming on yourself, you can toss it straight up, by aiming it away from you, you can toss it horizontally.",
+      "ja": "まずはボールを上に投げます。{kb:contact} または {pad:contact} を長押しする時間で、トスの高さを調整できます。自分を狙えば真上に、自分から離れた場所を狙えば横方向に投げられます。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.0dd9ccfa8893958f": {
+      "context": "/categories/8/groups/0/sections/1/title",
+      "source": "the serves",
+      "ja": "サーブの種類",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.41eb14f572c46db1": {
+      "context": "/categories/8/groups/0/sections/1/body/0",
+      "source": "you have a couple of different serves you can choose from.",
+      "ja": "いくつかの種類から、使いたいサーブを選べます。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.1dbd151c8649dd95": {
+      "context": "/categories/8/groups/0/sections/1/table/0/0",
+      "source": "serve",
+      "ja": "サーブ",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.2a6c61c7d82ed5e8": {
+      "context": "/categories/8/groups/0/sections/1/table/0/1",
+      "source": "what it's for",
+      "ja": "特徴",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.b2f5957d06a8f5ef": {
+      "context": "/categories/8/groups/0/sections/1/table/1/0",
+      "source": "standard serve",
+      "ja": "基本のサーブ",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.7d294c828faedd00": {
+      "context": "/categories/8/groups/0/sections/1/table/1/1",
+      "source": "just for getting it over",
+      "ja": "確実に相手コートへ返したいときに",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.3dacf5927bca1a2c": {
+      "context": "/categories/8/groups/0/sections/1/table/2/0",
+      "source": "jump serve",
+      "ja": "ジャンプサーブ",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.68fcf5043a927dad": {
+      "context": "/categories/8/groups/0/sections/1/table/2/1",
+      "source": "the most power, but a lot of risk",
+      "ja": "最大の威力を狙えるが、リスクも高い",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.97a2db50afbe6bc3": {
+      "context": "/categories/8/groups/0/sections/1/table/3/0",
+      "source": "jump floater",
+      "ja": "ジャンプフローター",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.7a29ccf9166c1e2a": {
+      "context": "/categories/8/groups/0/sections/1/table/3/1",
+      "source": "catching people off guard, or disrupting formations",
+      "ja": "不意を突いたり、相手の陣形を崩したりする",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.5f40ff8d7239298a": {
+      "context": "/categories/8/groups/0/sections/2/title",
+      "source": "standard serve",
+      "ja": "基本のサーブ",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.26e20d18a123ac46": {
+      "context": "/categories/8/groups/0/sections/2/body/0",
+      "source": "stand in place, toss the ball above you, then aim your cursor to the other side, and simply bump it over.",
+      "ja": "その場に立ってボールを真上にトスし、カーソルを相手コートへ向けて、レシーブの要領で打ち返します。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.84c1b113213e3fa6": {
+      "context": "/categories/8/groups/0/sections/2/body/1",
+      "source": "if you do a light toss, you can get away with keeping your cursor aimed on the opposing side the entire time.",
+      "ja": "低くトスする場合は、最初から最後までカーソルを相手コートへ向けたままでも打てます。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.f7cfb463034482d8": {
+      "context": "/categories/8/groups/0/sections/3/title",
+      "source": "jump serve",
+      "ja": "ジャンプサーブ",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.7987a03acffaf7dc": {
+      "context": "/categories/8/groups/0/sections/3/body/0",
+      "source": "you're going to want to stand in the very back of the serving area, toss it forward at the highest charge, and then time your approach. you need to jump before reaching the playable area, jumping inside of it will count as a fault.",
+      "ja": "サーブエリアの一番後ろに立ち、最大までためたトスを前方へ投げ、助走のタイミングを合わせます。コートに入る前に踏み切ってください。コート内から跳ぶと反則になります。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.50b37440a3fed6d5": {
+      "context": "/categories/8/groups/0/sections/3/body/1",
+      "source": "with perfect timing and a good approach, the ball should be reaching your contact point as you reach the apex of your jump, and then you send it over.",
+      "ja": "助走とジャンプのタイミングが合うと、ジャンプの頂点でボールが打点に来ます。その瞬間に相手コートへ打ち込みましょう。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.8dac62d44175405c": {
+      "context": "/categories/8/groups/0/sections/4/title",
+      "source": "jump floater",
+      "ja": "ジャンプフローター",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.89a0fbd440123878": {
+      "context": "/categories/8/groups/0/sections/4/body/0",
+      "source": "it's just like a standard serve, except when hitting the ball, you must be in the air, and tilting backwards with {kb:move_back} or {pad:move_back}. your spike power charge will influence how shaky the ball is.",
+      "ja": "基本のサーブと似ていますが、ボールを打つときはジャンプし、{kb:move_back} または {pad:move_back} で後ろに傾けます。スパイクをためた量によって、ボールの揺れ方が変わります。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.e930ba88fcda1023": {
+      "context": "/categories/9/name",
+      "source": "everything else",
+      "ja": "その他",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.ef8b54ea51142a13": {
+      "context": "/categories/9/groups/0/title",
+      "source": "personalization",
+      "ja": "カスタマイズ",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.df9f175a82fe24a5": {
+      "context": "/categories/9/groups/0/sections/0/title",
+      "source": "make it yours",
+      "ja": "自分だけの選手に",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.6f7b09c7a759d5c0": {
+      "context": "/categories/9/groups/0/sections/0/body/0",
+      "source": "you can customize several aspects of your character! build your face how you want, set your height and build, and as you play matches and earn xp and coins, you can purchase more accessories, and even display titles to go under your username!",
+      "ja": "キャラクターのさまざまな要素をカスタマイズできます！顔を自由に作り、身長や体格を調整しましょう。試合で経験値やコインを獲得すると、アクセサリーを購入したり、ユーザー名の下に称号を表示したりできます！",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.1663507f91c2bd8a": {
+      "context": "/categories/9/groups/0/sections/0/body/1",
+      "source": "there are so many different combinations you can make, so please check it out.",
+      "ja": "組み合わせは豊富です。ぜひ試してみてください。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.d6425498773c133b": {
+      "context": "/categories/9/groups/1/title",
+      "source": "communications",
+      "ja": "コミュニケーション",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.815918760e4b163c": {
+      "context": "/categories/9/groups/1/sections/0/title",
+      "source": "chat and quick chat",
+      "ja": "チャットとクイックチャット",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.540464b79f6307f0": {
+      "context": "/categories/9/groups/1/sections/0/body/0",
+      "source": "during online matches, you can use text chat to communicate. however, this game is quite frantic, so you can also use quick chats on {kb:callout_1} {kb:callout_2} {kb:callout_3} {kb:callout_4} {kb:callout_5} {kb:callout_6} {kb:callout_7} on the keyboard, or {pad:callout_1} {pad:callout_2} {pad:callout_3} {pad:callout_4} on a controller to communicate your needs or express yourself. you can change them, give each one a second key, or take them off in your profile's controls.",
+      "ja": "オンライン対戦では、テキストチャットでやり取りできます。ただし試合は忙しいので、キーボードの {kb:callout_1} {kb:callout_2} {kb:callout_3} {kb:callout_4} {kb:callout_5} {kb:callout_6} {kb:callout_7}、コントローラーの {pad:callout_1} {pad:callout_2} {pad:callout_3} {pad:callout_4} でクイックチャットを使い、要求や気持ちを伝えることもできます。プロフィールの操作設定で、内容の変更、2つ目のキーの追加、割り当ての解除ができます。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.217bd56ec3db2acf": {
+      "context": "/categories/9/groups/1/sections/0/body/1",
+      "source": "remember, you have to be nice during online play, or bad things might happen.",
+      "ja": "オンラインでは、相手への思いやりを忘れずに。迷惑行為をすると、ペナルティを受けることがあります。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.d3e688b06e2fa18d": {
+      "context": "/categories/9/groups/2/title",
+      "source": "settings and cameras",
+      "ja": "設定とカメラ",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.c27d55ee41d16722": {
+      "context": "/categories/9/groups/2/sections/0/title",
+      "source": "cameras",
+      "ja": "カメラ",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.b0a20cf805f34d86": {
+      "context": "/categories/9/groups/2/sections/0/body/0",
+      "source": "you can switch between cameras by pressing {kb:camera_toggle} or {pad:camera_toggle}, and zoom in or out by pressing {kb:camera_zoom} or {pad:camera_zoom}.",
+      "ja": "{kb:camera_toggle} または {pad:camera_toggle} でカメラを切り替え、{kb:camera_zoom} または {pad:camera_zoom} でズームできます。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.53a4c7f28685f370": {
+      "context": "/categories/9/groups/2/sections/0/body/1",
+      "source": "the default camera follows you around, but you can also try out the broadcast camera if you want to feel like you're watching it on tv.",
+      "ja": "標準のカメラは選手を追いかけます。テレビ中継のような視点を楽しみたいときは、中継カメラも試してみてください。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.789da0040872dd36": {
+      "context": "/categories/9/groups/2/sections/1/title",
+      "source": "helpful settings",
+      "ja": "便利な設定",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.714c66c4579f7194": {
+      "context": "/categories/9/groups/2/sections/1/body/0",
+      "source": "there are a few settings that can make the game a bit easier for you.",
+      "ja": "プレイを助ける設定をいくつか紹介します。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.a433c2a47139142b": {
+      "context": "/categories/9/groups/2/sections/1/table/0/0",
+      "source": "setting",
+      "ja": "設定",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.72979ff473226ae0": {
+      "context": "/categories/9/groups/2/sections/1/table/0/1",
+      "source": "what it does",
+      "ja": "効果",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.768b6545b884e511": {
+      "context": "/categories/9/groups/2/sections/1/table/1/0",
+      "source": "aim assist",
+      "ja": "エイムアシスト",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.ac36283542f58ffa": {
+      "context": "/categories/9/groups/2/sections/1/table/1/1",
+      "source": "your aim drifts towards a good target",
+      "ja": "狙いやすい場所へ照準を寄せます",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.c678d694a0a59fb3": {
+      "context": "/categories/9/groups/2/sections/1/table/2/0",
+      "source": "set assist",
+      "ja": "トスアシスト",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.571c622bceccfb9c": {
+      "context": "/categories/9/groups/2/sections/1/table/2/1",
+      "source": "your sets always go to the hitting spot by the net",
+      "ja": "トスがネット際の打ちやすい位置へ届きます",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.0b59ab5c5b7a5826": {
+      "context": "/categories/9/groups/2/sections/1/table/3/0",
+      "source": "sprint toggle",
+      "ja": "ダッシュの切り替え式操作",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.741900268c6a4cc2": {
+      "context": "/categories/9/groups/2/sections/1/table/3/1",
+      "source": "tap to sprint, instead of holding",
+      "ja": "長押しの代わりに、1回押すとダッシュします",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.10a12dd7df45dd2a": {
+      "context": "/categories/9/groups/2/sections/1/table/4/0",
+      "source": "reach marker",
+      "ja": "届く範囲の目印",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.a9b4060f0ec2ee72": {
+      "context": "/categories/9/groups/2/sections/1/table/4/1",
+      "source": "turns the arrows on the ball on or off",
+      "ja": "ボールの矢印の表示を切り替えます",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.9b67096c03623052": {
+      "context": "/categories/9/groups/2/sections/2/title",
+      "source": "aiming on a controller",
+      "ja": "コントローラーでの照準操作",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.046a2612ddf1b286": {
+      "context": "/categories/9/groups/2/sections/2/body/0",
+      "source": "on a controller, you aim with {pad:aim}, and your aim will stay wherever you leave it. you can press {pad:aim_recenter} to snap it right back under you.",
+      "ja": "コントローラーでは {pad:aim} で狙います。スティックを離しても照準はその場所に残ります。{pad:aim_recenter} を押すと、自分の真下へすぐに戻せます。",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.3724d9cd6bb1d2ad": {
+      "context": "/categories/9/groups/3/title",
+      "source": "closing",
+      "ja": "最後に",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.43a6e89186a22f5e": {
+      "context": "/categories/9/groups/3/sections/0/title",
+      "source": "go try it!",
+      "ja": "さっそく試してみよう！",
+      "status": "draft",
+      "note": ""
+    },
+    "howto.cb7387b698e28af5": {
+      "context": "/categories/9/groups/3/sections/0/body/0",
+      "source": "this should be more than enough to enhance your gameplay if you've been feeling stuck. try going into freeplay and attempt something you've learned!",
+      "ja": "上達に行き詰まっていた方も、ここまでの内容を知ればプレイの幅が広がるはずです。フリー練習に入り、覚えたことを試してみましょう！",
+      "status": "draft",
+      "note": ""
+    }
+  }
+}

@@ -1,0 +1,1567 @@
+{
+  "schema_version": 1,
+  "locale": "ja",
+  "domain": "panels",
+  "entries": {
+    "panels.49cfda87e4564a6e": {
+      "source": "achievement unlocked",
+      "ja": "実績を解除",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.f119e4acc42ef1cd": {
+      "source": "this profile",
+      "ja": "このプロフィール",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.6ee18b42fbf155df": {
+      "source": "achievements",
+      "ja": "実績",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.3c52faab6a7f11e5": {
+      "source": "claim all",
+      "ja": "すべて受け取る",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.76ea47d1ef05ddfc": {
+      "source": "nothing matches that",
+      "ja": "一致するものがありません",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.dd1b3c312cf7d816": {
+      "source": "claim",
+      "ja": "受け取る",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.f43d0cadd9b4d977": {
+      "source": "daily claim",
+      "ja": "デイリー報酬",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.521ac17dec959728": {
+      "source": "daily claim (max streak)",
+      "ja": "デイリー報酬（最大連続日数）",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.87b160ac044cdc46": {
+      "source": "daily claim (x%d)",
+      "ja": "デイリー報酬（%d日連続）",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.a7259d9b6b06f57d": {
+      "source": "%d / %d done",
+      "ja": "%d / %d 完了",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.69294e37b66362bc": {
+      "source": "resets in %s",
+      "ja": "リセットまで %s",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.dbdcfbe30584e998": {
+      "source": "steam offline",
+      "ja": "Steamオフライン",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.7920375dbb8b8f5d": {
+      "source": "jump to new (%d)",
+      "ja": "新着へ移動（%d）",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.406a6e9851bd27db": {
+      "source": "before you play",
+      "ja": "プレイする前に",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.12330e2ef8f8ce46": {
+      "source": "would you like to configure your settings first? (these may be changed at any time)",
+      "ja": "先に設定を確認しますか？（設定はいつでも変更できます）",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.f93ec926530a92e6": {
+      "source": "configure settings",
+      "ja": "設定を開く",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.508c1c37c2034ea6": {
+      "source": "press any button",
+      "ja": "何かボタンを押してください",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.cef724464a75422c": {
+      "source": "loading.",
+      "ja": "読み込み中…",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.ee1de39a8f39219a": {
+      "source": "loading..",
+      "ja": "読み込み中…",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.d44d5f4ac1180491": {
+      "source": "[b]your GPU:[/b] %s",
+      "ja": "[b]使用中のGPU：[/b] %s",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.00c45ca53dfeaeb9": {
+      "source": "if a launch command doesn't help, try updating (or rolling back) your graphics drivers:\n",
+      "ja": "起動オプションで改善しない場合は、グラフィックドライバーの更新や以前のバージョンへの復元を試してください：\n",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.b7edde5e265bc266": {
+      "source": "no match history",
+      "ja": "対戦履歴がありません",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.931f71d21faad3d4": {
+      "source": "play a match and it'll show up here",
+      "ja": "試合をすると、ここに履歴が表示されます",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.dd54e8f0763ddb2c": {
+      "source": "win rate",
+      "ja": "勝率",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.f1336106edcf0bc9": {
+      "source": "previous %d matches saved here",
+      "ja": "直近%d試合を表示しています",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.fe869a2f66f35c61": {
+      "source": "matches you favorited stay here",
+      "ja": "お気に入りの試合を保存できます",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.a4aca0a38eb032e9": {
+      "source": "oldest first",
+      "ja": "古い順",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.d5a5a90ac986cff9": {
+      "source": "newest first",
+      "ja": "新しい順",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.f6df1dfefc7a34ad": {
+      "source": "no matches favorited",
+      "ja": "お気に入りの試合はありません",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.f42d0f9e4b0ec07d": {
+      "source": "favorites",
+      "ja": "お気に入り",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.ea33e6959bf0a545": {
+      "source": "no recent matches",
+      "ja": "最近の試合はありません",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.610e30c1d6a1f0cf": {
+      "source": "no %s matches yet",
+      "ja": "%s の試合はまだありません",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.f31ef679e1641d47": {
+      "source": "left early",
+      "ja": "途中退出",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.90d99ebf7f2e8df7": {
+      "source": "%dm ago",
+      "ja": "%d分前",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.2d45037847a3ba77": {
+      "source": "%dh ago",
+      "ja": "%d時間前",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.fdadfc03d685a82f": {
+      "source": "%dd ago",
+      "ja": "%d日前",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.9bcdc4112bb7164e": {
+      "source": "favorite match",
+      "ja": "試合をお気に入りに追加",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.4f738a7c687a4bad": {
+      "source": "favorited match",
+      "ja": "お気に入りの試合",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.10377a2e75d05bb2": {
+      "source": "favorites are full (%d). remove one first",
+      "ja": "お気に入りが上限の%d件です。先に1件解除してください",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.332ad2346a793727": {
+      "source": "sets   ",
+      "ja": "セット   ",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.ad80ca4fe1443f82": {
+      "source": "click a player for more options",
+      "ja": "プレイヤーをクリックすると詳細を表示します",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.25b08effdd8343c3": {
+      "source": "favorited",
+      "ja": "お気に入りに追加済み",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.1ff3a3c1830a1531": {
+      "source": "favorite",
+      "ja": "お気に入り",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.f3085416d869d71d": {
+      "source": "watch replay",
+      "ja": "リプレイを見る",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.bfa31c088f23cde6": {
+      "source": "no replay saved",
+      "ja": "リプレイが保存されていません",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.367176ec5f5dcd74": {
+      "source": "player 1's profile stays for this match",
+      "ja": "この試合ではプレイヤー1のプロフィールを使用します",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.c4af807b4fb0027a": {
+      "source": "+  create profile",
+      "ja": "＋  プロフィールを作成",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.20b5fad31e43ef2b": {
+      "source": "edit controls",
+      "ja": "操作を編集",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.baaa8c9ee1e2be12": {
+      "source": "your settings",
+      "ja": "あなたの設定",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.c65a315f82876b62": {
+      "source": "hold B to leave",
+      "ja": "B長押しで退出",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.146fb78b6c24bfd6": {
+      "source": "remove player",
+      "ja": "プレイヤーを外す",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.9c4a1ccf18a3fed2": {
+      "source": "profile limit reached",
+      "ja": "プロフィール数の上限です",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.6f1f450f2c9f5d80": {
+      "source": "player %d has joined!",
+      "ja": "プレイヤー%dが参加しました！",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.e3262fbf086c5ad2": {
+      "source": "player %d is back!",
+      "ja": "プレイヤー%dが戻りました！",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.d4062724f266ac11": {
+      "source": "party leader",
+      "ja": "リーダー",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.ae8d69a2ee2c77d7": {
+      "source": "powered off",
+      "ja": "電源オフ",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.6b963cc1c2d7d3a4": {
+      "source": "joined",
+      "ja": "参加済み",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.b72111caffb0a83a": {
+      "source": "press A to join",
+      "ja": "Aで参加",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.c4355f17bfd04360": {
+      "source": "open slot",
+      "ja": "空き枠",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.96fce192b5e9718b": {
+      "source": "on another controller",
+      "ja": "別のコントローラーで操作中",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.2b4f4593a3518395": {
+      "source": "press A to join on another controller",
+      "ja": "別のコントローラーのAで参加",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.228b2506079a5bfc": {
+      "source": " / Enter on keyboard",
+      "ja": " / キーボードではEnter",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.84983c60f7daadc1": {
+      "source": "guest",
+      "ja": "ゲスト",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.400983483dbb80a5": {
+      "source": "turn the controller on",
+      "ja": "コントローラーの電源を入れてください",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.4388412bac024db0": {
+      "source": "you cannot perform this action",
+      "ja": "この操作はできません",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.0407714eeda1e84a": {
+      "source": "hold to leave",
+      "ja": "長押しで退出",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.0cc49e46edb932c3": {
+      "source": "player 1 plays on any free device",
+      "ja": "プレイヤー1は空いているデバイスを使用できます",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.07eeeb9c438c0f05": {
+      "source": "stick sens",
+      "ja": "スティック感度",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.37d16618157ee9c0": {
+      "source": "mouse sens",
+      "ja": "マウス感度",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.17e1ce6cfc5591fb": {
+      "source": "aim assist",
+      "ja": "エイムアシスト",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.84619894021a13ed": {
+      "source": "auto zoom",
+      "ja": "自動ズーム",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.119e65d889c9749b": {
+      "source": "dynamic focus",
+      "ja": "動的な注視点",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.f7d666e368a022f3": {
+      "source": "your own name",
+      "ja": "自分の名前",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.2cc6efe1073eb9b9": {
+      "source": "names in rallies",
+      "ja": "ラリー中の名前",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.aaa8cb88ae5b26b0": {
+      "source": "titles in rallies",
+      "ja": "ラリー中の称号",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.a9a8a2142e42975b": {
+      "source": "crosshair colour",
+      "ja": "照準の色",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.6da7fc674a62da3f": {
+      "source": "team colours",
+      "ja": "チームカラー",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.52b4177e347701ef": {
+      "source": "crosshair size",
+      "ja": "照準の大きさ",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.09df4f69ed906901": {
+      "source": "your title",
+      "ja": "あなたの称号",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.0fc44158d2092512": {
+      "source": "no titles yet: the shop sells them",
+      "ja": "称号を持っていません。ショップで購入できます",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.33304b39ebf1992e": {
+      "source": "select your profile",
+      "ja": "プロフィールを選択",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.ed72ae3a90e3463e": {
+      "source": "guest profile",
+      "ja": "ゲストプロフィール",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.ad5232732030e94f": {
+      "source": "preview outfit: %s",
+      "ja": "ユニフォームのプレビュー：%s",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.9dfaac355a0036d5": {
+      "source": "make a new profile",
+      "ja": "プロフィールを作成",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.5ef9004c6e8e4703": {
+      "source": "edit look",
+      "ja": "外見を編集",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.49065799512f87ce": {
+      "source": "pick your device",
+      "ja": "デバイスを選択",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.9d8b283d32dcb570": {
+      "source": "no free devices",
+      "ja": "空いているデバイスがありません",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.5ef5ef0364b6939c": {
+      "source": "all",
+      "ja": "すべて",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.ca8b22d0db83a22d": {
+      "source": "team",
+      "ja": "チーム",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.317170731756f06f": {
+      "source": "hide chat (%s)",
+      "ja": "チャットを隠す（%s）",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.4811e67c023e3f14": {
+      "source": "shift + enter switch channel | %s to hide",
+      "ja": "Shift＋Enterでチャンネル切り替え | %s で隠す",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.c1415891896df06f": {
+      "source": "press enter to chat",
+      "ja": "Enterでチャット",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.46c189f9201b31f0": {
+      "source": "to your team...",
+      "ja": "チームへのメッセージ…",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.7f4dfa095849f5a0": {
+      "source": "%s is typing...",
+      "ja": "%s が入力中…",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.9225bdcb260a4174": {
+      "source": "several people are typing...",
+      "ja": "複数のプレイヤーが入力中…",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.c2c11ad9945ceae6": {
+      "source": "no vote is running",
+      "ja": "投票は行われていません",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.0d806ef6b22c4a1e": {
+      "source": "you already voted",
+      "ja": "すでに投票済みです",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.f73d57c07d0991e6": {
+      "source": "vote cast",
+      "ja": "投票しました",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.ad73f8a1d2fc9efb": {
+      "source": "slow down, %d seconds",
+      "ja": "%d秒お待ちください",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.c99aaed25e24c48c": {
+      "source": "you just said that",
+      "ja": "同じ内容を続けて送信できません",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.f2215a6a27707e02": {
+      "source": "sending too fast, chat paused for %d seconds",
+      "ja": "送信間隔が短すぎます。チャットを%d秒間停止します",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.5b7d414baf9b2631": {
+      "source": "call ball",
+      "ja": "ボールを手元に戻す",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.efc250deeb558d4c": {
+      "source": "spawn ball",
+      "ja": "ボールを出す",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.8fffe318342db264": {
+      "source": "despawn ball",
+      "ja": "ボールを消す",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.d5fc73be561a125a": {
+      "source": "unlock mouse",
+      "ja": "マウス操作を解放",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.59aa2fd8c4124d8d": {
+      "source": "no cpu left to take over: new players play next match",
+      "ja": "交代できるCPUがいません。新しいプレイヤーは次の試合から参加します",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.0ffc149721a66a19": {
+      "source": "G: gravity on",
+      "ja": "G：重力オン",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.93edcbd53121f290": {
+      "source": "G: gravity off",
+      "ja": "G：重力オフ",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.5a0653917d1344db": {
+      "source": "special thanks",
+      "ja": "スペシャルサンクス",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.e48a9d1d43314bec": {
+      "source": "thank you to ",
+      "ja": "感謝を込めて：",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.ecb53f367b3541da": {
+      "source": "bug",
+      "ja": "不具合",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.59bda3f8ee98128d": {
+      "source": "feedback",
+      "ja": "ご意見",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.1303c06b0b014d0c": {
+      "source": "type",
+      "ja": "種類",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.18b5c86df23c3cff": {
+      "source": "how bad",
+      "ja": "深刻度",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.ef7efdaf64d36091": {
+      "source": "describe the bug or feedback in detail",
+      "ja": "不具合やご意見の内容を詳しく入力してください",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.3930e671c9e40dee": {
+      "source": "attachments",
+      "ja": "添付ファイル",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.bf7e7432b50e60a4": {
+      "source": "attach a file",
+      "ja": "ファイルを添付",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.e8823a72a4f25d58": {
+      "source": "up to 5 screenshots or clips, 10mb each",
+      "ja": "画像や動画を最大5件、1件10MBまで添付できます",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.27ce1d1bf4270020": {
+      "source": "send",
+      "ja": "送信",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.ad23cd06ec0ce6e2": {
+      "source": "you can attach up to 5 files",
+      "ja": "添付できるファイルは最大5件です",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.719a1ebb7daf0d1d": {
+      "source": "couldnt read %s",
+      "ja": "%s を読み込めませんでした",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.3fa89cba1f246bec": {
+      "source": "%s is over 10mb, try a shorter clip",
+      "ja": "%s は10MBを超えています。短い動画をお試しください",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.af487db9abb95321": {
+      "source": "that puts the attachments over 30mb total",
+      "ja": "添付ファイルの合計が30MBを超えます",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.da5c8da1ad7d9978": {
+      "source": "wait %ds",
+      "ja": "%d秒お待ちください",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.58b34d196a97de50": {
+      "source": "write something first",
+      "ja": "内容を入力してください",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.ced5ad28f0429c79": {
+      "source": "pick how bad the bug is first",
+      "ja": "不具合の深刻度を選んでください",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.3e4ab3c5f764e8a6": {
+      "source": "reports aren't set up in this build",
+      "ja": "このビルドでは報告機能を利用できません",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.c6f76adbe34ac0bf": {
+      "source": "sending %d of %d files",
+      "ja": "%d / %d 件を送信中",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.a72eaf3b09f98145": {
+      "source": "sent, thank you!",
+      "ja": "送信しました。ありがとうございます！",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.1f0806396df04c8a": {
+      "source": "bug reports are down for maintenance right now, please try again later!",
+      "ja": "不具合報告機能はメンテナンス中です。後ほどお試しください",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.ea040411ebb67922": {
+      "source": "you've sent a lot of reports, please try again in a bit",
+      "ja": "報告の送信回数が多すぎます。しばらくしてからお試しください",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.e0e47486c83e82dc": {
+      "source": "one of the files is too big, try a smaller one",
+      "ja": "サイズが大きすぎるファイルがあります。小さくしてお試しください",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.c8b82a79017fd81b": {
+      "source": "couldn't reach the server, check your connection",
+      "ja": "サーバーに接続できません。通信環境を確認してください",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.11996e5604ae68fa": {
+      "source": "couldn't send that right now, please try again later! (%d)",
+      "ja": "送信できませんでした。後ほどお試しください（%d）",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.8b6df8c11847ada8": {
+      "source": "drawn",
+      "ja": "引き分け",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.9e4f18945f7c0d4b": {
+      "source": "not in the demo",
+      "ja": "体験版では利用できません",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.62bfdf0b726cbcc5": {
+      "source": "coming soon",
+      "ja": "近日公開",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.723ec08e5e9ba52f": {
+      "source": "(no heading)",
+      "ja": "（見出しなし）",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.d6464c41b5bcac78": {
+      "source": "a blank line starts a new paragraph.  keys: {kb:jump} = keyboard, {pad:jump} = controller, {key:jump} = whichever they're using.  [b]bold[/b]  [i]italic[/i]",
+      "ja": "空行で段落を分けます。操作表示：{kb:jump}＝キーボード、{pad:jump}＝コントローラー、{key:jump}＝使用中のデバイス。[b]太字[/b]  [i]斜体[/i]",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.1fff901f94d04b22": {
+      "source": "table: one row a line, cells split by |, the first row is the header",
+      "ja": "1行ずつ表の行を入力し、セルを | で区切ります。先頭行は見出しです",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.e24d59378a537957": {
+      "source": "picture: ",
+      "ja": "画像：",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.349078a1a8d2afb4": {
+      "source": "pick picture",
+      "ja": "画像を選択",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.9ed97c950c330a5b": {
+      "source": "no picture",
+      "ja": "画像なし",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.acd3cbb28d19029c": {
+      "source": "heading (leave empty for none)",
+      "ja": "見出し（なしの場合は空欄）",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.48d15e5df5e91865": {
+      "source": "pick a picture",
+      "ja": "画像を選択",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.a55650a81117f4af": {
+      "source": "go to freeplay",
+      "ja": "フリー練習へ",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.e3043c8968fc772d": {
+      "source": "previous page",
+      "ja": "前のページ",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.c71595875dfec188": {
+      "source": "next page",
+      "ja": "次のページ",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.452c3f48327cbcb6": {
+      "source": "edit page",
+      "ja": "ページを編集",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.1bc04b5291c26a46": {
+      "source": "index",
+      "ja": "索引",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.d1b2a59fbea7e200": {
+      "source": "contents",
+      "ja": "目次",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.9772cc80c3d2f012": {
+      "source": "nothing found",
+      "ja": "見つかりませんでした",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.80b8408a77affd3c": {
+      "source": "match stats",
+      "ja": "試合成績",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.5af2392a948f950e": {
+      "source": "blk",
+      "ja": "ブロック",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.9ee54a4b0b0f3d64": {
+      "source": "rcv",
+      "ja": "レシーブ",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.05814a270ff7e32b": {
+      "source": "cam: dynamic",
+      "ja": "カメラ：ダイナミック",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.8000170dc7b74587": {
+      "source": "waiting for the host to choose...",
+      "ja": "ホストの選択を待っています…",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.30e662e2bbf546a5": {
+      "source": "random look",
+      "ja": "ランダムな外見",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.d97eae23ea2e101d": {
+      "source": "show as a player",
+      "ja": "プレイヤーとして表示",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.0081779c287d567d": {
+      "source": "level",
+      "ja": "レベル",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.60cf021b574a1e25": {
+      "source": "looks on this computer",
+      "ja": "このPCに保存した外見",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.6a0365131717f868": {
+      "source": "  (you)",
+      "ja": "  （あなた）",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.1f5bb9791a310e13": {
+      "source": "hide",
+      "ja": "非表示",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.1c6333509debf060": {
+      "source": "show",
+      "ja": "表示",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.4b5dc076e7b9c122": {
+      "source": "lobby",
+      "ja": "ロビー",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.036c570ab9965422": {
+      "source": "lobby code: %s",
+      "ja": "ロビーコード：%s",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.cce22cff9f65a2a1": {
+      "source": "spectating: ",
+      "ja": "観戦中：",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.92fe99a501a149bf": {
+      "source": " and %d more",
+      "ja": "、ほか%d人",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.cb5edb66221d32bb": {
+      "source": "customize match properties & settings",
+      "ja": "試合のルールや設定を変更します",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.0b58cde098f34794": {
+      "source": "the host picks these. this is what you are about to play.",
+      "ja": "ホストが設定する、これからの試合のルールです",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.8527867bb531c897": {
+      "source": "modifiers",
+      "ja": "特殊ルール",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.08a4e70cc355e755": {
+      "source": "reset to default",
+      "ja": "標準に戻す",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.7996db945fba6e30": {
+      "source": "shuffle appearance",
+      "ja": "外見をランダムにする",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.c1e49050d0455510": {
+      "source": "remove cpu",
+      "ja": "CPUを外す",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.e5148aa223ab1414": {
+      "source": "add cpu",
+      "ja": "CPUを追加",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.47ac9e15c82c97af": {
+      "source": "add a cpu",
+      "ja": "CPUを追加",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.dff1ebc1db23ddb8": {
+      "source": "edit cpu",
+      "ja": "CPUを編集",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.2780b8eef998d6ea": {
+      "source": "captain",
+      "ja": "キャプテン",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.d9dd4e42def9f733": {
+      "source": "make captain",
+      "ja": "キャプテンにする",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.feafadf68052db50": {
+      "source": "team size",
+      "ja": "チーム人数",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.0f4a1630b8282f2d": {
+      "source": "cpu: %s",
+      "ja": "CPU：%s",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.24d4ef98f09cefad": {
+      "source": "sweat: %s",
+      "ja": "汗：%s",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.018404eb1f262f25": {
+      "source": "modifiers (%d)",
+      "ja": "特殊ルール（%d）",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.1f83ce516bf666ec": {
+      "source": "see all stages",
+      "ja": "全ステージを表示",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.a88226a906a78b5a": {
+      "source": "all stages",
+      "ja": "全ステージ",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.fa622d4f104fb118": {
+      "source": "your team",
+      "ja": "自分のチーム",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.c99c60b758fbadbb": {
+      "source": "team pinny",
+      "ja": "チームのビブス",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.8cb6803e9283beac": {
+      "source": "alternate kit",
+      "ja": "セカンドユニフォーム",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.4902bb293509678b": {
+      "source": "team kit",
+      "ja": "チームのユニフォーム",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.53e090b8ddc7f1cb": {
+      "source": "max level!",
+      "ja": "最大レベル！",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.534beedd9b6cc428": {
+      "source": "host has quit, migration in progress...",
+      "ja": "ホストが退出しました。引き継ぎ中…",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.2860d0f0bbea8ab2": {
+      "source": "press esc or start to leave to the menu",
+      "ja": "EscまたはStartでメニューに戻る",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.a7a9dc5bcf71adb2": {
+      "source": "paused",
+      "ja": "一時停止中",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.b8ad5fbf1da6b86f": {
+      "source": "you join when the rally ends",
+      "ja": "ラリー終了時に参加します",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.2a87beea012f6b56": {
+      "source": "spectating at the next serve",
+      "ja": "次のサーブから観戦します",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.8a7c5cbcd3539d8a": {
+      "source": "teams are locked. you're on %s",
+      "ja": "チームは固定です。あなたは %s です",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.6d1a16aa6bab5afd": {
+      "source": "teams are locked. the team you join is your team for this match",
+      "ja": "チームは固定です。参加したチームで試合を行います",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.8ad2412f1eea7196": {
+      "source": "remove captain",
+      "ja": "キャプテンを解除",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.27dcb43613bb590f": {
+      "source": "ban from lobby",
+      "ja": "ロビーへの参加を禁止",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.47acb5f82a8d9422": {
+      "source": "vote to kick",
+      "ja": "退出投票を開始",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.845e91831319e89c": {
+      "source": "report",
+      "ja": "報告",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.408e22729ebb8d61": {
+      "source": "%s has been muted",
+      "ja": "%s をミュートしました",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.4a5c63ef9b471546": {
+      "source": "%s has been unmuted",
+      "ja": "%s のミュートを解除しました",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.624ee21096bbac6c": {
+      "source": "%s has been unblocked",
+      "ja": "%s のブロックを解除しました",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.45bb6a6f8f784f54": {
+      "source": "%s has been blocked",
+      "ja": "%s をブロックしました",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.ae9179a88d6b9acb": {
+      "source": "add friend",
+      "ja": "フレンドに追加",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.bb30dcc47eee60d9": {
+      "source": "steam profile",
+      "ja": "Steamプロフィール",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.8ce71a1610d5ec60": {
+      "source": "off the block",
+      "ja": "ブロックに当たった",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.cde58ce28f322aa3": {
+      "source": " (CPU)",
+      "ja": " （CPU）",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.3d8b57c8991fa382": {
+      "source": "confirming the result",
+      "ja": "結果を確認中",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.c5a5ac68840fa201": {
+      "source": "top rank",
+      "ja": "最高ランク",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.ecc6aade1333f0a3": {
+      "source": "%d to %s",
+      "ja": "あと%dで %s",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.ff7f704d7c80d165": {
+      "source": "placement match %d of %d played",
+      "ja": "認定戦 %d / %d 試合完了",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.540c4f2d235bca94": {
+      "source": "placed  ·  %s",
+      "ja": "ランク確定  ·  %s",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.1de1abc41131a15c": {
+      "source": "new rank",
+      "ja": "新しいランク",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.ad45cbfb468eda8e": {
+      "source": "mvp bonus  ·  ",
+      "ja": "MVPボーナス  ·  ",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.767da69448f7981b": {
+      "source": "rank up!",
+      "ja": "ランクアップ！",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.02dfa532b39e45d1": {
+      "source": "new division!",
+      "ja": "新しいディビジョン！",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.be17f548574ff8e7": {
+      "source": "title unlocked: %s",
+      "ja": "称号を獲得：%s",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.9969090d37afc7bb": {
+      "source": "you left a match",
+      "ja": "試合から退出しました",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.bcfea9f848bc62a0": {
+      "source": "give up",
+      "ja": "再接続を諦める",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.91669c43679f4342": {
+      "source": "reconnect",
+      "ja": "再接続",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.5edd4fc8fa248104": {
+      "source": "to avoid any penalties, reconnect within %s",
+      "ja": "ペナルティを避けるには、%s 以内に再接続してください",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.54d10bf63575eb66": {
+      "source": "reconnecting...",
+      "ja": "再接続中…",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.1caa0c71989c7b42": {
+      "source": "report %s",
+      "ja": "%s を報告",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.b1c78ba74603f7af": {
+      "source": "pick a reason",
+      "ja": "理由を選択",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.d715fb2d8fb42803": {
+      "source": "what happened? (optional)",
+      "ja": "何がありましたか？（任意）",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.4121f6709afbe3d4": {
+      "source": "send report",
+      "ja": "報告を送信",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.0cc7dc8481f5061b": {
+      "source": "pick a reason first",
+      "ja": "理由を選択してください",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.c684b5a62fc2221b": {
+      "source": "reports are offline",
+      "ja": "現在、報告機能を利用できません",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.9d9d04a7c8765ebb": {
+      "source": "report sent",
+      "ja": "報告を送信しました",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.41cb00bd4b86718c": {
+      "source": "your report will be reviewed and processed as soon as possible",
+      "ja": "報告内容を確認し、できる限り早く対応します",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.e89997a9b84a0d32": {
+      "source": "a gift for you!",
+      "ja": "プレゼントをお届け！",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.0c80c16a38f90c5f": {
+      "source": "progress restored",
+      "ja": "進行状況を復元しました",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.de5838399caa0930": {
+      "source": "scoreboard, chat and free mouse follow player 1",
+      "ja": "スコアボード・チャット・マウス解放はプレイヤー1に連動します",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.26c5cc4de56cf2bf": {
+      "source": "show keyboard",
+      "ja": "キーボード操作を表示",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.2d45103f3cd7d5e5": {
+      "source": "show controller",
+      "ja": "コントローラー操作を表示",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.6b0e38e88d734321": {
+      "source": "press a key",
+      "ja": "キーを押してください",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.7ecca8dc16103148": {
+      "source": "press a button",
+      "ja": "ボタンを押してください",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.e78c4710a7358eaf": {
+      "source": "A type    X delete    Y space    start done    B close",
+      "ja": "A：入力    X：削除    Y：空白    Start：完了    B：閉じる",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.913a4cb91be20332": {
+      "source": "clear",
+      "ja": "消去",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.a2c183d5a12aea35": {
+      "source": "paste",
+      "ja": "貼り付け",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.aad4fe1b02bc973f": {
+      "source": "a to z",
+      "ja": "名前の昇順",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.df70ef418efe9048": {
+      "source": "z to a",
+      "ja": "名前の降順",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.524d337d43399a09": {
+      "source": "reset look",
+      "ja": "外見をリセット",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.b5ed623f1d70c647": {
+      "source": "search your titles",
+      "ja": "持っている称号を検索",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.63995b5271bc2670": {
+      "source": "you don't own any titles yet",
+      "ja": "まだ称号を持っていません",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.0e121eb722b250d3": {
+      "source": "%d of %d owned",
+      "ja": "%d / %d 所有",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.eb77a35e5c0e1eeb": {
+      "source": "no title matches \"%s\"",
+      "ja": "「%s」に一致する称号がありません",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.3b56c3520006aaeb": {
+      "source": "plate",
+      "ja": "プレート",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.c725bbdd03772448": {
+      "source": "outline thickness",
+      "ja": "縁取りの太さ",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.b22a76f6b51e5324": {
+      "source": "supporter name tag",
+      "ja": "サポーターのネームタグ",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.6aaa6f8efe13427e": {
+      "source": "gold name tag (developer)",
+      "ja": "金のネームタグ（開発者）",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.d1a62aa177bd03b2": {
+      "source": "your effects",
+      "ja": "持っているエフェクト",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.2fa991ebff4b97a2": {
+      "source": "you don't own any effects yet",
+      "ja": "まだエフェクトを持っていません",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.30929b6898c9516f": {
+      "source": "%s settings",
+      "ja": "%s の設定",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.c175d3c726b82da9": {
+      "source": "default colors",
+      "ja": "標準の色",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.91bb5586f72e252d": {
+      "source": "get more",
+      "ja": "さらに入手",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.220ebdd817ab6592": {
+      "source": "%s was voted out",
+      "ja": "投票により %s が退出しました",
+      "status": "draft",
+      "note": ""
+    },
+    "panels.2ad0387c09d7d6b7": {
+      "source": "not enough votes to kick %s",
+      "ja": "%s を退出させる票が足りませんでした",
+      "status": "draft",
+      "note": ""
+    }
+  }
+}

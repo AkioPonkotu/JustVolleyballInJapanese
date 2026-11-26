@@ -1,0 +1,58 @@
+{
+  "examples": [
+    {
+      "current_lookup": "stick sens: 1.00x",
+      "source": "stick sens: 1.00x",
+      "translate_before_join": "スティック感度: 1.00x"
+    },
+    {
+      "current_lookup": "mouse sens: 1.00x",
+      "source": "mouse sens: 1.00x",
+      "translate_before_join": "マウス感度: 1.00x"
+    },
+    {
+      "current_lookup": "invert x axis: off",
+      "source": "invert x axis: off",
+      "translate_before_join": "横方向を反転: オフ"
+    },
+    {
+      "current_lookup": "invert y axis: off",
+      "source": "invert y axis: off",
+      "translate_before_join": "縦方向を反転: オフ"
+    },
+    {
+      "current_lookup": "aim assist: off",
+      "source": "aim assist: off",
+      "translate_before_join": "エイムアシスト: オフ"
+    },
+    {
+      "current_lookup": "set assist: off",
+      "source": "set assist: off",
+      "translate_before_join": "トスアシスト: オフ"
+    },
+    {
+      "current_lookup": "auto fire sets: on",
+      "source": "auto fire sets: on",
+      "translate_before_join": "押し続けてトス: オン"
+    },
+    {
+      "current_lookup": "dump hold: 0.15 s",
+      "source": "dump hold: 0.15 s",
+      "translate_before_join": "ツーアタックの長押し時間: 0.15 s"
+    }
+  ],
+  "heading": "あなたの設定",
+  "hint_back": "戻る",
+  "hint_change": "change",
+  "locale": "ja",
+  "date": "2026-11-27",
+  "method": "Installed message dictionary, isolated headless game executable; exact composed text lookup vs translation before composition. No installed game or save files modified.",
+  "installed_resource_checks": {
+    "cfg_panel_matches_local_compiled_bytecode": true,
+    "cfg_panel_matches_release_snapshot": true
+  },
+  "unrelated_catalog_differences": [
+    "awards",
+    "create party"
+  ]
+}

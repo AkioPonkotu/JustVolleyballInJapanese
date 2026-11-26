@@ -1,0 +1,350 @@
+{
+  "method": "Static quoted-string inventory; candidates need manual review and are not a final translation count.",
+  "raw_file_count": 13778,
+  "recovered_file_extensions": {
+    ".cfg": 1,
+    ".gd": 293,
+    ".gdc": 293,
+    ".gdshader": 132,
+    ".gdshaderinc": 12,
+    ".glb": 203,
+    ".glsl": 1,
+    ".godot": 1,
+    ".import": 5751,
+    ".jpg": 15,
+    ".json": 4,
+    ".log": 1,
+    ".mp3": 9,
+    ".obj": 18,
+    ".ogg": 30,
+    ".ogv": 1,
+    ".otf": 1,
+    ".png": 5242,
+    ".svg": 6,
+    ".tres": 712,
+    ".tscn": 56,
+    ".ttf": 6,
+    ".txt": 1,
+    ".uid": 438,
+    ".wav": 219
+  },
+  "english_literal_occurrences": 45249,
+  "candidate_occurrences": 3759,
+  "candidate_unique_strings": 3182,
+  "candidate_files": 791,
+  "top_candidate_files": [
+    {
+      "path": "game/ui/menu.gd",
+      "occurrences": 350
+    },
+    {
+      "path": "game/net/chat_words.json",
+      "occurrences": 263
+    },
+    {
+      "path": "game/core/achievement_catalog.gd",
+      "occurrences": 206
+    },
+    {
+      "path": "game/ui/how_to_text.json",
+      "occurrences": 164
+    },
+    {
+      "path": "game/character/studio/locker_studio.gd",
+      "occurrences": 127
+    },
+    {
+      "path": "game/main/main.gd",
+      "occurrences": 120
+    },
+    {
+      "path": "game/ui/settings_panel.gd",
+      "occurrences": 109
+    },
+    {
+      "path": "game/character/locker.gd",
+      "occurrences": 95
+    },
+    {
+      "path": "game/net/net.gd",
+      "occurrences": 86
+    },
+    {
+      "path": "game/net/quick_play.gd",
+      "occurrences": 86
+    },
+    {
+      "path": "game/ui/cfg_panel.gd",
+      "occurrences": 74
+    },
+    {
+      "path": "game/drills/tutorial_director.gd",
+      "occurrences": 70
+    },
+    {
+      "path": "game/net/chat_swaps.json",
+      "occurrences": 55
+    },
+    {
+      "path": "game/net/online_terms.gd",
+      "occurrences": 47
+    },
+    {
+      "path": "game/ui/hud.gd",
+      "occurrences": 45
+    },
+    {
+      "path": "game/ui/menu_copy.gd",
+      "occurrences": 42
+    },
+    {
+      "path": "game/ui/career_page.gd",
+      "occurrences": 40
+    },
+    {
+      "path": "game/net/ranked.gd",
+      "occurrences": 39
+    },
+    {
+      "path": "game/fx/hitbox_view.gd",
+      "occurrences": 35
+    },
+    {
+      "path": "game/shop/shop.gd",
+      "occurrences": 35
+    },
+    {
+      "path": "game/ui/feedback_panel.gd",
+      "occurrences": 32
+    },
+    {
+      "path": "game/net/mod.gd",
+      "occurrences": 31
+    },
+    {
+      "path": "game/ui/pause_menu.gd",
+      "occurrences": 31
+    },
+    {
+      "path": "game/net/chat_block.json",
+      "occurrences": 30
+    },
+    {
+      "path": "game/core/rally.gd",
+      "occurrences": 27
+    }
+  ],
+  "raw_translation_files": [],
+  "fonts": [
+    {
+      "path": "game/fonts/Nunito/Nunito-Black.ttf",
+      "family": "Nunito Black",
+      "subfamily": "Regular",
+      "sha256": "8de64ddb7d985763dd8dde658a9a2bb011f7509edcca475c02b281f4fe819e42",
+      "mapped_codepoints": 938,
+      "hiragana_codepoints": 0,
+      "katakana_codepoints": 0,
+      "cjk_unified_codepoints": 0,
+      "sample_glyphs": {
+        "日": false,
+        "本": false,
+        "語": false,
+        "設": false,
+        "定": false,
+        "あ": false,
+        "い": false,
+        "う": false,
+        "ア": false,
+        "イ": false,
+        "ウ": false,
+        "A": true,
+        "B": true,
+        "C": true,
+        "1": true,
+        "2": true,
+        "3": true
+      }
+    },
+    {
+      "path": "game/fonts/Nunito/Nunito-Bold.ttf",
+      "family": "Nunito",
+      "subfamily": "Bold",
+      "sha256": "ad443e47990c5fc4b263693b3018b7807868263b8c42ccb1115e030158931960",
+      "mapped_codepoints": 938,
+      "hiragana_codepoints": 0,
+      "katakana_codepoints": 0,
+      "cjk_unified_codepoints": 0,
+      "sample_glyphs": {
+        "日": false,
+        "本": false,
+        "語": false,
+        "設": false,
+        "定": false,
+        "あ": false,
+        "い": false,
+        "う": false,
+        "ア": false,
+        "イ": false,
+        "ウ": false,
+        "A": true,
+        "B": true,
+        "C": true,
+        "1": true,
+        "2": true,
+        "3": true
+      }
+    },
+    {
+      "path": "game/fonts/Nunito/Nunito-ExtraBold.ttf",
+      "family": "Nunito ExtraBold",
+      "subfamily": "Regular",
+      "sha256": "33834506fb216047a70654dce857e073412d78943678052024a9d1cf89cec724",
+      "mapped_codepoints": 938,
+      "hiragana_codepoints": 0,
+      "katakana_codepoints": 0,
+      "cjk_unified_codepoints": 0,
+      "sample_glyphs": {
+        "日": false,
+        "本": false,
+        "語": false,
+        "設": false,
+        "定": false,
+        "あ": false,
+        "い": false,
+        "う": false,
+        "ア": false,
+        "イ": false,
+        "ウ": false,
+        "A": true,
+        "B": true,
+        "C": true,
+        "1": true,
+        "2": true,
+        "3": true
+      }
+    },
+    {
+      "path": "game/fonts/Nunito/Nunito-SemiBold.ttf",
+      "family": "Nunito SemiBold",
+      "subfamily": "Regular",
+      "sha256": "c7fd194467c320db02afd5ebf09262ff900ab6065c61fc2eaa300f0236a48a74",
+      "mapped_codepoints": 938,
+      "hiragana_codepoints": 0,
+      "katakana_codepoints": 0,
+      "cjk_unified_codepoints": 0,
+      "sample_glyphs": {
+        "日": false,
+        "本": false,
+        "語": false,
+        "設": false,
+        "定": false,
+        "あ": false,
+        "い": false,
+        "う": false,
+        "ア": false,
+        "イ": false,
+        "ウ": false,
+        "A": true,
+        "B": true,
+        "C": true,
+        "1": true,
+        "2": true,
+        "3": true
+      }
+    },
+    {
+      "path": "game/fonts/Nunito/Nunito-SemiBoldItalic.ttf",
+      "family": "Nunito SemiBold",
+      "subfamily": "Italic",
+      "sha256": "153e0a8e92e9b829d665be12d881f64fb59ec470aac4da196a3c2576cd493036",
+      "mapped_codepoints": 938,
+      "hiragana_codepoints": 0,
+      "katakana_codepoints": 0,
+      "cjk_unified_codepoints": 0,
+      "sample_glyphs": {
+        "日": false,
+        "本": false,
+        "語": false,
+        "設": false,
+        "定": false,
+        "あ": false,
+        "い": false,
+        "う": false,
+        "ア": false,
+        "イ": false,
+        "ウ": false,
+        "A": true,
+        "B": true,
+        "C": true,
+        "1": true,
+        "2": true,
+        "3": true
+      }
+    },
+    {
+      "path": "game/fonts/PublicPixel/PublicPixel.ttf",
+      "family": "Public Pixel",
+      "subfamily": "Regular",
+      "sha256": "931eb4bf9ef25a6d4bb31783b8681712a42b7408988d53971a3070a2f7443ccf",
+      "mapped_codepoints": 1324,
+      "hiragana_codepoints": 0,
+      "katakana_codepoints": 0,
+      "cjk_unified_codepoints": 2,
+      "sample_glyphs": {
+        "日": false,
+        "本": false,
+        "語": false,
+        "設": false,
+        "定": false,
+        "あ": false,
+        "い": false,
+        "う": false,
+        "ア": false,
+        "イ": false,
+        "ウ": false,
+        "A": true,
+        "B": true,
+        "C": true,
+        "1": true,
+        "2": true,
+        "3": true
+      }
+    },
+    {
+      "path": "game/fonts/VarsityTeam-Bold.otf",
+      "family": "Varsity Team",
+      "subfamily": "Bold",
+      "sha256": "3abd8e72e2eebc6b8217812ac6754b0c3a41bb18b38fb5ee60def5320e9fd194",
+      "mapped_codepoints": 283,
+      "hiragana_codepoints": 0,
+      "katakana_codepoints": 0,
+      "cjk_unified_codepoints": 0,
+      "sample_glyphs": {
+        "日": false,
+        "本": false,
+        "語": false,
+        "設": false,
+        "定": false,
+        "あ": false,
+        "い": false,
+        "う": false,
+        "ア": false,
+        "イ": false,
+        "ウ": false,
+        "A": true,
+        "B": true,
+        "C": true,
+        "1": true,
+        "2": true,
+        "3": true
+      }
+    }
+  ],
+  "font_reference_count": 12,
+  "guide": {
+    "path": "game/ui/how_to_text.json",
+    "categories": 10,
+    "sections": 49,
+    "display_string_occurrences": 203
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "combinations": 162,
+  "fits": true,
+  "samples": [
+    {
+      "available_width": 1371.42858886719,
+      "bottom": {
+        "last_right": 1353.0,
+        "minimum_width": 1132.0
+      },
+      "case": "current-selection",
+      "top": {
+        "last_right": 1343.0,
+        "minimum_width": 1315.0
+      }
+    },
+    {
+      "available_width": 1371.42858886719,
+      "bottom": {
+        "last_right": 1353.0,
+        "minimum_width": 1132.0
+      },
+      "case": "idle-party",
+      "top": {
+        "last_right": 1343.0,
+        "minimum_width": 1315.0
+      }
+    },
+    {
+      "available_width": 1371.42858886719,
+      "bottom": {
+        "last_right": 1353.0,
+        "minimum_width": 1132.0
+      },
+      "case": "party-leader",
+      "top": {
+        "last_right": 1343.0,
+        "minimum_width": 1315.0
+      }
+    },
+    {
+      "available_width": 1371.42858886719,
+      "bottom": {
+        "last_right": 1353.0,
+        "minimum_width": 1132.0
+      },
+      "case": "party-local",
+      "top": {
+        "last_right": 1343.0,
+        "minimum_width": 1349.0
+      }
+    },
+    {
+      "available_width": 1371.42858886719,
+      "bottom": {
+        "last_right": 1353.0,
+        "minimum_width": 1132.0
+      },
+      "case": "party-regrouping",
+      "top": {
+        "last_right": 1343.0,
+        "minimum_width": 1320.0
+      }
+    },
+    {
+      "available_width": 1371.42858886719,
+      "bottom": {
+        "last_right": 1353.0,
+        "minimum_width": 1246.0
+      },
+      "case": "worst-idle",
+      "selection": "captain/nationals/school/4",
+      "top": {
+        "last_right": 1343.0,
+        "minimum_width": 1320.0
+      }
+    },
+    {
+      "available_width": 1371.42858886719,
+      "bottom": {
+        "last_right": 1353.0,
+        "minimum_width": 1338.0
+      },
+      "case": "worst-search",
+      "selection": "captain/nationals/nationals/0",
+      "top": {
+        "last_right": 1343.0,
+        "minimum_width": 1320.0
+      }
+    },
+    {
+      "available_width": 1371.42858886719,
+      "bottom": {
+        "last_right": 1353.0,
+        "minimum_width": 1320.0
+      },
+      "case": "long-stage-and-search",
+      "top": {
+        "last_right": 1343.0,
+        "minimum_width": 1320.0
+      }
+    }
+  ],
+  "scale": 1.39999997615814,
+  "tooltips_ok": true,
+  "source_pck_sha256": "d96bda1f58d239ffae337abb5a89417ea09b4e9f67f3f43af1ad5ddf6df1ddbf",
+  "script_errors": 0,
+  "runtime_errors": 0,
+  "exit_code": 0
+}

@@ -1,0 +1,355 @@
+{
+  "schema_version": 1,
+  "locale": "ja",
+  "game_build_id": "26937150",
+  "original_pck_sha256": "f72ea5884cfab90be24ba35e83693325e1e0f75d4d767de53a627f5f6f68d583",
+  "original_exe_sha256": "224a5ea56536081b84369a0e90590a688a8510fefcc24ab84af1a31b3e052435",
+  "catalog_entries": 2443,
+  "unique_messages": 2240,
+  "message_context_counts": {
+    "default": 1693,
+    "titles": 547
+  },
+  "guide_display_fields": 203,
+  "files": [
+    {
+      "path": "game/character/locker.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "7258854ba1655924b6225fac9e73e49e6028e49917943de0fc1e6f49f517e797",
+      "source_sha256": "2c9913c83ff5010db1bdf03b8757f95a83b2ff8d692ab938c7762384ef3ca942",
+      "payload": "payload/aaa1ccea867a2157.bsdiff",
+      "payload_sha256": "215cfd74a0e6d855244c67cdc3c3390160a095846d64b7d897ba1a9c0272a41e"
+    },
+    {
+      "path": "game/character/locker_split.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "379f52295c3b8f5d32646926faa549e2d5551fc86f9341c697384d2351fd0bef",
+      "source_sha256": "50e9976a7940f9a9a961c65d9133666a39ea35c9759c4741a74391b744077303",
+      "payload": "payload/9eecaf300992f208.bsdiff",
+      "payload_sha256": "61b34e2cd8255938e032a4e492d1ec6c826016b6455d464f210459a12472b9de"
+    },
+    {
+      "path": "game/character/look_missing.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "f1ab5821bf977209089f7f5b7e4f2ee9d1b9b9d8495a1230502429a5b895dc05",
+      "source_sha256": "f78f8341bfc0bac07dc8018637ae61d12412e9e51cfaec5fdc6047644f03279e",
+      "payload": "payload/93f1da45388681b4.bsdiff",
+      "payload_sha256": "d971313bb98229e76234b6dd046af4b935cab4d25d35112635a235922dba695d"
+    },
+    {
+      "path": "game/character/player_card.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "9b792ac279486e2e32b77fbd39ae61fb64b5463d912383bde75c3eeabff409c5",
+      "source_sha256": "abd9af906bdf9616e808093bc0a33b56fac418d22bfbadb22315d2e407e55fb8",
+      "payload": "payload/b1443c0424a584ca.bsdiff",
+      "payload_sha256": "23d0124a8b07ec98ba78b112546d5f5d684f93573b2534fd2fb48f8f46b32791"
+    },
+    {
+      "path": "game/character/studio/locker_studio.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "75e4225791517e4aa45dca09ee17e5414d6a3692c21acded5d4b84f3455ee82b",
+      "source_sha256": "94b49f5513c14b8e4f851163611123d8b76e31f37e27f10d68b425d367377d61",
+      "payload": "payload/57ca82fd6555ed02.bsdiff",
+      "payload_sha256": "cc283c02b2b6360fed3786db52061ae2b523efa884748c337566f57b780c45e8"
+    },
+    {
+      "path": "game/core/achievement_catalog.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "c7fe278b3b0df8bbeb0a6a8208c03982cb40594fb85679b7e16168d730d6b261",
+      "source_sha256": "5e29fd8cd2cfb8e36712171253a14a61717fe45a5329f3d1fceba97e05ff75a3",
+      "payload": "payload/4f11fe3315b33eec.bsdiff",
+      "payload_sha256": "9663e106453f58409fd8745907dbf5ef37cd5cb2992cd6a5f928cd71ba86b2fb"
+    },
+    {
+      "path": "game/core/game_config.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "8e18641581712dba87bc3745fa92aefed4c27bf8675edf3b3cd61e0a7df2fdc6",
+      "source_sha256": "39ddac74c7c2b0516bce83987681c6f251c0186afd9a941f29d7aa5bf4051ebd",
+      "payload": "payload/2340d21339cea696.bsdiff",
+      "payload_sha256": "2e808fb34466fa9814a38a6619dcc2b32c465214caed27851a3b0b226ae01769"
+    },
+    {
+      "path": "game/core/input_binds.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "06f77612d4dcd2f290f3f3115f1dc0a4852830fcdb58dcaa976c82409e91ce3f",
+      "source_sha256": "69d01b081b7bdb5a45df25b6c17a5e65f5d0802dc499ae50c1348acff499d70e",
+      "payload": "payload/689621cd26fa2e08.bsdiff",
+      "payload_sha256": "fecb7bf53cd90a6eebf7bd5a052effdcd56a588b09a267af8c18fe39851d41d5"
+    },
+    {
+      "path": "game/core/profile_store.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "5be2877a32c385d19afd38d85720cdf0f5b8076a5540f34807a718e009628231",
+      "source_sha256": "41375b45376d1e6138434c4c47131646a55d80a9bf9724fcef6093e829ff9d08",
+      "payload": "payload/271e3ad0f7cc8bcf.bsdiff",
+      "payload_sha256": "c3edd5653da8563af356fd4b0846c9720a57cbbe6c8aa725c63ac82518acf10c"
+    },
+    {
+      "path": "game/guide/guide_tokens.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "fb34dfb34b94f939374807735ce5d9f8c85cb4ba40980153c1eaf05df32d9c0c",
+      "source_sha256": "cb56b87f1a14ed04e67cb8066f3ad82574fb2257f2182ede4e5aca2796209b66",
+      "payload": "payload/4736e71897bfc370.bsdiff",
+      "payload_sha256": "cff7770ae8ebb834b560793beb2a4d96515935561326497116d4a1ed31d3ced9"
+    },
+    {
+      "path": "game/main/main.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "c49eb2d0dc207fff18623e9c33bbe1706733fe1af15af30c87594e32db319880",
+      "source_sha256": "7b57ea4ae11061dfc6ff5e425ffde73558a3571fcca31bffee3f3e401eed5ded",
+      "payload": "payload/a5c5329629927a5d.bsdiff",
+      "payload_sha256": "c5f19e116e006af952733b3a5d6090602a110431b93af85e18cc3189bba1ad06"
+    },
+    {
+      "path": "game/net/net.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "5fc603d98ce72de7000c17c1f9500938427a637a89d789653355ef2aeedc09c8",
+      "source_sha256": "971aefb1341db6fb74fff1f89e27708637cccdd94c0beda6e9cdd5614b531299",
+      "payload": "payload/8dfa13644120157f.bsdiff",
+      "payload_sha256": "b9b80ee1ee7cc21e3c60068c4c641e83a95303491abef1df4e203ed70fe661a8"
+    },
+    {
+      "path": "game/net/ranked.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "b7ac643c6f6c6e1b0a585284722cc19a579823727da3537e89981a5552c6475c",
+      "source_sha256": "cfc2982399464abc073e77cdc1562d33d60a2d3ac502a4d370bc6ad4aff9619d",
+      "payload": "payload/e7e9aa08f79e1dd7.bsdiff",
+      "payload_sha256": "d8e98aa3cf8a18cce77d79a2856fa104e71b92998ac69ae24d92e405a02aabc1"
+    },
+    {
+      "path": "game/replay/replay_viewer.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "27d217040f17462cc423fbef03824549f4ffebea3bf7b503500ec6729fe3008f",
+      "source_sha256": "0b950f31e08221b0b67474456fef0db2a8ab2fa382ddfe02741e6496b6e078ab",
+      "payload": "payload/21a958db39c62e5e.bsdiff",
+      "payload_sha256": "4aa38ffc22a394189782a2847a0be8a556f82f5bfc72c38314f2b6e5dac157aa"
+    },
+    {
+      "path": "game/shop/shop.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "fecb365c300e9d78c936f0070f2d1351f5dd11e015b857e49ee2fb4168a7a886",
+      "source_sha256": "a66bab530092872d3090a6b79ae408e69889baff91f54d238c4ba18c4fe46f08",
+      "payload": "payload/625f3b231b6d1ab1.bsdiff",
+      "payload_sha256": "20f77eac20af2552dfcc5976240ab81d9d4657d48716f2a4cb00635c680aef37"
+    },
+    {
+      "path": "game/titles/title_catalog.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "93deb5b1bd62f9eca8365fa5e5ffbd05814cdb7d4a43493241b546e1a64e9e19",
+      "source_sha256": "b3cf7fd0c1a6d5b622763b5f28fd2fd89bffbd45478ebe42ecf5dd361db6b95c",
+      "payload": "payload/b68d75e3ea247112.bsdiff",
+      "payload_sha256": "a4dd9b751a52652167a351d61c10cb6faef871288b0ffc643af5f500c7e1794b"
+    },
+    {
+      "path": "game/ui/awards_page.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "8bfe4616d939d5d16f715c07c7e4d5527889288e49099301a67398cccb7b236f",
+      "source_sha256": "3949d672bad90f35b551f17d0b4a059e30379c22c73b5896d43761390a334c2e",
+      "payload": "payload/084569eba04d965a.bsdiff",
+      "payload_sha256": "18357f9a3aede99f0b59ec8a5a5f0822bfb8717f81cfa55b1cc6812032c9e64e"
+    },
+    {
+      "path": "game/ui/boot/gpu_notice.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "715c2364821ae7df92fbe85629e07505f60440bba0a199f6dea5009e747e565a",
+      "source_sha256": "c26acc965f0932db79f7f5754412e810f2b409ab8bd31803a89933f8c855595a",
+      "payload": "payload/bb468322bba9f3b5.bsdiff",
+      "payload_sha256": "1d444768def097c9ee5c914e1611adccdc353f31def9d8ce67e8eb4b7dfdb8a6"
+    },
+    {
+      "path": "game/ui/career_page.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "e7a0150a18c11fdc2c5372f1c780b6f3509d4d49190a394c950015e6242bec2b",
+      "source_sha256": "594eee680e2a86a149b6c49116475f8585ebfab1d63077b34e7e7df5d3695f13",
+      "payload": "payload/76b51ca11b11ee95.bsdiff",
+      "payload_sha256": "fc5a3af23acf9bad4619e2f9746d68de4964cc16f431bebcda93a28f1b30ac75"
+    },
+    {
+      "path": "game/ui/cfg_panel.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "d294f9d82b39d6a6b14e3118b4be1c17d86385f0cb664f59fe8c47b291386193",
+      "source_sha256": "53c997825bdc0e56c63247c389b21c0f4abf59a96757fa9800415a6fd5b2faae",
+      "payload": "payload/3f10dd3939975b97.bsdiff",
+      "payload_sha256": "e4a987df060aa8f9c65b0814a7802703d375616ce947991be7ca9707c654be22"
+    },
+    {
+      "path": "game/ui/chat_panel.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "479e476c8c537ab573cd52403a218bbcf3600f15ba2e411e0ce6d67a71c4e3df",
+      "source_sha256": "f16f1f261cc4fe93f0b948eb0095d1af3fd23c698cd51e71b8ad2ae74dc25cd2",
+      "payload": "payload/c5bc97631bdd093d.bsdiff",
+      "payload_sha256": "e54db971a02887ae0ce62a5fdadca4090449f6c55bffe4021a73660a2028f4c8"
+    },
+    {
+      "path": "game/ui/feedback_panel.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "c62b0aa451f4d83f2d447e82375a7a8c7cd56ca73bbefa188b78aa8b6f971fb6",
+      "source_sha256": "0b1702e8a904d24eaf85b3b4019a245acc19dc790ddce2118804419857521552",
+      "payload": "payload/81076f1da111d28e.bsdiff",
+      "payload_sha256": "ea95bb5957c64db0f4a6c178e9c50c8f3a8126d1214a9d71c04831ac3ee811bd"
+    },
+    {
+      "path": "game/ui/how_to_text.json",
+      "mode": "bsdiff",
+      "result_sha256": "be20fd35e561a24453a9359b82c7f8065782f6d8a94fe7d02906c900dfd0369b",
+      "source_sha256": "3c474c6d9e3ff54a587aafefa3253786802124f12647e09f39facb8bd4d531bb",
+      "payload": "payload/3c345f09547ea3ac.bsdiff",
+      "payload_sha256": "e23e979df2ba0f1635bea69af16711e454d2404172f3e842a9518d85a20cd759"
+    },
+    {
+      "path": "game/ui/hud.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "6c9234d16e58325329174c1b027d4091bbe0cde376ebf5cab81a0770593d7595",
+      "source_sha256": "b33c179566cc09d741d95a67eb55ef65cabb22b0bad93f700abecb6c2a120e66",
+      "payload": "payload/ae122bb39a809385.bsdiff",
+      "payload_sha256": "f7d440a38abd87cc716b5fa637604fa69e68a055b364b0a94fe4f47a5200de69"
+    },
+    {
+      "path": "game/ui/lobby/lobby_panel.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "1fe8f3bc11257c548d105c06e2f9c080865e14cf17c437e982340bc91aa18bf2",
+      "source_sha256": "cb9cdfd1c2e92537825c6f4ba438a870cd09a4112b47864ab2d63094b6f34e16",
+      "payload": "payload/2acf061407f29845.bsdiff",
+      "payload_sha256": "e8f3e639da64f1e4dd7efe62174a264c3a5ab5611fe0fe5992c0bf13b27a39ae"
+    },
+    {
+      "path": "game/ui/lobby/rules_strip.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "07b84e864232a04a6e9c3fa80d166c3d2865f673034c9b2dedaa88bcbb4f7094",
+      "source_sha256": "5b09182b5d3db18d64a31b31eb52cc3e500b3aef6e0100f0f3912127a54c5d55",
+      "payload": "payload/190ffdd44d77df7d.bsdiff",
+      "payload_sha256": "f39ee4cda11ab64e0c45ab00425d9bd6ca620249d0984abe58b740b70404308d"
+    },
+    {
+      "path": "game/ui/menu.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "95d44daf4abfb903d063fb92a95dcd9a976830d8a0b40347c11866279458155d",
+      "source_sha256": "ddafeb5f7275dfa118c5e87b9ab896c366a64ff5badfb7b257e1d6e3c10bba21",
+      "payload": "payload/8f67768eb20ca76f.bsdiff",
+      "payload_sha256": "fa5697728aa92812e0601b0117187318544616a0876184a98099f06973d3a2e0"
+    },
+    {
+      "path": "game/ui/pause_menu.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "d55f57192bc77d65a31ae3d5a5e424d9810dbc8a8d78afdeb31749abb62048a1",
+      "source_sha256": "9a4f4dc5c076807fd0bb6da44b214f1d91d45cb6e3d721543ef88c13dd2d6c6b",
+      "payload": "payload/7a593bbaf659f49c.bsdiff",
+      "payload_sha256": "74c2865ebd2c0e9dfa2491fd8c54460503176ee75849fc1f723d5ba3628562e9"
+    },
+    {
+      "path": "game/ui/player_list_overlay.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "84523581306ed4ef8b67b371f32ad96c6eeab959c1f0630cd407a238c00d154a",
+      "source_sha256": "0732eb025b65e39f855c8813ff3850476f31b3a6626edbcdfb7fd0fecd8120dc",
+      "payload": "payload/729b363a19a630a3.bsdiff",
+      "payload_sha256": "8f7826437ad9466c6ff36579b9b1a6be66614031185a3421984cfbf5455338f0"
+    },
+    {
+      "path": "game/ui/player_menu.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "6da854430363161655dcb09af1ea42fb219955c7506072c7a1aeeb016bda4485",
+      "source_sha256": "7f1c8a7b1a594ecca7bebb32d4fe6f30a3611dc4657deeb191c634a46229dd50",
+      "payload": "payload/75b3548d8d4d0890.bsdiff",
+      "payload_sha256": "b45d9ab97085d74b895719c6602884f335b568af583d8cc0eca1886a4b06746b"
+    },
+    {
+      "path": "game/ui/rank_change.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "15c395015bd17333eb347abc1db53d71194d328d2fc34fae6e1a5033d1ff9480",
+      "source_sha256": "f1ecc3de305c6d464d149f0dfef56f4859b788eb8580983d5d5f3e5c6ad593cb",
+      "payload": "payload/b5bef8c0b98c8179.bsdiff",
+      "payload_sha256": "a9762ac798fcdb17faa1fe6ea032d64b0a6861449c2e38b6afe152c1c95f4a45"
+    },
+    {
+      "path": "game/ui/rank_up.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "ce5f46eba1e5b58f11ceb4ea59e32948a6174f7280761f0dba0fbc56af5a1e64",
+      "source_sha256": "c799fbb6b9c1aff8ce8adf9a22dec542eb6c01e7c56cdc91a877cfaff392b8cf",
+      "payload": "payload/1573e6fa446e767d.bsdiff",
+      "payload_sha256": "241cc676110ab430815e47b37da32ee42a7c05f2e267ff0b6376f8d1e0dda4de"
+    },
+    {
+      "path": "game/ui/reconnect_card.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "f59be858a62db5aa2be3ac34d6a36e75ef0de1cea8096945a175bdab47c7ff58",
+      "source_sha256": "be01e3f1335bfeaf7c139fa304cdd4b6c4aee6cc523579c6f7d97f4cd5598ef4",
+      "payload": "payload/acf6619f7a3f9a02.bsdiff",
+      "payload_sha256": "df4c1f6879e426da34f1002af083b0dc8b29a3e2f3db3d9597e235167a98b63c"
+    },
+    {
+      "path": "game/ui/report_popup.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "7bd64a1edd09ad0c63c4b2e146d3486d0f802880ab8621a19257adaa7ca511ad",
+      "source_sha256": "da628844702235c29b918f4a0e292f83c3f4a523fc098f5566d2a423340b7fdb",
+      "payload": "payload/4f5e2a7dbb4cb351.bsdiff",
+      "payload_sha256": "dab86aeea03799b2e83b7a0b0704def803dbafeb245b6a3459e551d4ceafcf7a"
+    },
+    {
+      "path": "game/ui/settings_panel.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "04bce6360244632261c456ac8d9365f94c55c0083ee567da948d23b25bc1293f",
+      "source_sha256": "887d0c9ca6537590b43f860910e1a1cb76bef0f6c8c1db7ed9d9f709cc9de36b",
+      "payload": "payload/2444989cb80f43a7.bsdiff",
+      "payload_sha256": "4de7380aff44610e55519ef4957ada756af35cb33479de7f8f98d8043dc99974"
+    },
+    {
+      "path": "game/ui/title_editor.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "eceaba5d54bfca690192a6dcafec9fcde2ce8c2e1845affd420f4ca0cd2920a0",
+      "source_sha256": "894ac924e39362df23412e16baca0dd2a99d83836a004a9234a7910c1088637d",
+      "payload": "payload/2e4d3115f3ab6b83.bsdiff",
+      "payload_sha256": "ad60cc3a4d4856bd95a9f4aae46c19c334d18d9679898bd08d0e6b9e40538c6d"
+    },
+    {
+      "path": "game/ui/tutorial_overlay.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "cc32e4be9d28f23ee7ca76d0f872fc16a62ddfea8180645b7a91d9efdfb3476b",
+      "source_sha256": "22b5ebfde432fd9ff22aa52e8f75dd5ac2b4df3f0f8694f9be9dea381d652283",
+      "payload": "payload/447388bcf3e16188.bsdiff",
+      "payload_sha256": "950c18e14697bad7d3d5f6d9cbba23e9bd64bf24a0a76d0e22a5001c7e54ffad"
+    },
+    {
+      "path": "game/ui/votekick_ui.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "5d31d80991d9d618c92ad136f765c92eb112cba9dbce51847a85d0f8b1709a89",
+      "source_sha256": "37726fe820f032042456c56356a4192c7591885d8e562377040a7592f1d7438a",
+      "payload": "payload/0e8b45766f872d45.bsdiff",
+      "payload_sha256": "259a3ba58577c53cfc11bb1073e33598c5d15c359576b656b795d3d4b26592f0"
+    },
+    {
+      "path": "jvja/JVVolleyballJP-ExtraBold.ttf",
+      "mode": "add",
+      "result_sha256": "4fd931df626e737e9c6a2494bda39128404e24d79dac04f92c0300d785969f24",
+      "payload": "payload/2c4631f94f85b731.bin",
+      "payload_sha256": "4fd931df626e737e9c6a2494bda39128404e24d79dac04f92c0300d785969f24"
+    },
+    {
+      "path": "jvja/JVVolleyballJP-SemiBold.ttf",
+      "mode": "add",
+      "result_sha256": "d9ba4635002d8c57118888e5892bec61e5d583df51edf606cb6e691727df00a2",
+      "payload": "payload/d73444b15e21b5ea.bin",
+      "payload_sha256": "d9ba4635002d8c57118888e5892bec61e5d583df51edf606cb6e691727df00a2"
+    },
+    {
+      "path": "jvja/bootstrap.gd",
+      "mode": "add",
+      "result_sha256": "ec47816ad27d3220c2d16cabfc4a959566ce695edd4a466acb008c4152139c3e",
+      "payload": "payload/8d24625a33bcf204.bin",
+      "payload_sha256": "ec47816ad27d3220c2d16cabfc4a959566ce695edd4a466acb008c4152139c3e"
+    },
+    {
+      "path": "jvja/menu_layout.gd",
+      "mode": "add",
+      "result_sha256": "24f29f7ee92b163da22eb66b5eae711b0edbed49a1c9998916ae585e798128a1",
+      "payload": "payload/d3390db3345e599f.bin",
+      "payload_sha256": "24f29f7ee92b163da22eb66b5eae711b0edbed49a1c9998916ae585e798128a1"
+    },
+    {
+      "path": "jvja/messages.json",
+      "mode": "add",
+      "result_sha256": "31c1408e0fe477b5d3158ca58ccee8b33c84a27b7bc01e6003d9ed63c4a8c620",
+      "payload": "payload/a45272f1b4a0ddae.bin",
+      "payload_sha256": "31c1408e0fe477b5d3158ca58ccee8b33c84a27b7bc01e6003d9ed63c4a8c620"
+    }
+  ]
+}

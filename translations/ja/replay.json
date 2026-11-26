@@ -1,0 +1,271 @@
+{
+  "schema_version": 1,
+  "locale": "ja",
+  "domain": "replay",
+  "entries": {
+    "replay.ded4939f6476b2bb": {
+      "source": "finish a match to save your first replay",
+      "ja": "試合を終えると最初のリプレイが保存されます",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.b3d490bfb3653765": {
+      "source": "stage unknown",
+      "ja": "ステージ不明",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.f16746c841a54082": {
+      "source": "   ! outdated version",
+      "ja": "   ！古いバージョン",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.28ece7fffc236997": {
+      "source": "   ! version mismatch",
+      "ja": "   ！バージョンが異なります",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.50fe9608d7cd779c": {
+      "source": "  home %s   away %s%s   %s   %d:%02d\n  %s%s",
+      "ja": "  ホーム %s   アウェイ %s%s   %s   %d:%02d\n  %s%s",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.c91dec0596482b2d": {
+      "source": "version mismatch",
+      "ja": "バージョンが異なります",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.ac203c9843b5bd8c": {
+      "source": "replay",
+      "ja": "リプレイ",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.f83123d001d1fdfb": {
+      "source": "this replay is from another version of the game and can't be played",
+      "ja": "このリプレイは別のバージョンで記録されているため再生できません",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.8ff2d584cce20177": {
+      "source": "this replay couldn't be read",
+      "ja": "このリプレイを読み込めませんでした",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.9f49a3aaaad7f1f7": {
+      "source": "free cam   wasd to fly   q and e for height   hold right mouse to look   arrows to scrub",
+      "ja": "自由カメラ   WASD：移動   Q・E：高さ   右ドラッグ：視点   矢印：シーク",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.d2bc8e6551980922": {
+      "source": "spectate   hold right mouse to swing round   wheel to zoom   arrows to scrub",
+      "ja": "観戦   右ドラッグ：回転   ホイール：ズーム   矢印：シーク",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.5b5c78f380fda8a6": {
+      "source": "c changes camera   f opens free cam   space pauses   arrows scrub   h hides the ui",
+      "ja": "C：カメラ変更   F：自由カメラ   スペース：一時停止   矢印：シーク   H：UI非表示",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.5927844cf98e4d60": {
+      "source": "chat (from the report)",
+      "ja": "チャット（報告データ）",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.4cf189ee2e0aee77": {
+      "source": "nothing said yet",
+      "ja": "まだ発言はありません",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.6210c0bf05396716": {
+      "source": "pause",
+      "ja": "一時停止",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.d4a52d81d4b2a0d9": {
+      "source": "saved automatically when a match is won",
+      "ja": "試合の勝敗が決まると自動保存します",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.ae6e2dbf53aea126": {
+      "source": "open replay folder",
+      "ja": "リプレイのフォルダーを開く",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.2ffe013244677734": {
+      "source": "follow: ",
+      "ja": "追従：",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.15149f1a3d7020f4": {
+      "source": "follow: ball",
+      "ja": "追従：ボール",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.a8223108902a60f4": {
+      "source": "names: on",
+      "ja": "名前：表示",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.aa021120329fe3bd": {
+      "source": "names: off",
+      "ja": "名前：非表示",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.7159be8cf0a0d788": {
+      "source": "calls: on",
+      "ja": "掛け声：表示",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.198a901bab3c1f4d": {
+      "source": "calls: off",
+      "ja": "掛け声：非表示",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.dfa92e47335112cb": {
+      "source": "show ui",
+      "ja": "UIを表示",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.42dcc756a774432a": {
+      "source": "hide ui",
+      "ja": "UIを隠す",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.927f93be92b21236": {
+      "source": "hide ui  h",
+      "ja": "UIを隠す  H",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.7b8a3e3bab447ca8": {
+      "source": "clean: off",
+      "ja": "簡易表示：オフ",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.06622dc5f47f2bca": {
+      "source": "instant replays",
+      "ja": "即時リプレイ",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.033e05834a18d8b4": {
+      "source": "no instant replays",
+      "ja": "即時リプレイなし",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.b42374a72ccb32c0": {
+      "source": "team collision",
+      "ja": "味方との衝突",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.e93d161149e05cd2": {
+      "source": "no team collision",
+      "ja": "味方との衝突なし",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.7dc56304ca2a53d5": {
+      "source": "serve timer",
+      "ja": "サーブの制限時間",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.ab5df811cea49f96": {
+      "source": "ball indicators",
+      "ja": "ボールの目印",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.2de32d588aecf71f": {
+      "source": "no ball indicators",
+      "ja": "ボールの目印なし",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.964a5ccf53cef044": {
+      "source": "lock teams",
+      "ja": "チームを固定",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.dd21a1e12f3dae06": {
+      "source": "teams locked",
+      "ja": "チーム固定",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.a5b690fa8a882c5c": {
+      "source": "rotate every point",
+      "ja": "毎得点でローテーション",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.4852221685f2935c": {
+      "source": "cpu fill",
+      "ja": "空席をCPUで埋める",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.9516969643e82725": {
+      "source": "intro sequence",
+      "ja": "試合開始の演出",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.9a75bdf7ee963595": {
+      "source": "no intro",
+      "ja": "開始演出なし",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.215435943c28eeea": {
+      "source": "no tie break",
+      "ja": "タイブレークなし",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.65e76935df7e9f0b": {
+      "source": "[color=#%s][url=amd]amd drivers[/url][/color]     ",
+      "ja": "[color=#%s][url=amd]AMDドライバー[/url][/color]     ",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.0bb550b2722e871b": {
+      "source": "[color=#%s][url=intel]intel drivers[/url][/color]     ",
+      "ja": "[color=#%s][url=intel]Intelドライバー[/url][/color]     ",
+      "status": "draft",
+      "note": ""
+    },
+    "replay.ccac82452adcc572": {
+      "source": "[color=#%s][url=nvidia]nvidia drivers[/url][/color]",
+      "ja": "[color=#%s][url=nvidia]NVIDIAドライバー[/url][/color]",
+      "status": "draft",
+      "note": ""
+    }
+  }
+}

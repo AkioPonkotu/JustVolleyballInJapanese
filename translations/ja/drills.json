@@ -1,0 +1,493 @@
+{
+  "schema_version": 1,
+  "locale": "ja",
+  "domain": "drills",
+  "entries": {
+    "drills.9d54d353e5d1e66a": {
+      "source": "get ready",
+      "ja": "準備しよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.b476ba8a4b416746": {
+      "source": "hold strafe and move into the marker",
+      "ja": "ストレイフを押しながら目印へ移動しよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.e0649d390cf549e4": {
+      "source": "start on the pad, then jump through the ring",
+      "ja": "足場からジャンプして輪をくぐろう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.c81cfc7a1e8f9e4a": {
+      "source": "move into the marker",
+      "ja": "目印まで移動しよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.a8c349e4ef3f5f5f": {
+      "source": "just stay there",
+      "ja": "その場で待とう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.cca96106a4368d4a": {
+      "source": "move into the next marker",
+      "ja": "次の目印へ移動しよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.c425b18ff1313796": {
+      "source": "stay there",
+      "ja": "その場にいよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.ad4a38d5eddf67b6": {
+      "source": "strafe into the marker",
+      "ja": "ストレイフで目印へ移動しよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.154fc917d8ef4401": {
+      "source": "jump through the ring",
+      "ja": "ジャンプして輪をくぐろう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.e2eeba1e034e1c2a": {
+      "source": "stand on the pad",
+      "ja": "足場の上に立とう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.6753ad0af6411257": {
+      "source": "through the ring!",
+      "ja": "輪をくぐろう！",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.31ff91ef619fa4a6": {
+      "source": "keep your cursor inside the ring (look down at the ground)",
+      "ja": "下の床を見て、カーソルをリングの中に保とう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.601864d714ee111a": {
+      "source": "keep your cursor inside the ring",
+      "ja": "カーソルをリングの中に保とう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.ed373b20fa37dd8c": {
+      "source": "jump and block the spike",
+      "ja": "ジャンプしてスパイクをブロックしよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.7fe00d451af9d495": {
+      "source": "jump and block it at the net",
+      "ja": "ネット際でジャンプしてブロックしよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.59df7609d3175878": {
+      "source": "get in front of the attacker and jump",
+      "ja": "アタッカーの正面に入ってジャンプしよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.0229bdc2724ea57d": {
+      "source": "watch the set, get in front of the hitter, and block",
+      "ja": "トスを見て、アタッカーの正面でブロックしよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.00a29e68de0f47d0": {
+      "source": "jump right after the hitter and stuff it back",
+      "ja": "相手が跳んだ直後にジャンプして打ち落とそう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.f1c5a8c7ac22511d": {
+      "source": "stuff it",
+      "ja": "シャットアウトしよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.6bfaf7ede579bee7": {
+      "source": "stuffed, next play",
+      "ja": "シャットアウト成功！次のプレイへ",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.46be94a48055125b": {
+      "source": "late block, jump right after the hitter",
+      "ja": "ブロックが遅れています。相手の直後に跳ぼう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.5073a0db38ee531d": {
+      "source": "in the air, hold left to curve it left",
+      "ja": "空中で左を押し続け、左へ曲げよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.8ef5be41303f4080": {
+      "source": "in the air, hold right to curve it right",
+      "ja": "空中で右を押し続け、右へ曲げよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.2a15b462b06db4b0": {
+      "source": "curve it whichever way you like",
+      "ja": "好きな方向へ曲げてみよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.952bbb6d925b933c": {
+      "source": "hold left or right in the air to bend it",
+      "ja": "空中で左右どちらかを押し続けると曲げられます",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.0e55bf7ad6ca4ab5": {
+      "source": "curve it the other way",
+      "ja": "反対方向へ曲げてみよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.43210494e08e4b03": {
+      "source": "watch the float in, plant, and bump it to your teammate",
+      "ja": "フローターを見て足を止め、味方へ返そう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.b23c7c98246d1dcc": {
+      "source": "plant your feet and bump it to your teammate",
+      "ja": "足を止めて、味方へレシーブを返そう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.0250f8678c8cc20c": {
+      "source": "read the toss, then bump it to your teammate",
+      "ja": "トスを見極め、味方へレシーブを返そう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.1b5dc9caf9f3dcf9": {
+      "source": "bump the ball to your teammate",
+      "ja": "味方へレシーブを返そう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.67088151b4c14161": {
+      "source": "get underneath the ball",
+      "ja": "ボールの下へ入ろう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.3312e98c1c6f1759": {
+      "source": "keep it on your side",
+      "ja": "自分のコートにボールを残そう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.cea2e29011df1a3d": {
+      "source": "get to the ball before it lands",
+      "ja": "ボールが落ちる前に追いつこう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.06176b99c314f0d3": {
+      "source": "your teammate could not reach that",
+      "ja": "味方が届きませんでした",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.82e403bc637de88f": {
+      "source": "jump, tilt back, and hit it over",
+      "ja": "ジャンプして後ろへ傾け、打ち返そう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.f81ae8e482b1bb06": {
+      "source": "jump and hit the ball in the air",
+      "ja": "ジャンプして空中でボールを打とう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.ba7328f7bac8f996": {
+      "source": "tilt back as you hit to float it",
+      "ja": "打つときに後ろへ傾け、フローターにしよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.c97f0eca795752f9": {
+      "source": "toss it high, jump, and spike it over",
+      "ja": "高くトスしてジャンプし、スパイクで返そう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.8365a6db47cd2689": {
+      "source": "jump and swing at the top of the toss",
+      "ja": "ジャンプし、トスの頂点で打とう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.2e4d98bf3464bb56": {
+      "source": "keep your tilt forward, that was a float",
+      "ja": "今のはフローターです。前傾を保とう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.7dba2dac3776d174": {
+      "source": "toss the ball up, then hit it over the net",
+      "ja": "ボールをトスし、ネットを越して打とう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.4651e175859f1e7e": {
+      "source": "remain in the serving area!",
+      "ja": "サーブエリアから出ないように！",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.64fc00f783b9e1ec": {
+      "source": "over and in",
+      "ja": "ネットを越えてコート内へ",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.8625ae04c3aa0403": {
+      "source": "hit the ball at the top of the toss",
+      "ja": "トスの頂点でボールを打とう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.cf958a2cfc580a67": {
+      "source": "get it over the net",
+      "ja": "ネットを越そう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.3ee60e69827b4afd": {
+      "source": "set your hitter any way you like",
+      "ja": "好きなトスでアタッカーへつなごう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.e294fcd9719c1ad4": {
+      "source": "set it higher",
+      "ja": "もっと高くトスしよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.0974c03b1bfbccf3": {
+      "source": "set it closer to the net",
+      "ja": "もっとネットの近くへトスしよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.0c8058cb2869e7a2": {
+      "source": "set the ball to your teammate",
+      "ja": "味方へトスを上げよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.3ea687998725f5fd": {
+      "source": "set it, don't bump it",
+      "ja": "レシーブではなくトスを使おう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.a6b579f112a81111": {
+      "source": "touch the ball before it lands",
+      "ja": "ボールが落ちる前に触ろう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.92bbacbf790f265c": {
+      "source": "too far",
+      "ja": "遠すぎます",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.0e360eff1dffb4aa": {
+      "source": "hold set all the way and quick set your hitter",
+      "ja": "トスを最大までためて、味方にクイックトスを上げよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.858f0f1ec17f358c": {
+      "source": "hold the set button fully for a quick",
+      "ja": "クイックトスはトスボタンを最大まで長押し",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.fadf4ee4a92e1ada": {
+      "source": "aim the quick at your hitter by the net",
+      "ja": "ネット際のアタッカーへクイックトスを狙おう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.2bf8fcce7505b74e": {
+      "source": "time each set and spike it over",
+      "ja": "トスにタイミングを合わせてスパイクしよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.9074150439b2485e": {
+      "source": "run in, jump and spike into the marked zone",
+      "ja": "助走して跳び、目印の範囲へスパイクしよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.11b1fbb01310af86": {
+      "source": "jump before you touch",
+      "ja": "触る前にジャンプしよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.823c8a5b71e01d6e": {
+      "source": "spike into the marked zone",
+      "ja": "目印の範囲へスパイクしよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.bb7508e5c36b3ca4": {
+      "source": "swing before the ball drops",
+      "ja": "ボールが落ちる前に打とう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.eab52717269a1fa4": {
+      "source": "put it over the net",
+      "ja": "ネットを越して返そう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.4c1e41b7c2322781": {
+      "source": "be in the air as the set comes, then swing right away",
+      "ja": "トスが来るときには空中にいて、すぐに打とう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.6ff84e1c8cab67f5": {
+      "source": "too slow for a quick, swing right after the set",
+      "ja": "クイックには遅すぎます。トスの直後に打とう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.5bcaa4783ecb099e": {
+      "source": "change your camera!",
+      "ja": "カメラを切り替えよう！",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.ec29ba6241d69150": {
+      "source": "dive for the ball and get it to your teammate",
+      "ja": "ボールにダイブして味方へ返そう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.470f16d7db42ad2d": {
+      "source": "press {dive} on the ground to dive for it!",
+      "ja": "地上で {dive} を押して飛び込もう！",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.a28b52b552defa1c": {
+      "source": "get under the ball first",
+      "ja": "まずボールの下に入ろう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.389c3aee83868e0f": {
+      "source": "jump as the set goes up",
+      "ja": "トスが上がるのに合わせて跳ぼう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.2fba90abcc5b3a33": {
+      "source": "too early! let the set rise, then jump",
+      "ja": "早すぎます！トスが上がってから跳ぼう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.b556d4139c91b0b4": {
+      "source": "too late! jump as the set starts to drop",
+      "ja": "遅すぎます！トスが落ち始めるときに跳ぼう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.eba52767b7a00991": {
+      "source": "jump while the ball is in the air",
+      "ja": "ボールが空中にあるうちに跳ぼう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.ea253e5204f6a56b": {
+      "source": "bump the serve to your teammate",
+      "ja": "サーブをレシーブして味方へ返そう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.4b13d8f8d30e71d4": {
+      "source": "jump and spike it over!",
+      "ja": "ジャンプしてスパイクで返そう！",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.f55418bd371748b2": {
+      "source": "begin your approach!",
+      "ja": "助走を始めよう！",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.5db0113269187206": {
+      "source": "keep the bump on your side",
+      "ja": "レシーブを自分のコートに残そう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.50f5d8ca70f7f2ea": {
+      "source": "get to the serve before it lands",
+      "ja": "サーブが落ちる前に追いつこう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.412b62150610bbc8": {
+      "source": "keep it in play",
+      "ja": "ボールをつなごう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.0c056acb87f5bc52": {
+      "source": "press {set} to set the ball up to the net",
+      "ja": "{set} でネット際にトスを上げよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.4c69cc6992292828": {
+      "source": "set it a little higher",
+      "ja": "もう少し高くトスしよう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.abf04eb78abb279a": {
+      "source": "approach and spike it over",
+      "ja": "助走してスパイクで返そう",
+      "status": "draft",
+      "note": ""
+    },
+    "drills.62c389b6162ec0f1": {
+      "source": "hold {contact} to charge your spike!",
+      "ja": "{contact} を長押ししてスパイクをためよう！",
+      "status": "draft",
+      "note": ""
+    }
+  }
+}

@@ -1,0 +1,3289 @@
+{
+  "schema_version": 1,
+  "locale": "ja",
+  "domain": "titles",
+  "entries": {
+    "titles.32e48995f98ce3b7": {
+      "source": "100%",
+      "ja": "100%",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.2385950ef7802354": {
+      "source": "200%",
+      "ja": "200%",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.983bd614bb5afece": {
+      "source": "300",
+      "ja": "300",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.2a0b6287a0e65cff": {
+      "source": "ace",
+      "ja": "エース",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.77e5fe3221541594": {
+      "source": "Actual Giant",
+      "ja": "本当の巨人",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.d4d6f7752759a758": {
+      "source": "addict",
+      "ja": "夢中",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.875e0577157f743e": {
+      "source": "AFK",
+      "ja": "AFK",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.d5d1d55708096d05": {
+      "source": "again!",
+      "ja": "もう一本！",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.052ff38befb367b0": {
+      "source": "agile",
+      "ja": "俊敏",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.da44f5e8886a22b1": {
+      "source": "air fryer",
+      "ja": "ノンフライヤー",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.63a94bf14ce22462": {
+      "source": "alchemist",
+      "ja": "錬金術師",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.e50fc5050eb10b1a": {
+      "source": "all for one",
+      "ja": "みんなはひとりのために",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.b165258a4640570f": {
+      "source": "all seeing",
+      "ja": "すべてを見通す",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.8ed3f6ad685b959e": {
+      "source": "alpha",
+      "ja": "アルファ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.53832d690db25519": {
+      "source": "Alpha Playtester",
+      "ja": "アルファテスター",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.1f0a6682bc5ef2a4": {
+      "source": "always look up",
+      "ja": "いつも上を向け",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.d11d651bb91e9456": {
+      "source": "always looking up",
+      "ja": "いつも上を向いて",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.519ba91a5a5b4afb": {
+      "source": "angel",
+      "ja": "天使",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.ab91a82d14cfc612": {
+      "source": "animal",
+      "ja": "野生",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.242ab4ac31522e28": {
+      "source": "anime",
+      "ja": "アニメ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.92e93e7e81c4b906": {
+      "source": "annoying",
+      "ja": "厄介者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.ce4c476453ae5fa7": {
+      "source": "antagonist",
+      "ja": "敵役",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.faef616df2ec2442": {
+      "source": "anxious",
+      "ja": "そわそわ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c5c2e54de9d2833a": {
+      "source": "assassin",
+      "ja": "暗殺者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.6d7c0eb420852d2e": {
+      "source": "aura",
+      "ja": "オーラ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.f7e7dd8d23cf268a": {
+      "source": "avenger",
+      "ja": "復讐者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.12ee9f710588e431": {
+      "source": "back and forth",
+      "ja": "一進一退",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.3f8c49ce280206ab": {
+      "source": "baka",
+      "ja": "ばか",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.895c9608355941d4": {
+      "source": "Ball Boy",
+      "ja": "ボールボーイ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c61dea0be590b9a4": {
+      "source": "BAM",
+      "ja": "BAM",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.14ea6507645c2ba7": {
+      "source": "bark",
+      "ja": "吠えろ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.fbb634221207d14a": {
+      "source": "bashful",
+      "ja": "恥ずかしがり",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.0e72d30ba3f2de17": {
+      "source": "be strong",
+      "ja": "強くあれ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.b3fa55f98fcfcaf6": {
+      "source": "bean",
+      "ja": "お豆",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c6a1427d7119cd3c": {
+      "source": "beautiful",
+      "ja": "美しい",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.d0c2ebfa3490d41a": {
+      "source": "beginner",
+      "ja": "初心者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c608683269c6ca0a": {
+      "source": "believer",
+      "ja": "信じる者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.082fe4317f97d076": {
+      "source": "benchwarmer",
+      "ja": "ベンチの主",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.4820b7d491fccd1e": {
+      "source": "best boy",
+      "ja": "最高の男子",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.27f04924b69b4ad4": {
+      "source": "best girl",
+      "ja": "最高の女子",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.f44e64e75f3948e9": {
+      "source": "beta",
+      "ja": "ベータ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.5e8818d1dd191490": {
+      "source": "beyond",
+      "ja": "その先へ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.5e025461f87fc4cf": {
+      "source": "Big Body",
+      "ja": "巨体の一撃",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c94d442b7f0c75de": {
+      "source": "bipolar",
+      "ja": "気分屋",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.267420a8cbd6bf1d": {
+      "source": "black flash",
+      "ja": "黒閃",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.186c98ecc21f49bb": {
+      "source": "blazing",
+      "ja": "燃え盛る",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.b9eb8e7c9d214553": {
+      "source": "Blocker Man",
+      "ja": "ブロックマン",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.34659fd61a72a852": {
+      "source": "bloom",
+      "ja": "開花",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.38468b8cf58e362c": {
+      "source": "blooming talent",
+      "ja": "花開く才能",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.17e0e4f724103b2b": {
+      "source": "blud",
+      "ja": "相棒",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.90c91bcebb2edb80": {
+      "source": "boke",
+      "ja": "ボケ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.45f985e0cead4db8": {
+      "source": "bordem",
+      "ja": "退屈",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.60e6aa4ad2d315ff": {
+      "source": "bored",
+      "ja": "ひま",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.9d74932bdb6f21dc": {
+      "source": "bot",
+      "ja": "ボット",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.5c8f52ca28966103": {
+      "source": "brazil",
+      "ja": "ブラジル",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.3e2c5b56e34f1979": {
+      "source": "broken heart",
+      "ja": "失恋",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.e9c43c5dcf143fdc": {
+      "source": "bunny",
+      "ja": "うさぎ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.3ed1f621d7a2b5e2": {
+      "source": "burger",
+      "ja": "バーガー",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.b4c9a06f872b7b44": {
+      "source": "butter fingers",
+      "ja": "ボールがつるり",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.19e0f50bcf2f6457": {
+      "source": "cannon",
+      "ja": "大砲",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.45e84635bc4803c5": {
+      "source": "cap",
+      "ja": "うそでしょ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.2780b8eef998d6ea": {
+      "source": "captain",
+      "ja": "キャプテン",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.15830f493c714309": {
+      "source": "cartoon",
+      "ja": "カートゥーン",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c633eb52f63cec1d": {
+      "source": "casual",
+      "ja": "気軽に",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.77af778b51abd4a3": {
+      "source": "cat",
+      "ja": "猫",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.e7ac827c27b0acaa": {
+      "source": "challenger",
+      "ja": "挑戦者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.d14a7310bdf55b8f": {
+      "source": "champion",
+      "ja": "王者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.2466fcafe0531db0": {
+      "source": "chan",
+      "ja": "ちゃん",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.d61d6c660af71da4": {
+      "source": "chibi",
+      "ja": "ちび",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.50c0152c2952082a": {
+      "source": "china",
+      "ja": "中国",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.a44f641037753269": {
+      "source": "ChitterPutt",
+      "ja": "ChitterPutt",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.2cc0b485bc6d3b49": {
+      "source": "chopped",
+      "ja": "ボロボロ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.54fd37e2a8946d58": {
+      "source": "chosen one",
+      "ja": "選ばれし者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.46ec448537f30190": {
+      "source": "chud",
+      "ja": "チャド",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.637308e949738d37": {
+      "source": "clumsy",
+      "ja": "不器用",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c278be9e224723ac": {
+      "source": "clutch",
+      "ja": "ここぞの一撃",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.8667bac4ab97d6db": {
+      "source": "clutz",
+      "ja": "うっかり者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.0736fd5b7cc7ab7d": {
+      "source": "collector",
+      "ja": "コレクター",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.ea4b35e8f83279ea": {
+      "source": "complex",
+      "ja": "複雑",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.26c8cca6e668df65": {
+      "source": "confident",
+      "ja": "自信満々",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.1e5fac867454a4fe": {
+      "source": "connections",
+      "ja": "つながり",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.62d7b4a953bddc24": {
+      "source": "content creator",
+      "ja": "コンテンツクリエイター",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.044bdd025b2affcc": {
+      "source": "controller player",
+      "ja": "コントローラー派",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c34045c1a1db8d1b": {
+      "source": "cool",
+      "ja": "クール",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.d56991fd6bf1fc4c": {
+      "source": "corner merchant",
+      "ja": "コーナー職人",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.87bb2c481295712e": {
+      "source": "corny",
+      "ja": "ベタなやつ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.ce7eb7547fd3fef6": {
+      "source": "cosplay",
+      "ja": "コスプレ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.9e6308c84f0a25e2": {
+      "source": "King of The Court",
+      "ja": "コート上の王様",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.2aee789db5620b40": {
+      "source": "cozy",
+      "ja": "のんびり",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.68ab84f7c6d0f578": {
+      "source": "cpu",
+      "ja": "CPU",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.389ec5f1112d5e95": {
+      "source": "crazy",
+      "ja": "ぶっ飛んでる",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.88447b83090cded5": {
+      "source": "Creator",
+      "ja": "クリエイター",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.80b2b0df83b552cb": {
+      "source": "cringe",
+      "ja": "痛いやつ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.455eef85e86ebd89": {
+      "source": "critter",
+      "ja": "小さな生き物",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.851d49d3087657e9": {
+      "source": "crow",
+      "ja": "カラス",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.53422065450f7549": {
+      "source": "curse",
+      "ja": "呪い",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.b6849533d3e87360": {
+      "source": "cut merchant",
+      "ja": "カット職人",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.17550e2bb9ff2c26": {
+      "source": "cute",
+      "ja": "かわいい",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.4c91feb4c123a608": {
+      "source": "cutie",
+      "ja": "かわいい子",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.33a123e5d474e8f3": {
+      "source": "D1",
+      "ja": "D1",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.2265f5336d7b6037": {
+      "source": "D2",
+      "ja": "D2",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.bed7abeac56e560a": {
+      "source": "D3",
+      "ja": "D3",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.e6bb5689beec52c4": {
+      "source": "dark",
+      "ja": "闇",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.801e04c818aa1a86": {
+      "source": "daydreamer",
+      "ja": "夢見がち",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.709edbfd26a3b2ba": {
+      "source": "dayo",
+      "ja": "だよ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.28a3a5e81d1e89f0": {
+      "source": "dead",
+      "ja": "力尽きた",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.57eb7c6981b3ca7f": {
+      "source": "dead calm",
+      "ja": "凪",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.1b88d14a591efd01": {
+      "source": "Decoy",
+      "ja": "おとり",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.9fc0b3de6e512cd5": {
+      "source": "defensive specialist",
+      "ja": "守備のスペシャリスト",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.bf141eb335060ee2": {
+      "source": "demon",
+      "ja": "悪魔",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.5d3082f6a1fd718c": {
+      "source": "desperate",
+      "ja": "必死",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.166597eb357f6280": {
+      "source": "despicable",
+      "ja": "悪党",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.b01774366b2bea90": {
+      "source": "destiny",
+      "ja": "運命",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.5792d2981981be5a": {
+      "source": "devin",
+      "ja": "devin",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.d989f7442d94a141": {
+      "source": "devoted",
+      "ja": "一途",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.ef55527217f51b27": {
+      "source": "dingus",
+      "ja": "おまぬけ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.37edf9404d8649f6": {
+      "source": "diva",
+      "ja": "ディーバ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.3a35cf0a9df67744": {
+      "source": "dive pro",
+      "ja": "ダイブのプロ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.046b79f495da73e1": {
+      "source": "diver",
+      "ja": "ダイバー",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.8647ed424daa9acf": {
+      "source": "divine",
+      "ja": "神々しい",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.cd6357efdd966de8": {
+      "source": "dog",
+      "ja": "犬",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.532f011ec89ff0e2": {
+      "source": "dolphin",
+      "ja": "イルカ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.f2ff83860a4dc203": {
+      "source": "domain",
+      "ja": "領域",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.d22f115abd6b44f9": {
+      "source": "donkey",
+      "ja": "ロバ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.26ae61f68ac820ea": {
+      "source": "Don't Give Up",
+      "ja": "諦めるな",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.b8382fa59d4d5d22": {
+      "source": "don't look down",
+      "ja": "下を向くな",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.f0377dcf421bfce0": {
+      "source": "don't mind",
+      "ja": "ドンマイ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.2f57d47a3370b437": {
+      "source": "dork",
+      "ja": "変わり者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.b7a8a844a613be79": {
+      "source": "downloaded",
+      "ja": "見切った",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.abde6c0be697637b": {
+      "source": "dreamy",
+      "ja": "夢見心地",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.66780f1fb0171bd8": {
+      "source": "drip",
+      "ja": "おしゃれ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.2d2370db2447ff8c": {
+      "source": "duck",
+      "ja": "アヒル",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.97c10efe01d5c9c8": {
+      "source": "easy",
+      "ja": "余裕",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.80b1509ea3764325": {
+      "source": "eclipse",
+      "ja": "日食",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.a4f12c3895258d0b": {
+      "source": "effort",
+      "ja": "努力",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.d5c27db0dada3021": {
+      "source": "ego",
+      "ja": "エゴ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.1145e987a7767a7a": {
+      "source": "egoist",
+      "ja": "エゴイスト",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.b4c3858f5f1e1231": {
+      "source": "elegant",
+      "ja": "優雅",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.47f0753e5b50e3c7": {
+      "source": "Embarrassed",
+      "ja": "やっちゃった",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.5946f7b2be60c7ea": {
+      "source": "employed",
+      "ja": "お仕事中",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.29b54aac9e16810b": {
+      "source": "enthusiast",
+      "ja": "愛好家",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.2001981d63292fd5": {
+      "source": "everyday",
+      "ja": "毎日",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.a68e2ca0c586a4e2": {
+      "source": "@everyone",
+      "ja": "@everyone",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.b5c1fb2efc6d6b46": {
+      "source": "evil",
+      "ja": "邪悪",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.970eaf0d4dc9bec3": {
+      "source": "evolution",
+      "ja": "進化",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c7d253870ab8de38": {
+      "source": "expert",
+      "ja": "熟練者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.ea7ea1e7bd82684f": {
+      "source": "ez",
+      "ja": "楽勝",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.b8910e8343c19470": {
+      "source": ":3",
+      "ja": ":3",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.6eecb2d186071350": {
+      "source": "face first",
+      "ja": "顔面から",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.a37b18d408c01df2": {
+      "source": "^_^",
+      "ja": "^_^",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.4a8d1077e5745b25": {
+      "source": "face receiver",
+      "ja": "顔面レシーバー",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.1d66884c7356f762": {
+      "source": ";)",
+      "ja": ";)",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.1869c9d2a11e8ecd": {
+      "source": "fair",
+      "ja": "フェア",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.2b93b177b55445f5": {
+      "source": "faith",
+      "ja": "信念",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.f0acbdf2dbd1cf5f": {
+      "source": "fanatic",
+      "ja": "熱狂者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.8283b81e64a0f77f": {
+      "source": "fanboy",
+      "ja": "大ファンの男子",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.027bd25186fb2a6b": {
+      "source": "fangirl",
+      "ja": "大ファンの女子",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.774a13da8cfe4771": {
+      "source": "fate",
+      "ja": "宿命",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.23b6a8f399dd913a": {
+      "source": "fight",
+      "ja": "闘志",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.794abe4382b23610": {
+      "source": "fighter",
+      "ja": "戦士",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.0a349a19bf0bd0b3": {
+      "source": "finally here",
+      "ja": "ついに到着",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.dc9f28b12dd1818e": {
+      "source": "fire",
+      "ja": "炎",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.bebe4a486d815c6d": {
+      "source": "floor inspector",
+      "ja": "床の点検係",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.95d9daee3b0998ef": {
+      "source": "fluffy",
+      "ja": "ふわふわ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.31bbe05d43158cd2": {
+      "source": "Fly",
+      "ja": "飛べ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.0c477048b549241a": {
+      "source": "Fly High",
+      "ja": "高く飛べ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.48ffcddb8b19a5f9": {
+      "source": "fomo",
+      "ja": "乗り遅れたくない",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.6382deaf1f5dc6e7": {
+      "source": "football",
+      "ja": "フットボール",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.f3ad69db5c459f6d": {
+      "source": "four eyes",
+      "ja": "四つ目",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.7653097b0a56851e": {
+      "source": "freak",
+      "ja": "規格外",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.7330059355c00520": {
+      "source": "free time",
+      "ja": "自由時間",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c59885fd6110b3b1": {
+      "source": "free to play",
+      "ja": "基本プレイ無料",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.13b1f7ec5beaefc7": {
+      "source": "freedom",
+      "ja": "自由",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.12dd9774cc96e18b": {
+      "source": "freeze",
+      "ja": "凍結",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.cde48537ca2c2808": {
+      "source": "friend",
+      "ja": "フレンド",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.a1fce31d9b8cd02f": {
+      "source": "fries",
+      "ja": "フライドポテト",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.448fd7a31da95216": {
+      "source": "From the Concrete",
+      "ja": "コンクリートから",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.0ca6e2a2166f99f1": {
+      "source": "frutiger aero",
+      "ja": "フルティガーエアロ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.4a9931c0237e3337": {
+      "source": "full auto",
+      "ja": "フルオート",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.a36c33df272ad9dd": {
+      "source": "full metal",
+      "ja": "フルメタル",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.0a382aeb4ef64db8": {
+      "source": "full power",
+      "ja": "全力全開",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.1cb75d863647ec67": {
+      "source": "full tilt",
+      "ja": "全速力",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.b22d1d8fe5752533": {
+      "source": "funny",
+      "ja": "おもしろい",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.f00ae8a95cb4abf3": {
+      "source": "fuwa fuwa",
+      "ja": "ふわふわ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.082ff4e134bb9246": {
+      "source": "game over",
+      "ja": "ゲームオーバー",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.ab6b786aa204199a": {
+      "source": "gamer",
+      "ja": "ゲーマー",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.4e6ed26be7ced27e": {
+      "source": "gamer dad",
+      "ja": "ゲーマーのお父さん",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.7c191abf9adfc38f": {
+      "source": "gamer mom",
+      "ja": "ゲーマーのお母さん",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.54d5dbf0124e59af": {
+      "source": "gap",
+      "ja": "差",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.2fe840e13244a9d7": {
+      "source": "gas",
+      "ja": "勢い十分",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c5157fbeeb512a4d": {
+      "source": "geek",
+      "ja": "マニア",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.9ed142d60c4571b6": {
+      "source": "genius",
+      "ja": "天才",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.091733562b1dae38": {
+      "source": "genki",
+      "ja": "元気",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.37646d15578cee27": {
+      "source": "Getting Better",
+      "ja": "一歩ずつ上達",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.bee30e5b6d59c1bd": {
+      "source": "GG",
+      "ja": "GG",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.dbdc7bf49b228217": {
+      "source": "gifted",
+      "ja": "天賦の才",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.01bddddee014bf4b": {
+      "source": "gimmick",
+      "ja": "仕掛け人",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.92bcd48480eb4640": {
+      "source": "glorp",
+      "ja": "グロープ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.a03c7136c06aba03": {
+      "source": "Go Next",
+      "ja": "次の試合へ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.5480f08f35968440": {
+      "source": "goat",
+      "ja": "史上最高",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c629695bba3cbb3a": {
+      "source": "godot",
+      "ja": "Godot",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.f36b8e41e48be33a": {
+      "source": "godspeed",
+      "ja": "武運を祈る",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.006b919be2cd00d4": {
+      "source": "gomen",
+      "ja": "ごめん",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.f8ab3a1aa02abba9": {
+      "source": "goody two-shoes",
+      "ja": "優等生",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.7aa203f4642ac260": {
+      "source": "goofball",
+      "ja": "お調子者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.32d88265324261e8": {
+      "source": "goofy",
+      "ja": "おとぼけ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.e9854402391d0c0c": {
+      "source": "greatest decoy",
+      "ja": "最強のおとり",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.3026fac023c67598": {
+      "source": "grind",
+      "ja": "ひたむき",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.3dd2ac29f928f639": {
+      "source": "Guardian Deity",
+      "ja": "守護神",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.f57442b2c7e082df": {
+      "source": "guess monster",
+      "ja": "ゲス・モンスター",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.2e8bc4c0819a63be": {
+      "source": "Gym Rat",
+      "ja": "体育館の住人",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.09aee23b1fd4f638": {
+      "source": "habit",
+      "ja": "習慣",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.a4e63bcacf6c172a": {
+      "source": "halo",
+      "ja": "光輪",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.7b9aa5b29cb57031": {
+      "source": "Hammer Time",
+      "ja": "ハンマータイム",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.489f719cadf91909": {
+      "source": "happy",
+      "ja": "幸せ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.3cb968a982080be1": {
+      "source": "heart",
+      "ja": "心",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.4a0987179ff6982e": {
+      "source": "heartless",
+      "ja": "冷酷",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c73d01c77e315c48": {
+      "source": "Heavy Hitter",
+      "ja": "強打者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.3568edca25022faa": {
+      "source": "heist",
+      "ja": "強奪",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.354cbfc814262a7a": {
+      "source": "her",
+      "ja": "彼女",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.ae6c79d10f1fd410": {
+      "source": "hero",
+      "ja": "ヒーロー",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.cd9c8c64e04de352": {
+      "source": "hey hey hey!",
+      "ja": "ヘイヘイヘイ！",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.2111257f0395941e": {
+      "source": "hey lol",
+      "ja": "やあ笑",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.8f434346648f6b96": {
+      "source": "hi",
+      "ja": "やあ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.3ec5ccc45bb0cbce": {
+      "source": "hiatus",
+      "ja": "しばらく休憩",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.66fb5a9513d14072": {
+      "source": "hikikomori",
+      "ja": "ひきこもり",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.5a7cf4ac138054a8": {
+      "source": "him",
+      "ja": "彼",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.8bd2411d19dce555": {
+      "source": "hobbyist",
+      "ja": "趣味人",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c29277f55fb31aeb": {
+      "source": "hope",
+      "ja": "希望",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.37cf5259e3c628bf": {
+      "source": "Hunger",
+      "ja": "飢え",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.e9a63a4eb15738ae": {
+      "source": "hunter",
+      "ja": "ハンター",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.a1273e0f0d8f28cd": {
+      "source": "hydrated",
+      "ja": "水分補給済み",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.6b29a986309021ea": {
+      "source": "hype",
+      "ja": "盛り上がれ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.91e235e3f8168853": {
+      "source": "hyper",
+      "ja": "ハイテンション",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.0a0a6da415dcbd4a": {
+      "source": "ifykyk",
+      "ja": "分かる人には分かる",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.a7972ccad5f5ccd7": {
+      "source": "i'm better",
+      "ja": "自分の方が上",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.ae5af92bb86775c3": {
+      "source": "i'm here",
+      "ja": "ここにいる",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.556f9cb498932264": {
+      "source": "immortal",
+      "ja": "不死身",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.aa77a43d7dc3b141": {
+      "source": "impostor",
+      "ja": "偽者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.d79987051a2552ac": {
+      "source": "infinity",
+      "ja": "無限",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.8ea748b09b117e6c": {
+      "source": "insane",
+      "ja": "常識外れ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.8a2edb4736f8dacf": {
+      "source": "inspirational",
+      "ja": "心を動かす",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.a48311356850e779": {
+      "source": "iron wall",
+      "ja": "鉄壁",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.93ff074ca77b5f7e": {
+      "source": "italy",
+      "ja": "イタリア",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.7fd3d2886b4800dd": {
+      "source": "It's Just Volleyball",
+      "ja": "ただのバレーボールさ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.b08095aab0c810aa": {
+      "source": "it's time",
+      "ja": "その時が来た",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.4244c48f3fde6dbf": {
+      "source": "jack of all",
+      "ja": "何でも屋",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.59ae856cd788d0f5": {
+      "source": "japan",
+      "ja": "日本",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.6f33ba945891c836": {
+      "source": "John Volleyball",
+      "ja": "ジョン・バレーボール",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.cf71981520552b45": {
+      "source": "jokester",
+      "ja": "冗談好き",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.b113405b6f9114b2": {
+      "source": "joy",
+      "ja": "喜び",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.8fdd880f097cddfe": {
+      "source": "junior",
+      "ja": "ジュニア",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.46a11f1333d6b207": {
+      "source": "junkie",
+      "ja": "熱中者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.ab002186261953fa": {
+      "source": "just a boy",
+      "ja": "ただの男の子",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.659a3939c044dc4f": {
+      "source": "just a club",
+      "ja": "ただの部活",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.68e34291711ee9ec": {
+      "source": "just a girl",
+      "ja": "ただの女の子",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.bd76440de5b721ea": {
+      "source": "just for fun",
+      "ja": "楽しむために",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.7c7cad47ea5d1ded": {
+      "source": "kansai",
+      "ja": "関西",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.532593111807cdf8": {
+      "source": "kawaii",
+      "ja": "かわいい",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.2a8d4b1fbd84488c": {
+      "source": "KBM",
+      "ja": "キーマウ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.67731ff58137eb39": {
+      "source": "kitty",
+      "ja": "子猫",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.75e2fcb7ec90453d": {
+      "source": "kokusen",
+      "ja": "黒閃",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.495ba379cca4d920": {
+      "source": "kun",
+      "ja": "くん",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.fdd97dcd47b2cabd": {
+      "source": "L mans",
+      "ja": "残念なやつ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.da8e7d4da78a3374": {
+      "source": "larp",
+      "ja": "なりきり",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.de6d09e690368a1c": {
+      "source": "last boss",
+      "ja": "ラスボス",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.81fd67d02f679b81": {
+      "source": "lazy",
+      "ja": "ぐうたら",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.4d5b660943625c0a": {
+      "source": "leader",
+      "ja": "リーダー",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.a76f47a688f22080": {
+      "source": "leap",
+      "ja": "跳躍",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.b6087a040fa0ee82": {
+      "source": "Leap of Faith",
+      "ja": "決死の跳躍",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.6e67d8195527e5d6": {
+      "source": "Leg Day",
+      "ja": "脚を鍛える日",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.ba29297b6c4f8486": {
+      "source": "legend",
+      "ja": "伝説",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.30e9190d7fdfc50d": {
+      "source": "liar",
+      "ja": "うそつき",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.59508e50faa1620d": {
+      "source": "libero",
+      "ja": "リベロ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.4b9743e642cbadff": {
+      "source": "Libero Man",
+      "ja": "リベロマン",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.7d138dcdc6fe50c6": {
+      "source": "life line",
+      "ja": "命綱",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.7a5bc470ec0d730c": {
+      "source": "life or death",
+      "ja": "生か死か",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.99a7026172d42714": {
+      "source": "light",
+      "ja": "光",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.55ea09e5715d0a8d": {
+      "source": "limit",
+      "ja": "限界",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.13246046bb286689": {
+      "source": "limitless",
+      "ja": "無限の可能性",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.fc59487712bbe89b": {
+      "source": "lion",
+      "ja": "ライオン",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.efbd771feb3df767": {
+      "source": "Little Giant",
+      "ja": "小さな巨人",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.90bffe1884b84d5e": {
+      "source": "lmao",
+      "ja": "大爆笑",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.fc0f1f3dceb3fb35": {
+      "source": "locked in",
+      "ja": "集中状態",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.0cc5f0e9fff3c006": {
+      "source": "looking up",
+      "ja": "上を向いて",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.cc8a30ea6faccd1b": {
+      "source": "loser",
+      "ja": "負け犬",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.686f746a95b6f836": {
+      "source": "love",
+      "ja": "愛",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.db9fbddbd7caeff7": {
+      "source": "lucky",
+      "ja": "幸運",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.eca968465a407b46": {
+      "source": "m2 spam",
+      "ja": "右クリック連打",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.bc020a35b7f9cb13": {
+      "source": "machine",
+      "ja": "マシン",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.079cdc52e64462df": {
+      "source": "mad",
+      "ja": "怒り",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.97a2a4ee69af4771": {
+      "source": "mad dog",
+      "ja": "狂犬",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.1642c1186f00eb28": {
+      "source": "madness",
+      "ja": "狂気",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.6661473579cc99d9": {
+      "source": "mage",
+      "ja": "魔法使い",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.3b3f77bf2992dd83": {
+      "source": "manipulator",
+      "ja": "操り手",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.6d205806e19dba53": {
+      "source": "marathon",
+      "ja": "マラソン",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.75c374cb4cf3cb2d": {
+      "source": "memories",
+      "ja": "思い出",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.29f02fa6bd9a4500": {
+      "source": "menace",
+      "ja": "脅威",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.888df6d1572d02bc": {
+      "source": "mental",
+      "ja": "メンタル",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.404cdd7bc109c432": {
+      "source": "meow",
+      "ja": "にゃー",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.90ac16783fbc54c3": {
+      "source": "mid",
+      "ja": "そこそこ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.9ce8878f5f1483c7": {
+      "source": "middle blocker",
+      "ja": "ミドルブロッカー",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.3fd30542fe3f61b1": {
+      "source": "mine",
+      "ja": "任せろ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.bbebec50e47b8dc6": {
+      "source": "minion",
+      "ja": "手下",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.6021c5efdb4983df": {
+      "source": "minus tempo",
+      "ja": "マイナステンポ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.dfd9fb41f557e277": {
+      "source": "mo ippon",
+      "ja": "もう一本",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.d524c1a0811da495": {
+      "source": "mobile",
+      "ja": "モバイル",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.64460b279591d01c": {
+      "source": "mobile player",
+      "ja": "モバイル勢",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.4b6f50ec6e062979": {
+      "source": "moe",
+      "ja": "萌え",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.bcb9dae6ea88dbf2": {
+      "source": "mom",
+      "ja": "ママ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.4618bb22ed6b25f3": {
+      "source": "money spread",
+      "ja": "お金持ちアピール",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.b3253887b19cdcde": {
+      "source": "moot",
+      "ja": "相互フォロー",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.305238273bb0fac2": {
+      "source": "motion",
+      "ja": "動き",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.3565abdfccca37ae": {
+      "source": "motion controls",
+      "ja": "モーション操作",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.2ca1546b47fe3198": {
+      "source": "mr average",
+      "ja": "ミスター平均",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.af07ff91ab7ce2a7": {
+      "source": "mud",
+      "ja": "泥",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.4c5af973f604c186": {
+      "source": "musician",
+      "ja": "音楽家",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.03e8fd2974801a8f": {
+      "source": "my story",
+      "ja": "自分の物語",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.7eb2b87ace92e28a": {
+      "source": "my time",
+      "ja": "自分の時間",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.76561d0c4c0c19eb": {
+      "source": "nah, i'd win",
+      "ja": "大丈夫、僕最強だから",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.2f9cbd50714016b3": {
+      "source": "Neck and Neck",
+      "ja": "一進一退",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.5c3fa1371e6b50c8": {
+      "source": "neet",
+      "ja": "ニート",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.016526330aaf2505": {
+      "source": "neko",
+      "ja": "猫",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.5cabaa953bd37c3e": {
+      "source": "nerd",
+      "ja": "オタク",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.bd0276a2ffb1750f": {
+      "source": "net magnet",
+      "ja": "ネット吸着体質",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.94baf1f6967ed1f2": {
+      "source": "never give up",
+      "ja": "絶対に諦めない",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.7f401c70df462420": {
+      "source": "new frontier",
+      "ja": "新たな境地",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.1df56d363f4fdae3": {
+      "source": "new king",
+      "ja": "新たな王",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.e1225b1e73d7552f": {
+      "source": "nice receive",
+      "ja": "ナイスレシーブ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.2a8754b6ff1a9a93": {
+      "source": "Nice Serve!",
+      "ja": "ナイスサーブ！",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.54482595177116e6": {
+      "source": "ninja",
+      "ja": "忍者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.6382b3cc881412b7": {
+      "source": "nobody",
+      "ja": "何者でもない",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.a8c30c07cad106ee": {
+      "source": "noob",
+      "ja": "初心者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.23f10338f151cfcd": {
+      "source": "nostalgic",
+      "ja": "懐かしい",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.8026af8f0ab6eb52": {
+      "source": "Not Alone",
+      "ja": "独りじゃない",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.87e31e75d0229aea": {
+      "source": "npc",
+      "ja": "NPC",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.0b0fa0b2280a0963": {
+      "source": "#1",
+      "ja": "#1",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.85b566fb730e4afa": {
+      "source": "#10",
+      "ja": "#10",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.b6b52c0e41dd6e18": {
+      "source": "#2",
+      "ja": "#2",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.ea46599a238699be": {
+      "source": "#3",
+      "ja": "#3",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.7e3cfd9c828a7567": {
+      "source": "#4",
+      "ja": "#4",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.7aff87c72ca0f13d": {
+      "source": "#5",
+      "ja": "#5",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.745443363406ec55": {
+      "source": "#6",
+      "ja": "#6",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.d5ce3ebfc396d41d": {
+      "source": "#7",
+      "ja": "#7",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.3d9b93fa6d6f3453": {
+      "source": "#8",
+      "ja": "#8",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.fd1c2012f22148c1": {
+      "source": "#9",
+      "ja": "#9",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.bc2185353f8c130a": {
+      "source": "one crazy idea",
+      "ja": "ひとつの大胆な発想",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c1f643b34c0740a6": {
+      "source": "one for all",
+      "ja": "ひとりはみんなのために",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.221ac3d13010ede9": {
+      "source": "one man army",
+      "ja": "一騎当千",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.58094382d8457966": {
+      "source": "one more",
+      "ja": "もう一本",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.8d4bcad6e14945aa": {
+      "source": "one more point",
+      "ja": "あと1点",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.d2ea3eeb1100cd0d": {
+      "source": "oomf",
+      "ja": "フォロワーの誰か",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.d13f2eadd4ed5b02": {
+      "source": "oops",
+      "ja": "おっと",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.0d364a26ad8e1218": {
+      "source": "Open!",
+      "ja": "オープン！",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.3998b2e45d9a7a26": {
+      "source": "opposite hitter",
+      "ja": "オポジット",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.b4dfc7a1d0a029d0": {
+      "source": "Out of Steam",
+      "ja": "力尽きた",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c4238e4662afeff7": {
+      "source": "outdoors volleyball",
+      "ja": "屋外バレー",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.ccfe9fd27aff8792": {
+      "source": "outside hitter",
+      "ja": "アウトサイドヒッター",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.07a4fd7003cb1e6d": {
+      "source": "overrated",
+      "ja": "過大評価",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.fa7676d168155674": {
+      "source": "overthinker",
+      "ja": "考えすぎ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.80cbfa93bf91cf77": {
+      "source": "owari da",
+      "ja": "終わりだ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.43cae2eafda4d7a9": {
+      "source": "owo",
+      "ja": "owo",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.4b50a792cdf529c3": {
+      "source": "panic diver",
+      "ja": "慌ててダイブ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.1776e45bf96c145a": {
+      "source": "pathetic",
+      "ja": "情けない",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.2295ff7a8bd8b3f2": {
+      "source": "patient",
+      "ja": "忍耐強い",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.66e9f9f374476012": {
+      "source": "peachy",
+      "ja": "絶好調",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.9ee9e606474e3228": {
+      "source": "peak",
+      "ja": "頂点",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.1df36e7d30c514fe": {
+      "source": "Pick Yourself Up",
+      "ja": "立ち上がれ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.2ee3e3b6b3414618": {
+      "source": "pieces of powder",
+      "ja": "粉々",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c46a7fa2d8f58cd1": {
+      "source": "Pinch Server",
+      "ja": "ピンチサーバー",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.6ec9c2b0eb140107": {
+      "source": "pixels",
+      "ja": "ピクセル",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.fb6f7c93e6bf3dfa": {
+      "source": "Planned",
+      "ja": "計算どおり",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.6cdd51d6a2bb6ec2": {
+      "source": "platinum goofy",
+      "ja": "プラチナのおとぼけ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.0b44a0643e5977e0": {
+      "source": "play to win",
+      "ja": "勝つために",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.ce933ac8a92b1976": {
+      "source": "playmaker",
+      "ja": "司令塔",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.50f59d43eca90d99": {
+      "source": "plotting",
+      "ja": "企み中",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.9cbbdd6cbd5335f5": {
+      "source": "poland",
+      "ja": "ポーランド",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.835e71a45acf8567": {
+      "source": "polished instinct",
+      "ja": "磨かれた本能",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.101f89cd568b7c70": {
+      "source": "Potential Man",
+      "ja": "可能性の男",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.b5d65f0ae389b602": {
+      "source": "Precision",
+      "ja": "精密射撃",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.b0f4b2e7996a5f4f": {
+      "source": "prepared",
+      "ja": "準備万端",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.77049f6f8893dd97": {
+      "source": "pretty",
+      "ja": "きれい",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.eca1dfda3321f728": {
+      "source": "prodigy",
+      "ja": "神童",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.cd340d1a5c4151de": {
+      "source": "professional",
+      "ja": "プロフェッショナル",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.3513d9452af7c176": {
+      "source": "promise",
+      "ja": "約束",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.278b46df0ed765f0": {
+      "source": "protagonist",
+      "ja": "主人公",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.6588ef4db6a357d6": {
+      "source": "puppy",
+      "ja": "子犬",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.b8ba2ec7e90713c1": {
+      "source": "pure",
+      "ja": "純粋",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.1933ecbf12b027c6": {
+      "source": "Queen of The Court",
+      "ja": "コート上の女王",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.1ca490da37827a98": {
+      "source": "quick attack",
+      "ja": "速攻",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.8e79664b48a2d67c": {
+      "source": "quick merchant",
+      "ja": "クイック職人",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.2b098bc313799f2b": {
+      "source": "quickster",
+      "ja": "スピード自慢",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.e59389d9c8173527": {
+      "source": "rage",
+      "ja": "激怒",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.afd5c5ae5738e275": {
+      "source": "rally",
+      "ja": "ラリー",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.a441b15fe9a3cf56": {
+      "source": "random",
+      "ja": "気まぐれ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.3a7aba3fbbd99fe9": {
+      "source": "all-star",
+      "ja": "オールスター",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.8dd9ed10798ded82": {
+      "source": "amateur",
+      "ja": "アマチュア",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.400464e9e99bb03f": {
+      "source": "national",
+      "ja": "ナショナル",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.d89400074e7763b0": {
+      "source": "novice",
+      "ja": "新米",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.07ed400759a0f606": {
+      "source": "pro",
+      "ja": "プロ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.d70f6838cce70ead": {
+      "source": "rookie",
+      "ja": "ルーキー",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.f42133384b7ff3fc": {
+      "source": "semi-pro",
+      "ja": "セミプロ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.72d3a54bf2b2eee3": {
+      "source": "rebirth",
+      "ja": "再生",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.8575e43e52cfebdc": {
+      "source": "recreational",
+      "ja": "エンジョイ勢",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.3ff6c05723bb069d": {
+      "source": "ref",
+      "ja": "審判",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.81803dd4e410a92b": {
+      "source": "referee",
+      "ja": "審判員",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.b455784ab5307277": {
+      "source": "Regular",
+      "ja": "常連",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c1a8701b378baaaa": {
+      "source": "reincarnated",
+      "ja": "転生者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.92893accc8e07306": {
+      "source": "repost",
+      "ja": "再投稿",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.85e5464309915bf2": {
+      "source": "retro",
+      "ja": "レトロ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c144d0e526ad9456": {
+      "source": "revenger",
+      "ja": "リベンジャー",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.979764d31d70e848": {
+      "source": "rising star",
+      "ja": "期待の新星",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.1db147fa22abae8a": {
+      "source": "rival",
+      "ja": "ライバル",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.18d63be10ad544a0": {
+      "source": "robot",
+      "ja": "ロボット",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.19eae2a5a00f07fc": {
+      "source": "Rolling Thunder",
+      "ja": "ローリングサンダー",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.525cfa64347a5079": {
+      "source": "romantic",
+      "ja": "ロマンチスト",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.527aa9f431539da8": {
+      "source": "runner",
+      "ja": "ランナー",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.90a6d53df47e4097": {
+      "source": "russia",
+      "ja": "ロシア",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.4ae0b8d730c641ee": {
+      "source": "sama",
+      "ja": "さま",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.6b9cd7872ae63453": {
+      "source": "san",
+      "ja": "さん",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.61c93aaa036ec083": {
+      "source": "sasageyo!",
+      "ja": "捧げよ！",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.157dca92e4250458": {
+      "source": "save",
+      "ja": "救援",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.5241ac9b5a1b8ba9": {
+      "source": "savior",
+      "ja": "救世主",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.03f9d0d21f856e23": {
+      "source": "second nature",
+      "ja": "体に染みついた",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.fb7732b9d60884f3": {
+      "source": "self worth",
+      "ja": "自分の価値",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.1444e0f8ad7f76ad": {
+      "source": "senpai",
+      "ja": "先輩",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.4205501b2d802fd4": {
+      "source": "sensei",
+      "ja": "先生",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.467dda4df29b3ad6": {
+      "source": "serbia",
+      "ja": "セルビア",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.bab6f4cdfe399488": {
+      "source": "setter",
+      "ja": "セッター",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.8d4b635793ac17d1": {
+      "source": "Setter Man",
+      "ja": "セッターマン",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.0bb09d80600eec3e": {
+      "source": "shadow",
+      "ja": "影",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.cc42b7efc2c7e9bc": {
+      "source": "sharpshooter",
+      "ja": "狙撃手",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.6d7cbfe8a1ceaf7d": {
+      "source": "shine",
+      "ja": "輝け",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.5ca7169e68bd246c": {
+      "source": "shojo",
+      "ja": "少女",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.5c4dbebbc4ab7ac5": {
+      "source": "showstopper",
+      "ja": "注目の的",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.42a73cf9f258b8e4": {
+      "source": "shrimp",
+      "ja": "ちびっこ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.5eb6544124c68cc5": {
+      "source": "shut in",
+      "ja": "引きこもり",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.38de90475bb334fb": {
+      "source": "sigma",
+      "ja": "シグマ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.30b8795437a029dc": {
+      "source": "silly",
+      "ja": "おちゃめ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.42be51222d55beb3": {
+      "source": "silly billy",
+      "ja": "おちゃめなやつ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.f7b12713505deee6": {
+      "source": "silly goose",
+      "ja": "おちゃめなガチョウ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.a7a39b72f29718e6": {
+      "source": "simple",
+      "ja": "シンプル",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.aec9c9aca1e8e181": {
+      "source": "simple volleyball",
+      "ja": "シンプルなバレー",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.5bd6502ccf37fa3f": {
+      "source": "sinister",
+      "ja": "不吉",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.81388cc17f7189ea": {
+      "source": "six eyes",
+      "ja": "六眼",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.33ce0d8f81599d3e": {
+      "source": "skill gap",
+      "ja": "実力差",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.abded63a0bf258a3": {
+      "source": "SKSKSK",
+      "ja": "SKSKSK",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.e74ca13b4c0a61dc": {
+      "source": "sleepy",
+      "ja": "ねむい",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c29e85719e8cdb1b": {
+      "source": "smash every wall",
+      "ja": "すべての壁を壊せ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.fd0bf83bea46c356": {
+      "source": "smelly",
+      "ja": "におうぞ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.810427261a43495f": {
+      "source": "so retro",
+      "ja": "すごくレトロ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.8f27f432fcbaa4b5": {
+      "source": "soccer",
+      "ja": "サッカー",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.ae0facccf0a3723a": {
+      "source": "soul",
+      "ja": "魂",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.7846086ae9fcf5a5": {
+      "source": "specs",
+      "ja": "眼鏡",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.bbccb9c002d5ed59": {
+      "source": "speed",
+      "ja": "速さ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.9908deef60f1f07f": {
+      "source": "speedster",
+      "ja": "俊足",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.04cebed85eb4d89b": {
+      "source": "spiker",
+      "ja": "スパイカー",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.6d93c781a2ff6fe0": {
+      "source": "Spiker Man",
+      "ja": "スパイカーマン",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.caa6af5c4be8d52c": {
+      "source": "sports fan",
+      "ja": "スポーツファン",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.a7048911dc305d8d": {
+      "source": "stand proud",
+      "ja": "胸を張れ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.525eca1d5089dbdc": {
+      "source": "star",
+      "ja": "スター",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.7602cddadffd5b7a": {
+      "source": "start today",
+      "ja": "今日から始めよう",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.232ed6f9fabf14e3": {
+      "source": "stellar",
+      "ja": "星のように",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.2425f1cb1d9da41d": {
+      "source": "streamer",
+      "ja": "配信者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.eda15ce4834ac303": {
+      "source": "strong",
+      "ja": "強い",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c80790b44babdf32": {
+      "source": "studious",
+      "ja": "勉強熱心",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c2d214a484e9d44d": {
+      "source": "stupid",
+      "ja": "おばか",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.36ee39884a2292eb": {
+      "source": "stutter",
+      "ja": "たどたどしい",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.a941a4c4fd0c01cd": {
+      "source": "sunshine",
+      "ja": "太陽の光",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.a2bec80ac183e285": {
+      "source": "SuperStar",
+      "ja": "スーパースター",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.2ce6c01010261690": {
+      "source": "Supporter",
+      "ja": "サポーター",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.6af963d3457b7aff": {
+      "source": "Surpassing Limits",
+      "ja": "限界を超えて",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.712985cc1194dffe": {
+      "source": "swag",
+      "ja": "イケてる",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.cdaad7e096dd8f07": {
+      "source": "sweat",
+      "ja": "ガチ勢",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.01a0c66b545feefc": {
+      "source": "sweetheart",
+      "ja": "愛され者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.2241cf5d53e7677f": {
+      "source": "swifty",
+      "ja": "すばしっこい",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.070bc964e6b0f85c": {
+      "source": "talented",
+      "ja": "才能あり",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.073fb3a77e54cc76": {
+      "source": "tea time",
+      "ja": "ティータイム",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.95a114f0d23c54b3": {
+      "source": "team player",
+      "ja": "チーム思い",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.5c4776722d74da85": {
+      "source": "tenacity",
+      "ja": "粘り強さ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.fbd9da1a144ef30d": {
+      "source": "The Ace",
+      "ja": "エース",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.ae9a70aa51300323": {
+      "source": "the beginning",
+      "ja": "始まり",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.92eb9cd081f0ec17": {
+      "source": "the end",
+      "ja": "終わり",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.ce813de9d7568c63": {
+      "source": "the honored one",
+      "ja": "天上天下唯我独尊",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.e302f89b5d80c74c": {
+      "source": "The Wall",
+      "ja": "壁",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.0d0342168820e8f3": {
+      "source": "the worst one",
+      "ja": "最悪のやつ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.151e58a831306903": {
+      "source": "they",
+      "ja": "彼ら",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.a569b9b2250fe323": {
+      "source": "threat",
+      "ja": "脅威",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.7b0456581bef4cb1": {
+      "source": "throw",
+      "ja": "投げる",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.7cab1c8e9a06984e": {
+      "source": "time traveler",
+      "ja": "タイムトラベラー",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.ddbf3f3bd53bbeaf": {
+      "source": "timeless hero",
+      "ja": "時を超えるヒーロー",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.d9315cb30012fded": {
+      "source": "tmko",
+      "ja": "tmko",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.6c617a25b6bc3a72": {
+      "source": "tobe",
+      "ja": "飛べ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.0c24734d7bf5954f": {
+      "source": "together",
+      "ja": "一緒に",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.3c469e9d6c5875d3": {
+      "source": "token",
+      "ja": "トークン",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.afe04579004049cc": {
+      "source": "tokyo",
+      "ja": "東京",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.0afaa366316e0777": {
+      "source": "tomodachi",
+      "ja": "友達",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.551916735aeecf14": {
+      "source": "troll",
+      "ja": "いたずら者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.f796e2f28ae58117": {
+      "source": "trust",
+      "ja": "信頼",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.a39482caba37c7a2": {
+      "source": "try hard",
+      "ja": "本気でいこう",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.e94eadb44e4a2eab": {
+      "source": "tryhard",
+      "ja": "ガチ勢",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.dcf75ec9f8a68c4b": {
+      "source": "tsundere",
+      "ja": "ツンデレ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.ce28f91d9b85f602": {
+      "source": "tuff",
+      "ja": "タフ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.fe30030e102ecf8f": {
+      "source": "tutorial",
+      "ja": "チュートリアル",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.72b33a1cb0bfc9cd": {
+      "source": "twin",
+      "ja": "双子",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.72de275ac0b40947": {
+      "source": "ugly",
+      "ja": "ぶさいく",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.9bbe7bfc41872d45": {
+      "source": "Ultimate Weapon",
+      "ja": "究極の武器",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.b494b694cb092add": {
+      "source": "undead",
+      "ja": "アンデッド",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.b2bd3895e394299f": {
+      "source": "underrated",
+      "ja": "隠れた実力者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.ef65af02d658091b": {
+      "source": "unemployed",
+      "ja": "無職",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.981e5b3967260083": {
+      "source": "united states",
+      "ja": "アメリカ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.b23a6a8439c0dde5": {
+      "source": "unknown",
+      "ja": "正体不明",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.f37548fd15a52d9a": {
+      "source": "unleashed",
+      "ja": "解き放たれた",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.e0dd5b5c9ba0c2b5": {
+      "source": "unlucky",
+      "ja": "不運",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.3cbe3defcd728352": {
+      "source": "Unpredictable",
+      "ja": "変幻自在",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.aa5ab35a9174c206": {
+      "source": "USA",
+      "ja": "USA",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.eeb36e726e3ffec1": {
+      "source": "uwu",
+      "ja": "uwu",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.ec654fac9599f62e": {
+      "source": "valid",
+      "ja": "文句なし",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.f4c1e632fa17585b": {
+      "source": "vibes",
+      "ja": "いい感じ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.a172ddf41dd327dc": {
+      "source": "viral",
+      "ja": "話題の人",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.6a1a38cbd5ff3bb7": {
+      "source": "virtual reality",
+      "ja": "仮想現実",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.445be54d48a2e629": {
+      "source": "void",
+      "ja": "虚無",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.3580c9267518807d": {
+      "source": "volleyball",
+      "ja": "バレーボール",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.ac92b3fa29fe751e": {
+      "source": "W mans",
+      "ja": "最高のやつ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.a8b5543dc1af0232": {
+      "source": "Wall Up",
+      "ja": "壁を作れ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.5c1cb1a340a1dce0": {
+      "source": "wallbreaker",
+      "ja": "壁を打ち破る者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.3b7e400787652ca1": {
+      "source": "Warm Up",
+      "ja": "ウォームアップ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.3bff0401e43eec63": {
+      "source": "WASD",
+      "ja": "WASD",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.8e24b0d78a4ee1e4": {
+      "source": "washed",
+      "ja": "かつての実力者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.724f2163d113ad5d": {
+      "source": "way of the ace",
+      "ja": "エースの道",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.6c4ad435a40fc70b": {
+      "source": "we got next",
+      "ja": "次は自分たち",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.481ba4019c9d2710": {
+      "source": "weak",
+      "ja": "弱い",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.2d5a39ce1ec34b23": {
+      "source": "who you'll become",
+      "ja": "これからの自分",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.428dfcd94ca02b8e": {
+      "source": "wholesome",
+      "ja": "ほっこり",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.ed3c7bc96fed7441": {
+      "source": "wildcard",
+      "ja": "予測不能",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c047caef95b4d3e8": {
+      "source": "wing",
+      "ja": "翼",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.4221a0fc3dfbfd83": {
+      "source": "winner",
+      "ja": "勝者",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.e1823098f42ea75f": {
+      "source": "witch",
+      "ja": "魔女",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.36296059cca8b7c7": {
+      "source": "wonder",
+      "ja": "驚き",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c0a6eb55b12b7dfe": {
+      "source": "worth",
+      "ja": "価値",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.7a77dec6ccea995e": {
+      "source": "XD",
+      "ja": "XD",
+      "status": "draft",
+      "note": "記号・固有名詞として原表記を維持"
+    },
+    "titles.23353488769f5963": {
+      "source": "yaoi",
+      "ja": "やおい",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.fad694ed569e193f": {
+      "source": "Yapper",
+      "ja": "おしゃべり",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c309191c26ca712c": {
+      "source": "yuri",
+      "ja": "百合",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.92e4accd3d41d63f": {
+      "source": "zen",
+      "ja": "禅",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.c627240d8e682355": {
+      "source": "ZigZag",
+      "ja": "ジグザグ",
+      "status": "draft",
+      "note": ""
+    },
+    "titles.2d4d6d5461b734f1": {
+      "source": "O_O",
+      "ja": "O_O",
+      "status": "draft",
+      "note": "顔文字として原表記を維持"
+    }
+  }
+}

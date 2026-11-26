@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-27",
+  "installed_pck_sha256": "d96bda1f58d239ffae337abb5a89417ea09b4e9f67f3f43af1ad5ddf6df1ddbf",
+  "runtime_message_count": 1686,
+  "catalog_message_count": 1686,
+  "lookups": [
+    {
+      "source": "Nationals Arena",
+      "runtime_exact": null,
+      "runtime_lowercase": "全国大会会場",
+      "catalog_exact": null
+    },
+    {
+      "source": "School Gym",
+      "runtime_exact": null,
+      "runtime_lowercase": "学校の体育館",
+      "catalog_exact": null
+    },
+    {
+      "source": "Grass Court",
+      "runtime_exact": null,
+      "runtime_lowercase": null,
+      "catalog_exact": null
+    },
+    {
+      "source": "Beach",
+      "runtime_exact": null,
+      "runtime_lowercase": "ビーチ",
+      "catalog_exact": null
+    },
+    {
+      "source": "Tutorial",
+      "runtime_exact": null,
+      "runtime_lowercase": "チュートリアル",
+      "catalog_exact": null
+    },
+    {
+      "source": "Clouds",
+      "runtime_exact": null,
+      "runtime_lowercase": null,
+      "catalog_exact": null
+    },
+    {
+      "source": "Outer Space",
+      "runtime_exact": null,
+      "runtime_lowercase": null,
+      "catalog_exact": null
+    }
+  ],
+  "unchanged_scripts": {
+    "game/stage/stage.gdc": true,
+    "game/ui/lobby/stage_picker.gdc": true,
+    "game/ui/lobby/stage_banner.gdc": true
+  },
+  "runtime_done": "完了"
+}

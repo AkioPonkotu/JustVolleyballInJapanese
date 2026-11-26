@@ -1,0 +1,2893 @@
+{
+  "schema_version": 1,
+  "locale": "ja",
+  "domain": "ui",
+  "entries": {
+    "ui.aba4cc9b8af82df5": {
+      "source": "play",
+      "ja": "プレイ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.8bca6dada231e0fd": {
+      "source": "locker",
+      "ja": "ロッカー",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.8d9001d32c6a703d": {
+      "source": "shop",
+      "ja": "ショップ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.1900eab6c028483d": {
+      "source": "profile",
+      "ja": "プロフィール",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.89b7505ad79ad489": {
+      "source": "career",
+      "ja": "戦績",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.27cb2b5acec2f454": {
+      "source": "awards",
+      "ja": "クエスト",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2e4b9cc2428beb7b": {
+      "source": "friends",
+      "ja": "フレンド",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.cde0fb0dec1400c5": {
+      "source": "settings",
+      "ja": "設定",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.8577da2ea5408570": {
+      "source": "quit",
+      "ja": "終了",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.8d27e4321ba97922": {
+      "source": "quit the game?",
+      "ja": "ゲームを終了しますか？",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2374d91794b79f4f": {
+      "source": "cancel",
+      "ja": "キャンセル",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.3c482346f3750276": {
+      "source": "back",
+      "ja": "戻る",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.c6c1c9a9c8543f1e": {
+      "source": "next",
+      "ja": "次へ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.a4c3ed04a95a3da1": {
+      "source": "done",
+      "ja": "完了",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.42af43e3616eba4a": {
+      "source": "finish",
+      "ja": "終了",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.310ff200149b44a3": {
+      "source": "close",
+      "ja": "閉じる",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.8a798890fe938171": {
+      "source": "yes",
+      "ja": "はい",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.9390298f3fb0c5b1": {
+      "source": "no",
+      "ja": "いいえ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2689367b205c16ce": {
+      "source": "ok",
+      "ja": "OK",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.97a5e41b45ddd2b2": {
+      "source": "apply",
+      "ja": "適用",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.157dca92e4250458": {
+      "source": "save",
+      "ja": "保存",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.01be30bb4a27765c": {
+      "source": "reset",
+      "ja": "リセット",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.0cc4674a3bc7a2a1": {
+      "source": "reset all",
+      "ja": "すべてリセット",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.6197595503f01ee2": {
+      "source": "delete",
+      "ja": "削除",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.7e5608ab610017af": {
+      "source": "remove",
+      "ja": "完全に削除",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.f329e3a317eee6a8": {
+      "source": "restore",
+      "ja": "復元",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.6f5a6034e770acbf": {
+      "source": "copy",
+      "ja": "コピー",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.fcf40a4b66a7d744": {
+      "source": "copied!",
+      "ja": "コピーしました！",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.82a3537ff0dbce7e": {
+      "source": "name",
+      "ja": "名前",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.9e84869d369b2a53": {
+      "source": "rename",
+      "ja": "名前を変更",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.11507a0e2f5e69d5": {
+      "source": "new",
+      "ja": "新規作成",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.262121c5372be8af": {
+      "source": "edit",
+      "ja": "編集",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2419329067823cab": {
+      "source": "search",
+      "ja": "検索",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.d6cc0a088c07683c": {
+      "source": "refresh",
+      "ja": "更新",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.58393216032be625": {
+      "source": "join",
+      "ja": "参加",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.5014f9af3a684fdd": {
+      "source": "invite",
+      "ja": "招待",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.307128ff4d35a7e2": {
+      "source": "invited",
+      "ja": "招待済み",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.af193190b8d3cd14": {
+      "source": "leave",
+      "ja": "退出",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.45d31171ff577900": {
+      "source": "disband",
+      "ja": "解散",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.5e884898da280471": {
+      "source": "password",
+      "ja": "パスワード",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.14e2cac288e489cb": {
+      "source": "password?",
+      "ja": "パスワードを入力",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.8aa25880ce81403c": {
+      "source": "password (optional)",
+      "ja": "パスワード（任意）",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.3438ffbe1485a657": {
+      "source": "password: %s",
+      "ja": "パスワード：%s",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.8bcf727007c9bce8": {
+      "source": "lobby code:",
+      "ja": "ロビーコード：",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.4245163a210e759e": {
+      "source": "connecting to %s...",
+      "ja": "%s に接続中…",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.777f411697ff1ee4": {
+      "source": "joining %s...",
+      "ja": "%s に参加中…",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.4290595a7bed8f39": {
+      "source": "couldn't connect to %s",
+      "ja": "%s に接続できませんでした",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.a0a5628c673ad7ea": {
+      "source": "searching...",
+      "ja": "検索中…",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.8483339396cbbb57": {
+      "source": "searching",
+      "ja": "検索中",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.1bcf7347466c8db9": {
+      "source": "loading...",
+      "ja": "読み込み中…",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.b4a070a2d341940c": {
+      "source": "loading",
+      "ja": "読み込み中",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.b8d31e852725afb1": {
+      "source": "on",
+      "ja": "オン",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.b4dc66dde806261b": {
+      "source": "off",
+      "ja": "オフ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.53e0ff348c9be93a": {
+      "source": "automatic",
+      "ja": "自動",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.37a8eec1ce19687d": {
+      "source": "default",
+      "ja": "標準",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.6c1ff09db3a73dc4": {
+      "source": "low",
+      "ja": "低",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.c082456a7766e23a": {
+      "source": "medium",
+      "ja": "中",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.6ef7c9b15ecdd690": {
+      "source": "high",
+      "ja": "高",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.317b32c143692b99": {
+      "source": "normal",
+      "ja": "標準",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.97c10efe01d5c9c8": {
+      "source": "easy",
+      "ja": "かんたん",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.ed5465b9220df9ce": {
+      "source": "hard",
+      "ja": "むずかしい",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.140bedbf9c3f6d56": {
+      "source": "none",
+      "ja": "なし",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2044fbdb55f92386": {
+      "source": "unlimited",
+      "ja": "無制限",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.4ea140588150773c": {
+      "source": "home",
+      "ja": "ホーム",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.378ce56a9d146d51": {
+      "source": "away",
+      "ja": "アウェイ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.cdb59355f3ba2939": {
+      "source": "player",
+      "ja": "プレイヤー",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.afc0d772a2bbe700": {
+      "source": "players",
+      "ja": "プレイヤー",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.929f9a342442b127": {
+      "source": "spectator",
+      "ja": "観戦者",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.847a77973b7360cb": {
+      "source": "spectate",
+      "ja": "観戦",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.baed831623943be3": {
+      "source": "watch",
+      "ja": "観戦",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.f6fc84c9f21c2490": {
+      "source": "online",
+      "ja": "オンライン",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.25bf8e1a2393f110": {
+      "source": "local",
+      "ja": "ローカル",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.ada750e3f8464e9e": {
+      "source": "practice",
+      "ja": "練習",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.a7ffd7826ca6db0a": {
+      "source": "freeplay",
+      "ja": "フリー練習",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.fe30030e102ecf8f": {
+      "source": "tutorial",
+      "ja": "チュートリアル",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.79a97d5903727e85": {
+      "source": "the tutorial",
+      "ja": "チュートリアル",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.9132f45be09adb94": {
+      "source": "how to play",
+      "ja": "遊び方",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.55830a996584d7cc": {
+      "source": "quick match",
+      "ja": "クイックマッチ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.4274ae7bc7640c13": {
+      "source": "ranked match",
+      "ja": "ランクマッチ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.26c1b0f66ff407f8": {
+      "source": "custom match",
+      "ja": "カスタムマッチ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.6d01d3c9dbe004de": {
+      "source": "local match",
+      "ja": "ローカル対戦",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.6481691efaa8cc3f": {
+      "source": "server browser",
+      "ja": "サーバー一覧",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.387a22bda5cf597b": {
+      "source": "custom lobby",
+      "ja": "カスタムロビー",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.68d06a81a25375c2": {
+      "source": "host lan",
+      "ja": "LANでホスト",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.f9f0923515a3abdc": {
+      "source": "join lan",
+      "ja": "LANに参加",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.ba989362044c532b": {
+      "source": "system settings",
+      "ja": "システム設定",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.3cc4f36383d5dcaf": {
+      "source": "profile settings",
+      "ja": "プロフィール設定",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.e7cff4c5b490b0c9": {
+      "source": "controller config",
+      "ja": "コントローラー設定",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.078c1cd4141d0a2f": {
+      "source": "controller configurations",
+      "ja": "コントローラー設定",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.651bb0d7338b06b3": {
+      "source": "configure controller and profile setup",
+      "ja": "コントローラーとプロフィールを設定します",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.502c5012fd3d1d29": {
+      "source": "configure audio, video, display",
+      "ja": "音量・映像・画面を設定します",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.ae6d80d355df1d3a": {
+      "source": "feedback & bug reports",
+      "ja": "ご意見・不具合の報告",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.484a3cabaa71d389": {
+      "source": "report a bug",
+      "ja": "不具合を報告",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.cfee7c93184525ae": {
+      "source": "wishlist",
+      "ja": "ウィッシュリスト",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.66dd9c5ce20ac6cf": {
+      "source": "wishlist just volleyball on steam",
+      "ja": "Steamのウィッシュリストに追加",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.db85d8e69312f9a5": {
+      "source": "matchmaking...",
+      "ja": "対戦相手を検索中…",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.69dc1c1c14ad6382": {
+      "source": "find match",
+      "ja": "対戦相手を検索",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.1cf03cfb3f2fc685": {
+      "source": "find next match",
+      "ja": "次の対戦を検索",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.e775bfa5188c6500": {
+      "source": "finding a match",
+      "ja": "対戦相手を検索中",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.69f6805884620866": {
+      "source": "back to menu",
+      "ja": "メニューに戻る",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.47cca6efcb9e6cc6": {
+      "source": "back to ranked",
+      "ja": "ランクマッチに戻る",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.91d3811f691157a6": {
+      "source": "play again",
+      "ja": "もう一度プレイ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.d4655737c7c0696d": {
+      "source": "no rematch",
+      "ja": "再戦しない",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.a8e0d7fc1d8af54e": {
+      "source": "leave party",
+      "ja": "パーティーから退出",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.ca7f952f09fb60a9": {
+      "source": "local party",
+      "ja": "ローカルパーティー",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.5456cc0507514929": {
+      "source": "lan party",
+      "ja": "LANパーティー",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.6b3f469f5dedb263": {
+      "source": "new party",
+      "ja": "新しいパーティー",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.b2c2fdb7f3f70c90": {
+      "source": "create party",
+      "ja": "作成",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.cee345be2dad4f3f": {
+      "source": "party is full",
+      "ja": "パーティーが満員です",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.935c142ddbe8a53d": {
+      "source": "no room for another player",
+      "ja": "プレイヤーを追加できません",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.62388e89bc3731d5": {
+      "source": "only the party leader can queue",
+      "ja": "検索を開始できるのはパーティーリーダーだけです",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.cc9e21aca15d27d7": {
+      "source": "only the party leader can start a match",
+      "ja": "試合を開始できるのはパーティーリーダーだけです",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.fd080f066a79a50f": {
+      "source": "only the party leader can move the party",
+      "ja": "パーティーを移動できるのはリーダーだけです",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.07010e072d39ca13": {
+      "source": "your group needs a bigger mode",
+      "ja": "この人数では、より大人数のモードを選んでください",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.894e4fd85d99f66b": {
+      "source": "your group of %d needs a bigger mode",
+      "ja": "%d人で参加できるモードを選んでください",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.99546830ac57ae85": {
+      "source": "checking your party",
+      "ja": "パーティーを確認中",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.ececdc8bf709fe49": {
+      "source": "a party member did not answer, try again",
+      "ja": "メンバーから応答がありません。もう一度お試しください",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.8c579e5c95f3e530": {
+      "source": "queued as a party",
+      "ja": "パーティーで検索中",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.ba926b5831ebd4f7": {
+      "source": "you can wait here for the host to start another match",
+      "ja": "ホストが次の試合を始めるまで、ここで待機できます",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.5790a0b0395cbdf4": {
+      "source": "party member cannot matchmake at this time due to a penalty",
+      "ja": "ペナルティにより、現在参加できないメンバーがいます",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2597cdd6ba45214b": {
+      "source": "matchmaking penalty: you can resume queue in %s",
+      "ja": "対戦ペナルティ：%s 後に再検索できます",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.69b56329221d0e53": {
+      "source": "penalty applied, you may queue again in %s",
+      "ja": "ペナルティが適用されました。%s 後に再検索できます",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.ff35f578c240579e": {
+      "source": "penalty applied",
+      "ja": "ペナルティが適用されました",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.4dec8939da21f958": {
+      "source": "couldn't get back into the match",
+      "ja": "試合に再接続できませんでした",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2e836a22601674be": {
+      "source": "couldn't get back into the match: %s",
+      "ja": "試合に再接続できませんでした：%s",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.8f1b5c0a2c5e01bb": {
+      "source": "no friends online",
+      "ja": "オンラインのフレンドはいません",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.f57020cf97319781": {
+      "source": "in party",
+      "ja": "パーティーに参加中",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.ed78836e08831f70": {
+      "source": "in another game",
+      "ja": "別のゲームをプレイ中",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.b3bed9dec97878c9": {
+      "source": "in just volleyball",
+      "ja": "just volleyballをプレイ中",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.67acb41200477a1b": {
+      "source": "leader invites",
+      "ja": "リーダーのみ招待可能",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.68618247b4886b93": {
+      "source": "invite a friend",
+      "ja": "フレンドを招待",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.b564c4f7e18cfb66": {
+      "source": "couldn't open the steam overlay to invite",
+      "ja": "招待用のSteamオーバーレイを開けませんでした",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.223e23aa2b096c14": {
+      "source": "couldn't invite them",
+      "ja": "招待できませんでした",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.e9029327b4c29dbd": {
+      "source": "invite sent",
+      "ja": "招待を送信しました",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.c30e3b049a14a73d": {
+      "source": "in the menu",
+      "ja": "メニューを表示中",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.7939ea5436694edc": {
+      "source": "in freeplay",
+      "ja": "フリー練習中",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.257bad905485ec27": {
+      "source": "in a party of 3",
+      "ja": "3人パーティーに参加中",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.4ef4f69695375324": {
+      "source": "in a party of %d",
+      "ja": "%d人パーティーに参加中",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2a1e6a8de88aa59c": {
+      "source": "looking for a match",
+      "ja": "対戦相手を検索中",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2f602e482ba38f4d": {
+      "source": "looking for a match with friends",
+      "ja": "フレンドと対戦相手を検索中",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2319da6f9e396c1c": {
+      "source": "warming up with a party",
+      "ja": "パーティーでウォームアップ中",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.6b3411cfe301836d": {
+      "source": "in a custom lobby",
+      "ja": "カスタムロビーに参加中",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.15a01ecfa464453e": {
+      "source": "go online",
+      "ja": "オンラインに接続",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.98ffda1e25adf760": {
+      "source": "in a lobby together",
+      "ja": "同じロビーに参加中",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.86a5600e07922d06": {
+      "source": "matchmaking together",
+      "ja": "一緒に対戦相手を検索中",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.4a8b957f511ad64a": {
+      "source": "steam authenticated",
+      "ja": "Steam認証済み",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.952f2e4e0c237f73": {
+      "source": "steam not authenticated",
+      "ja": "Steam未認証",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.5c3589edb9c016a7": {
+      "source": "party back together",
+      "ja": "パーティーが再集合しました",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.ef3c30e532440d6c": {
+      "source": "regrouping your party...",
+      "ja": "パーティーを再集合中…",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.661b5878514806a8": {
+      "source": "couldn't rejoin your party",
+      "ja": "パーティーに再参加できませんでした",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.d24c39d825de57d0": {
+      "source": "couldn't start a party (error %d)",
+      "ja": "パーティーを作成できませんでした（エラー %d）",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.bcabb20c1ecf0dd7": {
+      "source": "joined %s's party",
+      "ja": "%s のパーティーに参加しました",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.02adfb690b94d428": {
+      "source": "joined the party",
+      "ja": "パーティーに参加しました",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.e8e20d9748188301": {
+      "source": "party is open: anyone in it can invite",
+      "ja": "公開パーティー：全メンバーが招待できます",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.6bf1a1dfb12bc06a": {
+      "source": "party is private: only you can invite",
+      "ja": "非公開パーティー：招待できるのはあなただけです",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2b871c83c9231d38": {
+      "source": "not in party yet",
+      "ja": "まだパーティーに参加していません",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.9392377b868c308d": {
+      "source": "your party is still opening, try again in a second",
+      "ja": "パーティーを作成中です。少し待ってお試しください",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.1ad53d8d16105e99": {
+      "source": "friend joins: local > join lan > %s",
+      "ja": "フレンドの参加手順：ローカル > LANに参加 > %s",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.eca4696946fffca5": {
+      "source": "the leader's lan ip",
+      "ja": "リーダーのLAN IP",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.dd1ccc62b27148fd": {
+      "source": "your lan ip",
+      "ja": "あなたのLAN IP",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.3a0e043b83a42f56": {
+      "source": "heads up",
+      "ja": "お知らせ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.40e2499aa72337dc": {
+      "source": "search by name or code...",
+      "ja": "名前またはコードで検索…",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.867a7bc6d470f465": {
+      "source": "any tag",
+      "ja": "すべてのタグ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2617e556d802dcff": {
+      "source": "server tags",
+      "ja": "サーバータグ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.9e0331b7a3ce5728": {
+      "source": "create server",
+      "ja": "サーバーを作成",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.38b61a87df630ee8": {
+      "source": "join by lobby code",
+      "ja": "ロビーコードで参加",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.a922429e2f9ad6cc": {
+      "source": "join cancelled",
+      "ja": "参加をキャンセルしました",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.47e2276771998981": {
+      "source": "filters",
+      "ja": "絞り込み",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.5e960c44b171b335": {
+      "source": "lowest ping",
+      "ja": "Pingが低い順",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2a8c2d1cd8365035": {
+      "source": "most players",
+      "ja": "人数が多い順",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.45943169aed98a8f": {
+      "source": "fewest players",
+      "ja": "人数が少ない順",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.9731e5a1a5269af2": {
+      "source": "sort by",
+      "ja": "並び順",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.d484bbb5e12f7e98": {
+      "source": "show full matches",
+      "ja": "満員の試合も表示",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.d4bccdb229a1c073": {
+      "source": "friends only",
+      "ja": "フレンドのみ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.e68a5e29cc1a1702": {
+      "source": "hide old versions",
+      "ja": "古いバージョンを非表示",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.02ea579d33609589": {
+      "source": "any rules",
+      "ja": "すべてのルール",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.6cc88be0c30c89e2": {
+      "source": "auto refresh",
+      "ja": "自動更新",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.a7bd6263f42104d0": {
+      "source": "who can join",
+      "ja": "参加できる人",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.458ed90db8de198b": {
+      "source": "%d players",
+      "ja": "%d人",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.db8fa8f0032547ec": {
+      "source": "max players",
+      "ja": "最大人数",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.bff82c335e1a771a": {
+      "source": "host on steam",
+      "ja": "Steamでホスト",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.d189368e35b7f1bb": {
+      "source": "open lobby with party",
+      "ja": "パーティーでロビーを開く",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.28739c051f5343af": {
+      "source": "server tags (up to %d)",
+      "ja": "サーバータグ（最大%d個）",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.77a86ed241cf2be2": {
+      "source": "join a lan host by address",
+      "ja": "アドレスを入力してLANホストに参加",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.13befc4c64d9251b": {
+      "source": "only your steam friends can see it and join",
+      "ja": "あなたのSteamフレンドのみが表示・参加できます",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.da6f96b565f55aac": {
+      "source": "shows in the server browser with a lock. your password, your lobby code or your invite gets people in",
+      "ja": "サーバー一覧に鍵付きで表示されます。パスワード・ロビーコード・招待のいずれかで参加できます",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.8597efcb66f55752": {
+      "source": "hidden from the server browser. only people you invite or give your lobby code to can join. add a password to list it with a lock",
+      "ja": "サーバー一覧には表示されません。招待またはロビーコードを受け取った人のみ参加できます。パスワードを設定すると鍵付きで一覧に表示されます",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.7898899b17a84ca7": {
+      "source": "anyone can find it in the server browser and join",
+      "ja": "誰でもサーバー一覧から見つけて参加できます",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.b5dbef3516ec071b": {
+      "source": "couldn't open the port, are you already hosting?",
+      "ja": "ポートを開けませんでした。すでにホストしていませんか？",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.21cc05ad12192755": {
+      "source": "steam hosting unavailable",
+      "ja": "Steamでホストできません",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.3fb30e4ffa8c33af": {
+      "source": "bad address",
+      "ja": "アドレスが正しくありません",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.7f6d5711cb88318e": {
+      "source": "couldn't join %s -- wrong ip, host left, or firewall",
+      "ja": "%s に参加できません。IP、ホストの状態、ファイアウォールを確認してください",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.68c9f7097a49a20b": {
+      "source": "your party is in the lobby",
+      "ja": "パーティーはロビーに参加しています",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.17a4803c7bf3a283": {
+      "source": "taking the party to the lobby...",
+      "ja": "パーティーをロビーに移動中…",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.fd26a523be8a6875": {
+      "source": "the room",
+      "ja": "ロビー",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.810e0a408c7146f0": {
+      "source": "old version",
+      "ja": "古いバージョン",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.48649ed8e9937602": {
+      "source": "match full",
+      "ja": "試合が満員です",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.7e8865f7cdc03782": {
+      "source": "%d open",
+      "ja": "空き%d人",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.69f8eb4352e6c1d3": {
+      "source": "no courts matching \"%s\"",
+      "ja": "「%s」に一致するコートがありません",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.f7260d3ac19be9b3": {
+      "source": "no lobbies available",
+      "ja": "参加できるロビーがありません",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.e6d9bcf05b89667f": {
+      "source": "joining lobby...",
+      "ja": "ロビーに参加中…",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.89f5e9ffe35129f6": {
+      "source": "no lobby with code \"%s\"",
+      "ja": "コード「%s」のロビーがありません",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.160a638c529f0460": {
+      "source": "not enough room there for your party of %d",
+      "ja": "%d人のパーティー全員が入れる空きがありません",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.e8d3157915dc48e2": {
+      "source": "taking the party to %s...",
+      "ja": "パーティーを %s に移動中…",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.be4a1af467d8e65b": {
+      "source": "in game     %s",
+      "ja": "試合中     %s",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.a22721770f3e1f9f": {
+      "source": "in lobby     %s",
+      "ja": "ロビー     %s",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.1c47af2a507f4b83": {
+      "source": "     join to watch",
+      "ja": "     参加して観戦",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.c4853a2410d1bacc": {
+      "source": "that side is full, join %s to play",
+      "ja": "そのチームは満員です。%s に参加してください",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.ff54753971800c5a": {
+      "source": "join home or away to play",
+      "ja": "ホームかアウェイに参加してください",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.3d6f5192b9300a13": {
+      "source": "waiting for the host to start...",
+      "ja": "ホストの開始を待っています…",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.8bdd91da9a760315": {
+      "source": "home's empty seats get cpus, away's stay open",
+      "ja": "ホームの空席はCPUで埋め、アウェイは空席のままにします",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.fe6802934f973ea2": {
+      "source": "away's empty seats get cpus, home's stay open",
+      "ja": "アウェイの空席はCPUで埋め、ホームは空席のままにします",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.38499173a9afeff1": {
+      "source": "empty seats stay open",
+      "ja": "空席はそのままにします",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.9a3639bfb3d8591f": {
+      "source": "click an open seat to add a cpu",
+      "ja": "空席をクリックするとCPUを追加できます",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.eb808378572ea971": {
+      "source": "empty seats are filled with cpus",
+      "ja": "空席はCPUで埋めます",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.bdce2e686c261332": {
+      "source": "%s is missing a player",
+      "ja": "%s の人数が不足しています",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.3c0ecbe370c547cc": {
+      "source": "join home",
+      "ja": "ホームに参加",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.50197c1ca55a96f7": {
+      "source": "home is full",
+      "ja": "ホームが満員です",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.7c374a5b9d8791e2": {
+      "source": "join away",
+      "ja": "アウェイに参加",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.8b7849075ed3d486": {
+      "source": "away is full",
+      "ja": "アウェイが満員です",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.03986b3b8de0f572": {
+      "source": "skip tutorial",
+      "ja": "チュートリアルをスキップ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.3535f751df0131dc": {
+      "source": "jump to the end",
+      "ja": "最後へスキップ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2c44e8cfe2626705": {
+      "source": "exit the game?",
+      "ja": "ゲームを終了しますか？",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.406653b28fe073a8": {
+      "source": "leave the match?",
+      "ja": "試合から退出しますか？",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.4793abb846efaee3": {
+      "source": "leaving now will result in a matchmaking penalty",
+      "ja": "今退出すると対戦ペナルティが発生します",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.909c1446875634be": {
+      "source": "back to the match",
+      "ja": "試合に戻る",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.9c362e1870e07f6b": {
+      "source": "view teams & players",
+      "ja": "チームとプレイヤーを表示",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.11544b79e8aa443e": {
+      "source": "switch teams & manage players",
+      "ja": "チーム変更・プレイヤー管理",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.cf87e93f32e838b6": {
+      "source": "drop in or out",
+      "ja": "参加・退出",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.b9a4c3bbd08ea42b": {
+      "source": "leave the match",
+      "ja": "試合から退出",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.c97b581918698fbc": {
+      "source": "back to party",
+      "ja": "パーティーに戻る",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.ea272d143f8e387a": {
+      "source": "return to your squad",
+      "ja": "仲間のもとへ戻ります",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.98306dbe67c484c7": {
+      "source": "back to lobby",
+      "ja": "ロビーに戻る",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.5d412f119b983b09": {
+      "source": "return to the room",
+      "ja": "ロビーへ戻ります",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.29bfcdbd9540d653": {
+      "source": "leave the match and the room",
+      "ja": "試合とロビーから退出します",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.dd3c0ab4866f1859": {
+      "source": "exit game",
+      "ja": "ゲームを終了",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.93eeeffaf7ed49e9": {
+      "source": "close the game",
+      "ja": "ゲームを閉じます",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.e545ffaad830a023": {
+      "source": "recently deleted",
+      "ja": "最近削除した項目",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.4a247e3c54e22fbc": {
+      "source": "recently deleted (%d)",
+      "ja": "最近削除した項目（%d）",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.711fdaddaea8f594": {
+      "source": "no profiles",
+      "ja": "プロフィールがありません",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.8cb9a5c65bfe9b03": {
+      "source": "no title",
+      "ja": "称号なし",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.cba76115a26e6f6b": {
+      "source": "edit title",
+      "ja": "称号を編集",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.073dad8f5c80762b": {
+      "source": "guest profiles cannot be edited",
+      "ja": "ゲストのプロフィールは編集できません",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.985ff894e8c548f1": {
+      "source": "this profile will be moved into recently deleted and is recoverable",
+      "ja": "このプロフィールを「最近削除した項目」に移動します。後から復元できます",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.8f1ecfd2cbbf4e37": {
+      "source": "remove %s for good?",
+      "ja": "%s を完全に削除しますか？",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.202541861bcba4af": {
+      "source": "this action cannot be undone",
+      "ja": "この操作は取り消せません",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.27ca070e256d79e1": {
+      "source": "delete all",
+      "ja": "すべて削除",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.4897837d1a6ac8e7": {
+      "source": "remove every deleted profile for good?",
+      "ja": "削除済みプロフィールをすべて完全に削除しますか？",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.c9e8d79d6b8f4fd3": {
+      "source": "lv %d",
+      "ja": "レベル%d",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.b14a98af9f7fb473": {
+      "source": "lv. %d",
+      "ja": "レベル%d",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.9ba345e8b1975e9f": {
+      "source": "max level",
+      "ja": "最大レベル",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.150a06063551883a": {
+      "source": "%.1f h",
+      "ja": "%.1f時間",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.8c32e612bdc22150": {
+      "source": "pts",
+      "ja": "ポイント",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.c4c44d9b6bc1dd1f": {
+      "source": "unranked",
+      "ja": "ランク未確定",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.905dc0459f67f719": {
+      "source": "current pool: %s",
+      "ja": "現在の区分：%s",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.c54a061dfcc125cb": {
+      "source": "points",
+      "ja": "ポイント",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.7a77c515879a3aed": {
+      "source": "stages",
+      "ja": "ステージ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.bd22a9df8514e34f": {
+      "source": "%d W",
+      "ja": "%d勝",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.f96b2f1ea97c3e7f": {
+      "source": "%d L",
+      "ja": "%d敗",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.3547cb112ac4489a": {
+      "source": "last",
+      "ja": "前回",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.c9f76a2a4f031e25": {
+      "source": "before the last reset: %s",
+      "ja": "前回リセット前：%s",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.56a4be4bde09c856": {
+      "source": "the ranks have reset: a new month starts",
+      "ja": "月が替わったためランクがリセットされました",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.b9c97d32cd1ede81": {
+      "source": "your place: #%d",
+      "ja": "あなたの順位：%d位",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.4601c6acd39eb978": {
+      "source": "finish your placement matches to get a place",
+      "ja": "認定戦を完了すると順位がつきます",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.3c427c805b1816a5": {
+      "source": "nobody has finished placement yet",
+      "ja": "まだ認定戦を終えたプレイヤーはいません",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.7f5f8fc372bece21": {
+      "source": "filter modes",
+      "ja": "モードの絞り込み",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.0f2644af6981a6d7": {
+      "source": "any mode",
+      "ja": "すべてのモード",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.9cd9bd912428a53c": {
+      "source": "prioritize",
+      "ja": "優先する条件",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.c03121efe410ad82": {
+      "source": "short queue",
+      "ja": "待ち時間の短さ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.5fd3d8eaa96df111": {
+      "source": "best of 3",
+      "ja": "2セット先取",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.763815da5fe2cf6f": {
+      "source": "best of 5",
+      "ja": "3セット先取",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.97072739cc1f3365": {
+      "source": "win by two",
+      "ja": "2点差で勝利",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.36b7544bff39fb88": {
+      "source": "no win by two",
+      "ja": "2点差ルールなし",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.fc2fc306795d21a7": {
+      "source": "%d points",
+      "ja": "%d点",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.dd895de243a6d904": {
+      "source": "sweat builds up",
+      "ja": "汗の蓄積",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.a71a4f93b4f38103": {
+      "source": "sweat rate",
+      "ja": "汗のたまる速さ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.f406296e97098860": {
+      "source": "start match",
+      "ja": "試合開始",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.bc72fdea69f97e97": {
+      "source": "default rules",
+      "ja": "標準ルール",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.c5eb1527cb6e7730": {
+      "source": "custom scoring",
+      "ja": "カスタム得点設定",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.a8a76b32f4af9deb": {
+      "source": "this room",
+      "ja": "このロビー",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2538f2831079d9b9": {
+      "source": "active modifiers",
+      "ja": "有効な特殊ルール",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.25ce0a39bb68b260": {
+      "source": "the standard game",
+      "ja": "標準の試合",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.cf8f464fd3092d37": {
+      "source": "rules: the standard game",
+      "ja": "ルール：標準の試合",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.5e36c5f5cbf8d38e": {
+      "source": "stage: %s",
+      "ja": "会場：%s",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.1d59d2a0ac9bcc2a": {
+      "source": "outfit: %s",
+      "ja": "服装：%s",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.d29dd1b3784ecc8e": {
+      "source": "ball: %s",
+      "ja": "ボール：%s",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.403bd83d04c4f785": {
+      "source": "captain uniform",
+      "ja": "キャプテン",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.6ed4f9adc4c7dc36": {
+      "source": "disconnect all",
+      "ja": "全員の接続を解除",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.1e2135d1b50f14d3": {
+      "source": "controls",
+      "ja": "操作設定",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.3b48f6f14df81caa": {
+      "source": "learn the basics of the game",
+      "ja": "ゲームの基本を学びます",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.14bb8dcf00c63f15": {
+      "source": "drill complete",
+      "ja": "練習クリア",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.94c1a89b421f73f2": {
+      "source": "esc: leave drill     c: camera",
+      "ja": "Esc：練習を終了     C：カメラ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.6e8cac6c3ed9f0bf": {
+      "source": "esc: back to the menu     c: camera",
+      "ja": "Esc：メニューに戻る     C：カメラ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.1e8701a7048508fd": {
+      "source": "%s\ntime %s",
+      "ja": "%s\nタイム %s",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.c22417c89dbec301": {
+      "source": "play a rally!",
+      "ja": "ラリーをしてみよう！",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.8fd74572015d014c": {
+      "source": "welcome to just volleyball!",
+      "ja": "just volleyballへようこそ！",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.504c81916349134d": {
+      "source": "if it's your first time playing, it's heavily recommended that you learn properly first!",
+      "ja": "初めての方は、まず基本操作を覚えることをおすすめします！",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.91e65832cba1c9c1": {
+      "source": "learn the basics",
+      "ja": "基本操作を学ぶ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.ccba804b912e0fd7": {
+      "source": "don't need to!",
+      "ja": "今はスキップ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.56fcdf2ca5f62ffa": {
+      "source": "disconnect local players to play %s",
+      "ja": "%s をプレイするには、ローカルプレイヤーの接続を解除してください",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.ef227f24f142ad84": {
+      "source": "press %s to take the ball in hand",
+      "ja": "%s でボールを持つ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.0205bdae1fb8c525": {
+      "source": "press %s to spawn your ball",
+      "ja": "%s でボールを出す",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.898d367e7de77758": {
+      "source": "hold lmb to charge the toss, release to throw, tap strafe to cancel the charge",
+      "ja": "左クリック長押しでトスをため、離すと投げます。ストレイフを押すとためを解除します",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.55bcb1b11f922c65": {
+      "source": "beta build - content nonfinal",
+      "ja": "ベータ版・内容は開発中です",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.6538b7595ae2b3f1": {
+      "source": "beta build\ncontent nonfinal",
+      "ja": "ベータ版\n内容は開発中です",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.ec0c305aa5f7dec2": {
+      "source": "block out",
+      "ja": "ブロックアウト",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.1051361e5c723c9a": {
+      "source": "foot fault",
+      "ja": "フットフォルト",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.6b6a63cd8d3ce065": {
+      "source": "to %d",
+      "ja": "%d点先取",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.a4f41df3d84eb551": {
+      "source": "point!",
+      "ja": "得点！",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.54dac48765071959": {
+      "source": "you will join at the start of the next rally",
+      "ja": "次のラリー開始時に参加します",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2b2ebc48a60bef53": {
+      "source": "to join the match, select a team from the pause menu",
+      "ja": "ポーズメニューでチームを選ぶと試合に参加できます",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.5d3479e9092fba6d": {
+      "source": "cam: ",
+      "ja": "カメラ：",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.a2411f52581b42a2": {
+      "source": "tie break",
+      "ja": "タイブレーク",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.7a34db3aabec0a97": {
+      "source": "match point",
+      "ja": "マッチポイント",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.43fbbdd8f3b5abd6": {
+      "source": "set point",
+      "ja": "セットポイント",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.7f874c27cad68e28": {
+      "source": "service ace!",
+      "ja": "サービスエース！",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.c2312b7cb0cf4930": {
+      "source": "break point!",
+      "ja": "ブレイクポイント！",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.ed71fa5580f7ecbf": {
+      "source": "on the line!",
+      "ja": "ライン上！",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.784c632f9d3d2a22": {
+      "source": "tie breaker!",
+      "ja": "タイブレーク！",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.29245f0a1baba72a": {
+      "source": "space to skip    %d/%d",
+      "ja": "スペースでスキップ    %d/%d",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.4f77e81120b25941": {
+      "source": "space to skip",
+      "ja": "スペースでスキップ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.29f554698efca750": {
+      "source": "instant replay",
+      "ja": "リプレイ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.47ec8e629be71017": {
+      "source": "victory!",
+      "ja": "勝利！",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.5fff5b4eec6c48b6": {
+      "source": "defeat",
+      "ja": "敗北",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.a75c29fa2934bee7": {
+      "source": "are you still there?",
+      "ja": "操作していますか？",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.6de30cd0c47d1cb9": {
+      "source": "move or press any button to stay in the match",
+      "ja": "試合を続けるには、移動するか何かボタンを押してください",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.cf2018f95430ab6a": {
+      "source": "set %d",
+      "ja": "第%dセット",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.4945a70fa7f9c13f": {
+      "source": "match",
+      "ja": "試合",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.251fecd592e56e6c": {
+      "source": "point",
+      "ja": "得点",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.6ee0eb490ff83210": {
+      "source": "set",
+      "ja": "トス",
+      "status": "draft",
+      "note": "競技のセット数は set %d / 1 set 等の別文言。単独の set は操作名としてトスと訳す。"
+    },
+    "ui.5fbde9bb9c3fd8c2": {
+      "source": "bump",
+      "ja": "レシーブ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.798552d3924a30ba": {
+      "source": "spike",
+      "ja": "スパイク",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.496aca80e4d8f29f": {
+      "source": "block",
+      "ja": "ブロック",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.0f8897661f150233": {
+      "source": "dive",
+      "ja": "ダイブ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.6bdaf554e42029bd": {
+      "source": "jump",
+      "ja": "ジャンプ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.24c458cfb46d9a45": {
+      "source": "serve",
+      "ja": "サーブ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.683a62ce15fbabb1": {
+      "source": "move",
+      "ja": "移動",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.fb9afa84739c3239": {
+      "source": "sprint",
+      "ja": "ダッシュ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.a27f98238d2c1c02": {
+      "source": "aim",
+      "ja": "狙う",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.89e8b9518d922794": {
+      "source": "camera",
+      "ja": "カメラ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.d21bb537725d603e": {
+      "source": "zoom",
+      "ja": "ズーム",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.194c4d40a9d7582e": {
+      "source": "strafe",
+      "ja": "ストレイフ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.3ace60b0a0c1b6c9": {
+      "source": "restart",
+      "ja": "やり直す",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.e256ee8e7aff6957": {
+      "source": "continue",
+      "ja": "続ける",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.1084664b6dfd5606": {
+      "source": "level up!",
+      "ja": "レベルアップ！",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.f1c562eae32f9cc2": {
+      "source": "fault",
+      "ja": "反則",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.762069bc07a6e1b5": {
+      "source": "out",
+      "ja": "アウト",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.9443b5792ec9de6b": {
+      "source": "out!",
+      "ja": "アウト！",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.582967534d0f909d": {
+      "source": "in",
+      "ja": "イン",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.8d2a93ffddebfbfb": {
+      "source": "in!",
+      "ja": "イン！",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2a0b6287a0e65cff": {
+      "source": "ace",
+      "ja": "エース",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.ca00fccfb408989e": {
+      "source": "error",
+      "ja": "エラー",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.a644175a6128381a": {
+      "source": "deuce",
+      "ja": "デュース",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.556174852da0577b": {
+      "source": "game!",
+      "ja": "試合終了！",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.6e31a0bd32b4b066": {
+      "source": "set!",
+      "ja": "セット終了！",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.356f67d823dac000": {
+      "source": "set 1",
+      "ja": "第1セット",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2a12da17d27cd05a": {
+      "source": "blocks",
+      "ja": "ブロック",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.a768e10033623140": {
+      "source": "receives",
+      "ja": "レシーブ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.82c6db3dbf4ab471": {
+      "source": "sets",
+      "ja": "トス",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.3afe33347d9931bb": {
+      "source": "spikes",
+      "ja": "スパイク",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.18a56c9752a91aa5": {
+      "source": "assists",
+      "ja": "アシスト",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.a54084383e3cf7c2": {
+      "source": "matches",
+      "ja": "試合数",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.a962826d4641c07e": {
+      "source": "wins",
+      "ja": "勝利数",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.9bc78c12abd75904": {
+      "source": "losses",
+      "ja": "敗北数",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.a63e0590cec9e466": {
+      "source": "winrate",
+      "ja": "勝率",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.7ef452f538cd23a6": {
+      "source": "playtime",
+      "ja": "プレイ時間",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.ef30940a2d1b943c": {
+      "source": "jumps",
+      "ja": "ジャンプ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.d436bc7e992ee4c9": {
+      "source": "bam jumps",
+      "ja": "BAMジャンプ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.98b79a742166f180": {
+      "source": "dive receives",
+      "ja": "ダイブレシーブ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.4c891509314e50f5": {
+      "source": "aces",
+      "ja": "サービスエース",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.037e1e5662d26d39": {
+      "source": "quick chats",
+      "ja": "クイックチャット",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.403bb493e0652d17": {
+      "source": "collisions",
+      "ja": "衝突",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.cff15fb0253005a0": {
+      "source": "net crashes",
+      "ja": "ネットへの衝突",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.115dc3606fbf8691": {
+      "source": "fast",
+      "ja": "速い",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.5d5bddb577102d0a": {
+      "source": "chaos",
+      "ja": "カオス",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.66bc1decfd9ae915": {
+      "source": "cpu: easy",
+      "ja": "CPU：かんたん",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.5b8332e28ed7d3f4": {
+      "source": "cpu: normal",
+      "ja": "CPU：ふつう",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.88567f860a8ef256": {
+      "source": "cpu: hard",
+      "ja": "CPU：むずかしい",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.e326cff641fb950a": {
+      "source": "gym",
+      "ja": "体操着",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.4cd2c3633ee4c452": {
+      "source": "pinny",
+      "ja": "ビブス",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.6390ca55b176f617": {
+      "source": "nationals",
+      "ja": "全国大会",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.d64debd942d7dc26": {
+      "source": "school",
+      "ja": "学校",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.ab36e84344729d2b": {
+      "source": "beach",
+      "ja": "ビーチ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.7f472b2f2983102a": {
+      "source": "outdoor",
+      "ja": "屋外",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.07ed400759a0f606": {
+      "source": "pro",
+      "ja": "公式球",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.efa1f375d76194fa": {
+      "source": "public",
+      "ja": "公開",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.715dc8493c36579a": {
+      "source": "private",
+      "ja": "非公開",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2b327541ac3d82bb": {
+      "source": "closest",
+      "ja": "最寄り",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.71ed8bd8993d761c": {
+      "source": "nearby",
+      "ja": "近く",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.512eea46ceb3921d": {
+      "source": "far",
+      "ja": "遠く",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.7aca9b2c4a361291": {
+      "source": "worldwide",
+      "ja": "世界中",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.5c7732c423fb9c66": {
+      "source": "outfit",
+      "ja": "ユニフォーム",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.c7ff6dcd94d7161e": {
+      "source": "stage",
+      "ja": "ステージ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.b129ae4200d2244c": {
+      "source": "difficulty",
+      "ja": "難易度",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.90d08e583c4c9c6f": {
+      "source": "configure",
+      "ja": "設定",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.98138992690303be": {
+      "source": "controllers",
+      "ja": "コントローラー",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.be379a30f1aa05d1": {
+      "source": "credits",
+      "ja": "クレジット",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.65aef7129735bb9b": {
+      "source": "top 100",
+      "ja": "上位100人",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.fe6d3468cf5c74d8": {
+      "source": "standard",
+      "ja": "標準",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.9fb01f36a0018f5d": {
+      "source": "replays",
+      "ja": "リプレイ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.68ab84f7c6d0f578": {
+      "source": "cpu",
+      "ja": "CPU",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.79a5478768d24474": {
+      "source": "human",
+      "ja": "人間",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.4740ae6347b0172c": {
+      "source": "host",
+      "ja": "ホスト",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.bb0347a468d97e98": {
+      "source": "you",
+      "ja": "あなた",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2e1cfa82b035c26c": {
+      "source": "empty",
+      "ja": "空席",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2348f99874421257": {
+      "source": "open",
+      "ja": "空き",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.7e9e5ac30f2216fd": {
+      "source": "add",
+      "ja": "追加",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.0db10f2c2f332cd2": {
+      "source": "kick",
+      "ja": "退出させる",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.06b29bb318814108": {
+      "source": "retry",
+      "ja": "再試行",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.a8ee2764d8e91763": {
+      "source": "drills",
+      "ja": "練習メニュー",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.ddd9818abacfde7a": {
+      "source": "available",
+      "ja": "利用可能",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.19843dd481fea34a": {
+      "source": "waiting for the party's practice court",
+      "ja": "パーティーの練習コートを待っています",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.0020fcd5ee0be743": {
+      "source": "match found: the party moves under the loading screen",
+      "ja": "対戦相手が見つかりました。パーティーを移動します",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.fdd2bd493707d65c": {
+      "source": "the move fell through, the party is coming home",
+      "ja": "移動に失敗しました。パーティーを戻しています",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2632d8da81f9df69": {
+      "source": "the party is home again",
+      "ja": "パーティーが戻りました",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.a3f2b8efc24a6524": {
+      "source": "no match after %.0fs",
+      "ja": "%.0f秒経過しましたが対戦相手が見つかりません",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.349af959e520a6d1": {
+      "source": "Profile %d",
+      "ja": "プロフィール%d",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.3ce27fc29e533b37": {
+      "source": "delete %s?",
+      "ja": "%s を削除しますか？",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.cae14bc7292b49ac": {
+      "source": "division ",
+      "ja": "ディビジョン ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.b74e2f13d01b7c66": {
+      "source": "div ",
+      "ja": "区分 ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.fadff6cf8575b7b1": {
+      "source": "teams",
+      "ja": "チーム",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.225812967092650d": {
+      "source": "1 set",
+      "ja": "1セット",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.d9ad71b7e3103204": {
+      "source": "titles",
+      "ja": "称号",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.487fe6ee2d6c75dd": {
+      "source": "  (leader)",
+      "ja": "  （リーダー）",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.4d5b660943625c0a": {
+      "source": "leader",
+      "ja": "リーダー",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.cde48537ca2c2808": {
+      "source": "friend",
+      "ja": "フレンド",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.073c1634c496cdb6": {
+      "source": "status",
+      "ja": "状態",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.c9bc072f4fa81894": {
+      "source": "busy",
+      "ja": "取り込み中",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.978c2f8941354cf5": {
+      "source": "tags",
+      "ja": "タグ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.c697d2981bf41656": {
+      "source": "region",
+      "ja": "地域",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.094a367b026246fb": {
+      "source": "lan",
+      "ja": "LAN",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.6cdfd271da635d49": {
+      "source": "custom",
+      "ja": "カスタム",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.6c621d1a05138a78": {
+      "source": "rules",
+      "ja": "ルール",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.ede87a5ff8d882b9": {
+      "source": "tags: ",
+      "ja": "タグ：",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.93a842761587ebd5": {
+      "source": "rules: ",
+      "ja": "ルール：",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.a18b869b2e81c0c5": {
+      "source": "full",
+      "ja": "満員",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.5694d08a2e53ffca": {
+      "source": "code",
+      "ja": "コード",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.e642b12901a6ee51": {
+      "source": "mode",
+      "ja": "モード",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.f176f4ccf681245e": {
+      "source": "spectators",
+      "ja": "観戦者",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.8f30a852b76d3f05": {
+      "source": "shuffle",
+      "ja": "シャッフル",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.4c23c3188b938e59": {
+      "source": "vacant",
+      "ja": "空席",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.4b5af442229cf356": {
+      "source": "stats",
+      "ja": "成績",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.601e382c4d06fb3f": {
+      "source": "controls & rules",
+      "ja": "操作とルール",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.a83a31320d921b88": {
+      "source": "resume",
+      "ja": "再開",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.be56bc43b8d415f5": {
+      "source": "audio, video, display",
+      "ja": "音声・映像・画面",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.d47f3248ca39f9b7": {
+      "source": "teams & players",
+      "ja": "チームとプレイヤー",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.bd938c688f49b77c": {
+      "source": "action",
+      "ja": "アクション",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.73c76d56fd404200": {
+      "source": "dynamic",
+      "ja": "ダイナミック",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.e88199c423228a45": {
+      "source": "broadcast",
+      "ja": "中継",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2053dbbf6ec7135c": {
+      "source": "static",
+      "ja": "固定",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.a0a6df0d44c07c5b": {
+      "source": "rumble",
+      "ja": "振動",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.f179a509d32bd92c": {
+      "source": "center",
+      "ja": "中央",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.91f060a9ad4b39eb": {
+      "source": "keyboard",
+      "ja": "キーボード",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.52bd5df82c280225": {
+      "source": "keyboard & mouse",
+      "ja": "キーボードとマウス",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.c514944736ab23af": {
+      "source": "controller %d",
+      "ja": "コントローラー%d",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.27747689baf9903c": {
+      "source": "alternative",
+      "ja": "予備",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.f58940a313992e68": {
+      "source": "shape",
+      "ja": "形",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.74284d9dcbcc0992": {
+      "source": "color",
+      "ja": "色",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.318678825324247b": {
+      "source": "outline",
+      "ja": "縁取り",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.16b974583155fdcb": {
+      "source": "ring",
+      "ja": "リング",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.864ea39fe7e2b271": {
+      "source": "arrow",
+      "ja": "矢印",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.e48c3a03b7360721": {
+      "source": "saves",
+      "ja": "セーブデータ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.9368a7d21e018f64": {
+      "source": "notice",
+      "ja": "お知らせ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.2b69bc9655dbb75d": {
+      "source": "don't show this again",
+      "ja": "次回から表示しない",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.e34f407a19e86afb": {
+      "source": "your GPU:",
+      "ja": "使用中のGPU：",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.7ce888ae91f98c5a": {
+      "source": "amd gpu",
+      "ja": "AMD製GPU",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.1d0936578f794adf": {
+      "source": "amd / integrated / intel gpu",
+      "ja": "AMD・内蔵・Intel製GPU",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.3fefd3de3b7ba84a": {
+      "source": "alternative solutions",
+      "ja": "その他の対処方法",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.489a37b2c59590c5": {
+      "source": "amd drivers",
+      "ja": "AMDドライバー",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.07d47c0c40e50720": {
+      "source": "intel drivers",
+      "ja": "Intelドライバー",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.ed1a3f36f27d6eec": {
+      "source": "nvidia drivers",
+      "ja": "NVIDIAドライバー",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.824cb6f147f56e54": {
+      "source": "this will cause the game to render incorrectly, but it will run",
+      "ja": "表示が一部正しくなくなりますが、ゲームは起動できます",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.10618c490df23edf": {
+      "source": "if a launch command doesn't help, try updating (or rolling back) your graphics drivers:",
+      "ja": "起動オプションで改善しない場合は、グラフィックドライバーの更新や以前のバージョンへの復元を試してください：",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.b3eeb188f839d586": {
+      "source": "if you're having trouble entering the game, right click the game on steam, go to properties, and try any of the following launch commands.",
+      "ja": "ゲームが起動しない場合は、Steamでゲームを右クリックしてプロパティを開き、以下の起動オプションを試してください。",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.af176b3f76b3113b": {
+      "source": "Nationals Arena",
+      "ja": "全国大会会場",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.d4620f5c5851758f": {
+      "source": "School Gym",
+      "ja": "学校の体育館",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.16b78476d6fa4d65": {
+      "source": "Grass Court",
+      "ja": "芝生コート",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.c1624a26107e1a30": {
+      "source": "Beach",
+      "ja": "ビーチ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.c26982b1425da26a": {
+      "source": "Tutorial",
+      "ja": "チュートリアル",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.e45347b019f0ac8f": {
+      "source": "Clouds",
+      "ja": "雲の上",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.abc72029bc3099fb": {
+      "source": "Outer Space",
+      "ja": "宇宙空間",
+      "status": "draft",
+      "note": ""
+    }
+  }
+}

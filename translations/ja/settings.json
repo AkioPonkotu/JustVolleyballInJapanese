@@ -1,0 +1,955 @@
+{
+  "schema_version": 1,
+  "locale": "ja",
+  "domain": "settings",
+  "entries": {
+    "settings.6ed8919ce20490a5": {
+      "source": "audio",
+      "ja": "音声",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.0cab1c9617404faf": {
+      "source": "video",
+      "ja": "映像",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.0feae16d55365acf": {
+      "source": "general",
+      "ja": "全般",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.4c8dcd1dc8a3fdf3": {
+      "source": "gameplay",
+      "ja": "ゲームプレイ",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.714db89df42bdb7c": {
+      "source": "accessibility",
+      "ja": "アクセシビリティ",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.7d50f20853334a30": {
+      "source": "levels",
+      "ja": "音量",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.fc613b4dfd6736a7": {
+      "source": "master",
+      "ja": "全体音量",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.80f189984e5ca702": {
+      "source": "music",
+      "ja": "音楽",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.31d18c0defdc3e0e": {
+      "source": "ambient",
+      "ja": "環境音",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.001d5b73f5a97ade": {
+      "source": "sfx",
+      "ja": "効果音",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.5b4535bdd79ff9cd": {
+      "source": "crowd",
+      "ja": "観客",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.e0ee8bb50685e05f": {
+      "source": "output",
+      "ja": "出力",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.878a52fc5ff6a57d": {
+      "source": "sources",
+      "ja": "音の種類",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.2a566668adeffeba": {
+      "source": "output device",
+      "ja": "出力デバイス",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.8937370a23b12971": {
+      "source": "system default",
+      "ja": "システム既定",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.5f565b35347f45f7": {
+      "source": "audience noises",
+      "ja": "観客の声",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.a698a2b3cc3a3902": {
+      "source": "player voices",
+      "ja": "選手の声",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.7d3c7dda590ca338": {
+      "source": "quick chat voices",
+      "ja": "クイックチャットの音声",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.40316bac0e9b8659": {
+      "source": "the voice lines on the quick chat calls",
+      "ja": "クイックチャット使用時に再生する音声",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.dfbb889cf19bda82": {
+      "source": "display",
+      "ja": "画面",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.44ff7b02c80d38b2": {
+      "source": "window",
+      "ja": "表示モード",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.eff9f08c79ee9925": {
+      "source": "windowed",
+      "ja": "ウィンドウ",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.b58ae57ccd52d0f9": {
+      "source": "fullscreen",
+      "ja": "フルスクリーン",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.32a3595563217c65": {
+      "source": "borderless fullscreen",
+      "ja": "ボーダーレス",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.7de97367c9cdc3c6": {
+      "source": "monitor",
+      "ja": "モニター",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.f7fbd5853d11940e": {
+      "source": "resolution",
+      "ja": "解像度",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.f60600beda8cdf07": {
+      "source": "vsync",
+      "ja": "垂直同期",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.53b2f747e41937aa": {
+      "source": "match my monitor",
+      "ja": "モニターに合わせる",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.801789b86b5e88bd": {
+      "source": "frame rate cap",
+      "ja": "最大フレームレート",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.ad07d91850e84987": {
+      "source": "frame rate when inactive (client only)",
+      "ja": "非アクティブ時のFPS（クライアントのみ）",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.4250593f2508f5d2": {
+      "source": "splitscreen",
+      "ja": "画面分割",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.6d3ca131cd77030a": {
+      "source": "vertical when possible",
+      "ja": "可能なら左右に分割",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.2ed7709372b24805": {
+      "source": "shared when possible",
+      "ja": "可能なら画面を共有",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.888ad3a8bb06276a": {
+      "source": "effects",
+      "ja": "描画効果",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.acef2c15bcd349db": {
+      "source": "quality",
+      "ja": "画質",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.fafa1f76da27f4c8": {
+      "source": "shadows",
+      "ja": "影",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.2f947efd1bcabac6": {
+      "source": "low (drop shadows)",
+      "ja": "低（簡易的な影）",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.b879fd91800573c3": {
+      "source": "floor reflections",
+      "ja": "床の反射",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.d27608cca9b65f91": {
+      "source": "glow",
+      "ja": "ブルーム",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.f6cc5b085b61387a": {
+      "source": "grass",
+      "ja": "草",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.dc7c6aa9b496980f": {
+      "source": "wiggle bones",
+      "ja": "髪・アクセサリーの揺れ",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.6ac2ad150fa9a1ba": {
+      "source": "wiggle bones quality",
+      "ja": "揺れの品質",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.52e7f560f39af4dc": {
+      "source": "camera occlusion shader",
+      "ja": "遮蔽物を透過表示",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.628eeb829b96c3c6": {
+      "source": "show fps counter",
+      "ja": "FPSを表示",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.3cb8201e7ff1e777": {
+      "source": "theme",
+      "ja": "テーマ",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.f9da34dafabb886b": {
+      "source": "dark theme",
+      "ja": "ダークテーマ",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.c1472135b14c77c8": {
+      "source": "controller",
+      "ja": "コントローラー",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.821a4b1f6e6a16f9": {
+      "source": "controller inputs while game is unfocused",
+      "ja": "非アクティブ時もコントローラーを受け付ける",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.92c9bac8559ecae0": {
+      "source": "scoreboard",
+      "ja": "スコアボード",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.1891b39df8bdd835": {
+      "source": "fade scoreboard during rallies",
+      "ja": "ラリー中はスコアボードを薄くする",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.31e06f7d89feb99a": {
+      "source": "chat",
+      "ja": "チャット",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.3e88c08425c322ae": {
+      "source": "text chat",
+      "ja": "テキストチャット",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.33458a6506e17a0f": {
+      "source": "profanity filter",
+      "ja": "不適切な言葉をフィルター",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.3ebb153fb24e4411": {
+      "source": "recording",
+      "ja": "録画",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.2a16ac91a87e9c2c": {
+      "source": "save match replays",
+      "ja": "試合のリプレイを保存",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.8545ebd98ee44fcd": {
+      "source": "go to profile settings",
+      "ja": "プロフィール設定を開く",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.76f34bf7755d0170": {
+      "source": "spike meter",
+      "ja": "スパイクのためゲージ",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.645b51377137df60": {
+      "source": "set meter",
+      "ja": "トスのためゲージ",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.a9374ed28bfec395": {
+      "source": "serve meter",
+      "ja": "サーブのためゲージ",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.a658dfd6a21825eb": {
+      "source": "jump meter",
+      "ja": "ジャンプのためゲージ",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.7b4499c4705938ca": {
+      "source": "on character",
+      "ja": "キャラクター上",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.191bade580d1f4bf": {
+      "source": "on cursor",
+      "ja": "カーソル上",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.51f95ecbc46dadef": {
+      "source": "last-touch outline",
+      "ja": "最後に触れた選手を縁取り",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.1681f1787de65aa9": {
+      "source": "reach marker",
+      "ja": "届く範囲の目印",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.e520c45b2b7b9c20": {
+      "source": "control hints",
+      "ja": "操作ヒント",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.8dbe34e62cea19b1": {
+      "source": "chat bubbles",
+      "ja": "吹き出しチャット",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.d26477108b622f10": {
+      "source": "show your own name",
+      "ja": "自分の名前を表示",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.ada817087e191b88": {
+      "source": "hide names during rallies",
+      "ja": "ラリー中は名前を隠す",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.66d6720ca34fa103": {
+      "source": "hide titles during rallies",
+      "ja": "ラリー中は称号を隠す",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.01a951d358b05910": {
+      "source": "charge meters",
+      "ja": "ためゲージ",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.b3fbb566b33992bc": {
+      "source": "mouse sensitivity",
+      "ja": "マウス感度",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.9b181d59969d2c10": {
+      "source": "controller sensitivity",
+      "ja": "コントローラー感度",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.06520460b4e1efaa": {
+      "source": "invert x axis",
+      "ja": "横方向を反転",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.212e12342b51b603": {
+      "source": "invert y axis",
+      "ja": "縦方向を反転",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.df3c59f0f7216ded": {
+      "source": "sprint toggle",
+      "ja": "ダッシュの切り替え式操作",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.fb235e98919338d1": {
+      "source": "double-tap sprint",
+      "ja": "2回押しでダッシュ",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.e6a754e9945f35dd": {
+      "source": "auto fire sets",
+      "ja": "押し続けてトス",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.0fd29c41a9f14950": {
+      "source": "dump hold",
+      "ja": "ツーアタックの長押し時間",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.91c0f6bc20caa1ba": {
+      "source": "cursor assist",
+      "ja": "カーソルアシスト",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.721b3c7f9d39703c": {
+      "source": "set assist",
+      "ja": "トスアシスト",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.becb86a4bf50a3fc": {
+      "source": "camera shake",
+      "ja": "カメラの揺れ",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.2948e1f8bb18777f": {
+      "source": "shake intensity",
+      "ja": "揺れの強さ",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.d6740176da76c7e5": {
+      "source": "vibration",
+      "ja": "振動",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.fc6911bd0964326f": {
+      "source": "controller vibration on your hits and impacts",
+      "ja": "打球や衝突時にコントローラーを振動させます",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.178e2a64283dbea5": {
+      "source": "right shoulder",
+      "ja": "右肩越し",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.98eec31b8b0ec3cb": {
+      "source": "left shoulder",
+      "ja": "左肩越し",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.fa4d296d6b50f67b": {
+      "source": "cameras",
+      "ja": "カメラ",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.01c6251611423db7": {
+      "source": "preferred camera",
+      "ja": "優先カメラ",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.9388e97798cb7497": {
+      "source": "field of view",
+      "ja": "視野角",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.e029e40e4ad00d4c": {
+      "source": "dynamic fov",
+      "ja": "動的な視野角",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.2a07f9475d075a05": {
+      "source": "auto zoom (dynamic camera)",
+      "ja": "自動ズーム（ダイナミックカメラ）",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.6f9a4b698960c928": {
+      "source": "dynamic camera",
+      "ja": "ダイナミックカメラ",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.9230b63461c2cba6": {
+      "source": "action camera",
+      "ja": "アクションカメラ",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.10bb1c79c4a12a6e": {
+      "source": "camera binds",
+      "ja": "カメラの操作割り当て",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.5cd8054740cc2fd9": {
+      "source": "crosshair",
+      "ja": "照準",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.dfe8bae93a48b95a": {
+      "source": "custom color",
+      "ja": "色を指定",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.4ff59b4dd67aadda": {
+      "source": "otherwise it matches the side you're aiming at",
+      "ja": "オフの場合は、狙っているサイドの色になります",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.f6ee7d0cfe8e03bd": {
+      "source": "floor ring",
+      "ja": "床の照準リング",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.e422b55f1651611e": {
+      "source": "the aiming circle on the floor (off = just the dot)",
+      "ja": "床に表示する照準の円（オフの場合は点のみ）",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.3ac23dd2dd550a2e": {
+      "source": "quick chat",
+      "ja": "クイックチャット",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.ef6a69931fba113a": {
+      "source": "reset all controls",
+      "ja": "操作設定をすべてリセット",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.7f93200652bb4292": {
+      "source": "unbind",
+      "ja": "割り当てを解除",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.ef8b4b6841e33067": {
+      "source": "press a %s…",
+      "ja": "%s を押してください…",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.2c70e12b7a0646f9": {
+      "source": "key",
+      "ja": "キー",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.c3e2d78f3ff33572": {
+      "source": "button",
+      "ja": "ボタン",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.da7e2d4b40b63f98": {
+      "source": "appeal",
+      "ja": "異議申し立て",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.82f3213fbb2a6b34": {
+      "source": "back up saves",
+      "ja": "セーブをバックアップ",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.d234c939dc938af7": {
+      "source": "open folder",
+      "ja": "フォルダーを開く",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.f8110b5c013174e5": {
+      "source": "puts a copy of your profiles and settings in %s",
+      "ja": "プロフィールと設定のコピーを %s に保存します",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.f098158857cf09c8": {
+      "source": "backing up...",
+      "ja": "バックアップ中…",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.f47971864351fdfc": {
+      "source": "couldn't back up your saves",
+      "ja": "セーブをバックアップできませんでした",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.7bcf343e34e40d21": {
+      "source": "backed up! %s is in %s",
+      "ja": "バックアップ完了！%s を %s に保存しました",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.72de477eb7af1e45": {
+      "source": "reset %s",
+      "ja": "%s をリセット",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.d8d8d77a76e30717": {
+      "source": "3d resolution",
+      "ja": "3D描画解像度",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.2963f372c7ed2702": {
+      "source": "play matches worldwide",
+      "ja": "世界中のプレイヤーと対戦",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.ab8722da680d2d5e": {
+      "source": "play matches locally",
+      "ja": "ローカルで対戦",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.12f637b637e31ed9": {
+      "source": "freeplay, tutorials, guides",
+      "ja": "フリー練習・チュートリアル・遊び方",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.462dc6531d7782dc": {
+      "source": "config devices & local coop",
+      "ja": "デバイスとローカル協力プレイの設定",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.0953a1ce10de8eff": {
+      "source": "controls, video, audio",
+      "ja": "操作・映像・音声の設定",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.e0665a9e0a0f6b2a": {
+      "source": "play for your rank in 2v2, 4v4 and 6v6",
+      "ja": "2対2・4対4・6対6でランクを競います",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.fe1490959433d6ac": {
+      "source": "find any online match available",
+      "ja": "参加できるオンライン対戦を検索",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.cf3fa71aec70d849": {
+      "source": "online servers with custom rules",
+      "ja": "独自ルールのオンラインサーバー",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.43b9aa394f2daa6e": {
+      "source": "host your own lobby with custom rules",
+      "ja": "ルールを決めてロビーを作成",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.c35522fb167c388f": {
+      "source": "connect by ip address",
+      "ja": "IPアドレスを指定して接続",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.1a0e4e3ebaf591e5": {
+      "source": "pick the rules, sets and stage",
+      "ja": "ルール・セット数・ステージを指定",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.272612b280480dea": {
+      "source": "play on this computer",
+      "ja": "このPCでプレイ",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.e88ad302e1ca77e8": {
+      "source": "host a lobby for players on your network",
+      "ja": "同じネットワークのプレイヤー向けにホスト",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.4b20dca6f5808db0": {
+      "source": "join a lan lobby by address",
+      "ja": "アドレスを指定してLANロビーに参加",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.1558fd0ac71b2cee": {
+      "source": "practice in the open court",
+      "ja": "コートで自由に練習",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.e33993326f870425": {
+      "source": "volleyball & game rules",
+      "ja": "バレーボールとゲームのルール",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.d6fcd45edf1e3837": {
+      "source": "queue up",
+      "ja": "対戦相手の検索を開始",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.d0fa0f5682c1def0": {
+      "source": "the arena reacts to the rally",
+      "ja": "ラリーに応じて観客が反応します",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.0db92bdf70d89352": {
+      "source": "grunts and callouts",
+      "ja": "選手の掛け声や息遣い",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.4b1c95562b3adfe2": {
+      "source": "on: tap sprint to keep running. off: hold it down",
+      "ja": "オン：押すとダッシュを継続。オフ：押している間だけダッシュ",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.a1338edfd3dad24f": {
+      "source": "on: double tap a movement key to sprint. off: only the sprint key does",
+      "ja": "オン：移動キーを2回押すとダッシュ。オフ：ダッシュキーのみで操作",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.37b92c3f45bc31f4": {
+      "source": "action camera: push up to look down",
+      "ja": "アクションカメラ：上に動かすと下を向きます",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.864087f2039c0a79": {
+      "source": "action camera: push right to look left",
+      "ja": "アクションカメラ：右に動かすと左を向きます",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.e7258a3dba487bde": {
+      "source": "on a controller your cursor moves to an easy spot for every touch and serve. the right stick takes over for that play",
+      "ja": "コントローラーで打球やサーブを行う際、狙いやすい位置にカーソルを移動します。右スティックを動かすと、そのプレイ中は手動操作になります",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.841a0c468cecb538": {
+      "source": "your sets always land in the hitting spot by the net. your aim only picks left or right",
+      "ja": "トスがネット際の打ちやすい位置に届きます。照準では左右のみ指定します",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.34e4ff84be8fce34": {
+      "source": "impacts rattle the view",
+      "ja": "衝撃に応じて画面が揺れます",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.22471f88a8b15d11": {
+      "source": "the view widens when you sprint",
+      "ja": "ダッシュ中に視野が広がります",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.37a12f76bb094b9f": {
+      "source": "the cameras the camera key cycles through",
+      "ja": "カメラ切り替えキーで巡回する視点",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.58572ec43c877dd7": {
+      "source": "reveal who touched the ball last with an outline",
+      "ja": "最後にボールに触れた選手を縁取りで表示します",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.ef2d1952b8bfb330": {
+      "source": "shows when a ball is grabbable",
+      "ja": "ボールに手が届くタイミングを示します",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.940966b18462d9cb": {
+      "source": "the button prompts in the corner of your screen",
+      "ja": "画面の隅に操作ボタンを表示します",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.5a777fbf36333535": {
+      "source": "show the chat panel",
+      "ja": "チャットパネルを表示します",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.c4b282e4985626dc": {
+      "source": "censor inappropriate chat content",
+      "ja": "不適切なチャット内容を伏せ字にします",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.7fdd260e0f2a331e": {
+      "source": "your controller keeps working when another window is in front",
+      "ja": "別のウィンドウが手前にあってもコントローラー操作を受け付けます",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.2edad0da7570a001": {
+      "source": "fade the scoreboard out while the ball is in play",
+      "ja": "プレイ中はスコアボードを薄くします",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.7c1509b76a232bd0": {
+      "source": "speech bubbles over heads in freeplay",
+      "ja": "フリー練習中に頭上へチャットの吹き出しを表示します",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.c5e5a6c80b4c0acf": {
+      "source": "display your own username during gameplay",
+      "ja": "プレイ中に自分のユーザー名を表示します",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.75de66835b78ce18": {
+      "source": "hide every player's username while the ball is in play",
+      "ja": "プレイ中は全員のユーザー名を隠します",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.d3f91aa6d0b8e684": {
+      "source": "hide every player's title while the ball is in play",
+      "ja": "プレイ中は全員の称号を隠します",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.1006f56e7e80011c": {
+      "source": "writes a file after each match",
+      "ja": "各試合の終了後にファイルを保存します",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.88bd18d0f4879e17": {
+      "source": "off uncaps the frame rate, may tear",
+      "ja": "オフにするとFPS制限がなくなりますが、画面がずれる場合があります",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.7680e043cbe8c550": {
+      "source": "the mirrored court floor",
+      "ja": "コートの床への映り込み",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.7a872531a0537d2c": {
+      "source": "hair and accessories swing as you move. off saves some performance",
+      "ja": "動きに合わせて髪やアクセサリーが揺れます。オフにすると処理負荷が軽くなります",
+      "status": "draft",
+      "note": ""
+    },
+    "settings.17c5a08f8cf14f70": {
+      "source": "frame rate readout",
+      "ja": "フレームレートを表示します",
+      "status": "draft",
+      "note": ""
+    }
+  }
+}
