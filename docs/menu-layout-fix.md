@@ -65,3 +65,10 @@ uv run --python 3.12 --with-requirements requirements.txt python tools/measure_m
 検証はヘッドレスでの組版測定で、実画面の目視確認・実対戦は含まない。
 
 既存のPythonテスト9件と翻訳カタログ2436項目の検証も成功した。
+
+## 導入
+
+修正版の配布ZIPとEXEを再生成し、インストール済みの旧パッチをハッシュ照合付きで解除後、
+修正版を適用した。導入済みPCKが上記の測定対象PCKと完全一致すること、導入記録との一致、
+元PCKバックアップの完全性、ゲームEXEが変更されていないことを確認した。
+照合結果は `evidence/menu-layout-installation.json`。
