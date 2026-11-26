@@ -1979,9 +1979,9 @@
     },
     "ui.6ee0eb490ff83210": {
       "source": "set",
-      "ja": "セット",
+      "ja": "トス",
       "status": "draft",
-      "note": ""
+      "note": "競技のセット数は set %d / 1 set 等の別文言。単独の set は操作名としてトスと訳す。"
     },
     "ui.5fbde9bb9c3fd8c2": {
       "source": "bump",

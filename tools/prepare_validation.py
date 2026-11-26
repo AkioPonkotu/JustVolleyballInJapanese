@@ -13,6 +13,8 @@ func _ready():
     assert(TranslationServer.get_locale() == "ja")
     assert(TranslationServer.translate("settings") == "設定")
     assert(TranslationServer.translate("set %d") % 2 == "第2セット")
+    assert(TranslationServer.translate("pro") == "公式球")
+    assert(TranslationServer.translate("pro", &"titles") == "プロ")
     var original = load("res://game/fonts/Nunito/Nunito-SemiBold.ttf")
     assert(original.fallbacks.size() > 0)
     assert(original.fallbacks.back().has_char(0x8a2d))

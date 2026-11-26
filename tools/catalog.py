@@ -19,9 +19,20 @@ def save(path, data):
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 
 
+def read_catalog(path):
+    def unique_pairs(pairs):
+        result = {}
+        for key, value in pairs:
+            if key in result:
+                raise ValueError(f'Duplicate JSON key in {path}: {key}')
+            result[key] = value
+        return result
+    return json.loads(path.read_text(encoding='utf-8-sig'), object_pairs_hook=unique_pairs)
+
+
 def import_seed(domain, seed):
     path = ROOT / 'translations/ja' / (domain + '.json')
-    data = json.loads(path.read_text(encoding='utf-8')) if path.exists() else {
+    data = read_catalog(path) if path.exists() else {
         'schema_version': 1, 'locale': 'ja', 'domain': domain, 'entries': {}}
     added = 0
     for source, japanese in seed.items():
@@ -40,7 +51,7 @@ def import_seed(domain, seed):
 def load_catalogs():
     messages, entries = {}, {}
     for path in sorted((ROOT / 'translations/ja').glob('*.json')):
-        data = json.loads(path.read_text(encoding='utf-8'))
+        data = read_catalog(path)
         if data['schema_version'] != 1 or data['locale'] != 'ja':
             raise ValueError(f'Unsupported catalog: {path}')
         for ident, entry in data['entries'].items():
@@ -57,7 +68,7 @@ def load_catalogs():
                 raise ValueError(f'Placeholders or markup differ: {ident}: {source!r}')
             if [t for t in TOKENS.findall(source) if t.startswith('%')] != [t for t in TOKENS.findall(japanese) if t.startswith('%')]:
                 raise ValueError(f'Positional format arguments changed order: {ident}')
-            if data['domain'] != 'howto':
+            if data['domain'] not in {'howto', 'titles'}:
                 if source in messages and messages[source] != japanese:
                     raise ValueError(f'Conflicting translations for shared message: {source!r}')
                 messages[source] = japanese
@@ -90,6 +101,8 @@ def main():
             for ident, entry in entries.items():
                 locations[ident] = ([{'path': 'game/ui/how_to_text.json', 'pointer': entry['context']}]
                                     if ident.startswith('howto.') else by_source.get(entry['source'], []))
+                if ident.startswith('titles.'):
+                    locations[ident] = [row for row in locations[ident] if row['path'].startswith('game/titles/items/')]
             save(ROOT / 'translations/source-locations.json', locations)
             candidates = json.loads((ROOT / 'work/analysis/text-candidates.json').read_text(encoding='utf-8'))
             pending = [row for row in candidates if row['text'] not in messages

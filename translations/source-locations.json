@@ -11946,6 +11946,326 @@
       "line": 149
     }
   ],
+  "replay.ded4939f6476b2bb": [
+    {
+      "path": "game/replay/replay_viewer.gd",
+      "line": 457
+    }
+  ],
+  "replay.b3d490bfb3653765": [
+    {
+      "path": "game/replay/replay_viewer.gd",
+      "line": 473
+    }
+  ],
+  "replay.f16746c841a54082": [
+    {
+      "path": "game/replay/replay_viewer.gd",
+      "line": 484
+    }
+  ],
+  "replay.28ece7fffc236997": [
+    {
+      "path": "game/replay/replay_viewer.gd",
+      "line": 486
+    }
+  ],
+  "replay.50fe9608d7cd779c": [
+    {
+      "path": "game/replay/replay_viewer.gd",
+      "line": 487
+    }
+  ],
+  "replay.c91dec0596482b2d": [
+    {
+      "path": "game/replay/replay_viewer.gd",
+      "line": 547
+    }
+  ],
+  "replay.ac203c9843b5bd8c": [
+    {
+      "path": "game/audio/music_manager.gd",
+      "line": 36
+    },
+    {
+      "path": "game/main/main.gd",
+      "line": 11139
+    },
+    {
+      "path": "game/main/main.gd",
+      "line": 11459
+    },
+    {
+      "path": "game/net/reports.gd",
+      "line": 63
+    },
+    {
+      "path": "game/net/reports.gd",
+      "line": 194
+    },
+    {
+      "path": "game/net/reports.gd",
+      "line": 202
+    },
+    {
+      "path": "game/replay/replay_prune.gd",
+      "line": 60
+    },
+    {
+      "path": "game/replay/replay_prune.gd",
+      "line": 72
+    },
+    {
+      "path": "game/replay/replay_viewer.gd",
+      "line": 547
+    },
+    {
+      "path": "game/replay/replay_viewer.tscn",
+      "line": 164
+    },
+    {
+      "path": "game/ui/career_page.gd",
+      "line": 913
+    }
+  ],
+  "replay.f83123d001d1fdfb": [
+    {
+      "path": "game/replay/replay_viewer.gd",
+      "line": 548
+    }
+  ],
+  "replay.8ff2d584cce20177": [
+    {
+      "path": "game/replay/replay_viewer.gd",
+      "line": 549
+    }
+  ],
+  "replay.9f49a3aaaad7f1f7": [
+    {
+      "path": "game/replay/replay_viewer.gd",
+      "line": 1212
+    }
+  ],
+  "replay.d2bc8e6551980922": [
+    {
+      "path": "game/replay/replay_viewer.gd",
+      "line": 1214
+    }
+  ],
+  "replay.5b5c78f380fda8a6": [
+    {
+      "path": "game/replay/replay_viewer.gd",
+      "line": 1216
+    }
+  ],
+  "replay.5927844cf98e4d60": [
+    {
+      "path": "game/replay/replay_viewer.gd",
+      "line": 1464
+    }
+  ],
+  "replay.4cf189ee2e0aee77": [
+    {
+      "path": "game/replay/replay_viewer.gd",
+      "line": 1482
+    }
+  ],
+  "replay.6210c0bf05396716": [
+    {
+      "path": "game/replay/replay_viewer.gd",
+      "line": 1650
+    },
+    {
+      "path": "game/replay/replay_viewer.tscn",
+      "line": 201
+    },
+    {
+      "path": "game/ui/pause_menu.gd",
+      "line": 464
+    },
+    {
+      "path": "game/ui/style/ui_sfx_pack.gd",
+      "line": 56
+    }
+  ],
+  "replay.d4a52d81d4b2a0d9": [
+    {
+      "path": "game/replay/replay_viewer.tscn",
+      "line": 104
+    }
+  ],
+  "replay.ae6e2dbf53aea126": [
+    {
+      "path": "game/replay/replay_viewer.tscn",
+      "line": 119
+    }
+  ],
+  "replay.2ffe013244677734": [
+    {
+      "path": "game/replay/view_controls.gd",
+      "line": 58
+    }
+  ],
+  "replay.15149f1a3d7020f4": [
+    {
+      "path": "game/replay/view_controls.tscn",
+      "line": 19
+    }
+  ],
+  "replay.a8223108902a60f4": [
+    {
+      "path": "game/replay/view_controls.gd",
+      "line": 59
+    }
+  ],
+  "replay.aa021120329fe3bd": [
+    {
+      "path": "game/replay/view_controls.gd",
+      "line": 59
+    }
+  ],
+  "replay.7159be8cf0a0d788": [
+    {
+      "path": "game/replay/view_controls.gd",
+      "line": 61
+    }
+  ],
+  "replay.198a901bab3c1f4d": [
+    {
+      "path": "game/replay/view_controls.gd",
+      "line": 61
+    }
+  ],
+  "replay.dfa92e47335112cb": [
+    {
+      "path": "game/replay/view_controls.gd",
+      "line": 65
+    }
+  ],
+  "replay.42dcc756a774432a": [
+    {
+      "path": "game/replay/view_controls.tscn",
+      "line": 31
+    }
+  ],
+  "replay.927f93be92b21236": [
+    {
+      "path": "game/replay/view_controls.gd",
+      "line": 65
+    }
+  ],
+  "replay.7b8a3e3bab447ca8": [
+    {
+      "path": "game/replay/view_controls.tscn",
+      "line": 25
+    }
+  ],
+  "replay.06622dc5f47f2bca": [
+    {
+      "path": "game/core/match_modifiers.gd",
+      "line": 44
+    }
+  ],
+  "replay.033e05834a18d8b4": [
+    {
+      "path": "game/core/match_modifiers.gd",
+      "line": 47
+    }
+  ],
+  "replay.b42374a72ccb32c0": [
+    {
+      "path": "game/core/match_modifiers.gd",
+      "line": 51
+    }
+  ],
+  "replay.e93d161149e05cd2": [
+    {
+      "path": "game/core/match_modifiers.gd",
+      "line": 54
+    }
+  ],
+  "replay.7dc56304ca2a53d5": [
+    {
+      "path": "game/core/match_modifiers.gd",
+      "line": 65
+    }
+  ],
+  "replay.ab5df811cea49f96": [
+    {
+      "path": "game/core/match_modifiers.gd",
+      "line": 72
+    }
+  ],
+  "replay.2de32d588aecf71f": [
+    {
+      "path": "game/core/match_modifiers.gd",
+      "line": 75
+    }
+  ],
+  "replay.964a5ccf53cef044": [
+    {
+      "path": "game/core/match_modifiers.gd",
+      "line": 84
+    }
+  ],
+  "replay.dd21a1e12f3dae06": [
+    {
+      "path": "game/core/match_modifiers.gd",
+      "line": 87
+    }
+  ],
+  "replay.a5b690fa8a882c5c": [
+    {
+      "path": "game/core/match_modifiers.gd",
+      "line": 94
+    },
+    {
+      "path": "game/core/match_modifiers.gd",
+      "line": 97
+    }
+  ],
+  "replay.4852221685f2935c": [
+    {
+      "path": "game/core/match_modifiers.gd",
+      "line": 106
+    }
+  ],
+  "replay.9516969643e82725": [
+    {
+      "path": "game/core/match_modifiers.gd",
+      "line": 115
+    }
+  ],
+  "replay.9a75bdf7ee963595": [
+    {
+      "path": "game/core/match_modifiers.gd",
+      "line": 118
+    }
+  ],
+  "replay.215435943c28eeea": [
+    {
+      "path": "game/core/match_modifiers.gd",
+      "line": 128
+    }
+  ],
+  "replay.65e76935df7e9f0b": [
+    {
+      "path": "game/ui/boot/gpu_notice.gd",
+      "line": 111
+    }
+  ],
+  "replay.0bb550b2722e871b": [
+    {
+      "path": "game/ui/boot/gpu_notice.gd",
+      "line": 112
+    }
+  ],
+  "replay.ccac82452adcc572": [
+    {
+      "path": "game/ui/boot/gpu_notice.gd",
+      "line": 113
+    }
+  ],
   "settings.6ed8919ce20490a5": [
     {
       "path": "game/core/game_config.gd",
@@ -14047,6 +14367,4552 @@
     {
       "path": "game/ui/menu_copy.gd",
       "line": 72
+    }
+  ],
+  "titles.32e48995f98ce3b7": [],
+  "titles.2385950ef7802354": [],
+  "titles.983bd614bb5afece": [],
+  "titles.2a0b6287a0e65cff": [
+    {
+      "path": "game/titles/items/ace.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/ace.tres",
+      "line": 8
+    }
+  ],
+  "titles.77e5fe3221541594": [
+    {
+      "path": "game/titles/items/actual_giant.tres",
+      "line": 8
+    }
+  ],
+  "titles.d4d6f7752759a758": [
+    {
+      "path": "game/titles/items/addict.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/addict.tres",
+      "line": 8
+    }
+  ],
+  "titles.875e0577157f743e": [
+    {
+      "path": "game/titles/items/afk.tres",
+      "line": 8
+    }
+  ],
+  "titles.d5d1d55708096d05": [
+    {
+      "path": "game/titles/items/again.tres",
+      "line": 8
+    }
+  ],
+  "titles.052ff38befb367b0": [
+    {
+      "path": "game/titles/items/agile.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/agile.tres",
+      "line": 8
+    }
+  ],
+  "titles.da44f5e8886a22b1": [
+    {
+      "path": "game/titles/items/air_fryer.tres",
+      "line": 8
+    }
+  ],
+  "titles.63a94bf14ce22462": [
+    {
+      "path": "game/titles/items/alchemist.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/alchemist.tres",
+      "line": 8
+    }
+  ],
+  "titles.e50fc5050eb10b1a": [
+    {
+      "path": "game/titles/items/all_for_one.tres",
+      "line": 8
+    }
+  ],
+  "titles.b165258a4640570f": [
+    {
+      "path": "game/titles/items/all_seeing.tres",
+      "line": 8
+    }
+  ],
+  "titles.8ed3f6ad685b959e": [
+    {
+      "path": "game/titles/items/alpha.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/alpha.tres",
+      "line": 8
+    },
+    {
+      "path": "game/titles/items/alpha_playtester.tres",
+      "line": 11
+    }
+  ],
+  "titles.53832d690db25519": [
+    {
+      "path": "game/titles/items/alpha_playtester.tres",
+      "line": 8
+    }
+  ],
+  "titles.1f0a6682bc5ef2a4": [
+    {
+      "path": "game/titles/items/always_look_up.tres",
+      "line": 8
+    }
+  ],
+  "titles.d11d651bb91e9456": [
+    {
+      "path": "game/titles/items/always_looking_up.tres",
+      "line": 8
+    }
+  ],
+  "titles.519ba91a5a5b4afb": [
+    {
+      "path": "game/titles/items/angel.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/angel.tres",
+      "line": 8
+    }
+  ],
+  "titles.ab91a82d14cfc612": [
+    {
+      "path": "game/titles/items/animal.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/animal.tres",
+      "line": 8
+    }
+  ],
+  "titles.242ab4ac31522e28": [
+    {
+      "path": "game/titles/items/anime.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/anime.tres",
+      "line": 8
+    }
+  ],
+  "titles.92e93e7e81c4b906": [
+    {
+      "path": "game/titles/items/annoying.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/annoying.tres",
+      "line": 8
+    }
+  ],
+  "titles.ce4c476453ae5fa7": [
+    {
+      "path": "game/titles/items/antagonist.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/antagonist.tres",
+      "line": 8
+    }
+  ],
+  "titles.faef616df2ec2442": [
+    {
+      "path": "game/titles/items/anxious.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/anxious.tres",
+      "line": 8
+    }
+  ],
+  "titles.c5c2e54de9d2833a": [
+    {
+      "path": "game/titles/items/assassin.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/assassin.tres",
+      "line": 8
+    }
+  ],
+  "titles.6d7c0eb420852d2e": [
+    {
+      "path": "game/titles/items/aura.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/aura.tres",
+      "line": 8
+    }
+  ],
+  "titles.f7e7dd8d23cf268a": [
+    {
+      "path": "game/titles/items/avenger.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/avenger.tres",
+      "line": 8
+    }
+  ],
+  "titles.12ee9f710588e431": [
+    {
+      "path": "game/titles/items/back_and_forth.tres",
+      "line": 8
+    }
+  ],
+  "titles.3f8c49ce280206ab": [
+    {
+      "path": "game/titles/items/baka.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/baka.tres",
+      "line": 8
+    }
+  ],
+  "titles.895c9608355941d4": [
+    {
+      "path": "game/titles/items/ball_boy.tres",
+      "line": 8
+    }
+  ],
+  "titles.c61dea0be590b9a4": [
+    {
+      "path": "game/titles/items/bam.tres",
+      "line": 8
+    }
+  ],
+  "titles.14ea6507645c2ba7": [
+    {
+      "path": "game/titles/items/bark.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/bark.tres",
+      "line": 8
+    }
+  ],
+  "titles.fbb634221207d14a": [
+    {
+      "path": "game/titles/items/bashful.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/bashful.tres",
+      "line": 8
+    }
+  ],
+  "titles.0e72d30ba3f2de17": [
+    {
+      "path": "game/titles/items/be_strong.tres",
+      "line": 8
+    }
+  ],
+  "titles.b3fa55f98fcfcaf6": [
+    {
+      "path": "game/titles/items/bean.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/bean.tres",
+      "line": 8
+    }
+  ],
+  "titles.c6a1427d7119cd3c": [
+    {
+      "path": "game/titles/items/beautiful.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/beautiful.tres",
+      "line": 8
+    }
+  ],
+  "titles.d0c2ebfa3490d41a": [
+    {
+      "path": "game/titles/items/beginner.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/beginner.tres",
+      "line": 8
+    }
+  ],
+  "titles.c608683269c6ca0a": [
+    {
+      "path": "game/titles/items/believer.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/believer.tres",
+      "line": 8
+    }
+  ],
+  "titles.082fe4317f97d076": [
+    {
+      "path": "game/titles/items/benchwarmer.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/benchwarmer.tres",
+      "line": 8
+    }
+  ],
+  "titles.4820b7d491fccd1e": [
+    {
+      "path": "game/titles/items/best_boy.tres",
+      "line": 8
+    }
+  ],
+  "titles.27f04924b69b4ad4": [
+    {
+      "path": "game/titles/items/best_girl.tres",
+      "line": 8
+    }
+  ],
+  "titles.f44e64e75f3948e9": [
+    {
+      "path": "game/titles/items/beta.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/beta.tres",
+      "line": 8
+    }
+  ],
+  "titles.5e8818d1dd191490": [
+    {
+      "path": "game/titles/items/beyond.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/beyond.tres",
+      "line": 8
+    }
+  ],
+  "titles.5e025461f87fc4cf": [
+    {
+      "path": "game/titles/items/big_body.tres",
+      "line": 8
+    }
+  ],
+  "titles.c94d442b7f0c75de": [
+    {
+      "path": "game/titles/items/bipolar.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/bipolar.tres",
+      "line": 8
+    }
+  ],
+  "titles.267420a8cbd6bf1d": [
+    {
+      "path": "game/titles/items/black_flash.tres",
+      "line": 8
+    }
+  ],
+  "titles.186c98ecc21f49bb": [
+    {
+      "path": "game/titles/items/blazing.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/blazing.tres",
+      "line": 8
+    }
+  ],
+  "titles.b9eb8e7c9d214553": [
+    {
+      "path": "game/titles/items/blocker_man.tres",
+      "line": 8
+    }
+  ],
+  "titles.34659fd61a72a852": [
+    {
+      "path": "game/titles/items/bloom.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/bloom.tres",
+      "line": 8
+    }
+  ],
+  "titles.38468b8cf58e362c": [
+    {
+      "path": "game/titles/items/blooming_talent.tres",
+      "line": 8
+    }
+  ],
+  "titles.17e0e4f724103b2b": [
+    {
+      "path": "game/titles/items/blud.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/blud.tres",
+      "line": 8
+    }
+  ],
+  "titles.90c91bcebb2edb80": [
+    {
+      "path": "game/titles/items/boke.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/boke.tres",
+      "line": 8
+    }
+  ],
+  "titles.45f985e0cead4db8": [
+    {
+      "path": "game/titles/items/bordem.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/bordem.tres",
+      "line": 8
+    }
+  ],
+  "titles.60e6aa4ad2d315ff": [
+    {
+      "path": "game/titles/items/bored.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/bored.tres",
+      "line": 8
+    }
+  ],
+  "titles.9d74932bdb6f21dc": [
+    {
+      "path": "game/titles/items/bot.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/bot.tres",
+      "line": 8
+    }
+  ],
+  "titles.5c8f52ca28966103": [
+    {
+      "path": "game/titles/items/brazil.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/brazil.tres",
+      "line": 8
+    }
+  ],
+  "titles.3e2c5b56e34f1979": [
+    {
+      "path": "game/titles/items/broken_heart.tres",
+      "line": 8
+    }
+  ],
+  "titles.e9c43c5dcf143fdc": [
+    {
+      "path": "game/titles/items/bunny.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/bunny.tres",
+      "line": 8
+    }
+  ],
+  "titles.3ed1f621d7a2b5e2": [
+    {
+      "path": "game/titles/items/burger.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/burger.tres",
+      "line": 8
+    }
+  ],
+  "titles.b4c9a06f872b7b44": [
+    {
+      "path": "game/titles/items/butter_fingers.tres",
+      "line": 8
+    }
+  ],
+  "titles.19e0f50bcf2f6457": [
+    {
+      "path": "game/titles/items/cannon.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/cannon.tres",
+      "line": 8
+    }
+  ],
+  "titles.45e84635bc4803c5": [
+    {
+      "path": "game/titles/items/cap.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/cap.tres",
+      "line": 8
+    }
+  ],
+  "titles.2780b8eef998d6ea": [
+    {
+      "path": "game/titles/items/captain.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/captain.tres",
+      "line": 8
+    }
+  ],
+  "titles.15830f493c714309": [
+    {
+      "path": "game/titles/items/cartoon.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/cartoon.tres",
+      "line": 8
+    }
+  ],
+  "titles.c633eb52f63cec1d": [
+    {
+      "path": "game/titles/items/casual.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/casual.tres",
+      "line": 8
+    }
+  ],
+  "titles.77af778b51abd4a3": [
+    {
+      "path": "game/titles/items/cat.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/cat.tres",
+      "line": 8
+    }
+  ],
+  "titles.e7ac827c27b0acaa": [
+    {
+      "path": "game/titles/items/challenger.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/challenger.tres",
+      "line": 8
+    }
+  ],
+  "titles.d14a7310bdf55b8f": [
+    {
+      "path": "game/titles/items/champion.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/champion.tres",
+      "line": 8
+    }
+  ],
+  "titles.2466fcafe0531db0": [
+    {
+      "path": "game/titles/items/chan.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/chan.tres",
+      "line": 8
+    }
+  ],
+  "titles.d61d6c660af71da4": [
+    {
+      "path": "game/titles/items/chibi.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/chibi.tres",
+      "line": 8
+    }
+  ],
+  "titles.50c0152c2952082a": [
+    {
+      "path": "game/titles/items/china.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/china.tres",
+      "line": 8
+    }
+  ],
+  "titles.a44f641037753269": [
+    {
+      "path": "game/titles/items/chitterputt.tres",
+      "line": 8
+    }
+  ],
+  "titles.2cc0b485bc6d3b49": [
+    {
+      "path": "game/titles/items/chopped.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/chopped.tres",
+      "line": 8
+    }
+  ],
+  "titles.54fd37e2a8946d58": [
+    {
+      "path": "game/titles/items/chosen_one.tres",
+      "line": 8
+    }
+  ],
+  "titles.46ec448537f30190": [
+    {
+      "path": "game/titles/items/chud.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/chud.tres",
+      "line": 8
+    }
+  ],
+  "titles.637308e949738d37": [
+    {
+      "path": "game/titles/items/clumsy.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/clumsy.tres",
+      "line": 8
+    }
+  ],
+  "titles.c278be9e224723ac": [
+    {
+      "path": "game/titles/items/clutch.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/clutch.tres",
+      "line": 8
+    }
+  ],
+  "titles.8667bac4ab97d6db": [
+    {
+      "path": "game/titles/items/clutz.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/clutz.tres",
+      "line": 8
+    }
+  ],
+  "titles.0736fd5b7cc7ab7d": [
+    {
+      "path": "game/titles/items/collector.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/collector.tres",
+      "line": 8
+    }
+  ],
+  "titles.ea4b35e8f83279ea": [
+    {
+      "path": "game/titles/items/complex.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/complex.tres",
+      "line": 8
+    }
+  ],
+  "titles.26c8cca6e668df65": [
+    {
+      "path": "game/titles/items/confident.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/confident.tres",
+      "line": 8
+    }
+  ],
+  "titles.1e5fac867454a4fe": [
+    {
+      "path": "game/titles/items/connections.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/connections.tres",
+      "line": 8
+    }
+  ],
+  "titles.62d7b4a953bddc24": [
+    {
+      "path": "game/titles/items/content_creator.tres",
+      "line": 8
+    }
+  ],
+  "titles.044bdd025b2affcc": [
+    {
+      "path": "game/titles/items/controller_player.tres",
+      "line": 8
+    }
+  ],
+  "titles.c34045c1a1db8d1b": [
+    {
+      "path": "game/titles/items/cool.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/cool.tres",
+      "line": 8
+    }
+  ],
+  "titles.d56991fd6bf1fc4c": [
+    {
+      "path": "game/titles/items/corner_merchant.tres",
+      "line": 8
+    }
+  ],
+  "titles.87bb2c481295712e": [
+    {
+      "path": "game/titles/items/corny.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/corny.tres",
+      "line": 8
+    }
+  ],
+  "titles.ce7eb7547fd3fef6": [
+    {
+      "path": "game/titles/items/cosplay.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/cosplay.tres",
+      "line": 8
+    }
+  ],
+  "titles.9e6308c84f0a25e2": [
+    {
+      "path": "game/titles/items/court_king.tres",
+      "line": 8
+    }
+  ],
+  "titles.2aee789db5620b40": [
+    {
+      "path": "game/titles/items/cozy.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/cozy.tres",
+      "line": 8
+    }
+  ],
+  "titles.68ab84f7c6d0f578": [
+    {
+      "path": "game/titles/items/cpu.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/cpu.tres",
+      "line": 8
+    }
+  ],
+  "titles.389ec5f1112d5e95": [
+    {
+      "path": "game/titles/items/crazy.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/crazy.tres",
+      "line": 8
+    }
+  ],
+  "titles.88447b83090cded5": [
+    {
+      "path": "game/titles/items/creator.tres",
+      "line": 8
+    }
+  ],
+  "titles.80b2b0df83b552cb": [
+    {
+      "path": "game/titles/items/cringe.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/cringe.tres",
+      "line": 8
+    }
+  ],
+  "titles.455eef85e86ebd89": [
+    {
+      "path": "game/titles/items/critter.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/critter.tres",
+      "line": 8
+    }
+  ],
+  "titles.851d49d3087657e9": [
+    {
+      "path": "game/titles/items/crow.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/crow.tres",
+      "line": 8
+    }
+  ],
+  "titles.53422065450f7549": [
+    {
+      "path": "game/titles/items/curse.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/curse.tres",
+      "line": 8
+    }
+  ],
+  "titles.b6849533d3e87360": [
+    {
+      "path": "game/titles/items/cut_merchant.tres",
+      "line": 8
+    }
+  ],
+  "titles.17550e2bb9ff2c26": [
+    {
+      "path": "game/titles/items/cute.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/cute.tres",
+      "line": 8
+    }
+  ],
+  "titles.4c91feb4c123a608": [
+    {
+      "path": "game/titles/items/cutie.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/cutie.tres",
+      "line": 8
+    }
+  ],
+  "titles.33a123e5d474e8f3": [
+    {
+      "path": "game/titles/items/d1.tres",
+      "line": 8
+    }
+  ],
+  "titles.2265f5336d7b6037": [
+    {
+      "path": "game/titles/items/d2.tres",
+      "line": 8
+    }
+  ],
+  "titles.bed7abeac56e560a": [
+    {
+      "path": "game/titles/items/d3.tres",
+      "line": 8
+    }
+  ],
+  "titles.e6bb5689beec52c4": [
+    {
+      "path": "game/titles/items/dark.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/dark.tres",
+      "line": 8
+    }
+  ],
+  "titles.801e04c818aa1a86": [
+    {
+      "path": "game/titles/items/daydreamer.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/daydreamer.tres",
+      "line": 8
+    }
+  ],
+  "titles.709edbfd26a3b2ba": [
+    {
+      "path": "game/titles/items/dayo.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/dayo.tres",
+      "line": 8
+    }
+  ],
+  "titles.28a3a5e81d1e89f0": [
+    {
+      "path": "game/titles/items/dead.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/dead.tres",
+      "line": 8
+    }
+  ],
+  "titles.57eb7c6981b3ca7f": [
+    {
+      "path": "game/titles/items/dead_calm.tres",
+      "line": 8
+    }
+  ],
+  "titles.1b88d14a591efd01": [
+    {
+      "path": "game/titles/items/decoy.tres",
+      "line": 8
+    }
+  ],
+  "titles.9fc0b3de6e512cd5": [
+    {
+      "path": "game/titles/items/defensive_specialist.tres",
+      "line": 8
+    }
+  ],
+  "titles.bf141eb335060ee2": [
+    {
+      "path": "game/titles/items/demon.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/demon.tres",
+      "line": 8
+    }
+  ],
+  "titles.5d3082f6a1fd718c": [
+    {
+      "path": "game/titles/items/desperate.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/desperate.tres",
+      "line": 8
+    }
+  ],
+  "titles.166597eb357f6280": [
+    {
+      "path": "game/titles/items/despicable.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/despicable.tres",
+      "line": 8
+    }
+  ],
+  "titles.b01774366b2bea90": [
+    {
+      "path": "game/titles/items/destiny.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/destiny.tres",
+      "line": 8
+    }
+  ],
+  "titles.5792d2981981be5a": [
+    {
+      "path": "game/titles/items/devin.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/devin.tres",
+      "line": 8
+    }
+  ],
+  "titles.d989f7442d94a141": [
+    {
+      "path": "game/titles/items/devoted.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/devoted.tres",
+      "line": 8
+    }
+  ],
+  "titles.ef55527217f51b27": [
+    {
+      "path": "game/titles/items/dingus.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/dingus.tres",
+      "line": 8
+    }
+  ],
+  "titles.37edf9404d8649f6": [
+    {
+      "path": "game/titles/items/diva.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/diva.tres",
+      "line": 8
+    }
+  ],
+  "titles.3a35cf0a9df67744": [
+    {
+      "path": "game/titles/items/dive_pro.tres",
+      "line": 8
+    }
+  ],
+  "titles.046b79f495da73e1": [
+    {
+      "path": "game/titles/items/diver.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/diver.tres",
+      "line": 8
+    }
+  ],
+  "titles.8647ed424daa9acf": [
+    {
+      "path": "game/titles/items/divine.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/divine.tres",
+      "line": 8
+    }
+  ],
+  "titles.cd6357efdd966de8": [
+    {
+      "path": "game/titles/items/dog.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/dog.tres",
+      "line": 8
+    }
+  ],
+  "titles.532f011ec89ff0e2": [
+    {
+      "path": "game/titles/items/dolphin.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/dolphin.tres",
+      "line": 8
+    }
+  ],
+  "titles.f2ff83860a4dc203": [
+    {
+      "path": "game/titles/items/domain.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/domain.tres",
+      "line": 8
+    }
+  ],
+  "titles.d22f115abd6b44f9": [
+    {
+      "path": "game/titles/items/donkey.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/donkey.tres",
+      "line": 8
+    }
+  ],
+  "titles.26ae61f68ac820ea": [
+    {
+      "path": "game/titles/items/dont_give_up.tres",
+      "line": 8
+    }
+  ],
+  "titles.b8382fa59d4d5d22": [
+    {
+      "path": "game/titles/items/dont_look_down.tres",
+      "line": 8
+    }
+  ],
+  "titles.f0377dcf421bfce0": [
+    {
+      "path": "game/titles/items/dont_mind.tres",
+      "line": 8
+    }
+  ],
+  "titles.2f57d47a3370b437": [
+    {
+      "path": "game/titles/items/dork.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/dork.tres",
+      "line": 8
+    }
+  ],
+  "titles.b7a8a844a613be79": [
+    {
+      "path": "game/titles/items/downloaded.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/downloaded.tres",
+      "line": 8
+    }
+  ],
+  "titles.abde6c0be697637b": [
+    {
+      "path": "game/titles/items/dreamy.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/dreamy.tres",
+      "line": 8
+    }
+  ],
+  "titles.66780f1fb0171bd8": [
+    {
+      "path": "game/titles/items/drip.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/drip.tres",
+      "line": 8
+    }
+  ],
+  "titles.2d2370db2447ff8c": [
+    {
+      "path": "game/titles/items/duck.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/duck.tres",
+      "line": 8
+    }
+  ],
+  "titles.97c10efe01d5c9c8": [
+    {
+      "path": "game/titles/items/easy.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/easy.tres",
+      "line": 8
+    }
+  ],
+  "titles.80b1509ea3764325": [
+    {
+      "path": "game/titles/items/eclipse.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/eclipse.tres",
+      "line": 8
+    }
+  ],
+  "titles.a4f12c3895258d0b": [
+    {
+      "path": "game/titles/items/effort.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/effort.tres",
+      "line": 8
+    }
+  ],
+  "titles.d5c27db0dada3021": [
+    {
+      "path": "game/titles/items/ego.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/ego.tres",
+      "line": 8
+    }
+  ],
+  "titles.1145e987a7767a7a": [
+    {
+      "path": "game/titles/items/egoist.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/egoist.tres",
+      "line": 8
+    }
+  ],
+  "titles.b4c3858f5f1e1231": [
+    {
+      "path": "game/titles/items/elegant.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/elegant.tres",
+      "line": 8
+    }
+  ],
+  "titles.47f0753e5b50e3c7": [
+    {
+      "path": "game/titles/items/embarrassed.tres",
+      "line": 8
+    }
+  ],
+  "titles.5946f7b2be60c7ea": [
+    {
+      "path": "game/titles/items/employed.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/employed.tres",
+      "line": 8
+    }
+  ],
+  "titles.29b54aac9e16810b": [
+    {
+      "path": "game/titles/items/enthusiast.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/enthusiast.tres",
+      "line": 8
+    }
+  ],
+  "titles.2001981d63292fd5": [
+    {
+      "path": "game/titles/items/everyday.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/everyday.tres",
+      "line": 8
+    }
+  ],
+  "titles.a68e2ca0c586a4e2": [
+    {
+      "path": "game/titles/items/everyone.tres",
+      "line": 8
+    }
+  ],
+  "titles.b5c1fb2efc6d6b46": [
+    {
+      "path": "game/titles/items/evil.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/evil.tres",
+      "line": 8
+    }
+  ],
+  "titles.970eaf0d4dc9bec3": [
+    {
+      "path": "game/titles/items/evolution.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/evolution.tres",
+      "line": 8
+    }
+  ],
+  "titles.c7d253870ab8de38": [
+    {
+      "path": "game/titles/items/expert.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/expert.tres",
+      "line": 8
+    }
+  ],
+  "titles.ea7ea1e7bd82684f": [
+    {
+      "path": "game/titles/items/ez.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/ez.tres",
+      "line": 8
+    }
+  ],
+  "titles.b8910e8343c19470": [],
+  "titles.6eecb2d186071350": [
+    {
+      "path": "game/titles/items/face_first.tres",
+      "line": 8
+    }
+  ],
+  "titles.a37b18d408c01df2": [],
+  "titles.4a8d1077e5745b25": [
+    {
+      "path": "game/titles/items/face_receiver.tres",
+      "line": 8
+    }
+  ],
+  "titles.1d66884c7356f762": [],
+  "titles.1869c9d2a11e8ecd": [
+    {
+      "path": "game/titles/items/fair.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/fair.tres",
+      "line": 8
+    }
+  ],
+  "titles.2b93b177b55445f5": [
+    {
+      "path": "game/titles/items/faith.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/faith.tres",
+      "line": 8
+    }
+  ],
+  "titles.f0acbdf2dbd1cf5f": [
+    {
+      "path": "game/titles/items/fanatic.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/fanatic.tres",
+      "line": 8
+    }
+  ],
+  "titles.8283b81e64a0f77f": [
+    {
+      "path": "game/titles/items/fanboy.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/fanboy.tres",
+      "line": 8
+    }
+  ],
+  "titles.027bd25186fb2a6b": [
+    {
+      "path": "game/titles/items/fangirl.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/fangirl.tres",
+      "line": 8
+    }
+  ],
+  "titles.774a13da8cfe4771": [
+    {
+      "path": "game/titles/items/fate.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/fate.tres",
+      "line": 8
+    }
+  ],
+  "titles.23b6a8f399dd913a": [
+    {
+      "path": "game/titles/items/fight.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/fight.tres",
+      "line": 8
+    }
+  ],
+  "titles.794abe4382b23610": [
+    {
+      "path": "game/titles/items/fighter.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/fighter.tres",
+      "line": 8
+    }
+  ],
+  "titles.0a349a19bf0bd0b3": [
+    {
+      "path": "game/titles/items/finally_here.tres",
+      "line": 8
+    }
+  ],
+  "titles.dc9f28b12dd1818e": [
+    {
+      "path": "game/titles/items/fire.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/fire.tres",
+      "line": 8
+    }
+  ],
+  "titles.bebe4a486d815c6d": [
+    {
+      "path": "game/titles/items/floor_inspector.tres",
+      "line": 8
+    }
+  ],
+  "titles.95d9daee3b0998ef": [
+    {
+      "path": "game/titles/items/fluffy.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/fluffy.tres",
+      "line": 8
+    }
+  ],
+  "titles.31bbe05d43158cd2": [
+    {
+      "path": "game/titles/items/fly.tres",
+      "line": 8
+    }
+  ],
+  "titles.0c477048b549241a": [
+    {
+      "path": "game/titles/items/fly_high.tres",
+      "line": 8
+    }
+  ],
+  "titles.48ffcddb8b19a5f9": [
+    {
+      "path": "game/titles/items/fomo.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/fomo.tres",
+      "line": 8
+    }
+  ],
+  "titles.6382deaf1f5dc6e7": [
+    {
+      "path": "game/titles/items/football.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/football.tres",
+      "line": 8
+    }
+  ],
+  "titles.f3ad69db5c459f6d": [
+    {
+      "path": "game/titles/items/four_eyes.tres",
+      "line": 8
+    }
+  ],
+  "titles.7653097b0a56851e": [
+    {
+      "path": "game/titles/items/freak.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/freak.tres",
+      "line": 8
+    }
+  ],
+  "titles.7330059355c00520": [
+    {
+      "path": "game/titles/items/free_time.tres",
+      "line": 8
+    }
+  ],
+  "titles.c59885fd6110b3b1": [
+    {
+      "path": "game/titles/items/free_to_play.tres",
+      "line": 8
+    }
+  ],
+  "titles.13b1f7ec5beaefc7": [
+    {
+      "path": "game/titles/items/freedom.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/freedom.tres",
+      "line": 8
+    }
+  ],
+  "titles.12dd9774cc96e18b": [
+    {
+      "path": "game/titles/items/freeze.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/freeze.tres",
+      "line": 8
+    }
+  ],
+  "titles.cde48537ca2c2808": [
+    {
+      "path": "game/titles/items/friend.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/friend.tres",
+      "line": 8
+    }
+  ],
+  "titles.a1fce31d9b8cd02f": [
+    {
+      "path": "game/titles/items/fries.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/fries.tres",
+      "line": 8
+    }
+  ],
+  "titles.448fd7a31da95216": [
+    {
+      "path": "game/titles/items/from_the_concrete.tres",
+      "line": 8
+    }
+  ],
+  "titles.0ca6e2a2166f99f1": [
+    {
+      "path": "game/titles/items/frutiger_aero.tres",
+      "line": 8
+    }
+  ],
+  "titles.4a9931c0237e3337": [
+    {
+      "path": "game/titles/items/full_auto.tres",
+      "line": 8
+    }
+  ],
+  "titles.a36c33df272ad9dd": [
+    {
+      "path": "game/titles/items/full_metal.tres",
+      "line": 8
+    }
+  ],
+  "titles.0a382aeb4ef64db8": [
+    {
+      "path": "game/titles/items/full_power.tres",
+      "line": 8
+    }
+  ],
+  "titles.1cb75d863647ec67": [
+    {
+      "path": "game/titles/items/full_tilt.tres",
+      "line": 8
+    }
+  ],
+  "titles.b22d1d8fe5752533": [
+    {
+      "path": "game/titles/items/funny.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/funny.tres",
+      "line": 8
+    }
+  ],
+  "titles.f00ae8a95cb4abf3": [
+    {
+      "path": "game/titles/items/fuwa_fuwa.tres",
+      "line": 8
+    }
+  ],
+  "titles.082ff4e134bb9246": [
+    {
+      "path": "game/titles/items/game_over.tres",
+      "line": 8
+    }
+  ],
+  "titles.ab6b786aa204199a": [
+    {
+      "path": "game/titles/items/gamer.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/gamer.tres",
+      "line": 8
+    }
+  ],
+  "titles.4e6ed26be7ced27e": [
+    {
+      "path": "game/titles/items/gamer_dad.tres",
+      "line": 8
+    }
+  ],
+  "titles.7c191abf9adfc38f": [
+    {
+      "path": "game/titles/items/gamer_mom.tres",
+      "line": 8
+    }
+  ],
+  "titles.54d5dbf0124e59af": [
+    {
+      "path": "game/titles/items/gap.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/gap.tres",
+      "line": 8
+    }
+  ],
+  "titles.2fe840e13244a9d7": [
+    {
+      "path": "game/titles/items/gas.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/gas.tres",
+      "line": 8
+    }
+  ],
+  "titles.c5157fbeeb512a4d": [
+    {
+      "path": "game/titles/items/geek.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/geek.tres",
+      "line": 8
+    }
+  ],
+  "titles.9ed142d60c4571b6": [
+    {
+      "path": "game/titles/items/genius.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/genius.tres",
+      "line": 8
+    }
+  ],
+  "titles.091733562b1dae38": [
+    {
+      "path": "game/titles/items/genki.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/genki.tres",
+      "line": 8
+    }
+  ],
+  "titles.37646d15578cee27": [
+    {
+      "path": "game/titles/items/getting_better.tres",
+      "line": 8
+    }
+  ],
+  "titles.bee30e5b6d59c1bd": [
+    {
+      "path": "game/titles/items/gg.tres",
+      "line": 8
+    }
+  ],
+  "titles.dbdc7bf49b228217": [
+    {
+      "path": "game/titles/items/gifted.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/gifted.tres",
+      "line": 8
+    }
+  ],
+  "titles.01bddddee014bf4b": [
+    {
+      "path": "game/titles/items/gimmick.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/gimmick.tres",
+      "line": 8
+    }
+  ],
+  "titles.92bcd48480eb4640": [
+    {
+      "path": "game/titles/items/glorp.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/glorp.tres",
+      "line": 8
+    }
+  ],
+  "titles.a03c7136c06aba03": [
+    {
+      "path": "game/titles/items/go_next.tres",
+      "line": 8
+    }
+  ],
+  "titles.5480f08f35968440": [
+    {
+      "path": "game/titles/items/goat.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/goat.tres",
+      "line": 8
+    }
+  ],
+  "titles.c629695bba3cbb3a": [
+    {
+      "path": "game/titles/items/godot.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/godot.tres",
+      "line": 8
+    }
+  ],
+  "titles.f36b8e41e48be33a": [
+    {
+      "path": "game/titles/items/godspeed.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/godspeed.tres",
+      "line": 8
+    }
+  ],
+  "titles.006b919be2cd00d4": [
+    {
+      "path": "game/titles/items/gomen.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/gomen.tres",
+      "line": 8
+    }
+  ],
+  "titles.f8ab3a1aa02abba9": [
+    {
+      "path": "game/titles/items/goody_two_shoes.tres",
+      "line": 8
+    }
+  ],
+  "titles.7aa203f4642ac260": [
+    {
+      "path": "game/titles/items/goofball.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/goofball.tres",
+      "line": 8
+    }
+  ],
+  "titles.32d88265324261e8": [
+    {
+      "path": "game/titles/items/goofy.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/goofy.tres",
+      "line": 8
+    }
+  ],
+  "titles.e9854402391d0c0c": [
+    {
+      "path": "game/titles/items/greatest_decoy.tres",
+      "line": 8
+    }
+  ],
+  "titles.3026fac023c67598": [
+    {
+      "path": "game/titles/items/grind.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/grind.tres",
+      "line": 8
+    }
+  ],
+  "titles.3dd2ac29f928f639": [
+    {
+      "path": "game/titles/items/guardian_deity.tres",
+      "line": 8
+    }
+  ],
+  "titles.f57442b2c7e082df": [
+    {
+      "path": "game/titles/items/guess_monster.tres",
+      "line": 8
+    }
+  ],
+  "titles.2e8bc4c0819a63be": [
+    {
+      "path": "game/titles/items/gym_rat.tres",
+      "line": 8
+    }
+  ],
+  "titles.09aee23b1fd4f638": [
+    {
+      "path": "game/titles/items/habit.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/habit.tres",
+      "line": 8
+    }
+  ],
+  "titles.a4e63bcacf6c172a": [
+    {
+      "path": "game/titles/items/halo.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/halo.tres",
+      "line": 8
+    }
+  ],
+  "titles.7b9aa5b29cb57031": [
+    {
+      "path": "game/titles/items/hammer_time.tres",
+      "line": 8
+    }
+  ],
+  "titles.489f719cadf91909": [
+    {
+      "path": "game/titles/items/happy.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/happy.tres",
+      "line": 8
+    }
+  ],
+  "titles.3cb968a982080be1": [
+    {
+      "path": "game/titles/items/heart.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/heart.tres",
+      "line": 8
+    }
+  ],
+  "titles.4a0987179ff6982e": [
+    {
+      "path": "game/titles/items/heartless.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/heartless.tres",
+      "line": 8
+    }
+  ],
+  "titles.c73d01c77e315c48": [
+    {
+      "path": "game/titles/items/heavy_hitter.tres",
+      "line": 8
+    }
+  ],
+  "titles.3568edca25022faa": [
+    {
+      "path": "game/titles/items/heist.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/heist.tres",
+      "line": 8
+    }
+  ],
+  "titles.354cbfc814262a7a": [
+    {
+      "path": "game/titles/items/her.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/her.tres",
+      "line": 8
+    }
+  ],
+  "titles.ae6c79d10f1fd410": [
+    {
+      "path": "game/titles/items/hero.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/hero.tres",
+      "line": 8
+    }
+  ],
+  "titles.cd9c8c64e04de352": [
+    {
+      "path": "game/titles/items/hey_hey_hey.tres",
+      "line": 8
+    }
+  ],
+  "titles.2111257f0395941e": [
+    {
+      "path": "game/titles/items/hey_lol.tres",
+      "line": 8
+    }
+  ],
+  "titles.8f434346648f6b96": [
+    {
+      "path": "game/titles/items/hi.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/hi.tres",
+      "line": 8
+    }
+  ],
+  "titles.3ec5ccc45bb0cbce": [
+    {
+      "path": "game/titles/items/hiatus.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/hiatus.tres",
+      "line": 8
+    }
+  ],
+  "titles.66fb5a9513d14072": [
+    {
+      "path": "game/titles/items/hikikomori.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/hikikomori.tres",
+      "line": 8
+    }
+  ],
+  "titles.5a7cf4ac138054a8": [
+    {
+      "path": "game/titles/items/him.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/him.tres",
+      "line": 8
+    }
+  ],
+  "titles.8bd2411d19dce555": [
+    {
+      "path": "game/titles/items/hobbyist.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/hobbyist.tres",
+      "line": 8
+    }
+  ],
+  "titles.c29277f55fb31aeb": [
+    {
+      "path": "game/titles/items/hope.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/hope.tres",
+      "line": 8
+    }
+  ],
+  "titles.37cf5259e3c628bf": [
+    {
+      "path": "game/titles/items/hunger.tres",
+      "line": 8
+    }
+  ],
+  "titles.e9a63a4eb15738ae": [
+    {
+      "path": "game/titles/items/hunter.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/hunter.tres",
+      "line": 8
+    }
+  ],
+  "titles.a1273e0f0d8f28cd": [
+    {
+      "path": "game/titles/items/hydrated.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/hydrated.tres",
+      "line": 8
+    }
+  ],
+  "titles.6b29a986309021ea": [
+    {
+      "path": "game/titles/items/hype.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/hype.tres",
+      "line": 8
+    }
+  ],
+  "titles.91e235e3f8168853": [
+    {
+      "path": "game/titles/items/hyper.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/hyper.tres",
+      "line": 8
+    }
+  ],
+  "titles.0a0a6da415dcbd4a": [
+    {
+      "path": "game/titles/items/ifykyk.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/ifykyk.tres",
+      "line": 8
+    }
+  ],
+  "titles.a7972ccad5f5ccd7": [
+    {
+      "path": "game/titles/items/im_better.tres",
+      "line": 8
+    }
+  ],
+  "titles.ae5af92bb86775c3": [
+    {
+      "path": "game/titles/items/im_here.tres",
+      "line": 8
+    }
+  ],
+  "titles.556f9cb498932264": [
+    {
+      "path": "game/titles/items/immortal.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/immortal.tres",
+      "line": 8
+    }
+  ],
+  "titles.aa77a43d7dc3b141": [
+    {
+      "path": "game/titles/items/impostor.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/impostor.tres",
+      "line": 8
+    }
+  ],
+  "titles.d79987051a2552ac": [
+    {
+      "path": "game/titles/items/infinity.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/infinity.tres",
+      "line": 8
+    }
+  ],
+  "titles.8ea748b09b117e6c": [
+    {
+      "path": "game/titles/items/insane.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/insane.tres",
+      "line": 8
+    }
+  ],
+  "titles.8a2edb4736f8dacf": [
+    {
+      "path": "game/titles/items/inspirational.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/inspirational.tres",
+      "line": 8
+    }
+  ],
+  "titles.a48311356850e779": [
+    {
+      "path": "game/titles/items/iron_wall.tres",
+      "line": 8
+    }
+  ],
+  "titles.93ff074ca77b5f7e": [
+    {
+      "path": "game/titles/items/italy.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/italy.tres",
+      "line": 8
+    }
+  ],
+  "titles.7fd3d2886b4800dd": [
+    {
+      "path": "game/titles/items/its_just_volleyball.tres",
+      "line": 8
+    }
+  ],
+  "titles.b08095aab0c810aa": [
+    {
+      "path": "game/titles/items/its_time.tres",
+      "line": 8
+    }
+  ],
+  "titles.4244c48f3fde6dbf": [
+    {
+      "path": "game/titles/items/jack_of_all.tres",
+      "line": 8
+    }
+  ],
+  "titles.59ae856cd788d0f5": [
+    {
+      "path": "game/titles/items/japan.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/japan.tres",
+      "line": 8
+    }
+  ],
+  "titles.6f33ba945891c836": [
+    {
+      "path": "game/titles/items/john_volleyball.tres",
+      "line": 8
+    }
+  ],
+  "titles.cf71981520552b45": [
+    {
+      "path": "game/titles/items/jokester.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/jokester.tres",
+      "line": 8
+    }
+  ],
+  "titles.b113405b6f9114b2": [
+    {
+      "path": "game/titles/items/joy.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/joy.tres",
+      "line": 8
+    }
+  ],
+  "titles.8fdd880f097cddfe": [
+    {
+      "path": "game/titles/items/junior.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/junior.tres",
+      "line": 8
+    }
+  ],
+  "titles.46a11f1333d6b207": [
+    {
+      "path": "game/titles/items/junkie.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/junkie.tres",
+      "line": 8
+    }
+  ],
+  "titles.ab002186261953fa": [
+    {
+      "path": "game/titles/items/just_a_boy.tres",
+      "line": 8
+    }
+  ],
+  "titles.659a3939c044dc4f": [
+    {
+      "path": "game/titles/items/just_a_club.tres",
+      "line": 8
+    }
+  ],
+  "titles.68e34291711ee9ec": [
+    {
+      "path": "game/titles/items/just_a_girl.tres",
+      "line": 8
+    }
+  ],
+  "titles.bd76440de5b721ea": [
+    {
+      "path": "game/titles/items/just_for_fun.tres",
+      "line": 8
+    }
+  ],
+  "titles.7c7cad47ea5d1ded": [
+    {
+      "path": "game/titles/items/kansai.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/kansai.tres",
+      "line": 8
+    }
+  ],
+  "titles.532593111807cdf8": [
+    {
+      "path": "game/titles/items/kawaii.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/kawaii.tres",
+      "line": 8
+    }
+  ],
+  "titles.2a8d4b1fbd84488c": [
+    {
+      "path": "game/titles/items/kbm.tres",
+      "line": 8
+    }
+  ],
+  "titles.67731ff58137eb39": [
+    {
+      "path": "game/titles/items/kitty.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/kitty.tres",
+      "line": 8
+    }
+  ],
+  "titles.75e2fcb7ec90453d": [
+    {
+      "path": "game/titles/items/kokusen.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/kokusen.tres",
+      "line": 8
+    }
+  ],
+  "titles.495ba379cca4d920": [
+    {
+      "path": "game/titles/items/kun.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/kun.tres",
+      "line": 8
+    }
+  ],
+  "titles.fdd97dcd47b2cabd": [
+    {
+      "path": "game/titles/items/l_mans.tres",
+      "line": 8
+    }
+  ],
+  "titles.da8e7d4da78a3374": [
+    {
+      "path": "game/titles/items/larp.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/larp.tres",
+      "line": 8
+    }
+  ],
+  "titles.de6d09e690368a1c": [
+    {
+      "path": "game/titles/items/last_boss.tres",
+      "line": 8
+    }
+  ],
+  "titles.81fd67d02f679b81": [
+    {
+      "path": "game/titles/items/lazy.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/lazy.tres",
+      "line": 8
+    }
+  ],
+  "titles.4d5b660943625c0a": [
+    {
+      "path": "game/titles/items/leader.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/leader.tres",
+      "line": 8
+    }
+  ],
+  "titles.a76f47a688f22080": [
+    {
+      "path": "game/titles/items/leap.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/leap.tres",
+      "line": 8
+    }
+  ],
+  "titles.b6087a040fa0ee82": [
+    {
+      "path": "game/titles/items/leap_of_faith.tres",
+      "line": 8
+    }
+  ],
+  "titles.6e67d8195527e5d6": [
+    {
+      "path": "game/titles/items/leg_day.tres",
+      "line": 8
+    }
+  ],
+  "titles.ba29297b6c4f8486": [
+    {
+      "path": "game/titles/items/legend.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/legend.tres",
+      "line": 8
+    }
+  ],
+  "titles.30e9190d7fdfc50d": [
+    {
+      "path": "game/titles/items/liar.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/liar.tres",
+      "line": 8
+    }
+  ],
+  "titles.59508e50faa1620d": [
+    {
+      "path": "game/titles/items/libero.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/libero.tres",
+      "line": 8
+    }
+  ],
+  "titles.4b9743e642cbadff": [
+    {
+      "path": "game/titles/items/libero_man.tres",
+      "line": 8
+    }
+  ],
+  "titles.7d138dcdc6fe50c6": [
+    {
+      "path": "game/titles/items/life_line.tres",
+      "line": 8
+    }
+  ],
+  "titles.7a5bc470ec0d730c": [
+    {
+      "path": "game/titles/items/life_or_death.tres",
+      "line": 8
+    }
+  ],
+  "titles.99a7026172d42714": [
+    {
+      "path": "game/titles/items/light.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/light.tres",
+      "line": 8
+    }
+  ],
+  "titles.55ea09e5715d0a8d": [
+    {
+      "path": "game/titles/items/limit.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/limit.tres",
+      "line": 8
+    }
+  ],
+  "titles.13246046bb286689": [
+    {
+      "path": "game/titles/items/limitless.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/limitless.tres",
+      "line": 8
+    }
+  ],
+  "titles.fc59487712bbe89b": [
+    {
+      "path": "game/titles/items/lion.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/lion.tres",
+      "line": 8
+    }
+  ],
+  "titles.efbd771feb3df767": [
+    {
+      "path": "game/titles/items/little_giant.tres",
+      "line": 8
+    }
+  ],
+  "titles.90bffe1884b84d5e": [
+    {
+      "path": "game/titles/items/lmao.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/lmao.tres",
+      "line": 8
+    }
+  ],
+  "titles.fc0f1f3dceb3fb35": [
+    {
+      "path": "game/titles/items/locked_in.tres",
+      "line": 8
+    }
+  ],
+  "titles.0cc5f0e9fff3c006": [
+    {
+      "path": "game/titles/items/looking_up.tres",
+      "line": 8
+    }
+  ],
+  "titles.cc8a30ea6faccd1b": [
+    {
+      "path": "game/titles/items/loser.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/loser.tres",
+      "line": 8
+    }
+  ],
+  "titles.686f746a95b6f836": [
+    {
+      "path": "game/titles/items/love.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/love.tres",
+      "line": 8
+    }
+  ],
+  "titles.db9fbddbd7caeff7": [
+    {
+      "path": "game/titles/items/lucky.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/lucky.tres",
+      "line": 8
+    }
+  ],
+  "titles.eca968465a407b46": [
+    {
+      "path": "game/titles/items/m2_spam.tres",
+      "line": 8
+    }
+  ],
+  "titles.bc020a35b7f9cb13": [
+    {
+      "path": "game/titles/items/machine.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/machine.tres",
+      "line": 8
+    }
+  ],
+  "titles.079cdc52e64462df": [
+    {
+      "path": "game/titles/items/mad.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/mad.tres",
+      "line": 8
+    }
+  ],
+  "titles.97a2a4ee69af4771": [
+    {
+      "path": "game/titles/items/mad_dog.tres",
+      "line": 8
+    }
+  ],
+  "titles.1642c1186f00eb28": [
+    {
+      "path": "game/titles/items/madness.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/madness.tres",
+      "line": 8
+    }
+  ],
+  "titles.6661473579cc99d9": [
+    {
+      "path": "game/titles/items/mage.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/mage.tres",
+      "line": 8
+    }
+  ],
+  "titles.3b3f77bf2992dd83": [
+    {
+      "path": "game/titles/items/manipulator.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/manipulator.tres",
+      "line": 8
+    }
+  ],
+  "titles.6d205806e19dba53": [
+    {
+      "path": "game/titles/items/marathon.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/marathon.tres",
+      "line": 8
+    }
+  ],
+  "titles.75c374cb4cf3cb2d": [
+    {
+      "path": "game/titles/items/memories.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/memories.tres",
+      "line": 8
+    }
+  ],
+  "titles.29f02fa6bd9a4500": [
+    {
+      "path": "game/titles/items/menace.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/menace.tres",
+      "line": 8
+    }
+  ],
+  "titles.888df6d1572d02bc": [
+    {
+      "path": "game/titles/items/mental.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/mental.tres",
+      "line": 8
+    }
+  ],
+  "titles.404cdd7bc109c432": [
+    {
+      "path": "game/titles/items/meow.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/meow.tres",
+      "line": 8
+    }
+  ],
+  "titles.90ac16783fbc54c3": [
+    {
+      "path": "game/titles/items/mid.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/mid.tres",
+      "line": 8
+    }
+  ],
+  "titles.9ce8878f5f1483c7": [
+    {
+      "path": "game/titles/items/middle_blocker.tres",
+      "line": 8
+    }
+  ],
+  "titles.3fd30542fe3f61b1": [
+    {
+      "path": "game/titles/items/mine.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/mine.tres",
+      "line": 8
+    }
+  ],
+  "titles.bbebec50e47b8dc6": [
+    {
+      "path": "game/titles/items/minion.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/minion.tres",
+      "line": 8
+    }
+  ],
+  "titles.6021c5efdb4983df": [
+    {
+      "path": "game/titles/items/minus_tempo.tres",
+      "line": 8
+    }
+  ],
+  "titles.dfd9fb41f557e277": [
+    {
+      "path": "game/titles/items/mo_ippon.tres",
+      "line": 8
+    }
+  ],
+  "titles.d524c1a0811da495": [
+    {
+      "path": "game/titles/items/mobile.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/mobile.tres",
+      "line": 8
+    }
+  ],
+  "titles.64460b279591d01c": [
+    {
+      "path": "game/titles/items/mobile_player.tres",
+      "line": 8
+    }
+  ],
+  "titles.4b6f50ec6e062979": [
+    {
+      "path": "game/titles/items/moe.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/moe.tres",
+      "line": 8
+    }
+  ],
+  "titles.bcb9dae6ea88dbf2": [
+    {
+      "path": "game/titles/items/mom.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/mom.tres",
+      "line": 8
+    }
+  ],
+  "titles.4618bb22ed6b25f3": [
+    {
+      "path": "game/titles/items/money_spread.tres",
+      "line": 8
+    }
+  ],
+  "titles.b3253887b19cdcde": [
+    {
+      "path": "game/titles/items/moot.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/moot.tres",
+      "line": 8
+    }
+  ],
+  "titles.305238273bb0fac2": [
+    {
+      "path": "game/titles/items/motion.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/motion.tres",
+      "line": 8
+    }
+  ],
+  "titles.3565abdfccca37ae": [
+    {
+      "path": "game/titles/items/motion_controls.tres",
+      "line": 8
+    }
+  ],
+  "titles.2ca1546b47fe3198": [
+    {
+      "path": "game/titles/items/mr_average.tres",
+      "line": 8
+    }
+  ],
+  "titles.af07ff91ab7ce2a7": [
+    {
+      "path": "game/titles/items/mud.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/mud.tres",
+      "line": 8
+    }
+  ],
+  "titles.4c5af973f604c186": [
+    {
+      "path": "game/titles/items/musician.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/musician.tres",
+      "line": 8
+    }
+  ],
+  "titles.03e8fd2974801a8f": [
+    {
+      "path": "game/titles/items/my_story.tres",
+      "line": 8
+    }
+  ],
+  "titles.7eb2b87ace92e28a": [
+    {
+      "path": "game/titles/items/my_time.tres",
+      "line": 8
+    }
+  ],
+  "titles.76561d0c4c0c19eb": [
+    {
+      "path": "game/titles/items/nah_id_win.tres",
+      "line": 8
+    }
+  ],
+  "titles.2f9cbd50714016b3": [
+    {
+      "path": "game/titles/items/neck_and_neck.tres",
+      "line": 8
+    }
+  ],
+  "titles.5c3fa1371e6b50c8": [
+    {
+      "path": "game/titles/items/neet.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/neet.tres",
+      "line": 8
+    }
+  ],
+  "titles.016526330aaf2505": [
+    {
+      "path": "game/titles/items/neko.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/neko.tres",
+      "line": 8
+    }
+  ],
+  "titles.5cabaa953bd37c3e": [
+    {
+      "path": "game/titles/items/nerd.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/nerd.tres",
+      "line": 8
+    }
+  ],
+  "titles.bd0276a2ffb1750f": [
+    {
+      "path": "game/titles/items/net_magnet.tres",
+      "line": 8
+    }
+  ],
+  "titles.94baf1f6967ed1f2": [
+    {
+      "path": "game/titles/items/never_give_up.tres",
+      "line": 8
+    }
+  ],
+  "titles.7f401c70df462420": [
+    {
+      "path": "game/titles/items/new_frontier.tres",
+      "line": 8
+    }
+  ],
+  "titles.1df56d363f4fdae3": [
+    {
+      "path": "game/titles/items/new_king.tres",
+      "line": 8
+    }
+  ],
+  "titles.e1225b1e73d7552f": [
+    {
+      "path": "game/titles/items/nice_receive.tres",
+      "line": 8
+    }
+  ],
+  "titles.2a8754b6ff1a9a93": [
+    {
+      "path": "game/titles/items/nice_serve.tres",
+      "line": 8
+    }
+  ],
+  "titles.54482595177116e6": [
+    {
+      "path": "game/titles/items/ninja.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/ninja.tres",
+      "line": 8
+    }
+  ],
+  "titles.6382b3cc881412b7": [
+    {
+      "path": "game/titles/items/nobody.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/nobody.tres",
+      "line": 8
+    }
+  ],
+  "titles.a8c30c07cad106ee": [
+    {
+      "path": "game/titles/items/noob.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/noob.tres",
+      "line": 8
+    }
+  ],
+  "titles.23f10338f151cfcd": [
+    {
+      "path": "game/titles/items/nostalgic.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/nostalgic.tres",
+      "line": 8
+    }
+  ],
+  "titles.8026af8f0ab6eb52": [
+    {
+      "path": "game/titles/items/not_alone.tres",
+      "line": 8
+    }
+  ],
+  "titles.87e31e75d0229aea": [
+    {
+      "path": "game/titles/items/npc.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/npc.tres",
+      "line": 8
+    }
+  ],
+  "titles.0b0fa0b2280a0963": [],
+  "titles.85b566fb730e4afa": [],
+  "titles.b6b52c0e41dd6e18": [],
+  "titles.ea46599a238699be": [],
+  "titles.7e3cfd9c828a7567": [],
+  "titles.7aff87c72ca0f13d": [],
+  "titles.745443363406ec55": [],
+  "titles.d5ce3ebfc396d41d": [],
+  "titles.3d9b93fa6d6f3453": [],
+  "titles.fd1c2012f22148c1": [],
+  "titles.bc2185353f8c130a": [
+    {
+      "path": "game/titles/items/one_crazy_idea.tres",
+      "line": 8
+    }
+  ],
+  "titles.c1f643b34c0740a6": [
+    {
+      "path": "game/titles/items/one_for_all.tres",
+      "line": 8
+    }
+  ],
+  "titles.221ac3d13010ede9": [
+    {
+      "path": "game/titles/items/one_man_army.tres",
+      "line": 8
+    }
+  ],
+  "titles.58094382d8457966": [
+    {
+      "path": "game/titles/items/one_more.tres",
+      "line": 8
+    }
+  ],
+  "titles.8d4bcad6e14945aa": [
+    {
+      "path": "game/titles/items/one_more_point.tres",
+      "line": 8
+    }
+  ],
+  "titles.d2ea3eeb1100cd0d": [
+    {
+      "path": "game/titles/items/oomf.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/oomf.tres",
+      "line": 8
+    }
+  ],
+  "titles.d13f2eadd4ed5b02": [
+    {
+      "path": "game/titles/items/oops.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/oops.tres",
+      "line": 8
+    }
+  ],
+  "titles.0d364a26ad8e1218": [
+    {
+      "path": "game/titles/items/open.tres",
+      "line": 8
+    }
+  ],
+  "titles.3998b2e45d9a7a26": [
+    {
+      "path": "game/titles/items/opposite_hitter.tres",
+      "line": 8
+    }
+  ],
+  "titles.b4dfc7a1d0a029d0": [
+    {
+      "path": "game/titles/items/out_of_steam.tres",
+      "line": 8
+    }
+  ],
+  "titles.c4238e4662afeff7": [
+    {
+      "path": "game/titles/items/outdoors_volleyball.tres",
+      "line": 8
+    }
+  ],
+  "titles.ccfe9fd27aff8792": [
+    {
+      "path": "game/titles/items/outside_hitter.tres",
+      "line": 8
+    }
+  ],
+  "titles.07a4fd7003cb1e6d": [
+    {
+      "path": "game/titles/items/overrated.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/overrated.tres",
+      "line": 8
+    }
+  ],
+  "titles.fa7676d168155674": [
+    {
+      "path": "game/titles/items/overthinker.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/overthinker.tres",
+      "line": 8
+    }
+  ],
+  "titles.80cbfa93bf91cf77": [
+    {
+      "path": "game/titles/items/owari_da.tres",
+      "line": 8
+    }
+  ],
+  "titles.43cae2eafda4d7a9": [
+    {
+      "path": "game/titles/items/owo.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/owo.tres",
+      "line": 8
+    }
+  ],
+  "titles.4b50a792cdf529c3": [
+    {
+      "path": "game/titles/items/panic_diver.tres",
+      "line": 8
+    }
+  ],
+  "titles.1776e45bf96c145a": [
+    {
+      "path": "game/titles/items/pathetic.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/pathetic.tres",
+      "line": 8
+    }
+  ],
+  "titles.2295ff7a8bd8b3f2": [
+    {
+      "path": "game/titles/items/patient.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/patient.tres",
+      "line": 8
+    }
+  ],
+  "titles.66e9f9f374476012": [
+    {
+      "path": "game/titles/items/peachy.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/peachy.tres",
+      "line": 8
+    }
+  ],
+  "titles.9ee9e606474e3228": [
+    {
+      "path": "game/titles/items/peak.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/peak.tres",
+      "line": 8
+    }
+  ],
+  "titles.1df36e7d30c514fe": [
+    {
+      "path": "game/titles/items/pick_yourself_up.tres",
+      "line": 8
+    }
+  ],
+  "titles.2ee3e3b6b3414618": [
+    {
+      "path": "game/titles/items/pieces_of_powder.tres",
+      "line": 8
+    }
+  ],
+  "titles.c46a7fa2d8f58cd1": [
+    {
+      "path": "game/titles/items/pinch_server.tres",
+      "line": 8
+    }
+  ],
+  "titles.6ec9c2b0eb140107": [
+    {
+      "path": "game/titles/items/pixels.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/pixels.tres",
+      "line": 8
+    }
+  ],
+  "titles.fb6f7c93e6bf3dfa": [
+    {
+      "path": "game/titles/items/planned.tres",
+      "line": 8
+    }
+  ],
+  "titles.6cdd51d6a2bb6ec2": [
+    {
+      "path": "game/titles/items/platinum_goofy.tres",
+      "line": 8
+    }
+  ],
+  "titles.0b44a0643e5977e0": [
+    {
+      "path": "game/titles/items/play_to_win.tres",
+      "line": 8
+    }
+  ],
+  "titles.ce933ac8a92b1976": [
+    {
+      "path": "game/titles/items/playmaker.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/playmaker.tres",
+      "line": 8
+    }
+  ],
+  "titles.50f59d43eca90d99": [
+    {
+      "path": "game/titles/items/plotting.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/plotting.tres",
+      "line": 8
+    }
+  ],
+  "titles.9cbbdd6cbd5335f5": [
+    {
+      "path": "game/titles/items/poland.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/poland.tres",
+      "line": 8
+    }
+  ],
+  "titles.835e71a45acf8567": [
+    {
+      "path": "game/titles/items/polished_instinct.tres",
+      "line": 8
+    }
+  ],
+  "titles.101f89cd568b7c70": [
+    {
+      "path": "game/titles/items/potential_man.tres",
+      "line": 8
+    }
+  ],
+  "titles.b5d65f0ae389b602": [
+    {
+      "path": "game/titles/items/precision.tres",
+      "line": 8
+    }
+  ],
+  "titles.b0f4b2e7996a5f4f": [
+    {
+      "path": "game/titles/items/prepared.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/prepared.tres",
+      "line": 8
+    }
+  ],
+  "titles.77049f6f8893dd97": [
+    {
+      "path": "game/titles/items/pretty.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/pretty.tres",
+      "line": 8
+    }
+  ],
+  "titles.eca1dfda3321f728": [
+    {
+      "path": "game/titles/items/prodigy.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/prodigy.tres",
+      "line": 8
+    }
+  ],
+  "titles.cd340d1a5c4151de": [
+    {
+      "path": "game/titles/items/professional.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/professional.tres",
+      "line": 8
+    }
+  ],
+  "titles.3513d9452af7c176": [
+    {
+      "path": "game/titles/items/promise.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/promise.tres",
+      "line": 8
+    }
+  ],
+  "titles.278b46df0ed765f0": [
+    {
+      "path": "game/titles/items/protagonist.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/protagonist.tres",
+      "line": 8
+    }
+  ],
+  "titles.6588ef4db6a357d6": [
+    {
+      "path": "game/titles/items/puppy.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/puppy.tres",
+      "line": 8
+    }
+  ],
+  "titles.b8ba2ec7e90713c1": [
+    {
+      "path": "game/titles/items/pure.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/pure.tres",
+      "line": 8
+    }
+  ],
+  "titles.1933ecbf12b027c6": [
+    {
+      "path": "game/titles/items/queen_of_the_court.tres",
+      "line": 8
+    }
+  ],
+  "titles.1ca490da37827a98": [
+    {
+      "path": "game/titles/items/quick_attack.tres",
+      "line": 8
+    }
+  ],
+  "titles.8e79664b48a2d67c": [
+    {
+      "path": "game/titles/items/quick_merchant.tres",
+      "line": 8
+    }
+  ],
+  "titles.2b098bc313799f2b": [
+    {
+      "path": "game/titles/items/quickster.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/quickster.tres",
+      "line": 8
+    }
+  ],
+  "titles.e59389d9c8173527": [
+    {
+      "path": "game/titles/items/rage.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/rage.tres",
+      "line": 8
+    }
+  ],
+  "titles.afd5c5ae5738e275": [
+    {
+      "path": "game/titles/items/rally.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/rally.tres",
+      "line": 8
+    }
+  ],
+  "titles.a441b15fe9a3cf56": [
+    {
+      "path": "game/titles/items/random.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/random.tres",
+      "line": 8
+    }
+  ],
+  "titles.3a7aba3fbbd99fe9": [
+    {
+      "path": "game/titles/items/ranked_all_star.tres",
+      "line": 8
+    }
+  ],
+  "titles.8dd9ed10798ded82": [
+    {
+      "path": "game/titles/items/ranked_amateur.tres",
+      "line": 8
+    }
+  ],
+  "titles.400464e9e99bb03f": [
+    {
+      "path": "game/titles/items/ranked_national.tres",
+      "line": 8
+    }
+  ],
+  "titles.d89400074e7763b0": [
+    {
+      "path": "game/titles/items/ranked_novice.tres",
+      "line": 8
+    }
+  ],
+  "titles.07ed400759a0f606": [
+    {
+      "path": "game/titles/items/ranked_pro.tres",
+      "line": 8
+    }
+  ],
+  "titles.d70f6838cce70ead": [
+    {
+      "path": "game/titles/items/ranked_rookie.tres",
+      "line": 8
+    }
+  ],
+  "titles.f42133384b7ff3fc": [
+    {
+      "path": "game/titles/items/ranked_semi_pro.tres",
+      "line": 8
+    }
+  ],
+  "titles.72d3a54bf2b2eee3": [
+    {
+      "path": "game/titles/items/rebirth.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/rebirth.tres",
+      "line": 8
+    }
+  ],
+  "titles.8575e43e52cfebdc": [
+    {
+      "path": "game/titles/items/recreational.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/recreational.tres",
+      "line": 8
+    }
+  ],
+  "titles.3ff6c05723bb069d": [
+    {
+      "path": "game/titles/items/ref.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/ref.tres",
+      "line": 8
+    }
+  ],
+  "titles.81803dd4e410a92b": [
+    {
+      "path": "game/titles/items/referee.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/referee.tres",
+      "line": 8
+    }
+  ],
+  "titles.b455784ab5307277": [
+    {
+      "path": "game/titles/items/regular.tres",
+      "line": 8
+    }
+  ],
+  "titles.c1a8701b378baaaa": [
+    {
+      "path": "game/titles/items/reincarnated.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/reincarnated.tres",
+      "line": 8
+    }
+  ],
+  "titles.92893accc8e07306": [
+    {
+      "path": "game/titles/items/repost.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/repost.tres",
+      "line": 8
+    }
+  ],
+  "titles.85e5464309915bf2": [
+    {
+      "path": "game/titles/items/retro.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/retro.tres",
+      "line": 8
+    }
+  ],
+  "titles.c144d0e526ad9456": [
+    {
+      "path": "game/titles/items/revenger.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/revenger.tres",
+      "line": 8
+    }
+  ],
+  "titles.979764d31d70e848": [
+    {
+      "path": "game/titles/items/rising_star.tres",
+      "line": 8
+    }
+  ],
+  "titles.1db147fa22abae8a": [
+    {
+      "path": "game/titles/items/rival.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/rival.tres",
+      "line": 8
+    }
+  ],
+  "titles.18d63be10ad544a0": [
+    {
+      "path": "game/titles/items/robot.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/robot.tres",
+      "line": 8
+    }
+  ],
+  "titles.19eae2a5a00f07fc": [
+    {
+      "path": "game/titles/items/rolling_thunder.tres",
+      "line": 8
+    }
+  ],
+  "titles.525cfa64347a5079": [
+    {
+      "path": "game/titles/items/romantic.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/romantic.tres",
+      "line": 8
+    }
+  ],
+  "titles.527aa9f431539da8": [
+    {
+      "path": "game/titles/items/runner.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/runner.tres",
+      "line": 8
+    }
+  ],
+  "titles.90a6d53df47e4097": [
+    {
+      "path": "game/titles/items/russia.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/russia.tres",
+      "line": 8
+    }
+  ],
+  "titles.4ae0b8d730c641ee": [
+    {
+      "path": "game/titles/items/sama.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/sama.tres",
+      "line": 8
+    }
+  ],
+  "titles.6b9cd7872ae63453": [
+    {
+      "path": "game/titles/items/san.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/san.tres",
+      "line": 8
+    }
+  ],
+  "titles.61c93aaa036ec083": [
+    {
+      "path": "game/titles/items/sasageyo.tres",
+      "line": 8
+    }
+  ],
+  "titles.157dca92e4250458": [
+    {
+      "path": "game/titles/items/save.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/save.tres",
+      "line": 8
+    }
+  ],
+  "titles.5241ac9b5a1b8ba9": [
+    {
+      "path": "game/titles/items/savior.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/savior.tres",
+      "line": 8
+    }
+  ],
+  "titles.03f9d0d21f856e23": [
+    {
+      "path": "game/titles/items/second_nature.tres",
+      "line": 8
+    }
+  ],
+  "titles.fb7732b9d60884f3": [
+    {
+      "path": "game/titles/items/self_worth.tres",
+      "line": 8
+    }
+  ],
+  "titles.1444e0f8ad7f76ad": [
+    {
+      "path": "game/titles/items/senpai.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/senpai.tres",
+      "line": 8
+    }
+  ],
+  "titles.4205501b2d802fd4": [
+    {
+      "path": "game/titles/items/sensei.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/sensei.tres",
+      "line": 8
+    }
+  ],
+  "titles.467dda4df29b3ad6": [
+    {
+      "path": "game/titles/items/serbia.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/serbia.tres",
+      "line": 8
+    }
+  ],
+  "titles.bab6f4cdfe399488": [
+    {
+      "path": "game/titles/items/setter.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/setter.tres",
+      "line": 8
+    }
+  ],
+  "titles.8d4b635793ac17d1": [
+    {
+      "path": "game/titles/items/setter_man.tres",
+      "line": 8
+    }
+  ],
+  "titles.0bb09d80600eec3e": [
+    {
+      "path": "game/titles/items/shadow.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/shadow.tres",
+      "line": 8
+    }
+  ],
+  "titles.cc42b7efc2c7e9bc": [
+    {
+      "path": "game/titles/items/sharpshooter.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/sharpshooter.tres",
+      "line": 8
+    }
+  ],
+  "titles.6d7cbfe8a1ceaf7d": [
+    {
+      "path": "game/titles/items/shine.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/shine.tres",
+      "line": 8
+    }
+  ],
+  "titles.5ca7169e68bd246c": [
+    {
+      "path": "game/titles/items/shojo.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/shojo.tres",
+      "line": 8
+    }
+  ],
+  "titles.5c4dbebbc4ab7ac5": [
+    {
+      "path": "game/titles/items/showstopper.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/showstopper.tres",
+      "line": 8
+    }
+  ],
+  "titles.42a73cf9f258b8e4": [
+    {
+      "path": "game/titles/items/shrimp.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/shrimp.tres",
+      "line": 8
+    }
+  ],
+  "titles.5eb6544124c68cc5": [
+    {
+      "path": "game/titles/items/shut_in.tres",
+      "line": 8
+    }
+  ],
+  "titles.38de90475bb334fb": [
+    {
+      "path": "game/titles/items/sigma.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/sigma.tres",
+      "line": 8
+    }
+  ],
+  "titles.30b8795437a029dc": [
+    {
+      "path": "game/titles/items/silly.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/silly.tres",
+      "line": 8
+    }
+  ],
+  "titles.42be51222d55beb3": [
+    {
+      "path": "game/titles/items/silly_billy.tres",
+      "line": 8
+    }
+  ],
+  "titles.f7b12713505deee6": [
+    {
+      "path": "game/titles/items/silly_goose.tres",
+      "line": 8
+    }
+  ],
+  "titles.a7a39b72f29718e6": [
+    {
+      "path": "game/titles/items/simple.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/simple.tres",
+      "line": 8
+    }
+  ],
+  "titles.aec9c9aca1e8e181": [
+    {
+      "path": "game/titles/items/simple_volleyball.tres",
+      "line": 8
+    }
+  ],
+  "titles.5bd6502ccf37fa3f": [
+    {
+      "path": "game/titles/items/sinister.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/sinister.tres",
+      "line": 8
+    }
+  ],
+  "titles.81388cc17f7189ea": [
+    {
+      "path": "game/titles/items/six_eyes.tres",
+      "line": 8
+    }
+  ],
+  "titles.33ce0d8f81599d3e": [
+    {
+      "path": "game/titles/items/skill_gap.tres",
+      "line": 8
+    }
+  ],
+  "titles.abded63a0bf258a3": [
+    {
+      "path": "game/titles/items/sksksk.tres",
+      "line": 8
+    }
+  ],
+  "titles.e74ca13b4c0a61dc": [
+    {
+      "path": "game/titles/items/sleepy.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/sleepy.tres",
+      "line": 8
+    }
+  ],
+  "titles.c29e85719e8cdb1b": [
+    {
+      "path": "game/titles/items/smash_every_wall.tres",
+      "line": 8
+    }
+  ],
+  "titles.fd0bf83bea46c356": [
+    {
+      "path": "game/titles/items/smelly.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/smelly.tres",
+      "line": 8
+    }
+  ],
+  "titles.810427261a43495f": [
+    {
+      "path": "game/titles/items/so_retro.tres",
+      "line": 8
+    }
+  ],
+  "titles.8f27f432fcbaa4b5": [
+    {
+      "path": "game/titles/items/soccer.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/soccer.tres",
+      "line": 8
+    }
+  ],
+  "titles.ae0facccf0a3723a": [
+    {
+      "path": "game/titles/items/soul.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/soul.tres",
+      "line": 8
+    }
+  ],
+  "titles.7846086ae9fcf5a5": [
+    {
+      "path": "game/titles/items/specs.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/specs.tres",
+      "line": 8
+    }
+  ],
+  "titles.bbccb9c002d5ed59": [
+    {
+      "path": "game/titles/items/speed.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/speed.tres",
+      "line": 8
+    }
+  ],
+  "titles.9908deef60f1f07f": [
+    {
+      "path": "game/titles/items/speedster.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/speedster.tres",
+      "line": 8
+    }
+  ],
+  "titles.04cebed85eb4d89b": [
+    {
+      "path": "game/titles/items/spiker.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/spiker.tres",
+      "line": 8
+    }
+  ],
+  "titles.6d93c781a2ff6fe0": [
+    {
+      "path": "game/titles/items/spiker_man.tres",
+      "line": 8
+    }
+  ],
+  "titles.caa6af5c4be8d52c": [
+    {
+      "path": "game/titles/items/sports_fan.tres",
+      "line": 8
+    }
+  ],
+  "titles.a7048911dc305d8d": [
+    {
+      "path": "game/titles/items/stand_proud.tres",
+      "line": 8
+    }
+  ],
+  "titles.525eca1d5089dbdc": [
+    {
+      "path": "game/titles/items/star.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/star.tres",
+      "line": 8
+    }
+  ],
+  "titles.7602cddadffd5b7a": [
+    {
+      "path": "game/titles/items/start_today.tres",
+      "line": 8
+    }
+  ],
+  "titles.232ed6f9fabf14e3": [
+    {
+      "path": "game/titles/items/stellar.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/stellar.tres",
+      "line": 8
+    }
+  ],
+  "titles.2425f1cb1d9da41d": [
+    {
+      "path": "game/titles/items/streamer.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/streamer.tres",
+      "line": 8
+    }
+  ],
+  "titles.eda15ce4834ac303": [
+    {
+      "path": "game/titles/items/strong.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/strong.tres",
+      "line": 8
+    }
+  ],
+  "titles.c80790b44babdf32": [
+    {
+      "path": "game/titles/items/studious.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/studious.tres",
+      "line": 8
+    }
+  ],
+  "titles.c2d214a484e9d44d": [
+    {
+      "path": "game/titles/items/stupid.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/stupid.tres",
+      "line": 8
+    }
+  ],
+  "titles.36ee39884a2292eb": [
+    {
+      "path": "game/titles/items/stutter.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/stutter.tres",
+      "line": 8
+    }
+  ],
+  "titles.a941a4c4fd0c01cd": [
+    {
+      "path": "game/titles/items/sunshine.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/sunshine.tres",
+      "line": 8
+    }
+  ],
+  "titles.a2bec80ac183e285": [
+    {
+      "path": "game/titles/items/superstar.tres",
+      "line": 8
+    }
+  ],
+  "titles.2ce6c01010261690": [
+    {
+      "path": "game/titles/items/supporter_pack.tres",
+      "line": 8
+    }
+  ],
+  "titles.6af963d3457b7aff": [
+    {
+      "path": "game/titles/items/surpassing_limits.tres",
+      "line": 8
+    }
+  ],
+  "titles.712985cc1194dffe": [
+    {
+      "path": "game/titles/items/swag.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/swag.tres",
+      "line": 8
+    }
+  ],
+  "titles.cdaad7e096dd8f07": [
+    {
+      "path": "game/titles/items/sweat.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/sweat.tres",
+      "line": 8
+    }
+  ],
+  "titles.01a0c66b545feefc": [
+    {
+      "path": "game/titles/items/sweetheart.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/sweetheart.tres",
+      "line": 8
+    }
+  ],
+  "titles.2241cf5d53e7677f": [
+    {
+      "path": "game/titles/items/swifty.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/swifty.tres",
+      "line": 8
+    }
+  ],
+  "titles.070bc964e6b0f85c": [
+    {
+      "path": "game/titles/items/talented.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/talented.tres",
+      "line": 8
+    }
+  ],
+  "titles.073fb3a77e54cc76": [
+    {
+      "path": "game/titles/items/tea_time.tres",
+      "line": 8
+    }
+  ],
+  "titles.95a114f0d23c54b3": [
+    {
+      "path": "game/titles/items/team_player.tres",
+      "line": 8
+    }
+  ],
+  "titles.5c4776722d74da85": [
+    {
+      "path": "game/titles/items/tenacity.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/tenacity.tres",
+      "line": 8
+    }
+  ],
+  "titles.fbd9da1a144ef30d": [
+    {
+      "path": "game/titles/items/the_ace.tres",
+      "line": 8
+    }
+  ],
+  "titles.ae9a70aa51300323": [
+    {
+      "path": "game/titles/items/the_beginning.tres",
+      "line": 8
+    }
+  ],
+  "titles.92eb9cd081f0ec17": [
+    {
+      "path": "game/titles/items/the_end.tres",
+      "line": 8
+    }
+  ],
+  "titles.ce813de9d7568c63": [
+    {
+      "path": "game/titles/items/the_honored_one.tres",
+      "line": 8
+    }
+  ],
+  "titles.e302f89b5d80c74c": [
+    {
+      "path": "game/titles/items/the_wall.tres",
+      "line": 8
+    }
+  ],
+  "titles.0d0342168820e8f3": [
+    {
+      "path": "game/titles/items/the_worst_one.tres",
+      "line": 8
+    }
+  ],
+  "titles.151e58a831306903": [
+    {
+      "path": "game/titles/items/they.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/they.tres",
+      "line": 8
+    }
+  ],
+  "titles.a569b9b2250fe323": [
+    {
+      "path": "game/titles/items/threat.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/threat.tres",
+      "line": 8
+    }
+  ],
+  "titles.7b0456581bef4cb1": [
+    {
+      "path": "game/titles/items/throw.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/throw.tres",
+      "line": 8
+    }
+  ],
+  "titles.7cab1c8e9a06984e": [
+    {
+      "path": "game/titles/items/time_traveler.tres",
+      "line": 8
+    }
+  ],
+  "titles.ddbf3f3bd53bbeaf": [
+    {
+      "path": "game/titles/items/timeless_hero.tres",
+      "line": 8
+    }
+  ],
+  "titles.d9315cb30012fded": [
+    {
+      "path": "game/titles/items/tmko.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/tmko.tres",
+      "line": 8
+    }
+  ],
+  "titles.6c617a25b6bc3a72": [
+    {
+      "path": "game/titles/items/tobe.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/tobe.tres",
+      "line": 8
+    }
+  ],
+  "titles.0c24734d7bf5954f": [
+    {
+      "path": "game/titles/items/together.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/together.tres",
+      "line": 8
+    }
+  ],
+  "titles.3c469e9d6c5875d3": [
+    {
+      "path": "game/titles/items/token.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/token.tres",
+      "line": 8
+    }
+  ],
+  "titles.afe04579004049cc": [
+    {
+      "path": "game/titles/items/tokyo.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/tokyo.tres",
+      "line": 8
+    }
+  ],
+  "titles.0afaa366316e0777": [
+    {
+      "path": "game/titles/items/tomodachi.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/tomodachi.tres",
+      "line": 8
+    }
+  ],
+  "titles.551916735aeecf14": [
+    {
+      "path": "game/titles/items/troll.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/troll.tres",
+      "line": 8
+    }
+  ],
+  "titles.f796e2f28ae58117": [
+    {
+      "path": "game/titles/items/trust.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/trust.tres",
+      "line": 8
+    }
+  ],
+  "titles.a39482caba37c7a2": [
+    {
+      "path": "game/titles/items/try_hard.tres",
+      "line": 8
+    }
+  ],
+  "titles.e94eadb44e4a2eab": [
+    {
+      "path": "game/titles/items/tryhard.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/tryhard.tres",
+      "line": 8
+    }
+  ],
+  "titles.dcf75ec9f8a68c4b": [
+    {
+      "path": "game/titles/items/tsundere.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/tsundere.tres",
+      "line": 8
+    }
+  ],
+  "titles.ce28f91d9b85f602": [
+    {
+      "path": "game/titles/items/tuff.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/tuff.tres",
+      "line": 8
+    }
+  ],
+  "titles.fe30030e102ecf8f": [
+    {
+      "path": "game/titles/items/tutorial.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/tutorial.tres",
+      "line": 8
+    }
+  ],
+  "titles.72b33a1cb0bfc9cd": [
+    {
+      "path": "game/titles/items/twin.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/twin.tres",
+      "line": 8
+    }
+  ],
+  "titles.72de275ac0b40947": [
+    {
+      "path": "game/titles/items/ugly.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/ugly.tres",
+      "line": 8
+    }
+  ],
+  "titles.9bbe7bfc41872d45": [
+    {
+      "path": "game/titles/items/ultimate_weapon.tres",
+      "line": 8
+    }
+  ],
+  "titles.b494b694cb092add": [
+    {
+      "path": "game/titles/items/undead.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/undead.tres",
+      "line": 8
+    }
+  ],
+  "titles.b2bd3895e394299f": [
+    {
+      "path": "game/titles/items/underrated.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/underrated.tres",
+      "line": 8
+    }
+  ],
+  "titles.ef65af02d658091b": [
+    {
+      "path": "game/titles/items/unemployed.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/unemployed.tres",
+      "line": 8
+    }
+  ],
+  "titles.981e5b3967260083": [
+    {
+      "path": "game/titles/items/united_states.tres",
+      "line": 8
+    }
+  ],
+  "titles.b23a6a8439c0dde5": [
+    {
+      "path": "game/titles/items/unknown.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/unknown.tres",
+      "line": 8
+    }
+  ],
+  "titles.f37548fd15a52d9a": [
+    {
+      "path": "game/titles/items/unleashed.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/unleashed.tres",
+      "line": 8
+    }
+  ],
+  "titles.e0dd5b5c9ba0c2b5": [
+    {
+      "path": "game/titles/items/unlucky.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/unlucky.tres",
+      "line": 8
+    }
+  ],
+  "titles.3cbe3defcd728352": [
+    {
+      "path": "game/titles/items/unpredictable.tres",
+      "line": 8
+    }
+  ],
+  "titles.aa5ab35a9174c206": [
+    {
+      "path": "game/titles/items/usa.tres",
+      "line": 8
+    }
+  ],
+  "titles.eeb36e726e3ffec1": [
+    {
+      "path": "game/titles/items/uwu.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/uwu.tres",
+      "line": 8
+    }
+  ],
+  "titles.ec654fac9599f62e": [
+    {
+      "path": "game/titles/items/valid.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/valid.tres",
+      "line": 8
+    }
+  ],
+  "titles.f4c1e632fa17585b": [
+    {
+      "path": "game/titles/items/vibes.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/vibes.tres",
+      "line": 8
+    }
+  ],
+  "titles.a172ddf41dd327dc": [
+    {
+      "path": "game/titles/items/viral.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/viral.tres",
+      "line": 8
+    }
+  ],
+  "titles.6a1a38cbd5ff3bb7": [
+    {
+      "path": "game/titles/items/virtual_reality.tres",
+      "line": 8
+    }
+  ],
+  "titles.445be54d48a2e629": [
+    {
+      "path": "game/titles/items/void.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/void.tres",
+      "line": 8
+    }
+  ],
+  "titles.3580c9267518807d": [
+    {
+      "path": "game/titles/items/volleyball.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/volleyball.tres",
+      "line": 8
+    }
+  ],
+  "titles.ac92b3fa29fe751e": [
+    {
+      "path": "game/titles/items/w_mans.tres",
+      "line": 8
+    }
+  ],
+  "titles.a8b5543dc1af0232": [
+    {
+      "path": "game/titles/items/wall_up.tres",
+      "line": 8
+    }
+  ],
+  "titles.5c1cb1a340a1dce0": [
+    {
+      "path": "game/titles/items/wallbreaker.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/wallbreaker.tres",
+      "line": 8
+    }
+  ],
+  "titles.3b7e400787652ca1": [
+    {
+      "path": "game/titles/items/warm_up.tres",
+      "line": 8
+    }
+  ],
+  "titles.3bff0401e43eec63": [
+    {
+      "path": "game/titles/items/wasd.tres",
+      "line": 8
+    }
+  ],
+  "titles.8e24b0d78a4ee1e4": [
+    {
+      "path": "game/titles/items/washed.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/washed.tres",
+      "line": 8
+    }
+  ],
+  "titles.724f2163d113ad5d": [
+    {
+      "path": "game/titles/items/way_of_the_ace.tres",
+      "line": 8
+    }
+  ],
+  "titles.6c4ad435a40fc70b": [
+    {
+      "path": "game/titles/items/we_got_next.tres",
+      "line": 8
+    }
+  ],
+  "titles.481ba4019c9d2710": [
+    {
+      "path": "game/titles/items/weak.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/weak.tres",
+      "line": 8
+    }
+  ],
+  "titles.2d5a39ce1ec34b23": [
+    {
+      "path": "game/titles/items/who_youll_become.tres",
+      "line": 8
+    }
+  ],
+  "titles.428dfcd94ca02b8e": [
+    {
+      "path": "game/titles/items/wholesome.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/wholesome.tres",
+      "line": 8
+    }
+  ],
+  "titles.ed3c7bc96fed7441": [
+    {
+      "path": "game/titles/items/wildcard.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/wildcard.tres",
+      "line": 8
+    }
+  ],
+  "titles.c047caef95b4d3e8": [
+    {
+      "path": "game/titles/items/wing.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/wing.tres",
+      "line": 8
+    }
+  ],
+  "titles.4221a0fc3dfbfd83": [
+    {
+      "path": "game/titles/items/winner.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/winner.tres",
+      "line": 8
+    }
+  ],
+  "titles.e1823098f42ea75f": [
+    {
+      "path": "game/titles/items/witch.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/witch.tres",
+      "line": 8
+    }
+  ],
+  "titles.36296059cca8b7c7": [
+    {
+      "path": "game/titles/items/wonder.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/wonder.tres",
+      "line": 8
+    }
+  ],
+  "titles.c0a6eb55b12b7dfe": [
+    {
+      "path": "game/titles/items/worth.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/worth.tres",
+      "line": 8
+    }
+  ],
+  "titles.7a77dec6ccea995e": [
+    {
+      "path": "game/titles/items/xd.tres",
+      "line": 8
+    }
+  ],
+  "titles.23353488769f5963": [
+    {
+      "path": "game/titles/items/yaoi.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/yaoi.tres",
+      "line": 8
+    }
+  ],
+  "titles.fad694ed569e193f": [
+    {
+      "path": "game/titles/items/yapper.tres",
+      "line": 8
+    }
+  ],
+  "titles.c309191c26ca712c": [
+    {
+      "path": "game/titles/items/yuri.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/yuri.tres",
+      "line": 8
+    }
+  ],
+  "titles.92e4accd3d41d63f": [
+    {
+      "path": "game/titles/items/zen.tres",
+      "line": 7
+    },
+    {
+      "path": "game/titles/items/zen.tres",
+      "line": 8
+    }
+  ],
+  "titles.c627240d8e682355": [
+    {
+      "path": "game/titles/items/zigzag.tres",
+      "line": 8
+    }
+  ],
+  "titles.2d4d6d5461b734f1": [
+    {
+      "path": "game/titles/items/face_stare.tres",
+      "line": 8
     }
   ],
   "tutorial.8c46475696903ae6": [

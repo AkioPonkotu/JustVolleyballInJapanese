@@ -75,15 +75,41 @@ def main():
                              'source': source, 'kind': 'format-before-interpolation'})
             return json.dumps(messages[source], ensure_ascii=False)
         patched = TOKEN.sub(replace, text)
+        if rel == 'game/ui/boot/gpu_notice.gd':
+            source = "if a launch command doesn't help, try updating (or rolling back) your graphics drivers:\n"
+            def prefix(match):
+                if match.group().startswith('#'):
+                    return match.group()
+                try:
+                    value = ast.literal_eval(match.group())
+                except (ValueError, SyntaxError):
+                    return match.group()
+                return json.dumps(messages[source], ensure_ascii=False) if value == source else match.group()
+            patched = TOKEN.sub(prefix, patched)
         if rel == 'game/core/game_config.gd':
             anchor = 'TranslationServer.set_locale("en")'
             if patched.count(anchor) != 1:
                 raise ValueError('English locale initialization changed')
             patched = patched.replace(anchor, 'load("res://jvja/bootstrap.gd").install()')
         if rel == 'game/guide/guide_tokens.gd':
-            patched = inject(patched, r'^static func fill\([^\n]+\n?', 'text = TranslationServer.translate(text)')
+            patched = inject(patched, r'^static func fill\([^\n]+\n?', 'if r.can_auto_translate():\n\t\ttext = TranslationServer.translate(text)')
         if rel == 'game/ui/tutorial_overlay.gd':
             patched = inject(patched, r'^func _fill_rich\([^\n]+\n?', 'text = TranslationServer.translate(text)')
+        if rel == 'game/ui/menu.gd':
+            for expression, expected in [('OUTFIT_LABELS.get(_outfit, _outfit)', 2),
+                                         ('BALL_LABELS.get(_ball_skin, _ball_skin)', 2)]:
+                if patched.count(expression) != expected:
+                    raise ValueError(f'Menu enum expression changed: {expression}')
+                patched = patched.replace(expression, 'tr(String(' + expression + '))')
+            stage_line = '\t_stage_btn.text = ' + json.dumps(messages['stage: %s'], ensure_ascii=False) + ' % t'
+            if patched.count(stage_line) != 1:
+                raise ValueError('Stage label expression changed')
+            patched = patched.replace(stage_line, stage_line[:-1] + 'tr(t)')
+        if rel == 'game/titles/title_catalog.gd':
+            anchor = '\t\t_items.append(item)'
+            if patched.count(anchor) != 1:
+                raise ValueError('Title catalog insertion point changed')
+            patched = patched.replace(anchor, '\t\titem.text = String(TranslationServer.translate(item.text, &"titles"))\n' + anchor)
         if patched != text:
             target = staging / rel
             target.parent.mkdir(parents=True, exist_ok=True)
@@ -96,6 +122,9 @@ def main():
         raise ValueError('Duplicate script basenames; compile these in separate directories')
     command = [str(ROOT / '.local/gdre/gdre_tools.exe'), '--headless', '--bytecode=4.5.0', '--output=' + str(compiled_dir)]
     command += ['--compile=' + str(path) for path in changed.values()]
+    for path in changed.values():
+        target = compiled_dir / path.with_suffix('.gdc').name
+        target.unlink(missing_ok=True)
     process = subprocess.run(command, capture_output=True, cwd=compiled_dir)
     (ROOT / 'work/build/compile.log').write_bytes(process.stdout + process.stderr)
     if process.returncode != 0:
@@ -118,14 +147,16 @@ def main():
         raise ValueError('This build expects every one of the 203 guide display fields')
     replacements = {path: (compiled_dir / source.with_suffix('.gdc').name).read_bytes() for path, source in changed.items()}
     replacements['game/ui/how_to_text.json'] = json.dumps(guide, ensure_ascii=False, indent=1).encode()
+    runtime_messages = {'': messages, 'titles': {entry['source']: entry['ja'] for ident, entry in entries.items() if ident.startswith('titles.')}}
     additions = {
         'jvja/bootstrap.gd': (ROOT / 'mod/bootstrap.gd').read_bytes(),
-        'jvja/messages.json': json.dumps(messages, ensure_ascii=False, sort_keys=True).encode(),
+        'jvja/messages.json': json.dumps(runtime_messages, ensure_ascii=False, sort_keys=True).encode(),
         'jvja/NotoSansJP.ttf': (ROOT / 'assets/fonts/NotoSansJP.ttf').read_bytes(),
     }
     manifest = {'schema_version': 1, 'locale': 'ja', 'game_build_id': '26937150',
                 'original_pck_sha256': sha256(original), 'original_exe_sha256': sha256(exe),
-                'key_offset': 81005808, 'catalog_entries': len(entries), 'unique_messages': len(messages),
+                'key_offset': 81005808, 'catalog_entries': len(entries), 'unique_messages': sum(len(group) for group in runtime_messages.values()),
+                'message_context_counts': {context or 'default': len(group) for context, group in runtime_messages.items()},
                 'guide_display_fields': guide_count, 'files': []}
     payload_dir = output / 'payload'
     payload_dir.mkdir(exist_ok=True)
@@ -158,8 +189,11 @@ def main():
         # Only include files listed by this build, not stale payloads from old builds.
         include = ['manifest.json', 'patch_game.py', 'pck.py', 'requirements.txt', 'OFL.txt',
                    'Install.ps1', 'Restore.ps1', 'README.md'] + [item['payload'] for item in manifest['files']]
-        for name in include:
-            z.write(output / name, name)
+        for name in sorted(include):
+            info = zipfile.ZipInfo(name, date_time=(1980, 1, 1, 0, 0, 0))
+            info.compress_type = zipfile.ZIP_DEFLATED
+            info.external_attr = 0o100644 << 16
+            z.writestr(info, (output / name).read_bytes())
     print(f'Built {archive}: {len(entries)} entries, {len(changed)} scripts, {guide_count} guide fields')
 
 

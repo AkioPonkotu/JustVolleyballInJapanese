@@ -21,8 +21,11 @@ static func install() -> void:
 	var messages = JSON.parse_string(FileAccess.get_file_as_string("res://jvja/messages.json"))
 	var translation := Translation.new()
 	translation.locale = "ja"
-	for source in messages:
-		translation.add_message(source, messages[source])
+	var count := 0
+	for context in messages:
+		for source in messages[context]:
+			translation.add_message(source, messages[context][source], StringName(context))
+			count += 1
 	TranslationServer.add_translation(translation)
 	TranslationServer.set_locale("ja")
-	print("[JVJA] Japanese translation loaded: ", messages.size(), " messages; font: ", font.get_font_name())
+	print("[JVJA] Japanese translation loaded: ", count, " messages; Japanese font fallback ready")
