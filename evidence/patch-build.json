@@ -317,18 +317,25 @@
       "payload_sha256": "259a3ba58577c53cfc11bb1073e33598c5d15c359576b656b795d3d4b26592f0"
     },
     {
-      "path": "jvja/NotoSansJP.ttf",
+      "path": "jvja/JVVolleyballJP-ExtraBold.ttf",
       "mode": "add",
-      "result_sha256": "f4b373b226668ee33a6e54b02823dcd2d1209f17159f777421ae8c2275160369",
-      "payload": "payload/9df2549b12f410f8.bin",
-      "payload_sha256": "f4b373b226668ee33a6e54b02823dcd2d1209f17159f777421ae8c2275160369"
+      "result_sha256": "4fd931df626e737e9c6a2494bda39128404e24d79dac04f92c0300d785969f24",
+      "payload": "payload/2c4631f94f85b731.bin",
+      "payload_sha256": "4fd931df626e737e9c6a2494bda39128404e24d79dac04f92c0300d785969f24"
+    },
+    {
+      "path": "jvja/JVVolleyballJP-SemiBold.ttf",
+      "mode": "add",
+      "result_sha256": "d9ba4635002d8c57118888e5892bec61e5d583df51edf606cb6e691727df00a2",
+      "payload": "payload/d73444b15e21b5ea.bin",
+      "payload_sha256": "d9ba4635002d8c57118888e5892bec61e5d583df51edf606cb6e691727df00a2"
     },
     {
       "path": "jvja/bootstrap.gd",
       "mode": "add",
-      "result_sha256": "f5cc0fa54d83ddbed6b8ea9871d4487c2df6615be5c4287b11fb804b062f4698",
+      "result_sha256": "ec47816ad27d3220c2d16cabfc4a959566ce695edd4a466acb008c4152139c3e",
       "payload": "payload/8d24625a33bcf204.bin",
-      "payload_sha256": "f5cc0fa54d83ddbed6b8ea9871d4487c2df6615be5c4287b11fb804b062f4698"
+      "payload_sha256": "ec47816ad27d3220c2d16cabfc4a959566ce695edd4a466acb008c4152139c3e"
     },
     {
       "path": "jvja/messages.json",

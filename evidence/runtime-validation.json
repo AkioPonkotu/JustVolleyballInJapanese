@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-26",
+  "engine": "4.7.1.stable.custom_build.a13da4feb",
+  "release_payload_resources_verified": 42,
+  "runtime_checks": 8,
+  "runtime_check_result": "passed with explicit branching and nonzero failure exit; not debug-only assertions",
+  "checks": [
+    "Japanese locale",
+    "default translation",
+    "format interpolation",
+    "default pro context",
+    "title pro context",
+    "bundled Japanese glyph",
+    "static Japanese weight 600",
+    "translated guide JSON"
+  ],
+  "final_visual_checks": [
+    "GPU notice including Japanese paragraphs",
+    "Japanese title screen prompt",
+    "main menu",
+    "translated outfit, ball and stage selection values"
+  ],
+  "additional_visual_checks_during_development": [
+    "system settings",
+    "guide control icons",
+    "guide long Japanese paragraphs"
+  ],
+  "script_errors_reported": 0,
+  "renderer_note": "OpenGL 3.3; engine warns 2D MSAA is not supported on GLES3",
+  "gameplay_validation": "No match played; no online play tested",
+  "installed_game_modified": false,
+  "release_zip_sha256": "9a4bf2c1d561e18186f584e8aba4a39767696d4baeef02056b28c83a132ec425"
+}

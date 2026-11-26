@@ -10,17 +10,24 @@ from pck import Pack
 SMOKE = '''extends Node
 func _ready():
     load("res://jvja/bootstrap.gd").install()
-    assert(TranslationServer.get_locale() == "ja")
-    assert(TranslationServer.translate("settings") == "設定")
-    assert(TranslationServer.translate("set %d") % 2 == "第2セット")
-    assert(TranslationServer.translate("pro") == "公式球")
-    assert(TranslationServer.translate("pro", &"titles") == "プロ")
     var original = load("res://game/fonts/Nunito/Nunito-SemiBold.ttf")
-    assert(original.fallbacks.size() > 0)
-    assert(original.fallbacks.back().has_char(0x8a2d))
     var guide = JSON.parse_string(FileAccess.get_file_as_string("res://game/ui/how_to_text.json"))
-    assert(guide.categories[0].name == "操作設定")
-    print("[JVJA TEST] PASS: locale, translation, formatting, Japanese glyphs, guide JSON")
+    var checks = {
+        "locale": TranslationServer.get_locale() == "ja",
+        "translation": TranslationServer.translate("settings") == "設定",
+        "formatting": TranslationServer.translate("set %d") % 2 == "第2セット",
+        "default context": TranslationServer.translate("pro") == "公式球",
+        "title context": TranslationServer.translate("pro", &"titles") == "プロ",
+        "Japanese glyph": original.fallbacks.size() > 0 and original.fallbacks.back().has_char(0x8a2d),
+        "Japanese weight": original.fallbacks.back().get_font_weight() == 600,
+        "guide JSON": guide.categories[0].name == "操作設定",
+    }
+    for label in checks:
+        if not checks[label]:
+            push_error("[JVJA TEST] FAILED: " + label)
+            get_tree().quit(1)
+            return
+    print("[JVJA TEST] PASS: ", checks.size(), " explicit runtime checks (release assertions not used)")
     get_tree().quit()
 '''
 

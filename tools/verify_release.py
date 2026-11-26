@@ -21,11 +21,14 @@ def main():
     exe = (game / 'volleyball.exe').read_bytes()
     assert sha256(original) == manifest['original_pck_sha256']
     assert sha256(exe) == manifest['original_exe_sha256']
-    with TTFont(ROOT / 'assets/fonts/NotoSansJP.ttf') as font:
-        cmap = font.getBestCmap()
-        needed = {ord(c) for entry in entries.values() for c in entry['ja'] if 0x3000 <= ord(c) <= 0x9fff}
-        missing = sorted(needed - cmap.keys())
-        assert not missing, f'Font is missing codepoints: {missing}'
+    needed = {ord(c) for entry in entries.values() for c in entry['ja'] if 0x3000 <= ord(c) <= 0x9fff}
+    missing = []
+    for style in ['SemiBold', 'ExtraBold']:
+        with TTFont(ROOT / f'assets/fonts/JVVolleyballJP-{style}.ttf') as font:
+            cmap = font.getBestCmap()
+            missing.extend(sorted(needed - cmap.keys()))
+            assert 'fvar' not in font
+            assert not missing, f'Font is missing codepoints: {missing}'
     with tempfile.TemporaryDirectory(prefix='install-validation-', dir=ROOT / 'work') as directory:
         scratch = Path(directory).resolve()
         assert scratch.is_relative_to((ROOT / 'work').resolve())

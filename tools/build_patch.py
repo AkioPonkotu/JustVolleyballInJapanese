@@ -151,7 +151,8 @@ def main():
     additions = {
         'jvja/bootstrap.gd': (ROOT / 'mod/bootstrap.gd').read_bytes(),
         'jvja/messages.json': json.dumps(runtime_messages, ensure_ascii=False, sort_keys=True).encode(),
-        'jvja/NotoSansJP.ttf': (ROOT / 'assets/fonts/NotoSansJP.ttf').read_bytes(),
+        'jvja/JVVolleyballJP-SemiBold.ttf': (ROOT / 'assets/fonts/JVVolleyballJP-SemiBold.ttf').read_bytes(),
+        'jvja/JVVolleyballJP-ExtraBold.ttf': (ROOT / 'assets/fonts/JVVolleyballJP-ExtraBold.ttf').read_bytes(),
     }
     manifest = {'schema_version': 1, 'locale': 'ja', 'game_build_id': '26937150',
                 'original_pck_sha256': sha256(original), 'original_exe_sha256': sha256(exe),
@@ -179,6 +180,7 @@ def main():
         shutil.copyfile(ROOT / 'tools' / name, output / name)
     shutil.copyfile(ROOT / 'requirements.txt', output / 'requirements.txt')
     shutil.copyfile(ROOT / 'assets/fonts/OFL.txt', output / 'OFL.txt')
+    shutil.copyfile(ROOT / 'assets/fonts/NOTICE.txt', output / 'FONT-NOTICE.txt')
     for name in ['Install.ps1', 'Restore.ps1']:
         shutil.copyfile(ROOT / 'packaging' / name, output / name)
     shutil.copyfile(ROOT / 'docs/patch-user-guide.md', output / 'README.md')
@@ -187,7 +189,7 @@ def main():
     archive = output.with_suffix('.zip')
     with zipfile.ZipFile(archive, 'w', zipfile.ZIP_DEFLATED) as z:
         # Only include files listed by this build, not stale payloads from old builds.
-        include = ['manifest.json', 'patch_game.py', 'pck.py', 'requirements.txt', 'OFL.txt',
+        include = ['manifest.json', 'patch_game.py', 'pck.py', 'requirements.txt', 'OFL.txt', 'FONT-NOTICE.txt',
                    'Install.ps1', 'Restore.ps1', 'README.md'] + [item['payload'] for item in manifest['files']]
         for name in sorted(include):
             info = zipfile.ZipInfo(name, date_time=(1980, 1, 1, 0, 0, 0))

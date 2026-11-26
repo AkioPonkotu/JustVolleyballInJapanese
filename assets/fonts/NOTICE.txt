@@ -1,0 +1,12 @@
+JV Volleyball Japanese SemiBold / ExtraBold
+
+Derived from Noto Sans JP Variable by fixing the weight axis to 600/800
+and renaming the font family to JV Volleyball Japanese.
+Original upstream: https://github.com/notofonts/noto-cjk
+
+Original font copyright notice:
+Copyright 2014-2021 Adobe (http://www.adobe.com/),
+with Reserved Font Name 'Source'.
+
+The derived fonts retain the original copyright and are distributed under
+the SIL Open Font License 1.1. See OFL.txt.

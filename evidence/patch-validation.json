@@ -1,0 +1,20 @@
+{
+  "build_id": "26937150",
+  "catalog_entries": 2436,
+  "runtime_messages": 2233,
+  "message_context_counts": {
+    "default": 1686,
+    "titles": 547
+  },
+  "guide_display_fields": 203,
+  "required_japanese_codepoints": 918,
+  "missing_font_codepoints": [],
+  "install_restore_roundtrip": "passed; original PCK restored byte for byte in disposable directory",
+  "reinstall_rejection": "passed",
+  "tampered_pck_restore_rejection": "passed",
+  "updated_exe_restore_rejection": "passed",
+  "unchanged_original_resource_entries": 13740,
+  "changed_resource_hashes": "all verified",
+  "installed_game_modified": false,
+  "release_zip_sha256": "9a4bf2c1d561e18186f584e8aba4a39767696d4baeef02056b28c83a132ec425"
+}
