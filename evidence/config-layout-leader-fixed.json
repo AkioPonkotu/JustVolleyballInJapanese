@@ -1,0 +1,180 @@
+{
+  "en": {
+    "locale": "en",
+    "samples": [
+      {
+        "body_minimum": 215.0,
+        "body_width": 252.0,
+        "card_minimum": 220.0,
+        "card_width": 252.0,
+        "case": "original-layout",
+        "clip_contents": true,
+        "header_minimum": 215.0,
+        "host_width": 37.0,
+        "rows": {
+          "actions": {
+            "right_from_card": 240.0,
+            "width": 228.0
+          },
+          "device": {
+            "right_from_card": 240.0,
+            "width": 228.0
+          },
+          "profile": {
+            "right_from_card": 240.0,
+            "width": 228.0
+          }
+        },
+        "status_text": "party leader",
+        "status_width": 82.0,
+        "viewport_width": 1371.42858886719
+      },
+      {
+        "body_minimum": 142.0,
+        "body_width": 252.0,
+        "card_minimum": 220.0,
+        "card_width": 252.0,
+        "case": "status-empty",
+        "clip_contents": true,
+        "header_minimum": 134.0,
+        "host_width": 37.0,
+        "rows": {
+          "actions": {
+            "right_from_card": 240.0,
+            "width": 228.0
+          },
+          "device": {
+            "right_from_card": 240.0,
+            "width": 228.0
+          },
+          "profile": {
+            "right_from_card": 240.0,
+            "width": 228.0
+          }
+        },
+        "status_text": "",
+        "status_width": 1.0,
+        "viewport_width": 1371.42858886719
+      },
+      {
+        "body_minimum": 142.0,
+        "body_width": 252.0,
+        "card_minimum": 220.0,
+        "card_width": 252.0,
+        "case": "status-ellipsis",
+        "clip_contents": true,
+        "header_minimum": 134.0,
+        "host_width": 37.0,
+        "rows": {
+          "actions": {
+            "right_from_card": 240.0,
+            "width": 228.0
+          },
+          "device": {
+            "right_from_card": 240.0,
+            "width": 228.0
+          },
+          "profile": {
+            "right_from_card": 240.0,
+            "width": 228.0
+          }
+        },
+        "status_text": "party leader",
+        "status_width": 60.0,
+        "viewport_width": 1371.42858886719
+      }
+    ],
+    "source_pck_sha256": "f72ea5884cfab90be24ba35e83693325e1e0f75d4d767de53a627f5f6f68d583",
+    "exit_code": 0,
+    "runtime_errors": 0
+  },
+  "ja": {
+    "locale": "ja",
+    "samples": [
+      {
+        "body_minimum": 199.0,
+        "body_width": 252.0,
+        "card_minimum": 220.0,
+        "card_width": 252.0,
+        "case": "original-layout",
+        "clip_contents": true,
+        "header_minimum": 199.0,
+        "host_width": 47.0,
+        "rows": {
+          "actions": {
+            "right_from_card": 240.0,
+            "width": 228.0
+          },
+          "device": {
+            "right_from_card": 240.0,
+            "width": 228.0
+          },
+          "profile": {
+            "right_from_card": 240.0,
+            "width": 228.0
+          }
+        },
+        "status_text": "party leader",
+        "status_width": 56.0,
+        "viewport_width": 1371.42858886719
+      },
+      {
+        "body_minimum": 144.0,
+        "body_width": 252.0,
+        "card_minimum": 220.0,
+        "card_width": 252.0,
+        "case": "status-empty",
+        "clip_contents": true,
+        "header_minimum": 144.0,
+        "host_width": 47.0,
+        "rows": {
+          "actions": {
+            "right_from_card": 240.0,
+            "width": 228.0
+          },
+          "device": {
+            "right_from_card": 240.0,
+            "width": 228.0
+          },
+          "profile": {
+            "right_from_card": 240.0,
+            "width": 228.0
+          }
+        },
+        "status_text": "",
+        "status_width": 1.0,
+        "viewport_width": 1371.42858886719
+      },
+      {
+        "body_minimum": 144.0,
+        "body_width": 252.0,
+        "card_minimum": 220.0,
+        "card_width": 252.0,
+        "case": "status-ellipsis",
+        "clip_contents": true,
+        "header_minimum": 144.0,
+        "host_width": 47.0,
+        "rows": {
+          "actions": {
+            "right_from_card": 240.0,
+            "width": 228.0
+          },
+          "device": {
+            "right_from_card": 240.0,
+            "width": 228.0
+          },
+          "profile": {
+            "right_from_card": 240.0,
+            "width": 228.0
+          }
+        },
+        "status_text": "party leader",
+        "status_width": 55.0,
+        "viewport_width": 1371.42858886719
+      }
+    ],
+    "source_pck_sha256": "3c5344b1ad9445e86f62a37a537b56b8bfce4b99ad6802f51e0c21628cd03d09",
+    "exit_code": 0,
+    "runtime_errors": 0
+  }
+}

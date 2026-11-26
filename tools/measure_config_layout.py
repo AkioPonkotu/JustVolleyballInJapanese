@@ -1,4 +1,5 @@
 """Compare controller-card layout using isolated original and installed packs."""
+import argparse
 import json
 import re
 import shutil
@@ -10,6 +11,10 @@ from pck import Pack, sha256
 
 
 def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--output', type=Path, default=ROOT / 'evidence/config-layout-investigation.json')
+    parser.add_argument('--patched-pck', type=Path, help='Measure a generated PCK instead of the installed one')
+    args = parser.parse_args()
     game = Path('F:/SteamLibrary/steamapps/common/just volleyball')
     exe = (game / 'volleyball.exe').read_bytes()
     settings = (ROOT / 'work/recovered/project.godot').read_text(encoding='utf-8')
@@ -29,7 +34,7 @@ script = ExtResource("2")
         folder = ROOT / 'work/validation/config-layout' / language
         folder.mkdir(parents=True, exist_ok=True)
         config = re.sub(r'run/main_scene=.*', 'run/main_scene="res://jvja/config_probe.tscn"\nconfig/use_custom_user_dir=true\nconfig/custom_user_dir="JVJA_Config_Investigation_' + language + '"', settings, count=1)
-        data = (game / name).read_bytes()
+        data = (args.patched_pck if language == 'ja' and args.patched_pck else game / name).read_bytes()
         pack = Pack(data, exe[81005808:81005840])
         del pack.entries['project.binary']
         pack.write_patched(folder / 'volleyball.pck', {
@@ -46,7 +51,8 @@ script = ExtResource("2")
         if not rows or process.returncode or 'ERROR:' in log:
             raise RuntimeError('Inspect ' + str(folder / 'runtime.log'))
         results[language] = rows[-1] | {'source_pck_sha256': sha256(data), 'exit_code': process.returncode, 'runtime_errors': log.count('ERROR:')}
-    output = ROOT / 'evidence/config-layout-investigation.json'
+    output = args.output
+    output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(json.dumps(results, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print(json.dumps(results, ensure_ascii=False, indent=2))
 
