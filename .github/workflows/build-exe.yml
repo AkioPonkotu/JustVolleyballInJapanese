@@ -12,6 +12,8 @@ jobs:
   build:
     runs-on: windows-2022
     timeout-minutes: 20
+    permissions:
+      contents: write
     defaults:
       run:
         shell: pwsh
@@ -58,3 +60,14 @@ jobs:
           path: dist/ci/JustVolleyballJA.exe
           if-no-files-found: error
           retention-days: 30
+
+      - name: Publish EXE to GitHub Releases
+        if: github.ref == 'refs/heads/main'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RELEASE_TAG: build-${{ github.run_number }}-${{ github.run_attempt }}
+          RELEASE_COMMIT: ${{ github.sha }}
+        run: |
+          gh release create $env:RELEASE_TAG ./dist/ci/JustVolleyballJA.exe --target $env:RELEASE_COMMIT --title "just volleyball 日本語化パッチ ($env:RELEASE_TAG)" --notes-file docs/patch-user-guide.md --latest
+          if ($LASTEXITCODE -ne 0) { throw 'GitHub Release publication failed' }

@@ -8,7 +8,7 @@
 ## 適用
 
 1. ゲームを終了します。
-2. GitHub Actionsのartifactまたは配布ZIPから `JustVolleyballJA.exe` を取り出します。
+2. [GitHub Releases](https://github.com/AkioPonkotu/JustVolleyballInJapanese/releases/latest) の「Assets」から `JustVolleyballJA.exe` をダウンロードします。
 3. `JustVolleyballJA.exe` をダブルクリックします。exeだけを任意のフォルダーへ移動しても使えます。
 4. Steamの情報からゲームフォルダーが自動入力されます。場所を確認して「日本語化を適用 →」を押します。検出できない場合や変更する場合は、「参照…」から `volleyball.exe` と `volleyball.pck` があるゲームフォルダーを選択してください。
 
