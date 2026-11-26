@@ -1,5 +1,6 @@
 """Double-clickable Windows patch application; command-line flags remain available."""
 from pathlib import Path
+import os
 import queue
 import sys
 import threading
@@ -7,12 +8,13 @@ import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
 
 from patch_game import main as patch_main
+from release_data import verified_payloads
 from patch_ui import ActionButton, BLUE, CREAM, INK, MUTED, WHITE, YELLOW, draw_poster, rounded
 
 
 def package_directory():
     if getattr(sys, 'frozen', False):
-        return Path(sys.executable).resolve().parent
+        return Path(sys._MEIPASS) / 'patch-data'
     return Path(__file__).resolve().parents[1] / 'dist/just-volleyball-ja'
 
 
@@ -119,6 +121,8 @@ def show_app():
     install.place(x=44, y=526)
     restore = ActionButton(panel, text='元に戻す', command=lambda: start('--restore'), width=160)
     restore.place(x=316, y=526)
+    tk.Button(panel, text='ライセンス', relief='flat', bg=CREAM, fg=BLUE,
+              cursor='hand2', command=lambda: os.startfile(package_directory() / 'licenses')).place(x=456, y=669)
     art.create_text(955, 551, text='バックアップを作成して適用します。', anchor='e',
                     font=('Yu Gothic UI', 10), fill=MUTED)
     entry.focus_set()
@@ -135,8 +139,12 @@ def show_app():
 
 if __name__ == '__main__':
     if len(sys.argv) > 1:
-        # External payloads live beside the EXE, not in PyInstaller's temp folder.
+        # Frozen applications always use their embedded payloads by default.
         args = sys.argv[1:]
+        if args == ['--verify-package']:
+            verified_payloads(package_directory())
+            print('Embedded patch payloads verified.')
+            sys.exit(0)
         if '--package' not in args:
             args = ['--package', str(package_directory())] + args
         try:

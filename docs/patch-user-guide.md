@@ -8,13 +8,13 @@
 ## 適用
 
 1. ゲームを終了します。
-2. ZIPを任意のフォルダーへ展開します。
-3. 展開先の `JustVolleyballJA.exe` をダブルクリックします。
+2. GitHub Actionsのartifactまたは配布ZIPから `JustVolleyballJA.exe` を取り出します。
+3. `JustVolleyballJA.exe` をダブルクリックします。exeだけを任意のフォルダーへ移動しても使えます。
 4. 「参照…」から `volleyball.exe` があるゲームフォルダーを選択し、「日本語化を適用 →」を押します。
 
 ゲームの場所は、Steamライブラリでゲームを右クリックし「管理 → ローカルファイルを閲覧」から確認できます。
 Python・uvのインストールやコマンド入力は不要です。実行環境を同梱しているため、適用・解除時のインターネット接続も不要です。
-EXEだけを移動せず、展開したフォルダーの内容をまとめて保管してください。
+翻訳・フォント・差分データはEXEに埋め込まれています。外部の `manifest.json` や `payload/` は不要です。
 EXE・PCKのハッシュが対応版と一致しない場合は適用を拒否します。別ビルドに強制適用する方法はありません。
 元のPCKは `volleyball.pck.ja-backup` に保存されます。翻訳以外のゲーム素材を再エクスポートしません。
 
@@ -28,8 +28,8 @@ EXE・PCKのハッシュが対応版と一致しない場合は適用を拒否�
 
 ## 翻訳の修正
 
-ソースリポジトリの `translations/ja/*.json` の `ja` を編集し、パッチを再生成してください。ZIP内の差分ファイルを直接編集しても反映できません。
+ソースリポジトリの `translations/ja/*.json` の `ja` を編集し、パッチとEXEを再生成してください。EXEの隣に差分ファイルを置いても反映されません。
 編集方法と再生成手順はリポジトリの `docs/translation-editing.md` を参照してください。
 
-同梱フォントはNoto Sans JPから固定ウェイトで生成し、JV Volleyball Japaneseへ改名したものです。SIL Open Font License 1.1で配布します。`OFL.txt` と `FONT-NOTICE.txt` を参照してください。
-同梱する実行環境・ライブラリのライセンスは `licenses/` に収録しています。
+同梱フォントはNoto Sans JPから固定ウェイトで生成し、JV Volleyball Japaneseへ改名したものです。SIL Open Font License 1.1で配布します。
+アプリの「ライセンス」ボタンで、EXEに同梱した実行環境・ライブラリ・フォントのライセンスを開けます。フォントのライセンスと出典は `fonts/OFL.txt` と `fonts/NOTICE.txt` に収録しています。ライセンス画面はアプリを終了する前に確認してください。

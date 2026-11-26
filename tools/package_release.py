@@ -1,41 +1,57 @@
 """Freeze the patch tool and assemble an offline Windows release ZIP."""
 import argparse
 import importlib.metadata
-import json
 import os
 from pathlib import Path
 import shutil
 import subprocess
 import sys
+import tempfile
 import zipfile
+
+from release_data import PATCH_DATA, verified_payloads, verify_snapshot
 
 ROOT = Path(__file__).resolve().parents[1]
 APP_NAME = 'JustVolleyballJA'
 
 
-def build_executable(output):
+def build_executable(output, package=PATCH_DATA):
     if os.name != 'nt':
         raise RuntimeError('Build the Windows release on Windows')
     output.mkdir(parents=True, exist_ok=True)
+    files = verified_payloads(package)
+    if package.resolve() == PATCH_DATA.resolve():
+        verify_snapshot(package)
     build = ROOT / 'work/pyinstaller'
     build.mkdir(parents=True, exist_ok=True)
+    # Stage only manifest-listed distributable data, never the game or work tree.
+    with tempfile.TemporaryDirectory(prefix='embedded-', dir=build) as directory:
+        embedded = Path(directory)
+        for path in [package / 'manifest.json', package / 'OFL.txt', package / 'FONT-NOTICE.txt', *files]:
+            target = embedded / path.relative_to(package)
+            target.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copyfile(path, target)
+        shutil.copyfile(ROOT / 'docs/patch-user-guide.md', embedded / 'README.md')
+        collect_licenses(embedded)
+        freeze_executable(output, build, embedded)
+
+
+def freeze_executable(output, build, embedded):
     subprocess.run([
         sys.executable, '-m', 'PyInstaller', '--noconfirm', '--clean', '--onefile',
         '--console', '--hide-console', 'hide-early', '--noupx', '--name', APP_NAME,
         '--distpath', str(build / 'dist'), '--workpath', str(build / 'build'),
-        '--specpath', str(build), str(ROOT / 'tools/patch_app.py'),
+        '--specpath', str(build), '--add-data', f'{embedded}:patch-data',
+        str(ROOT / 'tools/patch_app.py'),
     ], check=True, cwd=ROOT)
     shutil.copyfile(build / 'dist' / f'{APP_NAME}.exe', output / f'{APP_NAME}.exe')
 
 
-def package_release(output):
-    build_executable(output)
-    shutil.copyfile(ROOT / 'docs/patch-user-guide.md', output / 'README.md')
+def collect_licenses(output):
     licenses = output / 'licenses'
     licenses.mkdir(exist_ok=True)
     # Include licenses from the exact distributions used by this build, including
     # native libraries' bundled notices (e.g. OpenSSL in cryptography's license).
-    license_files = []
     for name in ('bsdiff4', 'cryptography', 'cffi', 'pycparser', 'pyinstaller', 'pyinstaller-hooks-contrib'):
         distribution = importlib.metadata.distribution(name)
         found = []
@@ -47,10 +63,8 @@ def package_release(output):
                 found.append(target.relative_to(output).as_posix())
         if not found:
             raise RuntimeError(f'No license found for {name}')
-        license_files.extend(found)
     python_license = Path(sys.base_prefix) / 'LICENSE.txt'
     shutil.copyfile(python_license, licenses / 'Python-LICENSE.txt')
-    license_files.append('licenses/Python-LICENSE.txt')
     # Tcl/Tk supply the GUI and carry their own license notices.
     import tkinter
     tcl = tkinter.Tcl()
@@ -61,10 +75,16 @@ def package_release(output):
             version = tcl.eval('info patchlevel')
             source = ROOT / 'packaging/licenses' / f'tcl{version}-license.terms'
         shutil.copyfile(source, licenses / f'{name}-license.terms')
-        license_files.append(f'licenses/{name}-license.terms')
-    manifest = json.loads((output / 'manifest.json').read_text(encoding='utf-8'))
-    include = [f'{APP_NAME}.exe', 'manifest.json', 'OFL.txt', 'FONT-NOTICE.txt', 'README.md']
-    include += license_files + [item['payload'] for item in manifest['files']]
+    fonts = licenses / 'fonts'
+    fonts.mkdir(exist_ok=True)
+    shutil.copyfile(output / 'OFL.txt', fonts / 'OFL.txt')
+    shutil.copyfile(output / 'FONT-NOTICE.txt', fonts / 'NOTICE.txt')
+
+
+def package_release(output):
+    build_executable(output, output)
+    shutil.copyfile(ROOT / 'docs/patch-user-guide.md', output / 'README.md')
+    include = [f'{APP_NAME}.exe', 'README.md']
     archive = output.with_suffix('.zip')
     with zipfile.ZipFile(archive, 'w', zipfile.ZIP_DEFLATED) as z:
         for name in sorted(set(include)):
@@ -82,7 +102,7 @@ def package_release(output):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--exe-only', action='store_true',
-                        help='Build only the EXE; no game files or generated patch payloads required')
+                        help='Build a standalone EXE using the checked-in patch data; no game files required')
     parser.add_argument('--output', type=Path, default=ROOT / 'dist/just-volleyball-ja')
     args = parser.parse_args()
     if args.exe_only:

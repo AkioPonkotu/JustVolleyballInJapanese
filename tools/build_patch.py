@@ -12,6 +12,7 @@ import bsdiff4
 from catalog import ROOT, TOKENS, load_catalogs, save
 from pck import Pack, sha256
 from package_release import package_release
+from release_data import export_snapshot
 
 TOKEN = re.compile(r'\#[^\n]*|"""(?:.|\n)*?"""|\x27\x27\x27(?:.|\n)*?\x27\x27\x27|"(?:\\.|[^"\\])*"|\x27(?:\\.|[^\x27\\])*\x27')
 
@@ -185,6 +186,7 @@ def main():
     shutil.copyfile(ROOT / 'assets/fonts/NOTICE.txt', output / 'FONT-NOTICE.txt')
     save(ROOT / 'work/analysis/applied-bindings.json', bindings)
     save(ROOT / 'evidence/patch-build.json', {key: value for key, value in manifest.items() if key != 'key_offset'})
+    export_snapshot(output)
     package_release(output)
     print(f'Built {len(entries)} entries, {len(changed)} scripts, {guide_count} guide fields')
 

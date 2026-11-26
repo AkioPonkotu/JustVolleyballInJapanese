@@ -4,3 +4,5 @@
 *.py text eol=lf
 *.gd text eol=lf
 *.md text eol=lf
+*.bin binary
+*.bsdiff binary

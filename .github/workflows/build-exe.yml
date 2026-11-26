@@ -40,12 +40,15 @@ jobs:
       - name: Run tests
         run: python -m unittest discover -s tests -v
 
-      - name: Build EXE without game files
+      - name: Verify checked-in patch data
+        run: python tools/release_data.py
+
+      - name: Build standalone EXE with embedded patch data
         run: python tools/package_release.py --exe-only --output dist/ci
 
       - name: Smoke test EXE
         run: |
-          $process = Start-Process -FilePath ./dist/ci/JustVolleyballJA.exe -ArgumentList '--help' -WindowStyle Hidden -Wait -PassThru
+          $process = Start-Process -FilePath ./dist/ci/JustVolleyballJA.exe -ArgumentList '--verify-package' -WindowStyle Hidden -Wait -PassThru
           if ($process.ExitCode -ne 0) { throw "EXE smoke test failed: $($process.ExitCode)" }
 
       - name: Upload EXE

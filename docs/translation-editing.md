@@ -80,7 +80,7 @@ Windows上でビルドします。出力は `dist/just-volleyball-ja.zip` とそ
 
 GuideTokensでは元のノードの自動翻訳無効設定を尊重します。称号は内部IDを維持したまま表示用テキストだけを訳します。ステージ・ユニフォーム・ボールの選択値も、内部IDを変更せず表示時に翻訳します。
 
-ZIPには変更リソースのバイナリ差分、翻訳辞書、日本語フォント、適用・解除ツールを収録します。元の全PCK、復号鍵、ゲームEXE、復元したゲームの全ソースは収録しません。
+変更リソースのバイナリ差分、翻訳辞書、日本語フォント、ライセンスを適用・解除ツールのEXEへ埋め込みます。配布ZIPには単体で使えるEXEと説明書を収録します。元の全PCK、復号鍵、ゲームEXE、復元したゲームの全ソースは収録しません。
 
 ZIPはファイル順と日時を固定し、今回のビルドで指定したファイルだけを収録します。EXEにはビルド環境由来の情報があるため、ZIP全体のバイト単位の再現性は保証しません。初回の検証は以下で実行できます。
 
@@ -92,8 +92,11 @@ uv run --python 3.12 --with-requirements requirements-build.txt python tools/ver
 後者はゲームを終了した状態で実行してください。`work` 内の一時ディレクトリにゲームファイルを複製して適用・解除を検証し、実際のインストール先には書き込みません。
 
 差分を変更せずEXEとZIPのみを再生成する場合は、同じビルド環境で `python tools/package_release.py` を実行できます。
-ゲーム本体や生成済み差分を使わずEXEだけをビルドする場合は、`python tools/package_release.py --exe-only --output dist/ci` を実行します。GitHub Actionsもこのコマンドを使い、`main` へのpushごとに検証・テスト後のEXEをartifactとして30日間保存します。Actions画面の `Build Windows EXE` は手動実行にも対応します。このartifactに翻訳・MODの差分は含まれないため、EXEの隣には別途生成した `manifest.json` と `payload/` を置いてください。翻訳やMODを変更した場合は、ゲーム本体のある環境で上記の完全ビルドを実施して差分も更新する必要があります。
-EXEは引数なしでGUIを開きます。検証用には `JustVolleyballJA.exe --game-dir <ゲームフォルダー> --install` / `--restore` も使えます。差分ファイルはEXEの隣から読み込みます。
+ゲーム本体なしで単体配布用EXEをビルドする場合は、`python tools/package_release.py --exe-only --output dist/ci` を実行します。GitHub Actionsもこのコマンドを使い、`main` へのpushごとに検証・テスト後のEXEをartifactとして30日間保存します。Actions画面の `Build Windows EXE` は手動実行にも対応します。
+
+埋め込み元はGit管理する `packaging/patch-data/` です。`tools/build_patch.py` による完全ビルドで、配布可能な差分・自作コード・フォントのみをここへ書き出します。翻訳やMOD、差分生成処理を変更した場合は、ゲーム本体のある環境で完全ビルドし、更新された `packaging/patch-data/` も一緒にコミットしてください。`inputs.json` に生成元のハッシュを記録し、古い差分のまま新しい翻訳を公開することを防ぎます。Actionsでは生成元と全payloadのハッシュを照合してから埋め込みます。
+
+EXEは引数なしでGUIを開きます。検証用には `JustVolleyballJA.exe --game-dir <ゲームフォルダー> --install` / `--restore` も使えます。`JustVolleyballJA.exe --verify-package` は埋め込んだ全payloadの整合性を検証します。標準ではEXE内のデータを使い、EXEの隣にあるファイルは参照しません。開発・検証時のみ `--package <フォルダー>` で外部データを明示指定できます。
 
 ## ゲーム更新への対応
 
