@@ -25,15 +25,18 @@ def build_executable(output, package=PATCH_DATA):
     build = ROOT / 'work/pyinstaller'
     build.mkdir(parents=True, exist_ok=True)
     # Stage only manifest-listed distributable data, never the game or work tree.
-    with tempfile.TemporaryDirectory(prefix='embedded-', dir=build) as directory:
-        embedded = Path(directory)
+    # Isolate each build so a preview EXE or another build cannot lock its files.
+    with tempfile.TemporaryDirectory(prefix='build-', dir=build) as directory:
+        workspace = Path(directory)
+        embedded = workspace / 'patch-data'
+        embedded.mkdir()
         for path in [package / 'manifest.json', package / 'OFL.txt', package / 'FONT-NOTICE.txt', *files]:
             target = embedded / path.relative_to(package)
             target.parent.mkdir(parents=True, exist_ok=True)
             shutil.copyfile(path, target)
         shutil.copyfile(ROOT / 'docs/patch-user-guide.md', embedded / 'README.md')
         collect_licenses(embedded)
-        freeze_executable(output, build, embedded)
+        freeze_executable(output, workspace, embedded)
 
 
 def freeze_executable(output, build, embedded):
