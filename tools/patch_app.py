@@ -1,6 +1,4 @@
 """Double-clickable Windows patch application; command-line flags remain available."""
-import ctypes
-import os
 from pathlib import Path
 import queue
 import sys
@@ -18,11 +16,6 @@ def package_directory():
 
 
 def show_app():
-    # Keep CLI output available for scripts, but hide the console on double-click.
-    if os.name == 'nt' and getattr(sys, 'frozen', False):
-        console = ctypes.windll.kernel32.GetConsoleWindow()
-        if console:
-            ctypes.windll.user32.ShowWindow(console, 0)
     root = tk.Tk()
     root.title('Just Volleyball 日本語化パッチ')
     root.geometry('650x320')

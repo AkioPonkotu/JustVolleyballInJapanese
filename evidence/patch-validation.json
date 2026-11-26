@@ -10,11 +10,14 @@
   "required_japanese_codepoints": 918,
   "missing_font_codepoints": [],
   "install_restore_roundtrip": "passed; original PCK restored byte for byte in disposable directory",
+  "release_exe_without_python_uv_on_path": "passed",
+  "japanese_package_path_and_different_working_directory": "passed",
+  "unsupported_build_install_rejection": "passed",
   "reinstall_rejection": "passed",
   "tampered_pck_restore_rejection": "passed",
   "updated_exe_restore_rejection": "passed",
   "unchanged_original_resource_entries": 13740,
   "changed_resource_hashes": "all verified",
   "installed_game_modified": false,
-  "release_zip_sha256": "9a4bf2c1d561e18186f584e8aba4a39767696d4baeef02056b28c83a132ec425"
+  "release_zip_sha256": "cedf3a086a0ac53379ddfccca3e85763184f47f6d8298f689181b4760d5373bd"
 }

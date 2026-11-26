@@ -19,7 +19,7 @@ def package_release(output):
     build.mkdir(parents=True, exist_ok=True)
     subprocess.run([
         sys.executable, '-m', 'PyInstaller', '--noconfirm', '--clean', '--onefile',
-        '--console', '--noupx', '--name', APP_NAME,
+        '--console', '--hide-console', 'hide-early', '--noupx', '--name', APP_NAME,
         '--distpath', str(build / 'dist'), '--workpath', str(build / 'build'),
         '--specpath', str(build), str(ROOT / 'tools/patch_app.py'),
     ], check=True, cwd=ROOT)
@@ -66,6 +66,10 @@ def package_release(output):
             info.compress_type = zipfile.ZIP_DEFLATED
             info.external_attr = 0o100644 << 16
             z.writestr(info, (output / name).read_bytes())
+    # Retire files emitted by the previous Python/uv distribution so the loose
+    # build directory does not offer outdated installation instructions either.
+    for name in ('Install.ps1', 'Restore.ps1', 'patch_game.py', 'pck.py', 'requirements.txt'):
+        (output / name).unlink(missing_ok=True)
     print(f'Built offline EXE release: {archive}')
 
 
