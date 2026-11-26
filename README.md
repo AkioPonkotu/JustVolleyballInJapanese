@@ -1,6 +1,6 @@
 # just volleyball 日本語化MOD
 
-Windows版・オフライン専用の非公式MODです。
+Windows用の非公式MODです。
 
 ## 導入方法
 
