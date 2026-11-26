@@ -9,6 +9,7 @@ from tkinter import filedialog, messagebox, ttk
 
 from patch_game import main as patch_main
 from release_data import verified_payloads
+from steam_game import find_game_directory
 from patch_ui import ActionButton, BLUE, CREAM, INK, MUTED, WHITE, YELLOW, draw_poster, rounded
 
 
@@ -36,7 +37,8 @@ def show_app():
                     font=('Yu Gothic UI', 12, 'bold'), fill=INK)
     art.create_text(955, 428, text='volleyball.exe があるフォルダー', anchor='e',
                     font=('Yu Gothic UI', 10), fill=MUTED)
-    path = tk.StringVar()
+    detected_game = find_game_directory()
+    path = tk.StringVar(value=str(detected_game) if detected_game else '')
     rounded(art, (44, 452, 812, 501), radius=12, fill=WHITE, outline=INK, width=2)
     entry = tk.Entry(panel, textvariable=path, font=('Yu Gothic UI', 11),
                      bg=WHITE, fg=INK, insertbackground=BLUE, relief='flat',
@@ -44,13 +46,16 @@ def show_app():
     entry.place(x=58, y=464, width=738, height=26)
 
     def browse():
-        selected = filedialog.askdirectory(parent=root, title='Just Volleyball のゲームフォルダーを選択')
+        selected = filedialog.askdirectory(parent=root, title='Just Volleyball のゲームフォルダーを選択',
+                                           initialdir=path.get() or None)
         if selected:
             path.set(selected)
 
     browse_button = ActionButton(panel, text='参照…', command=browse, width=128)
     browse_button.place(x=830, y=451)
-    status = tk.StringVar(value='Steamの「管理 → ローカルファイルを閲覧」で場所を確認できます。')
+    status = tk.StringVar(value='Steamからゲームフォルダーを検出しました。場所を確認して適用してください。'
+                          if detected_game else
+                          'ゲームフォルダーを検出できませんでした。「参照…」から選択してください。')
     status_label = tk.Label(panel, textvariable=status, wraplength=900, anchor='w',
                             justify='left', font=('Yu Gothic UI', 10), bg=CREAM, fg=MUTED)
     status_label.place(x=44, y=604, width=912, height=42)
