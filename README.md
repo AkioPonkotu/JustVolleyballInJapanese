@@ -12,6 +12,8 @@
 - [翻訳の編集・参照更新・再生成](docs/translation-editing.md)
 - [パッチの導入・解除](docs/patch-user-guide.md)
 - 配布ZIPの `JustVolleyballJA.exe` から適用・解除できます。利用者のPython・uv導入と実行時の通信は不要です。
+- `main` へのpushごとに [GitHub Actions](https://github.com/AkioPonkotu/JustVolleyballInJapanese/actions/workflows/build-exe.yml) でWindows x64のexeをビルドします。成功した実行の **Artifacts** から `JustVolleyballJA-windows-x64-（コミットSHA）` をダウンロードできます（保存期間30日、GitHubへのログインが必要）。手動実行も可能です。
+- Actionsのartifactはexeのみです。利用時は配布ZIPを展開したフォルダーのexeを置き換えてください。隣にある `manifest.json` と `payload/` が必要です。翻訳・MODの差分生成はゲーム本体を必要とするため、Actionsでは実施しません。
 - [検証結果](evidence/patch-validation.json)
 - [メニューの右端見切れ対策と幅の再測定](docs/menu-layout-fix.md)
 

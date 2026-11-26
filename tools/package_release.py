@@ -1,4 +1,5 @@
 """Freeze the patch tool and assemble an offline Windows release ZIP."""
+import argparse
 import importlib.metadata
 import json
 import os
@@ -12,9 +13,10 @@ ROOT = Path(__file__).resolve().parents[1]
 APP_NAME = 'JustVolleyballJA'
 
 
-def package_release(output):
+def build_executable(output):
     if os.name != 'nt':
         raise RuntimeError('Build the Windows release on Windows')
+    output.mkdir(parents=True, exist_ok=True)
     build = ROOT / 'work/pyinstaller'
     build.mkdir(parents=True, exist_ok=True)
     subprocess.run([
@@ -24,6 +26,10 @@ def package_release(output):
         '--specpath', str(build), str(ROOT / 'tools/patch_app.py'),
     ], check=True, cwd=ROOT)
     shutil.copyfile(build / 'dist' / f'{APP_NAME}.exe', output / f'{APP_NAME}.exe')
+
+
+def package_release(output):
+    build_executable(output)
     shutil.copyfile(ROOT / 'docs/patch-user-guide.md', output / 'README.md')
     licenses = output / 'licenses'
     licenses.mkdir(exist_ok=True)
@@ -74,4 +80,12 @@ def package_release(output):
 
 
 if __name__ == '__main__':
-    package_release(ROOT / 'dist/just-volleyball-ja')
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--exe-only', action='store_true',
+                        help='Build only the EXE; no game files or generated patch payloads required')
+    parser.add_argument('--output', type=Path, default=ROOT / 'dist/just-volleyball-ja')
+    args = parser.parse_args()
+    if args.exe_only:
+        build_executable(args.output.resolve())
+    else:
+        package_release(args.output.resolve())

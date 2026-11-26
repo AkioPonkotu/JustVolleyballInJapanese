@@ -92,6 +92,7 @@ uv run --python 3.12 --with-requirements requirements-build.txt python tools/ver
 後者はゲームを終了した状態で実行してください。`work` 内の一時ディレクトリにゲームファイルを複製して適用・解除を検証し、実際のインストール先には書き込みません。
 
 差分を変更せずEXEとZIPのみを再生成する場合は、同じビルド環境で `python tools/package_release.py` を実行できます。
+ゲーム本体や生成済み差分を使わずEXEだけをビルドする場合は、`python tools/package_release.py --exe-only --output dist/ci` を実行します。GitHub Actionsもこのコマンドを使い、`main` へのpushごとに検証・テスト後のEXEをartifactとして30日間保存します。Actions画面の `Build Windows EXE` は手動実行にも対応します。このartifactに翻訳・MODの差分は含まれないため、EXEの隣には別途生成した `manifest.json` と `payload/` を置いてください。翻訳やMODを変更した場合は、ゲーム本体のある環境で上記の完全ビルドを実施して差分も更新する必要があります。
 EXEは引数なしでGUIを開きます。検証用には `JustVolleyballJA.exe --game-dir <ゲームフォルダー> --install` / `--restore` も使えます。差分ファイルはEXEの隣から読み込みます。
 
 ## ゲーム更新への対応
