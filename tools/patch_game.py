@@ -64,7 +64,9 @@ def main():
     if args.restore:
         game_not_running()
         state = json.loads(receipt.read_text(encoding='utf-8'))
-        if sha256(live.read_bytes()) != state['patched_sha256'] or sha256(backup.read_bytes()) != state['original_sha256']:
+        if (sha256(live.read_bytes()) != state['patched_sha256']
+                or sha256(backup.read_bytes()) != state['original_sha256']
+                or sha256((game / 'volleyball.exe').read_bytes()) != state['exe_sha256']):
             raise ValueError('Game was updated or changed; refusing to restore an old build')
         os.replace(backup, live)
         receipt.unlink()
@@ -85,7 +87,8 @@ def main():
         if check.read(path) != expected:
             raise ValueError(f'Written resource verification failed: {path}')
     if args.install:
-        state = {'original_sha256': manifest['original_pck_sha256'], 'patched_sha256': sha256(output.read_bytes())}
+        state = {'original_sha256': manifest['original_pck_sha256'], 'exe_sha256': manifest['original_exe_sha256'],
+                 'patched_sha256': sha256(output.read_bytes())}
         # A receipt is written first; a failed swap rolls back and removes it.
         receipt.write_text(json.dumps(state, indent=2) + '\n', encoding='utf-8')
         try:

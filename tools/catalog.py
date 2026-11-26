@@ -55,6 +55,8 @@ def load_catalogs():
                 raise ValueError(f'Empty translation: {ident}')
             if Counter(TOKENS.findall(source)) != Counter(TOKENS.findall(japanese)):
                 raise ValueError(f'Placeholders or markup differ: {ident}: {source!r}')
+            if [t for t in TOKENS.findall(source) if t.startswith('%')] != [t for t in TOKENS.findall(japanese) if t.startswith('%')]:
+                raise ValueError(f'Positional format arguments changed order: {ident}')
             if data['domain'] != 'howto':
                 if source in messages and messages[source] != japanese:
                     raise ValueError(f'Conflicting translations for shared message: {source!r}')
@@ -70,6 +72,7 @@ def main():
     seed.add_argument('--domain', required=True)
     seed.add_argument('--seed', type=Path, required=True)
     subs.add_parser('validate')
+    subs.add_parser('sync')
     args = parser.parse_args()
     if args.command == 'import':
         if not re.fullmatch('[a-z][a-z0-9_-]*', args.domain):
@@ -78,6 +81,22 @@ def main():
     else:
         messages, entries = load_catalogs()
         print(f'Validated {len(entries)} entries / {len(messages)} unique messages')
+        if args.command == 'sync':
+            inventory = json.loads((ROOT / 'work/analysis/all-english-literals.json').read_text(encoding='utf-8'))
+            by_source = {}
+            for row in inventory:
+                by_source.setdefault(row['text'], []).append({'path': row['path'], 'line': row['line']})
+            locations = {}
+            for ident, entry in entries.items():
+                locations[ident] = ([{'path': 'game/ui/how_to_text.json', 'pointer': entry['context']}]
+                                    if ident.startswith('howto.') else by_source.get(entry['source'], []))
+            save(ROOT / 'translations/source-locations.json', locations)
+            candidates = json.loads((ROOT / 'work/analysis/text-candidates.json').read_text(encoding='utf-8'))
+            pending = [row for row in candidates if row['text'] not in messages
+                       and row['path'].startswith(('game/ui/', 'game/drills/', 'game/character/'))
+                       and row['path'] != 'game/ui/how_to_text.json']
+            save(ROOT / 'work/analysis/untranslated-candidates.json', pending)
+            print(f'Refreshed source references; {len(pending)} heuristic candidates need triage. Human translations unchanged.')
 
 
 if __name__ == '__main__':

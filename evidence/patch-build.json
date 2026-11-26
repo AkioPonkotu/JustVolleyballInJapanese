@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "locale": "ja",
+  "game_build_id": "26937150",
+  "original_pck_sha256": "f72ea5884cfab90be24ba35e83693325e1e0f75d4d767de53a627f5f6f68d583",
+  "original_exe_sha256": "224a5ea56536081b84369a0e90590a688a8510fefcc24ab84af1a31b3e052435",
+  "catalog_entries": 919,
+  "unique_messages": 716,
+  "guide_display_fields": 203,
+  "files": [
+    {
+      "path": "game/core/game_config.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "8e18641581712dba87bc3745fa92aefed4c27bf8675edf3b3cd61e0a7df2fdc6",
+      "source_sha256": "39ddac74c7c2b0516bce83987681c6f251c0186afd9a941f29d7aa5bf4051ebd",
+      "payload": "payload/2340d21339cea696.bsdiff",
+      "payload_sha256": "2e808fb34466fa9814a38a6619dcc2b32c465214caed27851a3b0b226ae01769"
+    },
+    {
+      "path": "game/guide/guide_tokens.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "8382012a68bf1ecfdf5321533f472c92fe10d7c7224f79c812cc1b927b55a49b",
+      "source_sha256": "cb56b87f1a14ed04e67cb8066f3ad82574fb2257f2182ede4e5aca2796209b66",
+      "payload": "payload/4736e71897bfc370.bsdiff",
+      "payload_sha256": "aa149e1d4a613e13c0540f0366032774dddc8d4b15cd90ba9ef96f99b7ac45f6"
+    },
+    {
+      "path": "game/ui/cfg_panel.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "c9bec39b0086aee0ec6909a7276f8d309a5f20177279dbaa80cb374078aa4a50",
+      "source_sha256": "53c997825bdc0e56c63247c389b21c0f4abf59a96757fa9800415a6fd5b2faae",
+      "payload": "payload/3f10dd3939975b97.bsdiff",
+      "payload_sha256": "3b01119fd994683fa256faf660656aba44c88dc73a8cc35c8f0cdcf7f389e3ba"
+    },
+    {
+      "path": "game/ui/how_to_text.json",
+      "mode": "bsdiff",
+      "result_sha256": "be20fd35e561a24453a9359b82c7f8065782f6d8a94fe7d02906c900dfd0369b",
+      "source_sha256": "3c474c6d9e3ff54a587aafefa3253786802124f12647e09f39facb8bd4d531bb",
+      "payload": "payload/3c345f09547ea3ac.bsdiff",
+      "payload_sha256": "e23e979df2ba0f1635bea69af16711e454d2404172f3e842a9518d85a20cd759"
+    },
+    {
+      "path": "game/ui/hud.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "6c9234d16e58325329174c1b027d4091bbe0cde376ebf5cab81a0770593d7595",
+      "source_sha256": "b33c179566cc09d741d95a67eb55ef65cabb22b0bad93f700abecb6c2a120e66",
+      "payload": "payload/ae122bb39a809385.bsdiff",
+      "payload_sha256": "f7d440a38abd87cc716b5fa637604fa69e68a055b364b0a94fe4f47a5200de69"
+    },
+    {
+      "path": "game/ui/lobby/lobby_panel.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "9f89bd95a1a1a04511710a1bdb2b0023c2f23d59ba0981b887d035c2530ca925",
+      "source_sha256": "cb9cdfd1c2e92537825c6f4ba438a870cd09a4112b47864ab2d63094b6f34e16",
+      "payload": "payload/2acf061407f29845.bsdiff",
+      "payload_sha256": "cec6ad00a5ee8bb20ab4ace32ff4222c66eb1dd8e81d9291e5a58f3f2d2e7af9"
+    },
+    {
+      "path": "game/ui/lobby/rules_strip.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "f8396826bc5df7308d7d8d54e644aa6571eeabaaeac314e8f31f58ac93c882b7",
+      "source_sha256": "5b09182b5d3db18d64a31b31eb52cc3e500b3aef6e0100f0f3912127a54c5d55",
+      "payload": "payload/190ffdd44d77df7d.bsdiff",
+      "payload_sha256": "ae2f6f4bf67f4e7942dcc7b37f52de70ed2fc7a0f753f7bfd48b54908ee743b0"
+    },
+    {
+      "path": "game/ui/menu.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "659df5105f86cac3f13ff06fc0279a9281d9a7a03a2a99fcf24a432d82e6c3a9",
+      "source_sha256": "ddafeb5f7275dfa118c5e87b9ab896c366a64ff5badfb7b257e1d6e3c10bba21",
+      "payload": "payload/8f67768eb20ca76f.bsdiff",
+      "payload_sha256": "ca73102d2ce6a2c78515c0cd4a10b40637384ba5e28ad517e3b5115a8fb3984a"
+    },
+    {
+      "path": "game/ui/pause_menu.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "d55f57192bc77d65a31ae3d5a5e424d9810dbc8a8d78afdeb31749abb62048a1",
+      "source_sha256": "9a4f4dc5c076807fd0bb6da44b214f1d91d45cb6e3d721543ef88c13dd2d6c6b",
+      "payload": "payload/7a593bbaf659f49c.bsdiff",
+      "payload_sha256": "74c2865ebd2c0e9dfa2491fd8c54460503176ee75849fc1f723d5ba3628562e9"
+    },
+    {
+      "path": "game/ui/rank_up.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "cbdee96720c1e5b2bd59fd271797c0f35fc72551c8fac5bfa8f0b31f11e26966",
+      "source_sha256": "c799fbb6b9c1aff8ce8adf9a22dec542eb6c01e7c56cdc91a877cfaff392b8cf",
+      "payload": "payload/1573e6fa446e767d.bsdiff",
+      "payload_sha256": "760e247252c670e851a026197406b0e272dc0b92628732326a12573aed68fb28"
+    },
+    {
+      "path": "game/ui/settings_panel.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "04bce6360244632261c456ac8d9365f94c55c0083ee567da948d23b25bc1293f",
+      "source_sha256": "887d0c9ca6537590b43f860910e1a1cb76bef0f6c8c1db7ed9d9f709cc9de36b",
+      "payload": "payload/2444989cb80f43a7.bsdiff",
+      "payload_sha256": "4de7380aff44610e55519ef4957ada756af35cb33479de7f8f98d8043dc99974"
+    },
+    {
+      "path": "game/ui/tutorial_overlay.gdc",
+      "mode": "bsdiff",
+      "result_sha256": "cc32e4be9d28f23ee7ca76d0f872fc16a62ddfea8180645b7a91d9efdfb3476b",
+      "source_sha256": "22b5ebfde432fd9ff22aa52e8f75dd5ac2b4df3f0f8694f9be9dea381d652283",
+      "payload": "payload/447388bcf3e16188.bsdiff",
+      "payload_sha256": "950c18e14697bad7d3d5f6d9cbba23e9bd64bf24a0a76d0e22a5001c7e54ffad"
+    },
+    {
+      "path": "jvja/NotoSansJP.ttf",
+      "mode": "add",
+      "result_sha256": "f4b373b226668ee33a6e54b02823dcd2d1209f17159f777421ae8c2275160369",
+      "payload": "payload/9df2549b12f410f8.bin",
+      "payload_sha256": "f4b373b226668ee33a6e54b02823dcd2d1209f17159f777421ae8c2275160369"
+    },
+    {
+      "path": "jvja/bootstrap.gd",
+      "mode": "add",
+      "result_sha256": "14681d26a4c827ca369236b4909a1b164d39d3160113a61e6f2b4cf4de5ffb46",
+      "payload": "payload/8d24625a33bcf204.bin",
+      "payload_sha256": "14681d26a4c827ca369236b4909a1b164d39d3160113a61e6f2b4cf4de5ffb46"
+    },
+    {
+      "path": "jvja/messages.json",
+      "mode": "add",
+      "result_sha256": "b984899a430296303985efd7f0f1c9844a347af49529768bbb3d15249ec9b45e",
+      "payload": "payload/a45272f1b4a0ddae.bin",
+      "payload_sha256": "b984899a430296303985efd7f0f1c9844a347af49529768bbb3d15249ec9b45e"
+    }
+  ]
+}
