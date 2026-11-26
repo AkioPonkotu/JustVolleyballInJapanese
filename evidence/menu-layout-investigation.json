@@ -1,0 +1,810 @@
+{
+  "date": "2026-11-26",
+  "method": "Headless Godot 4.7.1, original menu _build_bars invoked from an isolated derived scene, original encrypted pack and currently installed Japanese pack compared. No game installation or original saves modified.",
+  "base_viewport": [
+    1920,
+    1080
+  ],
+  "state": {
+    "outfit": "captain",
+    "ball": "school",
+    "stage": "nationals",
+    "time_of_day": 0,
+    "profile_name": "Player",
+    "profile_progress": "isolated fresh profile"
+  },
+  "limitations": [
+    "Only the original bar construction is run; party population and matchmaking are not exercised.",
+    "These are logical layout measurements, not screenshots.",
+    "Saved player names, progression and other stages can change bottom minimum width."
+  ],
+  "runtime_script_errors": 0,
+  "measurements": [
+    {
+      "locale": "en",
+      "scale": 1.4,
+      "available_width": 1371.429,
+      "bars": {
+        "bottom": {
+          "minimum_width": 1233.0,
+          "overflow_width": 0,
+          "last_child_right": 1353.0,
+          "child_minimum_widths": [
+            {
+              "class": "HBoxContainer",
+              "source_or_formatted_text": "",
+              "minimum_width": 360.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "discord",
+              "minimum_width": 108.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "outfit: captain uniform",
+              "minimum_width": 184.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "ball: school",
+              "minimum_width": 106.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "stage: nationals arena",
+              "minimum_width": 182.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "freeplay",
+              "minimum_width": 111.0
+            },
+            {
+              "class": "Label",
+              "source_or_formatted_text": "v1.0.4.3",
+              "minimum_width": 56.0
+            }
+          ]
+        },
+        "top": {
+          "minimum_width": 1369.0,
+          "overflow_width": 0,
+          "last_child_right": 1343.0,
+          "child_minimum_widths": [
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 164.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "play",
+              "minimum_width": 76.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "locker",
+              "minimum_width": 76.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "shop",
+              "minimum_width": 76.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "profile",
+              "minimum_width": 79.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "career",
+              "minimum_width": 77.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "awards",
+              "minimum_width": 85.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "PanelContainer",
+              "source_or_formatted_text": "",
+              "minimum_width": 392.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "",
+              "minimum_width": 40.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "",
+              "minimum_width": 40.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "",
+              "minimum_width": 40.0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "locale": "en",
+      "scale": 1.2,
+      "available_width": 1600.0,
+      "bars": {
+        "bottom": {
+          "minimum_width": 1233.0,
+          "overflow_width": 0,
+          "last_child_right": 1581.0,
+          "child_minimum_widths": [
+            {
+              "class": "HBoxContainer",
+              "source_or_formatted_text": "",
+              "minimum_width": 360.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "discord",
+              "minimum_width": 108.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "outfit: captain uniform",
+              "minimum_width": 184.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "ball: school",
+              "minimum_width": 106.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "stage: nationals arena",
+              "minimum_width": 182.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "freeplay",
+              "minimum_width": 111.0
+            },
+            {
+              "class": "Label",
+              "source_or_formatted_text": "v1.0.4.3",
+              "minimum_width": 56.0
+            }
+          ]
+        },
+        "top": {
+          "minimum_width": 1369.0,
+          "overflow_width": 0,
+          "last_child_right": 1571.0,
+          "child_minimum_widths": [
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 164.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "play",
+              "minimum_width": 76.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "locker",
+              "minimum_width": 76.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "shop",
+              "minimum_width": 76.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "profile",
+              "minimum_width": 79.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "career",
+              "minimum_width": 77.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "awards",
+              "minimum_width": 85.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "PanelContainer",
+              "source_or_formatted_text": "",
+              "minimum_width": 392.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "",
+              "minimum_width": 40.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "",
+              "minimum_width": 40.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "",
+              "minimum_width": 40.0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "locale": "en",
+      "scale": 1.0,
+      "available_width": 1920.0,
+      "bars": {
+        "bottom": {
+          "minimum_width": 1233.0,
+          "overflow_width": 0,
+          "last_child_right": 1902.0,
+          "child_minimum_widths": [
+            {
+              "class": "HBoxContainer",
+              "source_or_formatted_text": "",
+              "minimum_width": 360.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "discord",
+              "minimum_width": 108.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "outfit: captain uniform",
+              "minimum_width": 184.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "ball: school",
+              "minimum_width": 106.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "stage: nationals arena",
+              "minimum_width": 182.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "freeplay",
+              "minimum_width": 111.0
+            },
+            {
+              "class": "Label",
+              "source_or_formatted_text": "v1.0.4.3",
+              "minimum_width": 56.0
+            }
+          ]
+        },
+        "top": {
+          "minimum_width": 1369.0,
+          "overflow_width": 0,
+          "last_child_right": 1892.0,
+          "child_minimum_widths": [
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 164.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "play",
+              "minimum_width": 76.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "locker",
+              "minimum_width": 76.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "shop",
+              "minimum_width": 76.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "profile",
+              "minimum_width": 79.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "career",
+              "minimum_width": 77.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "awards",
+              "minimum_width": 85.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "PanelContainer",
+              "source_or_formatted_text": "",
+              "minimum_width": 392.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "",
+              "minimum_width": 40.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "",
+              "minimum_width": 40.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "",
+              "minimum_width": 40.0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "locale": "ja",
+      "scale": 1.4,
+      "available_width": 1371.429,
+      "bars": {
+        "bottom": {
+          "minimum_width": 1415.0,
+          "overflow_width": 43.571,
+          "last_child_right": 1397.0,
+          "child_minimum_widths": [
+            {
+              "class": "HBoxContainer",
+              "source_or_formatted_text": "",
+              "minimum_width": 383.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "discord",
+              "minimum_width": 108.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "ユニフォーム：キャプテンのユニフォーム",
+              "minimum_width": 309.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "ボール：学校",
+              "minimum_width": 114.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "ステージ：全国大会会場",
+              "minimum_width": 189.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "freeplay",
+              "minimum_width": 130.0
+            },
+            {
+              "class": "Label",
+              "source_or_formatted_text": "v1.0.4.3",
+              "minimum_width": 56.0
+            }
+          ]
+        },
+        "top": {
+          "minimum_width": 1480.0,
+          "overflow_width": 108.571,
+          "last_child_right": 1452.0,
+          "child_minimum_widths": [
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 164.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "play",
+              "minimum_width": 77.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "locker",
+              "minimum_width": 94.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "shop",
+              "minimum_width": 94.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "profile",
+              "minimum_width": 128.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "career",
+              "minimum_width": 76.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "awards",
+              "minimum_width": 111.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "PanelContainer",
+              "source_or_formatted_text": "",
+              "minimum_width": 392.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "",
+              "minimum_width": 40.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "",
+              "minimum_width": 40.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "",
+              "minimum_width": 40.0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "locale": "ja",
+      "scale": 1.2,
+      "available_width": 1600.0,
+      "bars": {
+        "bottom": {
+          "minimum_width": 1415.0,
+          "overflow_width": 0,
+          "last_child_right": 1581.0,
+          "child_minimum_widths": [
+            {
+              "class": "HBoxContainer",
+              "source_or_formatted_text": "",
+              "minimum_width": 383.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "discord",
+              "minimum_width": 108.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "ユニフォーム：キャプテンのユニフォーム",
+              "minimum_width": 309.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "ボール：学校",
+              "minimum_width": 114.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "ステージ：全国大会会場",
+              "minimum_width": 189.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "freeplay",
+              "minimum_width": 130.0
+            },
+            {
+              "class": "Label",
+              "source_or_formatted_text": "v1.0.4.3",
+              "minimum_width": 56.0
+            }
+          ]
+        },
+        "top": {
+          "minimum_width": 1480.0,
+          "overflow_width": 0,
+          "last_child_right": 1571.0,
+          "child_minimum_widths": [
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 164.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "play",
+              "minimum_width": 77.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "locker",
+              "minimum_width": 94.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "shop",
+              "minimum_width": 94.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "profile",
+              "minimum_width": 128.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "career",
+              "minimum_width": 76.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "awards",
+              "minimum_width": 111.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "PanelContainer",
+              "source_or_formatted_text": "",
+              "minimum_width": 392.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "",
+              "minimum_width": 40.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "",
+              "minimum_width": 40.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "",
+              "minimum_width": 40.0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "locale": "ja",
+      "scale": 1.0,
+      "available_width": 1920.0,
+      "bars": {
+        "bottom": {
+          "minimum_width": 1415.0,
+          "overflow_width": 0,
+          "last_child_right": 1902.0,
+          "child_minimum_widths": [
+            {
+              "class": "HBoxContainer",
+              "source_or_formatted_text": "",
+              "minimum_width": 383.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "discord",
+              "minimum_width": 108.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "ユニフォーム：キャプテンのユニフォーム",
+              "minimum_width": 309.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "ボール：学校",
+              "minimum_width": 114.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "ステージ：全国大会会場",
+              "minimum_width": 189.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "freeplay",
+              "minimum_width": 130.0
+            },
+            {
+              "class": "Label",
+              "source_or_formatted_text": "v1.0.4.3",
+              "minimum_width": 56.0
+            }
+          ]
+        },
+        "top": {
+          "minimum_width": 1480.0,
+          "overflow_width": 0,
+          "last_child_right": 1892.0,
+          "child_minimum_widths": [
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 164.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "play",
+              "minimum_width": 77.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "locker",
+              "minimum_width": 94.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "shop",
+              "minimum_width": 94.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "profile",
+              "minimum_width": 128.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "career",
+              "minimum_width": 76.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "awards",
+              "minimum_width": 111.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "PanelContainer",
+              "source_or_formatted_text": "",
+              "minimum_width": 392.0
+            },
+            {
+              "class": "Control",
+              "source_or_formatted_text": "",
+              "minimum_width": 0.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "",
+              "minimum_width": 40.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "",
+              "minimum_width": 40.0
+            },
+            {
+              "class": "Button",
+              "source_or_formatted_text": "",
+              "minimum_width": 40.0
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
