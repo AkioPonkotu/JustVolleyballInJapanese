@@ -223,10 +223,10 @@
     {
       "path": "game/ui/menu.gdc",
       "mode": "bsdiff",
-      "result_sha256": "d5520802b62bcc21a3b25d273463fdea14086a077caa787192aad5ed6bf27da9",
+      "result_sha256": "95d44daf4abfb903d063fb92a95dcd9a976830d8a0b40347c11866279458155d",
       "source_sha256": "ddafeb5f7275dfa118c5e87b9ab896c366a64ff5badfb7b257e1d6e3c10bba21",
       "payload": "payload/8f67768eb20ca76f.bsdiff",
-      "payload_sha256": "570b23ec532229f4754198d7f017a11c9a21606e8d865e584dc8f2aed025089a"
+      "payload_sha256": "fa5697728aa92812e0601b0117187318544616a0876184a98099f06973d3a2e0"
     },
     {
       "path": "game/ui/pause_menu.gdc",
@@ -338,11 +338,18 @@
       "payload_sha256": "ec47816ad27d3220c2d16cabfc4a959566ce695edd4a466acb008c4152139c3e"
     },
     {
+      "path": "jvja/menu_layout.gd",
+      "mode": "add",
+      "result_sha256": "24f29f7ee92b163da22eb66b5eae711b0edbed49a1c9998916ae585e798128a1",
+      "payload": "payload/d3390db3345e599f.bin",
+      "payload_sha256": "24f29f7ee92b163da22eb66b5eae711b0edbed49a1c9998916ae585e798128a1"
+    },
+    {
       "path": "jvja/messages.json",
       "mode": "add",
-      "result_sha256": "825005b019fff477911499ef659790086c4ec8f3ff5fbeb36c7f32adc9c95d8b",
+      "result_sha256": "1d33911663fa886c8ed8c2504371a3dfd799e5147d64f403838be91e1326a905",
       "payload": "payload/a45272f1b4a0ddae.bin",
-      "payload_sha256": "825005b019fff477911499ef659790086c4ec8f3ff5fbeb36c7f32adc9c95d8b"
+      "payload_sha256": "1d33911663fa886c8ed8c2504371a3dfd799e5147d64f403838be91e1326a905"
     }
   ]
 }

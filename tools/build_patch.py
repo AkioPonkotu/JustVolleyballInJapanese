@@ -105,6 +105,10 @@ def main():
             if patched.count(stage_line) != 1:
                 raise ValueError('Stage label expression changed')
             patched = patched.replace(stage_line, stage_line[:-1] + 'tr(t)')
+            anchor = '\t_refresh_player_card()\n\t_refresh_couch_gates()'
+            if patched.count(anchor) != 1:
+                raise ValueError('Menu bar layout insertion point changed')
+            patched = patched.replace(anchor, anchor + '\n\tload("res://jvja/menu_layout.gd").attach(self)')
         if rel == 'game/titles/title_catalog.gd':
             anchor = '\t\t_items.append(item)'
             if patched.count(anchor) != 1:
@@ -150,6 +154,7 @@ def main():
     runtime_messages = {'': messages, 'titles': {entry['source']: entry['ja'] for ident, entry in entries.items() if ident.startswith('titles.')}}
     additions = {
         'jvja/bootstrap.gd': (ROOT / 'mod/bootstrap.gd').read_bytes(),
+        'jvja/menu_layout.gd': (ROOT / 'mod/menu_layout.gd').read_bytes(),
         'jvja/messages.json': json.dumps(runtime_messages, ensure_ascii=False, sort_keys=True).encode(),
         'jvja/JVVolleyballJP-SemiBold.ttf': (ROOT / 'assets/fonts/JVVolleyballJP-SemiBold.ttf').read_bytes(),
         'jvja/JVVolleyballJP-ExtraBold.ttf': (ROOT / 'assets/fonts/JVVolleyballJP-ExtraBold.ttf').read_bytes(),

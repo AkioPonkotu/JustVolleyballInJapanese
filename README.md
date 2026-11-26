@@ -13,6 +13,7 @@
 - [パッチの導入・解除](docs/patch-user-guide.md)
 - 配布ZIPの `JustVolleyballJA.exe` から適用・解除できます。利用者のPython・uv導入と実行時の通信は不要です。
 - [検証結果](evidence/patch-validation.json)
+- [メニューの右端見切れ対策と幅の再測定](docs/menu-layout-fix.md)
 
 遊び方の203表示フィールドと称号547件を含む。2436項目の内訳は、通常UIの共有メッセージ1686件、独立した文脈の称号547件、遊び方203件。訳文はすべて初稿で、人によるレビュー前。名前・記号等の原表記を維持した項目も含む。
 
