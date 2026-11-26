@@ -1,0 +1,14 @@
+{
+  "standalone_exe_sha256": "c9ad212792917ac64b88abeb54af576ed3c182d39c1de7b3d03ae184c54fa7b2",
+  "external_manifest_and_payloads": "absent",
+  "python_and_uv_on_path": "absent",
+  "japanese_exe_path_and_different_working_directory": "passed",
+  "embedded_payload_verification": "passed",
+  "patched_resource_hashes_verified": 43,
+  "embedded_license_files": 13,
+  "installed_game_modified": false,
+  "github_actions_run": "https://github.com/AkioPonkotu/JustVolleyballInJapanese/actions/runs/45843821170",
+  "downloaded_artifact_embedded_payload_hashes": "all 43 passed (archive inspection)",
+  "downloaded_artifact_embedded_license_files": 13,
+  "install_restore_roundtrip": "not run; game was running (safety check preserved)"
+}
