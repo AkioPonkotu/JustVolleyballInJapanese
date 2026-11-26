@@ -3,3 +3,5 @@
 /work/
 /dist/
 *.log
+__pycache__/
+*.pyc
