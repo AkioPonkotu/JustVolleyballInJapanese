@@ -35,7 +35,7 @@
     },
     "ui.27cb2b5acec2f454": {
       "source": "awards",
-      "ja": "実績・称号",
+      "ja": "クエスト",
       "status": "draft",
       "note": ""
     },
@@ -647,7 +647,7 @@
     },
     "ui.b2c2fdb7f3f70c90": {
       "source": "create party",
-      "ja": "パーティーを作成",
+      "ja": "作成",
       "status": "draft",
       "note": ""
     },
