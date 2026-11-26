@@ -7,11 +7,11 @@ import re
 import shutil
 import subprocess
 import sys
-import zipfile
 
 import bsdiff4
 from catalog import ROOT, TOKENS, load_catalogs, save
 from pck import Pack, sha256
+from package_release import package_release
 
 TOKEN = re.compile(r'\#[^\n]*|"""(?:.|\n)*?"""|\x27\x27\x27(?:.|\n)*?\x27\x27\x27|"(?:\\.|[^"\\])*"|\x27(?:\\.|[^\x27\\])*\x27')
 
@@ -176,27 +176,12 @@ def main():
         item.update(payload=name, payload_sha256=sha256(payload))
         manifest['files'].append(item)
     save(output / 'manifest.json', manifest)
-    for name in ['patch_game.py', 'pck.py']:
-        shutil.copyfile(ROOT / 'tools' / name, output / name)
-    shutil.copyfile(ROOT / 'requirements.txt', output / 'requirements.txt')
     shutil.copyfile(ROOT / 'assets/fonts/OFL.txt', output / 'OFL.txt')
     shutil.copyfile(ROOT / 'assets/fonts/NOTICE.txt', output / 'FONT-NOTICE.txt')
-    for name in ['Install.ps1', 'Restore.ps1']:
-        shutil.copyfile(ROOT / 'packaging' / name, output / name)
-    shutil.copyfile(ROOT / 'docs/patch-user-guide.md', output / 'README.md')
     save(ROOT / 'work/analysis/applied-bindings.json', bindings)
     save(ROOT / 'evidence/patch-build.json', {key: value for key, value in manifest.items() if key != 'key_offset'})
-    archive = output.with_suffix('.zip')
-    with zipfile.ZipFile(archive, 'w', zipfile.ZIP_DEFLATED) as z:
-        # Only include files listed by this build, not stale payloads from old builds.
-        include = ['manifest.json', 'patch_game.py', 'pck.py', 'requirements.txt', 'OFL.txt', 'FONT-NOTICE.txt',
-                   'Install.ps1', 'Restore.ps1', 'README.md'] + [item['payload'] for item in manifest['files']]
-        for name in sorted(include):
-            info = zipfile.ZipInfo(name, date_time=(1980, 1, 1, 0, 0, 0))
-            info.compress_type = zipfile.ZIP_DEFLATED
-            info.external_attr = 0o100644 << 16
-            z.writestr(info, (output / name).read_bytes())
-    print(f'Built {archive}: {len(entries)} entries, {len(changed)} scripts, {guide_count} guide fields')
+    package_release(output)
+    print(f'Built {len(entries)} entries, {len(changed)} scripts, {guide_count} guide fields')
 
 
 if __name__ == '__main__':

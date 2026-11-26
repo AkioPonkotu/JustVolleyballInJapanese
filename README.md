@@ -11,6 +11,7 @@
 - 翻訳の正本: [translations/ja](translations/ja)。用途別JSON・固定ID・原文・訳文・レビュー状態・メモで管理する。
 - [翻訳の編集・参照更新・再生成](docs/translation-editing.md)
 - [パッチの導入・解除](docs/patch-user-guide.md)
+- 配布ZIPの `JustVolleyballJA.exe` から適用・解除できます。利用者のPython・uv導入と実行時の通信は不要です。
 - [検証結果](evidence/patch-validation.json)
 
 遊び方の203表示フィールドと称号547件を含む。2436項目の内訳は、通常UIの共有メッセージ1686件、独立した文脈の称号547件、遊び方203件。訳文はすべて初稿で、人によるレビュー前。名前・記号等の原表記を維持した項目も含む。
@@ -19,7 +20,7 @@
 
 ```powershell
 uv run --python 3.12 python tools/catalog.py validate
-uv run --python 3.12 --with-requirements requirements.txt python tools/build_patch.py
+uv run --python 3.12 --with-requirements requirements-build.txt python tools/build_patch.py
 ```
 
 元PCKを再エクスポートせず、変更リソースを暗号化して末尾に追加する。配布ZIPには変更分のバイナリ差分、自作コード、翻訳辞書と日本語フォントを含める。元PCK全体、ゲームEXE、復号鍵は含めない。適用・解除はバックアップとハッシュ照合を行う。

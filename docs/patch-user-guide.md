@@ -9,14 +9,12 @@
 
 1. ゲームを終了します。
 2. ZIPを任意のフォルダーへ展開します。
-3. uvを用意します: https://docs.astral.sh/uv/getting-started/installation/
-4. 展開先でPowerShellを開いて実行します。
+3. 展開先の `JustVolleyballJA.exe` をダブルクリックします。
+4. 「参照…」から `volleyball.exe` があるゲームフォルダーを選択し、「適用」を押します。
 
-```powershell
-.\Install.ps1 -GameDirectory 'F:\SteamLibrary\steamapps\common\just volleyball'
-```
-
-Python 3.12と依存パッケージはuvが用意します。初回はインターネット接続が必要です。
+ゲームの場所は、Steamライブラリでゲームを右クリックし「管理 → ローカルファイルを閲覧」から確認できます。
+Python・uvのインストールやコマンド入力は不要です。実行環境を同梱しているため、適用・解除時のインターネット接続も不要です。
+EXEだけを移動せず、展開したフォルダーの内容をまとめて保管してください。
 EXE・PCKのハッシュが対応版と一致しない場合は適用を拒否します。別ビルドに強制適用する方法はありません。
 元のPCKは `volleyball.pck.ja-backup` に保存されます。翻訳以外のゲーム素材を再エクスポートしません。
 
@@ -24,11 +22,7 @@ EXE・PCKのハッシュが対応版と一致しない場合は適用を拒否�
 
 ## 解除
 
-ゲームを終了し、パッチの展開先で実行します。
-
-```powershell
-.\Restore.ps1 -GameDirectory 'F:\SteamLibrary\steamapps\common\just volleyball'
-```
+ゲームを終了し、`JustVolleyballJA.exe` を起動します。ゲームフォルダーを選択して「解除」を押します。
 
 適用後にゲームが更新された場合は、古いバックアップへの復元を拒否します。その場合はSteamの「インストール済みファイル > ゲームファイルの整合性を確認」で現行版へ戻してください。バックアップは自動削除しません。
 
@@ -38,3 +32,4 @@ EXE・PCKのハッシュが対応版と一致しない場合は適用を拒否�
 編集方法と再生成手順はリポジトリの `docs/translation-editing.md` を参照してください。
 
 同梱フォントはNoto Sans JPから固定ウェイトで生成し、JV Volleyball Japaneseへ改名したものです。SIL Open Font License 1.1で配布します。`OFL.txt` と `FONT-NOTICE.txt` を参照してください。
+同梱する実行環境・ライブラリのライセンスは `licenses/` に収録しています。

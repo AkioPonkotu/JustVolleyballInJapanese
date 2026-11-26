@@ -71,10 +71,10 @@ uv run --python 3.12 python tools/catalog.py import --domain ui --seed work/new-
 このリポジトリでは、解析済みの `work/raw` / `work/recovered` と `.local/gdre/gdre_tools.exe` が利用できます。別環境では先に `docs/pck-analysis.md` のローカル解析を行い、GDRE Tools v2.7.4を用意してください。
 
 ```powershell
-uv run --python 3.12 --with-requirements requirements.txt python tools/build_patch.py
+uv run --python 3.12 --with-requirements requirements-build.txt python tools/build_patch.py
 ```
 
-出力は `dist/just-volleyball-ja.zip` とその展開内容です。人の訳文を検証してから再生成します。原文の位置、対象ビルド、差分の元ハッシュが一致しなければ停止します。
+Windows上でビルドします。出力は `dist/just-volleyball-ja.zip` とその展開内容です。PyInstallerでPython・依存ライブラリ・GUIを `JustVolleyballJA.exe` にまとめるため、配布先にPythonやuvは不要です。人の訳文を検証してから再生成します。原文の位置、対象ビルド、差分の元ハッシュが一致しなければ停止します。
 
 差し込み文字を含む文は、書式を展開する前に翻訳します。通常のLabel/Buttonは翻訳辞書を使用し、遊び方は表示フィールドのみを書き換えます。チュートリアルとGuideTokensの独自描画には翻訳処理を追加しています。ユーザー名やチャットを走査して機械的に置換する処理はありません。
 
@@ -82,7 +82,7 @@ GuideTokensでは元のノードの自動翻訳無効設定を尊重します。
 
 ZIPには変更リソースのバイナリ差分、翻訳辞書、日本語フォント、適用・解除ツールを収録します。元の全PCK、復号鍵、ゲームEXE、復元したゲームの全ソースは収録しません。
 
-ZIPはファイル順と日時を固定しています。同じ原文・訳文・ツール版で再生成すると同じ内容になります。初回の検証は以下で実行できます。
+ZIPはファイル順と日時を固定し、今回のビルドで指定したファイルだけを収録します。EXEにはビルド環境由来の情報があるため、ZIP全体のバイト単位の再現性は保証しません。初回の検証は以下で実行できます。
 
 ```powershell
 uv run --python 3.12 --with-requirements requirements.txt python -m unittest discover -s tests -v
@@ -90,6 +90,9 @@ uv run --python 3.12 --with-requirements requirements-build.txt python tools/ver
 ```
 
 後者はゲームを終了した状態で実行してください。`work` 内の一時ディレクトリにゲームファイルを複製して適用・解除を検証し、実際のインストール先には書き込みません。
+
+差分を変更せずEXEとZIPのみを再生成する場合は、同じビルド環境で `python tools/package_release.py` を実行できます。
+EXEは引数なしでGUIを開きます。検証用には `JustVolleyballJA.exe --game-dir <ゲームフォルダー> --install` / `--restore` も使えます。差分ファイルはEXEの隣から読み込みます。
 
 ## ゲーム更新への対応
 

@@ -1,11 +1,11 @@
 """Verify release integrity and install/restore against a disposable game copy."""
-import hashlib
 import json
+import os
 from pathlib import Path
 import shutil
 import subprocess
-import sys
 import tempfile
+import zipfile
 
 from fontTools.ttLib import TTFont
 from catalog import ROOT, load_catalogs, save
@@ -14,8 +14,12 @@ from pck import Pack, sha256
 
 def main():
     game = Path('F:/SteamLibrary/steamapps/common/just volleyball')
-    package = ROOT / 'dist/just-volleyball-ja'
-    manifest = json.loads((package / 'manifest.json').read_text(encoding='utf-8'))
+    archive = ROOT / 'dist/just-volleyball-ja.zip'
+    with zipfile.ZipFile(archive) as z:
+        names = z.namelist()
+        assert 'JustVolleyballJA.exe' in names
+        assert not any(name.endswith(('.py', '.ps1')) or name == 'requirements.txt' for name in names)
+        manifest = json.loads(z.read('manifest.json'))
     messages, entries = load_catalogs()
     original = (game / 'volleyball.pck').read_bytes()
     exe = (game / 'volleyball.exe').read_bytes()
@@ -32,12 +36,27 @@ def main():
     with tempfile.TemporaryDirectory(prefix='install-validation-', dir=ROOT / 'work') as directory:
         scratch = Path(directory).resolve()
         assert scratch.is_relative_to((ROOT / 'work').resolve())
+        package = scratch / '配布パッチ'
+        with zipfile.ZipFile(archive) as z:
+            z.extractall(package)
         shutil.copyfile(game / 'volleyball.exe', scratch / 'volleyball.exe')
         shutil.copyfile(game / 'volleyball.pck', scratch / 'volleyball.pck')
-        base = [sys.executable, '-X', 'utf8', str(package / 'patch_game.py'), '--game-dir', str(scratch), '--package', str(package)]
+        base = [str(package / 'JustVolleyballJA.exe'), '--game-dir', str(scratch)]
+        # Run the distributed EXE with no Python/uv on PATH, a different working
+        # directory, and a Japanese package path. Dependencies must be bundled.
+        env = os.environ.copy()
+        env['PATH'] = str(Path(os.environ['SystemRoot']) / 'System32')
+        for key in list(env):
+            if key.startswith(('PYTHON', 'UV_')):
+                del env[key]
         def run(flag, succeeds=True):
-            result = subprocess.run(base + [flag], capture_output=True)
+            result = subprocess.run(base + [flag], capture_output=True, cwd=scratch, env=env, timeout=180)
             assert (result.returncode == 0) == succeeds, result.stdout.decode('utf-8', errors='replace') + result.stderr.decode('utf-8', errors='replace')
+        (scratch / 'volleyball.exe').write_bytes(exe + b'updated')
+        run('--install', succeeds=False)
+        assert not (scratch / 'volleyball.pck.ja-backup').exists()
+        assert (scratch / 'volleyball.pck').read_bytes() == original
+        (scratch / 'volleyball.exe').write_bytes(exe)
         run('--install')
         assert sha256((scratch / 'volleyball.pck.ja-backup').read_bytes()) == sha256(original)
         data = (scratch / 'volleyball.pck').read_bytes()
@@ -71,6 +90,9 @@ def main():
         'message_context_counts': manifest['message_context_counts'],
         'guide_display_fields': 203, 'required_japanese_codepoints': len(needed), 'missing_font_codepoints': missing,
         'install_restore_roundtrip': 'passed; original PCK restored byte for byte in disposable directory',
+        'release_exe_without_python_uv_on_path': 'passed',
+        'japanese_package_path_and_different_working_directory': 'passed',
+        'unsupported_build_install_rejection': 'passed',
         'reinstall_rejection': 'passed', 'tampered_pck_restore_rejection': 'passed',
         'updated_exe_restore_rejection': 'passed', 'unchanged_original_resource_entries': unchanged_count,
         'changed_resource_hashes': 'all verified', 'installed_game_modified': False,

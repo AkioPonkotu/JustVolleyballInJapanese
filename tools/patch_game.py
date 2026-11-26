@@ -48,7 +48,7 @@ def prepare(game, package):
     return manifest, pack, replacements
 
 
-def main():
+def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--game-dir', type=Path, required=True)
     parser.add_argument('--package', type=Path, default=Path(__file__).resolve().parent)
@@ -56,7 +56,7 @@ def main():
     group.add_argument('--output', type=Path, help='Generate a patched PCK without installing it')
     group.add_argument('--install', action='store_true')
     group.add_argument('--restore', action='store_true')
-    args = parser.parse_args()
+    args = parser.parse_args(argv)
     game = args.game_dir.resolve()
     live = game / 'volleyball.pck'
     backup = game / 'volleyball.pck.ja-backup'
