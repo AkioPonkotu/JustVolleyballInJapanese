@@ -33377,5 +33377,59 @@
       "path": "game/ui/boot/gpu_notice.gd",
       "line": 47
     }
+  ],
+  "ui.af176b3f76b3113b": [
+    {
+      "path": "game/stage/stage.gd",
+      "line": 208
+    }
+  ],
+  "ui.d4620f5c5851758f": [
+    {
+      "path": "game/stage/stage.gd",
+      "line": 311
+    }
+  ],
+  "ui.16b78476d6fa4d65": [
+    {
+      "path": "game/stage/stage.gd",
+      "line": 773
+    }
+  ],
+  "ui.c1624a26107e1a30": [
+    {
+      "path": "game/stage/beach.tscn",
+      "line": 19
+    },
+    {
+      "path": "game/stage/kits/beach.tscn",
+      "line": 2014
+    },
+    {
+      "path": "game/stage/stage.gd",
+      "line": 717
+    }
+  ],
+  "ui.c26982b1425da26a": [
+    {
+      "path": "game/stage/stage.gd",
+      "line": 671
+    }
+  ],
+  "ui.e45347b019f0ac8f": [
+    {
+      "path": "game/stage/kits/clouds.tscn",
+      "line": 47
+    },
+    {
+      "path": "game/stage/stage.gd",
+      "line": 526
+    }
+  ],
+  "ui.abc72029bc3099fb": [
+    {
+      "path": "game/stage/stage.gd",
+      "line": 575
+    }
   ]
 }

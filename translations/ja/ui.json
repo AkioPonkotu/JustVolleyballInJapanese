@@ -2846,6 +2846,48 @@
       "ja": "ゲームが起動しない場合は、Steamでゲームを右クリックしてプロパティを開き、以下の起動オプションを試してください。",
       "status": "draft",
       "note": ""
+    },
+    "ui.af176b3f76b3113b": {
+      "source": "Nationals Arena",
+      "ja": "全国大会会場",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.d4620f5c5851758f": {
+      "source": "School Gym",
+      "ja": "学校の体育館",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.16b78476d6fa4d65": {
+      "source": "Grass Court",
+      "ja": "芝生コート",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.c1624a26107e1a30": {
+      "source": "Beach",
+      "ja": "ビーチ",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.c26982b1425da26a": {
+      "source": "Tutorial",
+      "ja": "チュートリアル",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.e45347b019f0ac8f": {
+      "source": "Clouds",
+      "ja": "雲の上",
+      "status": "draft",
+      "note": ""
+    },
+    "ui.abc72029bc3099fb": {
+      "source": "Outer Space",
+      "ja": "宇宙空間",
+      "status": "draft",
+      "note": ""
     }
   }
 }
