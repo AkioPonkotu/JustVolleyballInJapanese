@@ -1,0 +1,30 @@
+{
+  "checked_at": "2026-11-27T20:05:54.662884+09:00",
+  "first_run": true,
+  "installed_build_id": "26937150",
+  "public_build_id": "26937150",
+  "public_build_updated_utc": "2026-11-26T02:29:38Z",
+  "latest_official_announcement": "1.0.4.3",
+  "sources": {
+    "official_news": "https://steamcommunity.com/app/5037200/allnews/",
+    "official_news_api": "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=5037200&count=3&maxlength=0",
+    "public_build": "https://steamdb.info/app/5037200/depots/",
+    "installed_manifest": "F:/SteamLibrary/steamapps/appmanifest_5037200.acf"
+  },
+  "hashes": {
+    "exe": "224a5ea56536081b84369a0e90590a688a8510fefcc24ab84af1a31b3e052435",
+    "original_pck_backup": "f72ea5884cfab90be24ba35e83693325e1e0f75d4d767de53a627f5f6f68d583",
+    "installed_patched_pck": "3c5344b1ad9445e86f62a37a537b56b8bfce4b99ad6802f51e0c21628cd03d09"
+  },
+  "checks": {
+    "patch_target_matches_installed_and_public": true,
+    "original_exe_and_pck_match_package": true,
+    "installed_hash_matches_receipt": true,
+    "payload_hashes_and_source_inputs": "passed",
+    "original_and_installed_resource_hashes": "passed",
+    "patch_resources_verified": 43
+  },
+  "conclusion": "No newer public build found. Existing Japanese patch targets the installed public build; no code or payload update required.",
+  "game_files_modified": false,
+  "runtime_test": "Not run; read-only compatibility checks only."
+}
