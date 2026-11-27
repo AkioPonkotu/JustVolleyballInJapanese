@@ -34,7 +34,7 @@ def build_executable(output, package=PATCH_DATA):
             target = embedded / path.relative_to(package)
             target.parent.mkdir(parents=True, exist_ok=True)
             shutil.copyfile(path, target)
-        shutil.copyfile(ROOT / 'docs/patch-user-guide.md', embedded / 'README.md')
+        shutil.copyfile(ROOT / 'README.md', embedded / 'README.md')
         collect_licenses(embedded)
         freeze_executable(output, workspace, embedded)
 
@@ -86,7 +86,7 @@ def collect_licenses(output):
 
 def package_release(output):
     build_executable(output, output)
-    shutil.copyfile(ROOT / 'docs/patch-user-guide.md', output / 'README.md')
+    shutil.copyfile(ROOT / 'README.md', output / 'README.md')
     include = [f'{APP_NAME}.exe', 'README.md']
     archive = output.with_suffix('.zip')
     with zipfile.ZipFile(archive, 'w', zipfile.ZIP_DEFLATED) as z:
