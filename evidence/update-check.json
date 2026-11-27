@@ -1,0 +1,46 @@
+{
+  "checked_at": "2026-11-27T20:05:14.9169146+09:00",
+  "app_id": "5037200",
+  "patch_build_id": "26937150",
+  "public_branch": {
+    "buildid": "26937150",
+    "timebuildupdated": "1795660045",
+    "timeupdated": "1795660178"
+  },
+  "public_depot_manifest": "8524985973075803560",
+  "installed_build_id": "26937150",
+  "latest_official_announcement": {
+    "title": "1.0.4.3",
+    "date": 1795660266,
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852983692"
+  },
+  "installed_files": [
+    {
+      "name": "volleyball.exe",
+      "sha256": "224a5ea56536081b84369a0e90590a688a8510fefcc24ab84af1a31b3e052435"
+    },
+    {
+      "name": "volleyball.pck",
+      "sha256": "3c5344b1ad9445e86f62a37a537b56b8bfce4b99ad6802f51e0c21628cd03d09"
+    },
+    {
+      "name": "volleyball.pck.ja-backup",
+      "sha256": "f72ea5884cfab90be24ba35e83693325e1e0f75d4d767de53a627f5f6f68d583"
+    }
+  ],
+  "verification": {
+    "exe_matches_supported_build": true,
+    "original_pck_backup_matches_supported_build": true,
+    "installed_pck_matches_patch_receipt": true,
+    "patch_payloads_checked": 43,
+    "patch_payload_hash_failures": 0
+  },
+  "conclusion": "No newer public build found. Public build, installed build, and patch target all equal 26937150 (1.0.4.3). No patch code or payload update is required for game compatibility.",
+  "scope": "Read-only metadata and hash checks; no game files changed and no new runtime play test performed.",
+  "sources": [
+    "https://api.steamcmd.net/v1/info/5037200",
+    "https://steamdb.info/app/5037200/depots/",
+    "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=5037200&count=10&maxlength=0",
+    "https://steamcommunity.com/games/5037200/announcements/detail/702160202911187563"
+  ]
+}
